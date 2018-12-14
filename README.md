@@ -1,2 +1,2 @@
-# boltracing.team
-Bolt Racing Team
+# boltrace.team
+Bolt Racing Team: Website
