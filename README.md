@@ -1,2 +1,2 @@
-# boltrace.team
-Bolt Racing Team: Website
+# [boltrace.team](https://boltrace.team)
+Bolt Race Team: Website
