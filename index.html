@@ -24,12 +24,15 @@
       border-radius: 10px;
       color: black;
       padding: 2em;
+      padding-top: 0;
     }
     #team-name {
-      height: 4em;
+      height: 2em;
+      padding-bottom: 1em;
     }
     #logo-separator {
-      margin-left: 1em;
+      margin-left: 0.5em;
+      margin-right: 0.5em;
     }
     #team-logo {
       height: 4em;
@@ -37,14 +40,20 @@
     #primal-logo {
       height: 3em;
     }
+    #word-mark {
+      display: none;
+      height: 1.5em;
+      padding-bottom: 1em;
+      padding-left: 0.5em;
+    }
     h1 {}
   </style>
 </head>
 <body>
   <div id='content'>
-    <img id='team-logo' src='logo.svg'/><span id='logo-separator'></span><img id='team-name' src='brt.svg'/>
-<h1>Bolt Race Team</h1>
-<p>The Bolt Race Team has developed multiple virtual events on Zwift in which we invite every racer from the Zwift community to participate in. Our
+    <h1><span style='display:none'>Bolt Race Team</span><img id='team-logo' src='logo.svg'/><span id='logo-separator'></span><img id='team-name' src='brt.svg'/><img id='word-mark' src='team-name.svg'/></h1>
+<hr/>
+    <p>The Bolt Race Team has developed multiple virtual events on Zwift in which we invite every racer from the Zwift community to participate in. Our
   events cater for the majority of Zwift racers who seek performance increases, virtual recognition, and <abbr title='in real life'>IRL</abbr> race
   substitution on a consistent base.
 </p>
