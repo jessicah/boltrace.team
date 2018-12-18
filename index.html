@@ -49,11 +49,52 @@
       padding-left: 0.5em;
     }
     h1 {}
+    #nav, #nav2 {
+      padding: 0;
+      margin: 0;
+      display: inline;
+    }
+    ul.nav-menu li {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      padding-bottom: 0.5em;
+      display: inline;
+    }
+    ul.nav-menu > li > a {
+      padding-left: 1em;
+      padding-right: 1em;
+      color: #d76127;
+      text-decoration: none;
+      display: inline-block;
+    }
+    ul.nav-menu > li > a:hover {
+      color: #ff5500;
+    }
   </style>
 </head>
 <body>
   <div id='content'>
     <h1 style='text-align: center'><span style='display:none'>Bolt Race Team</span><img id='team-logo' src='logo.svg'/><span id='logo-separator'></span><img id='team-name' src='brt.svg'/><img id='word-mark' src='team-name.svg'/></h1>
+<hr/>
+<div style='text-align: center'>
+<span>Racing Leagues:</span>
+<ul id='nav' class='nav-menu'>
+  <li><a href='ages-league'>Ages</a></li>
+  <li><a href='criterium-league'>Criterium</a></li>
+  <li><a href='iron-goat-league'>Iron Goat</a></li>
+  <li><a href='tt-league'>Time Trial</a></li>
+  <li><a href='wild-women-league'>Wild Women</a></li>
+  <li><a href='fuzion-league'>Fuzion</a></li>
+</ul>
+</div>
+<hr/>
+<ul id='nav2' class='nav-menu' style='text-align: center; display: block'>
+  <li><a href='join-brt' style='padding-left: 0'>Join BRT</a></li>
+  <li><a href='zwift-power-guide'>ZwiftPower Guide</a></li>
+  <li><a href='zwift-racing-guide'>Zwift Racing Guide</a></li>
+  <li><span style='padding-left: 1em'>Sponsored by</span> <a href='https://www.primaleurope.com/' style='padding-left: 0'>Primal Europe</a></li>
+</ul>
 <hr/>
     <p>The Bolt Race Team has developed multiple virtual events on Zwift in which we invite every racer from the Zwift community to participate in. Our
   events cater for the majority of Zwift racers who seek performance increases, virtual recognition, and <abbr title='in real life'>IRL</abbr> race
