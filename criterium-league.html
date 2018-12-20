@@ -56,25 +56,96 @@ layout: default
 </ul>
 
 <h2>League Standings</h2>
-<p>To do&hellip;</p>
 {% assign graded_results = site.data.criterium | group_by: "grade" %}
 {% assign a_size = graded_results[0].items.size %}
 {% assign b_size = graded_results[1].items.size %}
 {% assign c_size = graded_results[2].items.size %}
 {% assign d_size = graded_results[3].items.size %}
-A grade = {{ a_size }}
-B grade = {{ b_size }}
-C grade = {{ c_size }}
-D grade = {{ d_size }}
-{{ 4 | at_least: 6 }}
+<style type='text/css'>
+.even {
+	background-color: rgb(214, 208, 208);
+}
+td {
+	padding-left: 1em;
+	padding-right: 1em;
+	color: black;
+}
+th {
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: left;
+}
+table {
+	font-size: 100%;
+	width: 100%;
+}
+thead {
+	background-color: rgba(242, 120, 12, 1);
+}
+</style>
 <table>
-<thead>
-<td>A Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
-<td>B Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
-<td>C Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
-<td>D Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
+	<thead>
+	<tr>
+<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+</tr>
 </thead>
 <tbody>
+	{% for i in (1..a_size) %}
+	<tr class='{% cycle "even", "odd" %}''>
+		<td>A</td>
+			<td>{{ graded_results[0].items[forloop.index0].name }}</td>
+			<td>{{ graded_results[0].items[forloop.index0].team }}</td>
+			<td>{{ graded_results[0].items[forloop.index0].events }}</td>
+			<td>{{ graded_results[0].items[forloop.index0].points }}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+<thead>
+		<tr>
+	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	</tr>
+	</thead>
+<tbody>
+	{% for i in (1..b_size) %}
+	<tr class='{% cycle "even", "odd" %}''>
+		<td>B</td>
+			<td>{{ graded_results[1].items[forloop.index0].name }}</td>
+			<td>{{ graded_results[1].items[forloop.index0].team }}</td>
+			<td>{{ graded_results[1].items[forloop.index0].events }}</td>
+			<td>{{ graded_results[1].items[forloop.index0].points }}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+<thead>
+		<tr>
+	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	</tr>
+	</thead>
+<tbody>
+	{% for i in (1..c_size) %}
+	<tr class='{% cycle "even", "odd" %}''>
+		<td>C</td>
+			<td>{{ graded_results[2].items[forloop.index0].name }}</td>
+			<td>{{ graded_results[2].items[forloop.index0].team }}</td>
+			<td>{{ graded_results[2].items[forloop.index0].events }}</td>
+			<td>{{ graded_results[2].items[forloop.index0].points }}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+<thead>
+		<tr>
+	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	</tr>
+	</thead>
+<tbody>
+	{% for i in (1..d_size) %}
+	<tr class='{% cycle "even", "odd" %}''>
+		<td>D</td>
+			<td>{{ graded_results[3].items[forloop.index0].name }}</td>
+			<td>{{ graded_results[3].items[forloop.index0].team }}</td>
+			<td>{{ graded_results[3].items[forloop.index0].events }}</td>
+			<td>{{ graded_results[3].items[forloop.index0].points }}</td>
+	</tr>
+	{% endfor %}
 </tbody>
 </table>
-
