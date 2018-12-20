@@ -56,7 +56,7 @@ layout: default
 </ul>
 
 <h2>League Standings</h2>
-{% assign graded_results = site.data.criterium | group_by: "grade" %}
+{% assign graded_results = site.data.crit | group_by: "category" | sort: "name" %}
 {% assign a_size = graded_results[0].items.size %}
 {% assign b_size = graded_results[1].items.size %}
 {% assign c_size = graded_results[2].items.size %}
@@ -83,68 +83,128 @@ thead {
 	background-color: rgba(242, 120, 12, 1);
 }
 </style>
+<script type='text/javascript'>
+function toggleGrade(name) {
+	var els = document.getElementsByClassName(name + "-grade");
+	for (var i = 0; i < els.length; i++) {
+		if (els[i].style.display == 'none')
+			els[i].style.display = '';
+		else
+			els[i].style.display = 'none';
+	}
+}
+</script>
+Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A Grade</a> |
+<a style='cursor: pointer;' onclick='javascript:toggleGrade("b")'>B Grade</a> |
+<a style='cursor: pointer;' onclick='javascript:toggleGrade("c")'>C Grade</a> |
+<a style='cursor: pointer;' onclick='javascript:toggleGrade("d")'>D Grade</a>
+<br/><br/>
 <table>
-	<thead>
+	<thead class='a-grade'>
 	<tr>
 <th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
 </tr>
 </thead>
-<tbody>
+<tbody class='a-grade'>
 	{% for i in (1..a_size) %}
+		{% assign item = graded_results[0].items[forloop.index0] %}
 	<tr class='{% cycle "even", "odd" %}''>
 		<td>A</td>
-			<td>{{ graded_results[0].items[forloop.index0].name }}</td>
-			<td>{{ graded_results[0].items[forloop.index0].team }}</td>
-			<td>{{ graded_results[0].items[forloop.index0].events }}</td>
-			<td>{{ graded_results[0].items[forloop.index0].points }}</td>
+			<td>{{ item.name }}</td>
+			{% assign tnamesize = item.tname.size %}
+			{% if tnamesize > 0 %}
+				{% assign border = item.tbd %}
+				{% if border == "ffffff" %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+				{% else %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+				{% endif %}
+			{% else %}
+			<td>{{tnamesize}}</td>
+			{% endif %}
+			<td>{{ item.events }}</td>
+			<td>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
-<thead>
+<thead class='b-grade'>
 		<tr>
 	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
 	</tr>
 	</thead>
-<tbody>
+<tbody class='b-grade'>
 	{% for i in (1..b_size) %}
+		{% assign item = graded_results[1].items[forloop.index0] %}
 	<tr class='{% cycle "even", "odd" %}''>
 		<td>B</td>
-			<td>{{ graded_results[1].items[forloop.index0].name }}</td>
-			<td>{{ graded_results[1].items[forloop.index0].team }}</td>
-			<td>{{ graded_results[1].items[forloop.index0].events }}</td>
-			<td>{{ graded_results[1].items[forloop.index0].points }}</td>
+			<td>{{ item.name }}</td>
+			{% assign tnamesize = item.tname.size %}
+			{% if tnamesize > 0 %}
+				{% assign border = item.tbd %}
+				{% if border == "ffffff" %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+				{% else %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+				{% endif %}
+			{% else %}
+			<td>{{tnamesize}}</td>
+			{% endif %}
+			<td>{{ item.events }}</td>
+			<td>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
-<thead>
+<thead class='c-grade'>
 		<tr>
 	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
 	</tr>
 	</thead>
-<tbody>
+<tbody class='c-grade'>
 	{% for i in (1..c_size) %}
+		{% assign item = graded_results[2].items[forloop.index0] %}
 	<tr class='{% cycle "even", "odd" %}''>
 		<td>C</td>
-			<td>{{ graded_results[2].items[forloop.index0].name }}</td>
-			<td>{{ graded_results[2].items[forloop.index0].team }}</td>
-			<td>{{ graded_results[2].items[forloop.index0].events }}</td>
-			<td>{{ graded_results[2].items[forloop.index0].points }}</td>
+			<td>{{ item.name }}</td>
+			{% assign tnamesize = item.tname.size %}
+			{% if tnamesize > 0 %}
+				{% assign border = item.tbd %}
+				{% if border == "ffffff" %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+				{% else %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+				{% endif %}
+			{% else %}
+			<td>{{tnamesize}}</td>
+			{% endif %}
+			<td>{{ item.events }}</td>
+			<td>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
-<thead>
+<thead class='d-grade'>
 		<tr>
 	<th>Grade</th><th>Name</th><th>Team</th><th>Events</th><th>Points</th>
 	</tr>
 	</thead>
-<tbody>
+<tbody class='d-grade'>
 	{% for i in (1..d_size) %}
+		{% assign item = graded_results[3].items[forloop.index0] %}
 	<tr class='{% cycle "even", "odd" %}''>
 		<td>D</td>
-			<td>{{ graded_results[3].items[forloop.index0].name }}</td>
-			<td>{{ graded_results[3].items[forloop.index0].team }}</td>
-			<td>{{ graded_results[3].items[forloop.index0].events }}</td>
-			<td>{{ graded_results[3].items[forloop.index0].points }}</td>
+			<td>{{ item.name }}</td>
+			{% assign tnamesize = item.tname.size %}
+			{% if tnamesize > 0 %}
+				{% assign border = item.tbd %}
+				{% if border == "ffffff" %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+				{% else %}
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+				{% endif %}
+			{% else %}
+			<td>{{tnamesize}}</td>
+			{% endif %}
+			<td>{{ item.events }}</td>
+			<td>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
