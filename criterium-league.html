@@ -57,3 +57,24 @@ layout: default
 
 <h2>League Standings</h2>
 <p>To do&hellip;</p>
+{% assign graded_results = site.data.criterium | group_by: "grade" %}
+{% assign a_size = graded_results[0].items.size %}
+{% assign b_size = graded_results[1].items.size %}
+{% assign c_size = graded_results[2].items.size %}
+{% assign d_size = graded_results[3].items.size %}
+A grade = {{ a_size }}
+B grade = {{ b_size }}
+C grade = {{ c_size }}
+D grade = {{ d_size }}
+{{ 4 | atleast: 5 }}
+<table>
+<thead>
+<td>A Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
+<td>B Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
+<td>C Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
+<td>D Grade</td><td>Name</td><td>Team</td><td>Events</td><td>Points</td>
+</thead>
+<tbody>
+</tbody>
+</table>
+
