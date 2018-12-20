@@ -108,13 +108,33 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 <a style='cursor: pointer;' onclick='javascript:toggleGrade("c")'>C Grade</a> |
 <a style='cursor: pointer;' onclick='javascript:toggleGrade("d")'>D Grade</a>
 <br/><br/>
-<table>
+<style type='text/css'>
+#individual-results td.team-badge {
+	text-align: right;
+}
+#team-results td.team-badge {
+	text-align: left;
+}
+td.team-badge {
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+td.team-badge > span {
+	font-size: 75%;
+	padding-top: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-style: solid;
+	border-width: 2px;
+}
+</style>
+<table id='individual-results'>
 	<thead class='a-grade'>
 			<tr style='background-color: red'>
 					<th colspan='4'>A Grade</th>
 				</tr>
 			<tr style='background-color: red'>
-<th>Name</th><th>Team</th><th>E</th><th>P</th>
+<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 </tr>
 </thead>
 <tbody class='a-grade'>
@@ -126,15 +146,15 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 80%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			{% else %}
-			<td>{{tnamesize}}</td>
+			<td></td>
 			{% endif %}
-			<td>{{ item.events }}</td>
-			<td>{{ item.points }}</td>
+			<td style='text-align: right'>{{ item.events }}</td>
+			<td style='text-align: right'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
@@ -143,7 +163,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>B Grade</th>
 			</tr>
 		<tr style='background-color: green'>
-	<th>Name</th><th>Team</th><th>E</th><th>P</th>
+	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 	</tr>
 	</thead>
 <tbody class='b-grade'>
@@ -155,15 +175,15 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			{% else %}
-			<td>{{tnamesize}}</td>
+			<td></td>
 			{% endif %}
-			<td>{{ item.events }}</td>
-			<td>{{ item.points }}</td>
+			<td style='text-align: right'>{{ item.events }}</td>
+			<td style='text-align: right'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
@@ -172,7 +192,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>C Grade</th>
 			</tr>
 		<tr style='background-color: lightseagreen'>
-	<th>Name</th><th>Team</th><th>E</th><th>P</th>
+	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 	</tr>
 	</thead>
 <tbody class='c-grade'>
@@ -184,15 +204,15 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			{% else %}
-			<td>{{tnamesize}}</td>
+			<td></td>
 			{% endif %}
-			<td>{{ item.events }}</td>
-			<td>{{ item.points }}</td>
+			<td style='text-align: right'>{{ item.events }}</td>
+			<td style='text-align: right'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
@@ -201,7 +221,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>D Grade</th>
 			</tr>
 		<tr style='background-color: orange'>
-	<th>Name</th><th>Team</th><th>E</th><th>P</th>
+	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 	</tr>
 	</thead>
 <tbody class='d-grade'>
@@ -213,15 +233,15 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			{% else %}
-			<td>{{tnamesize}}</td>
+			<td></td>
 			{% endif %}
-			<td>{{ item.events }}</td>
-			<td>{{ item.points }}</td>
+			<td style='text-align: right'>{{ item.events }}</td>
+			<td style='text-align: right'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
@@ -237,13 +257,13 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("c")'>C Grade</a> |
 <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("d")'>D Grade</a>
 <br/><br/>
-<table>
+<table id='team-results'>
 	<thead class='a-team-grade'>
 		<tr style='background-color: red'>
 			<th colspan='3'>A Grade</th>
 		</tr>
 	<tr style='background-color: red'>
-<th>Team</th><th>Results</th><th>Points</th>
+<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 </tr>
 </thead>
 <tbody class='a-team-grade'>
@@ -253,9 +273,9 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 		{% else %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 		{% endif %}
 	<td style='text-align:right'>{{ item.events }}</td>
 	<td style='text-align:right'>{{ item.points }}</td>
@@ -267,7 +287,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 				<th colspan='3'>B Grade</th>
 			</tr>
 		<tr style='background-color: green'>
-	<th>Team</th><th>Results</th><th>Points</th>
+	<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 	</tr>
 	</thead>
 <tbody class='b-team-grade'>
@@ -277,9 +297,9 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 			{% assign tnamesize = item.tname.size %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
-					<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			<td style='text-align:right'>{{ item.events }}</td>
 			<td style='text-align:right'>{{ item.points }}</td>
@@ -291,7 +311,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 				<th colspan='3'>C Grade</th>
 			</tr>
 		<tr style='background-color: lightseagreen'>
-		<th>Team</th><th>Results</th><th>Points</th>
+		<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 	</tr>
 	</thead>
 <tbody class='c-team-grade'>
@@ -301,9 +321,9 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 		{% else %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 		{% endif %}
 	<td style='text-align:right'>{{ item.events }}</td>
 	<td style='text-align:right'>{{ item.points }}</td>
@@ -315,7 +335,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 				<th colspan='3'>D Grade</th>
 			</tr>
 		<tr style='background-color: orange'>
-			<th>Team</th><th>Results</th><th>Points</th>
+			<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 	</tr>
 	</thead>
 <tbody class='d-team-grade'>
@@ -325,9 +345,9 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 		{% else %}
-			<td style='padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
+			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 		{% endif %}
 	<td style='text-align:right'>{{ item.events }}</td>
 	<td style='text-align:right'>{{ item.points }}</td>
