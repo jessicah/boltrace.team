@@ -80,7 +80,6 @@ th {
 	text-align: left;
 }
 table {
-	font-size: 100%;
 	width: 100%;
 }
 thead {
@@ -118,7 +117,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 					<th colspan='4'>A Grade</th>
 				</tr>
 			<tr style='background-color: red'>
-<th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+<th>Name</th><th>Team</th><th>E</th><th>P</th>
 </tr>
 </thead>
 <tbody class='a-grade'>
@@ -130,7 +129,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
-					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
+					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 80%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
 				{% else %}
 					<td style='text-align: right; padding-top: 3px; padding-bottom: 3px'><span style='font-size: 75%; padding-left: 4px; padding-right: 4px; border-style: solid; border-width: 2px; background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
@@ -147,7 +146,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>B Grade</th>
 			</tr>
 		<tr style='background-color: green'>
-	<th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	<th>Name</th><th>Team</th><th>E</th><th>P</th>
 	</tr>
 	</thead>
 <tbody class='b-grade'>
@@ -176,7 +175,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>C Grade</th>
 			</tr>
 		<tr style='background-color: lightseagreen'>
-	<th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	<th>Name</th><th>Team</th><th>E</th><th>P</th>
 	</tr>
 	</thead>
 <tbody class='c-grade'>
@@ -205,7 +204,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A G
 				<th colspan='4'>D Grade</th>
 			</tr>
 		<tr style='background-color: orange'>
-	<th>Name</th><th>Team</th><th>Events</th><th>Points</th>
+	<th>Name</th><th>Team</th><th>E</th><th>P</th>
 	</tr>
 	</thead>
 <tbody class='d-grade'>

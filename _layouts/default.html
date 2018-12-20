@@ -1,6 +1,7 @@
 <html>
 <head>
   <meta charset='utf-8'/>
+  <meta name="viewport" content="width=device-width">
   <title>Bolt Racing Team</title>
   <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
@@ -34,14 +35,17 @@
       font-weight: bold;
       font-style: italic;
     }
+    * {
+      font-size: 16pt;
+    }
     body {
       background-color:dimgrey;
       color: white;
       font-family: Nimbus-Condensed, sans-serif;
       width: 900px;
       margin: auto;
-      font-size: 120%;
     }
+    
     #content {
       margin-top: 2em;
       margin-bottom: 2em;
@@ -52,16 +56,31 @@
       padding: 2em;
       padding-top: 0;
     }
+    
+    @media only screen and (max-width: 480px) {
+      table {
+        font-size: 72pt;
+      }
+      * {
+        font-size: 10vw;
+      }
+      #content {
+        margin-top: 0;
+        margin-bottom: 0;
+        border-radius: 0;
+        padding: 1em;
+      }
+    }
     #team-name {
-      height: 2em;
-      padding-bottom: 1em;
+      height: 76px;
+      padding-bottom: 38px;
     }
     #logo-separator {
       margin-left: 0.5em;
       margin-right: 0.5em;
     }
     #team-logo {
-      height: 4em;
+      height: 153px;
     }
     #primal-logo {
       height: 3em;
@@ -72,7 +91,15 @@
       padding-bottom: 1em;
       padding-left: 0.5em;
     }
-    h1 {}
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    h3 {
+      font-size: 1.2em;
+    }
     #nav, #nav2 {
       padding: 0;
       margin: 0;
