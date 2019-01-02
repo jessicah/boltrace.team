@@ -1,3 +1,8 @@
+<p>
+	Individual results: <a href='#a-grade-individual'>A Grade</a> | <a href='#b-grade-individual'>B Grade</a> | <a href='#c-grade-individual'>C Grade</a> | <a href='#d-grade-individual'>D Grade</a><br/>
+	Team results: <a href='#a-grade-team'>A Grade</a> | <a href='#b-grade-team'>B Grade</a> | <a href='#c-grade-team'>C Grade</a> | <a href='#d-grade-team'>D Grade</a>
+</p>
+
 <h3>Individual Results</h3>
 {% assign graded_results = include.riders | group_by: "category" | sort: "name" %}
 {% assign a_size = graded_results[0].items.size %}
@@ -25,31 +30,6 @@ thead {
 	background-color: rgba(242, 120, 12, 1);
 }
 </style>
-<script type='text/javascript'>
-function toggleGrade(name) {
-	var els = document.getElementsByClassName(name + "-grade");
-	for (var i = 0; i < els.length; i++) {
-		if (els[i].style.display == 'none')
-			els[i].style.display = '';
-		else
-			els[i].style.display = 'none';
-	}
-}
-function toggleTeamGrade(name) {
-	var els = document.getElementsByClassName(name + "-team-grade");
-	for (var i = 0; i < els.length; i++) {
-		if (els[i].style.display == 'none')
-			els[i].style.display = '';
-		else
-			els[i].style.display = 'none';
-	}
-}
-</script>
-Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleGrade("a")'>A Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleGrade("b")'>B Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleGrade("c")'>C Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleGrade("d")'>D Grade</a>
-<br/><br/>
 <style type='text/css'>
 #individual-results td.team-badge {
 	text-align: right;
@@ -71,7 +51,7 @@ td.team-badge > span {
 }
 </style>
 <table id='individual-results'>
-	<thead class='a-grade'>
+	<thead class='a-grade' id='a-grade-individual'>
 			<tr style='background-color: red'>
 					<th colspan='4'>A Grade</th>
 				</tr>
@@ -100,7 +80,7 @@ td.team-badge > span {
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='b-grade'>
+<thead class='b-grade' id='b-grade-individual'>
 		<tr style='background-color: green'>
 				<th colspan='4'>B Grade</th>
 			</tr>
@@ -129,7 +109,7 @@ td.team-badge > span {
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='c-grade'>
+<thead class='c-grade' id='c-grade-individual'>
 		<tr style='background-color: lightseagreen'>
 				<th colspan='4'>C Grade</th>
 			</tr>
@@ -158,7 +138,7 @@ td.team-badge > span {
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='d-grade'>
+<thead class='d-grade' id='d-grade-individual'>
 		<tr style='background-color: orange'>
 				<th colspan='4'>D Grade</th>
 			</tr>
@@ -194,13 +174,8 @@ td.team-badge > span {
 {% assign c_size = team_results[2].items.size %}
 {% assign d_size = team_results[3].items.size %}
 <h3>Team Results</h3>
-Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'>A Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("b")'>B Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("c")'>C Grade</a> |
-<a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("d")'>D Grade</a>
-<br/><br/>
 <table id='team-results'>
-	<thead class='a-team-grade'>
+	<thead class='a-team-grade' id='a-grade-team'>
 		<tr style='background-color: red'>
 			<th colspan='3'>A Grade</th>
 		</tr>
@@ -224,7 +199,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='b-team-grade'>
+<thead class='b-team-grade' id='b-grade-team'>
 		<tr style='background-color: green'>
 				<th colspan='3'>B Grade</th>
 			</tr>
@@ -248,7 +223,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='c-team-grade'>
+<thead class='c-team-grade' id='c-grade-team'>
 		<tr style='background-color: lightseagreen'>
 				<th colspan='3'>C Grade</th>
 			</tr>
@@ -272,7 +247,7 @@ Hide/show: <a style='cursor: pointer;' onclick='javascript:toggleTeamGrade("a")'
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='d-team-grade'>
+<thead class='d-team-grade' id='d-grade-team'>
 		<tr style='background-color: orange'>
 				<th colspan='3'>D Grade</th>
 			</tr>
