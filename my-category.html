@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<h2>What's my Racing Category for BRT Events?</h2>
+
+<form>
+	Your Zwift ID: <input type='text' id='zwiftid' />
+	<button type='submit' id='go'>Get Category</button>
+</form>
+
+<dl id='list'></dl>
+<p id='errors'></p>
+
+<script type='text/javascript'>
+	function processResults() {
+		console.log(this.responseText);
+		var list = document.getElementById("list");
+		list.innerHTML = "";
+		var errors = document.getElementById("errors");
+		errors.innerHTML = "";
+		var lines = this.responseText.split("\n");
+		for (var i = 0; i < lines.length; ++i) {
+			var splitAt = lines[i].indexOf(":");
+			if (splitAt < 1) continue;
+			var dt = document.createElement("dt");
+			dt.innerText = lines[i].slice(0, splitAt).trim();
+			var dd = document.createElement("dd");
+			dd.innerText = lines[i].slice(splitAt + 1).trim();
+			dd.innerText = dd.innerText.replace(/^"/, "").replace(/"$/, "");
+			if (dt.innerText == "Name" && dd.innerText == "null") {
+				failedResults();
+				return;
+			}
+			list.appendChild(dt);
+			list.appendChild(dd);
+		}
+	}
+	function failedResults() {
+		var list = document.getElementById("list");
+		list.innerHTML = "";
+		var errors = document.getElementById("errors");
+		errors.innerHTML = "Unable to locate Zwifter.";
+	}
+	function updateProgress() {
+		var list = document.getElementById("list");
+		list.innerHTML = "";
+		var errors = document.getElementById("errors");
+		errors.innerHTML = "Loading...";
+	}
+	document.getElementById("go").onclick = function () {
+		var id = document.getElementById("zwiftid").value;
+		if (id.trim().length == 0) {
+			failedResults();
+			return false;
+		}
+		var req = new XMLHttpRequest();
+		try {
+			updateProgress();
+			req.addEventListener("load", processResults);
+		req.addEventListener("error", failedResults);
+		req.addEventListener("progress", updateProgress);
+		req.open("GET", "https://jessicah.nz/report?id=" + id);
+		req.send();
+		} catch (err) { window.alert(err) };
+		return false;
+	};
+</script>
