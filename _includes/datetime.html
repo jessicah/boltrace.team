@@ -1,0 +1,99 @@
+<script type='text/javascript'>
+function formatDate(date) {
+	var daySuffix = "th";
+	var day = date.getDate();
+	switch (day) {
+		case 1:
+		case 21:
+		case 31:
+			daySuffix = "st";
+			break;
+		case 2:
+		case 22:
+			daySuffix = "nd";
+			break;
+		case 3:
+		case 23:
+			daySuffix = "rd";
+			break;
+	}
+
+	var month = "";
+	switch (date.getMonth()) {
+		case 0: month = "January"; break;
+		case 1: month = "February"; break;
+		case 2: month = "March"; break;
+		case 3: month = "April"; break;
+		case 4: month = "May"; break;
+		case 5: month = "June"; break;
+		case 6: month = "July"; break;
+		case 7: month = "August"; break;
+		case 8: month = "September"; break;
+		case 9: month = "October"; break;
+		case 10: month = "November"; break;
+		case 11: month = "December"; break;
+	}
+
+	var dayOfWeek = "";
+	switch (date.getDay()) {
+		case 0: dayOfWeek = "Sunday"; break;
+		case 1: dayOfWeek = "Monday"; break;
+		case 2: dayOfWeek = "Tuesday"; break;
+		case 3: dayOfWeek = "Wednesday"; break;
+		case 4: dayOfWeek = "Thursday"; break;
+		case 5: dayOfWeek = "Friday"; break;
+		case 6: dayOfWeek = "Saturday"; break;
+	}
+
+	return {
+		day: day + daySuffix,
+		dayOfWeek: dayOfWeek,
+		month: month,
+		hours: (date.getHours() + 12) % 12,
+		minutes: date.getMinutes() == 0 ? "00" : date.getMinutes() < 10 ? "0" + date.getMinutes() : "" + date.getMinutes(),
+		ampm: date.getHours() >= 12 ? "pm" : "am",
+		date: date
+	};
+}
+
+window.onload = function() {
+	if (new Date().getTimezoneOffset() == 0) {
+		console.log("in UTC");
+		return;
+	}
+	
+	var els = document.getElementsByClassName("date-data");
+	for (var i = 0; i < els.length; ++i) {
+		var el = els[i];
+		var d = new Date(0);
+		if (el.hasAttribute('data-date')) {
+			var parts = el.getAttribute('data-date').split('-');
+			if (parts < 5) {
+				console.log('malformatted date data');
+				continue;
+			}
+			d.setUTCFullYear(parts[0]);
+			d.setUTCMonth(parts[1] - 1);
+			d.setUTCDate(parts[2]);
+			d.setUTCHours(parts[3]);
+			d.setUTCMinutes(parts[4]);
+		} else {
+			console.log('no date data to use');
+			continue;
+		}
+		var span = document.createElement("span");
+		var f = formatDate(d);
+		if (el.getAttribute('data-format') == 'day-time') {
+			span.innerText = " (" + f.dayOfWeek + " " + f.hours + ":" + f.minutes + f.ampm + ")";
+		} else {
+			if (d.getUTCDate() == d.getDate() && d.getUTCMonth() == d.getMonth() && d.getUTCFullYear() == d.getFullYear()) {
+				// safe to assume we're still on the same day
+				console.log('on the same day');
+				continue;
+			}
+			span.innerText = " (" + f.day + " " + f.month + ")";
+		}
+		el.append(span);
+	}
+};
+</script>
