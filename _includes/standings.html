@@ -62,7 +62,7 @@ td.team-badge > span {
 <tbody class='a-grade'>
 	{% for i in (1..a_size) %}
 		{% assign item = graded_results[0].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 		<td>{{ item.name }}</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
@@ -91,7 +91,7 @@ td.team-badge > span {
 <tbody class='b-grade'>
 	{% for i in (1..b_size) %}
 		{% assign item = graded_results[1].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
@@ -120,7 +120,7 @@ td.team-badge > span {
 <tbody class='c-grade'>
 	{% for i in (1..c_size) %}
 		{% assign item = graded_results[2].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
@@ -149,7 +149,7 @@ td.team-badge > span {
 <tbody class='d-grade'>
 	{% for i in (1..d_size) %}
 		{% assign item = graded_results[3].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
@@ -186,7 +186,7 @@ td.team-badge > span {
 <tbody class='a-team-grade'>
 	{% for i in (1..a_size) %}
 		{% assign item = team_results[0].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
@@ -210,7 +210,7 @@ td.team-badge > span {
 <tbody class='b-team-grade'>
 	{% for i in (1..b_size) %}
 		{% assign item = team_results[1].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 			{% assign tnamesize = item.tname.size %}
 				{% assign border = item.tbd %}
 				{% if border == "ffffff" %}
@@ -234,7 +234,7 @@ td.team-badge > span {
 <tbody class='c-team-grade'>
 	{% for i in (1..c_size) %}
 		{% assign item = team_results[2].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
@@ -258,7 +258,7 @@ td.team-badge > span {
 <tbody class='d-team-grade'>
 	{% for i in (1..d_size) %}
 		{% assign item = team_results[3].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}''>
+	<tr class='{% cycle "even", "odd" %}'>
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
 		{% if border == "ffffff" %}
