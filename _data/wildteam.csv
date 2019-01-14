@@ -1,30 +1,36 @@
 category,events,points,tname,tc,tbc,tbd
-A,2,14,Vixen/Fox,7409a6,f79d4b,ffffff
-A,2,12,Vision,ffffff,2ea9e0,000000
-A,1,11,Innovation,ffffff,0073b7,ffffff
+A,5,40,Vixen/Fox,7409a6,f79d4b,ffffff
+A,2,27,Innovation,ffffff,0073b7,ffffff
+A,2,15,BRT,ffffff,50505,ff8100
+A,1,14,Washed Up Racing,80707,73fc08,ffffff
+A,2,12,Vision,ffffff,2ea9e0,0
 A,1,11,ZHR,ff0000,03228c,03228c
-A,1,4,BRT,ffffff,050505,ff8100
-A,1,2,ZSUN,ffffff,0073b7,ffffff
-B,5,62,Vixen/Fox,7409a6,f79d4b,ffffff
-B,2,45,Washed Up Racing,080707,73fc08,ffffff
-B,2,34,BRT,ffffff,050505,ff8100
-B,3,21,ZSUN,ffffff,0073b7,ffffff
-B,1,20,Team TFC Racing,111111,f3f300,111111
-B,1,19,[DRAFT],ffffff,e60d2e,000000
+A,2,8,ZSUN,ffffff,0073b7,ffffff
+B,9,96,Vixen/Fox,7409a6,f79d4b,ffffff
+B,5,93,Washed Up Racing,80707,73fc08,ffffff
+B,7,81,BRT,ffffff,50505,ff8100
+B,5,68,ZSUN,ffffff,0073b7,ffffff
+B,2,39,Team TFC Racing,111111,f3f300,111111
+B,5,39,REVO,fc00e3,0,fc00e3
+B,2,26,Innovation,ffffff,0073b7,ffffff
+B,1,24,Vision,ffffff,2ea9e0,0
+B,1,19,[DRAFT],ffffff,e60d2e,0
 B,1,16,PTz,ffffff,403d3a,e3680f
-B,1,12,Innovation,ffffff,0073b7,ffffff
-B,1,6,REVO,fc00e3,000000,fc00e3
-C,9,146,Vixen/Fox,7409a6,f79d4b,ffffff
-C,7,120,BRT,ffffff,050505,ff8100
-C,2,45,REVO,fc00e3,000000,fc00e3
-C,1,32,PTz,ffffff,403d3a,e3680f
-C,1,30,KISS RT,f56600,012350,84b7ca
-C,3,27,ZSUN,ffffff,0073b7,ffffff
+B,1,12,TeamODZ,ff851b,111111,3c8dbc
+B,1,10,KISS RT,f56600,12350,84b7ca
+C,20,355,Vixen/Fox,7409a6,f79d4b,ffffff
+C,13,254,BRT,ffffff,50505,ff8100
+C,6,119,REVO,fc00e3,0,fc00e3
+C,3,101,PTz,ffffff,403d3a,e3680f
+C,7,64,ZSUN,ffffff,0073b7,ffffff
+C,2,62,KISS RT,f56600,12350,84b7ca
+C,2,36,Les Roberto,f00202,f1f514,0
 C,1,20,teamWKG,fa5e06,3f4c54,3f4c54
 C,1,18,DBR,ffffff,eb7b2a,ffffff
-C,1,16,Les Roberto,f00202,f1f514,000000
-C,1,5,#EFDV,4d4149,ff68c6,060004
-D,5,35,Vixen/Fox,7409a6,f79d4b,ffffff
+C,1,5,#EFDV,4d4149,ff68c6,60004
+C,1,5,Washed Up Racing,80707,73fc08,ffffff
+D,8,65,Vixen/Fox,7409a6,f79d4b,ffffff
+D,3,14,REVO,fc00e3,0,fc00e3
+D,1,8,ETC athletics,ffffff,339933,6633
 D,1,6,ZRG,1bc1f1,5b5b5b,1bc1f1
-D,1,4,BRT,ffffff,050505,ff8100
-D,1,2,REVO,fc00e3,000000,fc00e3
+D,1,4,BRT,ffffff,50505,ff8100

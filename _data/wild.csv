@@ -1,68 +1,107 @@
 category,events,points,tname,tc,tbc,tbd,name,flag
+A,2,25,Innovation,ffffff,0073b7,ffffff,Louise Houbak,dk
+A,1,18,,00dd00,,,Julia Leye,de
+A,1,13,Washed Up Racing,80707,73fc08,ffffff,Ronna Akins,us
+A,2,12,,00dd00,,,Suzy Robinson,gb
+A,1,11,Vixen/Fox,7409a6,f79d4b,ffffff,Beth York &#129418;,us
+A,1,10,BRT,ffffff,50505,ff8100,Sarah Croucher[BRT],gb
 A,1,10,ZHR,ff0000,03228c,03228c,Cassie Baldi,gb
-A,1,10,Innovation,ffffff,0073b7,ffffff,Louise Houbak,dk
-A,1,7,Vision,ffffff,2ea9e0,000000,Kjersti Hoel,no
+A,2,10,Vixen/Fox,7409a6,f79d4b,ffffff,L.S,gb
+A,1,9,,00dd00,,,Miriam van Reijen,nl
 A,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Emily Joyner,us
-A,1,5,Vixen/Fox,7409a6,f79d4b,ffffff,Lindsey Styler,gb
-A,1,5,,00dd00,,,Suzy Robinson,gb
-A,1,3,BRT,ffffff,050505,ff8100,Aly Bevan BRT Hellcatz B1,gb
-A,1,3,Vision,ffffff,2ea9e0,000000,Pamela &lt;V I S I O N&gt;,us
-A,1,1,ZSUN,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca
-B,1,26,Washed Up Racing,080707,73fc08,ffffff,Megan Holtham 6520,ca
-B,1,23,BRT,ffffff,050505,ff8100,Jen Doyle [BRT],gb
+A,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Marlene Bj&auml;rehed,se
+A,2,6,ZSUN,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca
+A,1,3,,,,,Alexandra N&ouml;hles/Carpe Diem ) ,de
+A,1,3,BRT,ffffff,50505,ff8100,Aly Bevan BRT Hellcatz B1,gb
+A,1,3,Vision,ffffff,2ea9e0,0,Pamela &lt;V I S I O N&gt;,us
+B,2,39,ZSUN,ffffff,0073b7,ffffff,Hilde Asperheim,no
+B,2,37,Team TFC Racing,111111,f3f300,111111,Sarah Barber,us
+B,2,30,BRT,ffffff,50505,ff8100,Jen Doyle [BRT],gb
+B,2,30,Vision,ffffff,2ea9e0,0,Kjersti Hoel,no
+B,1,26,Washed Up Racing,80707,73fc08,ffffff,Megan Holtham 6520,ca
+B,2,26,BRT,ffffff,50505,ff8100,Jessica Hamilton,nz
+B,2,26,Washed Up Racing,80707,73fc08,ffffff,tracy moore,ca
+B,2,24,Vixen/Fox,7409a6,f79d4b,ffffff,Laura Hewitt,ca
+B,2,22,ZSUN,ffffff,0073b7,ffffff,C Scott,gb-sct
 B,1,21,Vixen/Fox,7409a6,f79d4b,ffffff,Shelly Coker[Vixen]&#129418;,gb
-B,1,19,Team TFC Racing,111111,f3f300,111111,Sarah Barber,us
-B,1,18,[DRAFT],ffffff,e60d2e,000000,Angela Pitzer,us
-B,1,17,Washed Up Racing,080707,73fc08,ffffff,tracy moore,ca
-B,1,15,Vixen/Fox,7409a6,f79d4b,ffffff,Susanne Freidberg &#129418;,us
+B,1,21,Washed Up Racing,80707,73fc08,ffffff,Yume Kobayashi,ca
+B,1,18,[DRAFT],ffffff,e60d2e,0,Angela Pitzer&#129410;,us
+B,2,18,REVO,fc00e3,0,fc00e3,Silje Holmsen REVO B2,no
+B,2,18,Vixen/Fox,7409a6,f79d4b,ffffff,Susanne Freidberg &#129418;,us
+B,2,16,BRT,ffffff,50505,ff8100,Amy Johnson 4376,gb
 B,1,15,PTz,ffffff,403d3a,e3680f,Siv Engmo,no
-B,1,13,ZSUN,ffffff,0073b7,ffffff,Hilde Asperheim,no
+B,1,15,Washed Up Racing,80707,73fc08,ffffff,Stephanie Ossenbrink,ca
 B,1,13,,00dd00,,,Zora Kohoutkova2826,sk
+B,1,13,Innovation,ffffff,0073b7,ffffff,Katarina Augustin INC ,fi
 B,1,11,Innovation,ffffff,0073b7,ffffff,Maddy Lee-Smith,gb
-B,1,11,,,,,Amy Johnson,gb
-B,1,9,Vixen/Fox,7409a6,f79d4b,ffffff,Laura Hewitt,ca
-B,1,9,BRT,ffffff,050505,ff8100,Jessica Hamilton,nz
-B,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Dame D ,us
+B,1,11,REVO,fc00e3,0,fc00e3,Anna Rogers REVO B2,ca
+B,1,11,TeamODZ,ff851b,111111,3c8dbc,Paula Boyle,us
+B,2,10,Vixen/Fox,7409a6,f79d4b,ffffff,Diana Wilson &#129418;,ca
+B,1,9,KISS RT,f56600,12350,84b7ca,Lisa Hynes ,us
 B,1,7,,00dd00,,,Lorna Breetzke1875,
-B,1,5,REVO,fc00e3,000000,fc00e3,Silje Holmsen REVO B,no
-B,1,5,Vixen/Fox,7409a6,f79d4b,ffffff,Diana Wilson &#129418;,ca
-B,1,3,ZSUN,ffffff,0073b7,ffffff,C Scott,gb
+B,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Carey Conabeare &#129418;,gb
+B,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Dame D ,us
+B,1,4,REVO,fc00e3,0,fc00e3,Sil Cal [REVO] B1,ar
+B,1,3,,00dd00,,,Samo Samo,nl
 B,1,2,ZSUN,ffffff,0073b7,ffffff,Lisa jane ZSUN,gb
-C,1,34,Vixen/Fox,7409a6,f79d4b,ffffff,Jennifer Krueger,us
-C,1,31,PTz,ffffff,403d3a,e3680f,Karen Richardson,us
-C,1,29,KISS RT,f56600,012350,84b7ca,Deanna Solomon,ca
-C,1,27,Vixen/Fox,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb
-C,1,26,REVO,fc00e3,000000,fc00e3,Christine Culver [REVO] B2,us
-C,1,25,BRT,ffffff,050505,ff8100,D. Barreto BRT Hellcatz,mx
-C,1,23,,00dd00,,,Maria Nilsson (KCK),se
-C,1,23,BRT,ffffff,050505,ff8100,Adriette Myburgh,gb
-C,1,21,Vixen/Fox,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us
+B,1,1,REVO,fc00e3,0,fc00e3,Melanie Solmon [REVO] (B2),ca
+C,2,73,PTz,ffffff,403d3a,e3680f,Karen Richardson,us
+C,2,73,Vixen/Fox,7409a6,f79d4b,ffffff,Jennifer Krueger,us
+C,2,60,BRT,ffffff,50505,ff8100,Adriette Myburgh,gb
+C,2,60,BRT,ffffff,50505,ff8100,D. Barreto BRT Hellcatz,mx
+C,2,60,KISS RT,f56600,12350,84b7ca,Deanna Solomon,ca
+C,2,60,Vixen/Fox,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb
+C,2,34,Les Roberto,f00202,f1f514,0,C Chalou,ca
+C,2,34,Vixen/Fox,7409a6,f79d4b,ffffff,Ana Otiebrab,es
+C,1,29,Vixen/Fox,7409a6,f79d4b,ffffff,Gemma Ankers,gb
+C,2,29,Vixen/Fox,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us
+C,2,28,Vixen/Fox,7409a6,f79d4b,ffffff,Sarah  Sewatsky,us
+C,1,27,REVO,fc00e3,0,fc00e3,Karla Williams [REVO]C2,gb
+C,1,26,,00dd00,,,Kelly Roloff,ca
+C,1,26,REVO,fc00e3,0,fc00e3,Christine Culver [REVO] C2,us
+C,1,25,PTz,ffffff,403d3a,e3680f,Katie Pothier,us
+C,2,24,Vixen/Fox,7409a6,f79d4b,ffffff,Aerin Artessa [VVixen],us
+C,1,23,,00dd00,,,Lori Scott,us
+C,1,23,BRT,ffffff,50505,ff8100,Maria Nilsson (KCK),se
+C,2,22,REVO,fc00e3,0,fc00e3,Kola Whitedog,us
+C,2,22,Vixen/Fox,7409a6,f79d4b,ffffff,Christina Barbieri 9159,us
+C,1,21,,00dd00,,,Patty Collins,us
+C,1,21,REVO,fc00e3,0,fc00e3,Jude Williams [REVO]C2,gb
+C,1,19,,00dd00,,,Judy Goble (Silver Wheels Cycling Club),us
+C,1,19,BRT,ffffff,50505,ff8100,Allison Held BRT Hellcatz ,gb
 C,1,19,teamWKG,fa5e06,3f4c54,3f4c54,Lynda Kellam,gb
-C,1,19,BRT,ffffff,050505,ff8100,Allison Held BRT Hellcatz ,gb
+C,2,18,BRT,ffffff,50505,ff8100,Melisande Reade,ie
 C,1,17,DBR,ffffff,eb7b2a,ffffff,Tine Mathiesen,dk
-C,1,17,REVO,fc00e3,000000,fc00e3,Kola Whitedog,us
-C,1,15,Les Roberto,f00202,f1f514,000000,C Chalou,ca
+C,1,17,REVO,fc00e3,0,fc00e3,Lindy Gray [REVO] C1,gb
+C,1,17,ZSUN,ffffff,0073b7,ffffff,Julie Moran2174,us
+C,2,17,Vixen/Fox,7409a6,f79d4b,ffffff,Linda  Brocato [vvixen],us
 C,1,15,ZSUN,ffffff,0073b7,ffffff,Sandra kelly,ie
-C,1,13,BRT,ffffff,050505,ff8100,Sarah Wilson,us
-C,1,13,Vixen/Fox,7409a6,f79d4b,ffffff,Sarah  Sewatsky,us
-C,1,11,Vixen/Fox,7409a6,f79d4b,ffffff,Ana Otiebrab,es
+C,1,13,BRT,ffffff,50505,ff8100,Sarah Wilson,us
+C,1,13,BRT,ffffff,50505,ff8100,Sari Puumala BRT C1,fi
+C,2,12,Vixen/Fox,7409a6,f79d4b,ffffff,L Hom ,us
 C,1,11,,00dd00,,,Diz [KruisCX],hu
-C,1,9,Vixen/Fox,7409a6,f79d4b,ffffff,Christina Barbieri 9159,us
-C,1,9,Vixen/Fox,7409a6,f79d4b,ffffff,Aerin Artessa,us
-C,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,L Hom ,us
-C,1,7,BRT,ffffff,050505,ff8100,Melisande Reade FRS (D),ie
+C,1,11,Vixen/Fox,7409a6,f79d4b,ffffff,Adelle Condon,us
+C,1,9,ZSUN,ffffff,0073b7,ffffff,Wendy Habermann,ch
+C,1,7,,00dd00,,,Ani @ani.new ,at
+C,2,7,ZSUN,ffffff,0073b7,ffffff,A ZSUN Goat,ch
+C,1,6,,00dd00,,,Christine Fuentes,us
 C,1,6,Vixen/Fox,7409a6,f79d4b,ffffff,Cath Erine,gb
-C,1,5,BRT,ffffff,050505,ff8100,Rose Garner,us
+C,1,5,BRT,ffffff,50505,ff8100,Rose Garner,us
 C,1,5,ZSUN,ffffff,0073b7,ffffff,Courtnee Swaim,us
-C,1,4,ZSUN,ffffff,0073b7,ffffff,A ZSUN Goat,ch
-C,1,4,#EFDV,4d4149,ff68c6,060004,Laura Fortin #EFDV,fr
+C,1,4,#EFDV,4d4149,ff68c6,60004,Laura Fortin #EFDV,fr
+C,1,4,Washed Up Racing,80707,73fc08,ffffff,Dee Makepeace [WUR],ca
+C,1,4,ZSUN,ffffff,0073b7,ffffff,Helen Sharif Zsun-C,us
+C,1,2,,00dd00,,,Elaine DeBitetto (MONSTERS),us
+C,1,1,,00dd00,,,Sharon Longley,us
+D,2,17,Vixen/Fox,7409a6,f79d4b,ffffff,Debbie Mitchell,ca
+D,2,15,Vixen/Fox,7409a6,f79d4b,ffffff,Dawn Bardon,us
+D,2,14,Vixen/Fox,7409a6,f79d4b,ffffff,Cerys Willoughby,gb
 D,1,10,,00dd00,,,Liz Comlay,gb
-D,1,10,Vixen/Fox,7409a6,f79d4b,ffffff,Linda  Brocato [vvixen],us
-D,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Debbie Mitchell,ca
-D,1,7,Vixen/Fox,7409a6,f79d4b,ffffff,Cerys Willoughby,gb
-D,1,5,Vixen/Fox,7409a6,f79d4b,ffffff,Dawn Bardon,us
+D,1,7,ETC athletics,ffffff,339933,6633,Virginie Calvar-Caillat4048,fr
+D,2,6,REVO,fc00e3,0,fc00e3,Sara Perrin,us
+D,1,5,REVO,fc00e3,0,fc00e3,Cheryl Niccum,us
 D,1,5,ZRG,1bc1f1,5b5b5b,1bc1f1,Katrin  Eichstaedt(WTT),de
 D,1,3,,,,,K. A.,gb
-D,1,3,BRT,ffffff,050505,ff8100,Sue Swan,gb
+D,1,3,,00dd00,,,Lisa Mackinnon,
+D,1,3,BRT,ffffff,50505,ff8100,Sue Swan,gb
 D,1,1,Vixen/Fox,7409a6,f79d4b,ffffff,Jessica York,us
-D,1,1,REVO,fc00e3,000000,fc00e3,Sara Perrin,us
