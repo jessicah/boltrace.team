@@ -62,8 +62,13 @@ td.team-badge > span {
 <tbody class='a-grade'>
 	{% for i in (1..a_size) %}
 		{% assign item = graded_results[0].items[forloop.index0] %}
+		{% assign podiums = item.podiums | split: ' ' %}
 	<tr class='{% cycle "even", "odd" %}'>
-		<td>{{ item.name }}</td>
+		<td>{{ item.name }}
+			{% for p in podiums reversed %}
+				<i class='fas fa-trophy {{ p }}'></i>
+			{% endfor %}
+		</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
@@ -91,8 +96,13 @@ td.team-badge > span {
 <tbody class='b-grade'>
 	{% for i in (1..b_size) %}
 		{% assign item = graded_results[1].items[forloop.index0] %}
+		{% assign podiums = item.podiums | split: ' ' %}
 	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}</td>
+			<td>{{ item.name }}
+				{% for p in podiums reversed %}
+					<i class='fas fa-trophy {{ p }}'></i>
+				{% endfor %}
+			</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
@@ -120,8 +130,13 @@ td.team-badge > span {
 <tbody class='c-grade'>
 	{% for i in (1..c_size) %}
 		{% assign item = graded_results[2].items[forloop.index0] %}
+		{% assign podiums = item.podiums | split: ' ' %}
 	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}</td>
+			<td>{{ item.name }}
+				{% for p in podiums reversed %}
+					<i class='fas fa-trophy {{ p }}'></i>
+				{% endfor %}
+			</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
@@ -149,8 +164,13 @@ td.team-badge > span {
 <tbody class='d-grade'>
 	{% for i in (1..d_size) %}
 		{% assign item = graded_results[3].items[forloop.index0] %}
+		{% assign podiums = item.podiums | split: ' ' %}
 	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}</td>
+			<td>{{ item.name }}
+				{% for p in podiums reversed %}
+					<i class='fas fa-trophy {{ p }}'></i>
+				{% endfor %}
+			</td>
 			{% assign tnamesize = item.tname.size %}
 			{% if tnamesize > 0 %}
 				{% assign border = item.tbd %}
