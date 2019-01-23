@@ -5,16 +5,16 @@ C,212161,5,57,54,1,1,212161,0,teamWKG,fa5e06,3f4c54,3f4c54,,,1330,1,,"Thomas Sev
 B,550451,3,53,54,3,3,550451,0,"Walsall Lads",ffffff,0073b7,ffffff,,,2570,1,,"David Whitehouse (WRCC)",gb
 A,74838,4,46,54,1,3,74838,0,ZHR,ff0000,03228c,03228c,,,1979,1,,"Luc  Louis Seize 9877",ca
 A,78992,4,46,54,1,,78992,0,Race3R,000000,2bc3f4,ffffff,,,791,1,,"Jero Nefkens",nl
-C,30856,6,37,54,2,2,30856,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Darren Green (BRT) - Team Zwatt",gb-eng
+C,30856,6,37,54,2,2,30856,0,BRT,ffffff,050505,ff8100,,,4,1,,"Darren Green (BRT) - Team Zwatt",gb-eng
 B,108873,2,36,54,4,2,108873,0,,00dd00,,,,,0,1,,"Gregor Kovac B",si
 A,70690,3,34,54,3,2,70690,0,Innovation,ffffff,0073b7,ffffff,,,975,1,,"Mark Shaw",nz
 B,917297,2,33,54,5,,917297,0,"Team Poland",ffffff,dd4b39,ffffff,,,25,1,,"J Sullivan",pl
 B,388475,2,32,54,6,,388475,0,,00dd00,,,,,0,1,,"L. Saga",no
 B,303556,3,31,54,7,1,303556,0,,00dd00,,,,,0,1,,"Martijn Van B Team Maaskant",nl
 A,894741,5,31,54,4,,894741,0,,00dd00,,,,,0,1,,"Keith Robertson ",gb
-B,745275,5,28,54,8,,745275,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Paul Hutchin",gb
+B,745275,5,28,54,8,,745275,0,BRT,ffffff,050505,ff8100,,,4,1,,"Paul Hutchin",gb
 B,303397,1,27,54,9,1,303397,0,,00dd00,,,,,0,1,,"Gerbert van den Biggelaar",nl
-B,40108,2,26,54,10,,40108,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Peter Campbell",gb-eng
+B,40108,2,26,54,10,,40108,0,BRT,ffffff,050505,ff8100,,,4,1,,"Peter Campbell",gb-eng
 B,183605,1,25,54,11,3,183605,0,Vikings,c2c2c2,0073b7,ee6331,,,90,1,,"Espen Solvin",no
 B,257132,2,24,54,12,,257132,0,C2C,ffffff,46baf2,ff1e1e,,,2832,1,,"Martin Hopper",gb
 B,902451,1,24,54,12,,902451,0,,00dd00,,,,,0,1,,"Peter Holzmann",at
@@ -43,7 +43,7 @@ B,208201,1,18,54,26,,208201,0,,00dd00,,,,,0,1,,"Zachary Schuster",us
 B,226723,1,18,54,26,,226723,0,,00dd00,,,,,0,1,,"Bartek Ksok",pl
 A,486179,1,18,54,11,,486179,0,,00dd00,,,,,0,1,,"Haydn Maughan",gb
 B,5126,1,17,54,30,,5126,0,,00dd00,,,,,0,1,,"Big Mig",gb
-B,172776,2,17,54,30,,172776,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Pete &quot;The Monk&quot; Murray",gb-eng
+B,172776,2,17,54,30,,172776,0,BRT,ffffff,050505,ff8100,,,4,1,,"Pete &quot;The Monk&quot; Murray",gb-eng
 B,324219,1,17,54,30,,324219,0,KHD,f6fa45,0a0a0a,f72508,,,2179,1,,"Josh Mahlandt KHD B1",us
 C,912900,2,17,54,3,,912900,0,DIRT,29ec34,563c0f,df6a0d,,,2707,1,,"Ryan Nice",us
 A,8566,1,16,54,13,,8566,0,ZHR,ff0000,03228c,03228c,,,1979,1,,"Greg Hagele",us
@@ -68,10 +68,10 @@ A,493139,1,13,54,18,,493139,0,,00dd00,,,,,0,1,,"Jonas Pettersson",se
 C,539301,1,13,54,5,3,539301,0,,00dd00,,,,,0,1,,"KAREN WAGNER",gb
 D,696310,2,13,54,1,1,696310,0,Vixen/Fox,7409a6,f79d4b,ffffff,,,1940,1,,"Susan Shafer 8461",us
 B,878973,1,13,54,39,3,878973,0,,00dd00,,,,,0,1,,"Andreas Jonsson3542",se
-C,6483,1,12,54,8,1,6483,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Mike Preece",gb
+C,6483,1,12,54,8,1,6483,0,BRT,ffffff,050505,ff8100,,,4,1,,"Mike Preece",gb
 B,137859,2,12,54,41,3,137859,0,,00dd00,,,,,0,1,,"Thomas Gadsden",gb
 B,293471,1,12,54,41,,293471,0,HRC,ffffff,000000,fa3636,,,3165,1,,"Kim Laursen",dk
-A,381742,1,12,54,22,,381742,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Zaren Templeton",gb
+A,381742,1,12,54,22,,381742,0,BRT,ffffff,050505,ff8100,,,4,1,,"Zaren Templeton",gb
 B,437795,1,12,54,41,,437795,0,Vikings,c2c2c2,0073b7,ee6331,,,90,1,,"Staale Elshaug",no
 A,444573,1,12,54,22,2,444573,0,Sz,f3f300,0073b7,f3f300,,,32,1,,"Jesper Svensson",se
 A,465473,1,12,54,22,3,465473,0,,00dd00,,,,,0,1,,"Matthew Wales",gb-eng
@@ -120,12 +120,12 @@ B,542944,1,9,54,56,,542944,0,DBR,ffffff,eb7b2a,ffffff,,,1986,1,,"Mads Oxlund",dk
 C,633734,1,9,54,19,1,633734,0,"Team Poland",ffffff,dd4b39,ffffff,,,25,1,,"Slawek Kinol [TeamPL]",pl
 C,787402,1,9,54,19,,787402,0,"Team Poland",ffffff,dd4b39,ffffff,,,25,1,,"Kristof Wąsowski",pl
 C,835275,1,9,54,19,2,835275,0,,00dd00,,,,,0,1,,"Gert Roukema",nl
-B,50134,1,8,54,63,3,50134,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Jason Murtagh ⚡️BRT",gb
+B,50134,1,8,54,63,3,50134,0,BRT,ffffff,050505,ff8100,,,4,1,,"Jason Murtagh ⚡️BRT",gb
 A,177885,1,8,54,36,,177885,0,,00dd00,,,,,0,1,,"Chris Beck",us
 A,187981,1,8,54,36,,187981,0,,00dd00,,,,,0,1,,"James Waugh",gb
 C,218823,1,8,54,24,,218823,0,,00dd00,,,,,0,1,,"Keith Walberg",no
 A,238619,2,8,54,36,3,238619,0,TTK,ea1c20,ffffff,090909,,,2304,1,,"Øyvind Bertelsen-Tangvik",no
-B,255651,1,8,54,63,,255651,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Lee  Chalk  BRT",gb
+B,255651,1,8,54,63,,255651,0,BRT,ffffff,050505,ff8100,,,4,1,,"Lee  Chalk  BRT",gb
 B,284908,1,8,54,63,,284908,0,C2C,ffffff,46baf2,ff1e1e,,,2832,1,,"Paul Hopper ",gb
 B,397809,1,8,54,63,,397809,0,,00dd00,,,,,0,1,,"Chris Staubach",de
 C,462950,1,8,54,24,,462950,0,,00dd00,,,,,0,1,,"Ivo Roilev",bg
@@ -136,9 +136,9 @@ B,10526,1,7,54,67,,10526,0,,00dd00,,,,,0,1,,"Carl (cat B)",se
 A,10853,1,7,54,40,,10853,0,,00dd00,,,,,0,1,,"John Blumenthal",ca
 C,60705,1,7,54,27,,60705,0,"Team Poland",ffffff,dd4b39,ffffff,,,25,1,,"Dominik Kaczmarek",pl
 A,74916,1,7,54,40,,74916,0,Vision,ffffff,2ea9e0,000000,,,9,1,,"Guillaume Belgy",fr
-A,77990,1,7,54,40,2,77990,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Grahame Mckenzie[BRT]",gb
+A,77990,1,7,54,40,2,77990,0,BRT,ffffff,050505,ff8100,,,4,1,,"Grahame Mckenzie[BRT]",gb
 C,99649,1,7,54,27,,99649,0,,00dd00,,,,,0,1,,"John Husome 2764",us
-C,246094,1,7,54,27,3,246094,0,[BRT],ffffff,050505,ff8100,,,4,1,,"David Swan [BRT]",gb-wls
+C,246094,1,7,54,27,3,246094,0,BRT,ffffff,050505,ff8100,,,4,1,,"David Swan [BRT]",gb-wls
 A,528156,1,7,54,40,,528156,0,,00dd00,,,,,0,1,,"Adam Sullivan",us
 C,737762,1,7,54,27,,737762,0,,00dd00,,,,,0,1,,"Tom Waddell",gb
 B,822214,1,7,54,67,,822214,0,,00dd00,,,,,0,1,,"Steve Shrubsall",gb
@@ -171,7 +171,7 @@ C,874784,1,5,54,37,,874784,0,,00dd00,,,,,0,1,,"Martin Phaneuf",ca
 D,879650,1,5,54,3,1,879650,0,,00dd00,,,,,0,1,,"G Guy",us
 B,882909,1,5,54,74,,882909,0,,00dd00,,,,,0,1,,"Kelen Epp",ca
 A,53663,1,4,54,51,,53663,0,teamWKG,fa5e06,3f4c54,3f4c54,,,1330,1,,"Brian Rhoden",gb
-A,95269,1,4,54,51,,95269,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Roby Rippinger",lu
+A,95269,1,4,54,51,,95269,0,BRT,ffffff,050505,ff8100,,,4,1,,"Roby Rippinger",lu
 C,243878,1,4,54,42,1,243878,0,,00dd00,,,,,0,1,,"Patrice Henri",ca
 D,259123,1,4,54,5,1,259123,0,DBR,ffffff,eb7b2a,ffffff,,,1986,1,,"Christian Svendsen",dk
 B,313582,1,4,54,77,,313582,0,HIK,ffffff,0073b7,ffffff,,,719,1,,"Thijs Diepenmaat",nl
@@ -183,7 +183,7 @@ C,902961,1,4,54,42,,902961,0,SZR,ffffff,0073b7,ffffff,,,111,1,,"Gunnar Wik",se
 C,932570,1,4,54,42,,932570,0,,00dd00,,,,,0,1,,"Jura Gerlach",us
 B,50676,1,3,54,79,,50676,0,,00dd00,,,,,0,1,,"Richard Sparkes",gb
 B,56545,1,3,54,79,,56545,0,,00dd00,,,,,0,1,,"Jakob Kornbek 9276",dk
-A,167741,1,3,54,54,,167741,0,[BRT],ffffff,050505,ff8100,,,4,1,,"Olly Gray",gb
+A,167741,1,3,54,54,,167741,0,BRT,ffffff,050505,ff8100,,,4,1,,"Olly Gray",gb
 A,210781,1,3,54,54,,210781,0,LaPrima,ffffff,0b1838,ff69b4,,,2586,1,,"David Galati",us
 B,225553,1,3,54,79,,225553,0,"TriRun ",ffffff,0073b7,ffffff,,,3261,1,,"Gabe K",at
 A,261091,1,3,54,54,,261091,0,,00dd00,,,,,0,1,,"Rik Swieringa",nl
