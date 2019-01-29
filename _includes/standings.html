@@ -62,10 +62,13 @@ td.team-badge > span {
 <tbody class='a-grade'>
 	{% for i in (1..a_size) %}
 		{% assign item = graded_results[0].items[forloop.index0] %}
-		{% assign podiums = item.podiums | split: ' ' %}
+		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
+		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
+		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
+		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 		<td>{{ item.name }}
-			{% for p in podiums reversed %}
+			{% for p in podiums %}
 				<i class='fas fa-trophy {{ p }}'></i>
 			{% endfor %}
 		</td>
@@ -96,10 +99,13 @@ td.team-badge > span {
 <tbody class='b-grade'>
 	{% for i in (1..b_size) %}
 		{% assign item = graded_results[1].items[forloop.index0] %}
-		{% assign podiums = item.podiums | split: ' ' %}
+		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
+		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
+		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
+		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums reversed %}
+				{% for p in podiums %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
@@ -130,10 +136,13 @@ td.team-badge > span {
 <tbody class='c-grade'>
 	{% for i in (1..c_size) %}
 		{% assign item = graded_results[2].items[forloop.index0] %}
-		{% assign podiums = item.podiums | split: ' ' %}
+		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
+		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
+		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
+		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums reversed %}
+				{% for p in podiums %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
@@ -164,10 +173,13 @@ td.team-badge > span {
 <tbody class='d-grade'>
 	{% for i in (1..d_size) %}
 		{% assign item = graded_results[3].items[forloop.index0] %}
-		{% assign podiums = item.podiums | split: ' ' %}
+		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
+		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
+		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
+		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums reversed %}
+				{% for p in podiums %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
