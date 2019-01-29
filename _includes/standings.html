@@ -68,7 +68,7 @@ td.team-badge > span {
 		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 		<td>{{ item.name }}
-			{% for p in podiums %}
+			{% for p in podiums reversed %}
 				<i class='fas fa-trophy {{ p }}'></i>
 			{% endfor %}
 		</td>
@@ -105,7 +105,7 @@ td.team-badge > span {
 		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums %}
+				{% for p in podiums reversed %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
@@ -142,7 +142,7 @@ td.team-badge > span {
 		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums %}
+				{% for p in podiums reversed %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
@@ -179,7 +179,7 @@ td.team-badge > span {
 		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
 	<tr class='{% cycle "even", "odd" %}'>
 			<td>{{ item.name }}
-				{% for p in podiums %}
+				{% for p in podiums reversed %}
 					<i class='fas fa-trophy {{ p }}'></i>
 				{% endfor %}
 			</td>
