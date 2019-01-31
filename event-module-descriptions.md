@@ -20,11 +20,11 @@ Riders who don't join the correct pen/category will not feature in the official 
 
 RULES
 - Riders must opt-in to ZwiftPower for official results via their Zwift profile settings @ https://my.zwift.com/profile/connections
-- Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results.
-- Heart rate monitors advised to be worn by all participants. 
-- Non-power meter/smart trainer users aren't eligible for official result placement. 
-- All bikes permitted. 
-- No power ups permitted. 
+- Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results
+- Heart rate monitors advised to be worn by all participants.
+- Non-power meter/smart trainer users aren't eligible for official result placement.
+- All bikes permitted.
+- No power ups permitted.
 - Official results located @ https://boltrace.team/ages-league
 
 BRT EventZ Group - https://www.facebook.com/groups/brteventz/
@@ -52,11 +52,11 @@ CATEGORIES
 RULES
 - Riders must opt-in to ZwiftPower for official results via their Zwift profile settings @ https://my.zwift.com/profile/connections
 - Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results.
-- Heart rate monitors advised to be worn by all participants. 
-- Non-power meter/smart trainer users aren't eligible for official result placement. 
-- All bikes permitted. 
-- No power ups permitted. 
-- Riders going over category limits will be automatically upgraded in the official results. 
+- Heart rate monitors advised to be worn by all participants.
+- Non-power meter/smart trainer users aren't eligible for official result placement.
+- All bikes permitted.
+- No power ups permitted.
+- Riders going over category limits will be automatically upgraded in the official results.
 - When a rider has been automatically upgraded they are expected to race in their new category for all future events.
 - Official results located @ https://boltrace.team/criterium-league
 - Fuzion League located @ https://boltrace.team/fuzion-league
@@ -84,14 +84,15 @@ CATEGORIES
 - PEN ( B ) : 3.2 to 3.99 wkg. (Green Circle Icon)
 - PEN ( C ) : 2.5 to 3.19 wkg. (Blue Circle Icon)
 - PEN ( D ) : 0 to 2.49 wkg. (Yellow Circle Icon)
+
 RULES
 - Riders must opt-in to ZwiftPower for official results via their Zwift profile settings @ https://my.zwift.com/profile/connections
 - Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results.
-- Heart rate monitors advised to be worn by all participants. 
-- Non-power meter/smart trainer users aren't eligible for official result placement. 
-- All bikes permitted. 
-- No power ups permitted. 
-- Riders going over category limits will be automatically upgraded in the official results. 
+- Heart rate monitors advised to be worn by all participants.
+- Non-power meter/smart trainer users aren't eligible for official result placement.
+- All bikes permitted.
+- No power ups permitted.
+- Riders going over category limits will be automatically upgraded in the official results.
 - When a rider has been automatically upgraded they are expected to race in their new category for all future events.
 - Official results located @ https://boltrace.team/iron-goat-league
 - Fuzion League located @ https://boltrace.team/fuzion-league
@@ -104,12 +105,12 @@ BRT Time Trial League
 Welcome to the Time Trial League!
 
 The Time Trial League is all about you vs the clock stacked up in a league to see who is the ultimate time trialist.
-This race is week 5 of 8. 
-The leagues will run for 8 weeks with a riders best 6 race results counting towards final standings. 
+This race is week 5 of 8.
+The leagues will run for 8 weeks with a riders best 6 race results counting towards final standings.
 
 Plus we run a mixed discipline league called Fuzion where time trialists take on crit racers and hill climbers!
 
-The leagues use a staggered points system based on the number of finishing participants. 
+The leagues use a staggered points system based on the number of finishing participants.
 
 CATEGORIES
 - PEN ( A ) : 4.0 wkg and OVER. (Red Circle Icon)
@@ -119,11 +120,11 @@ CATEGORIES
 
 RULES
 - Riders must opt-in to ZwiftPower for official results via their Zwift profile settings @ https://my.zwift.com/profile/connections
-- Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results. 
-- Heart rate monitors advised to be worn by all participants. 
-- Non-power meter/smart trainer users aren't eligible for official result placement. 
-- TT bikes only. 
-- No power ups permitted. 
+- Riders must register an account @ www.zwiftpower.com and agree to the T&C's to be included in official results.
+- Heart rate monitors advised to be worn by all participants.
+- Non-power meter/smart trainer users aren't eligible for official result placement.
+- TT bikes only.
+- No power ups permitted.
 - Official results located @ https://boltrace.team/tt-league
 - Fuzion League located @ https://boltrace.team/fuzion-league
 
