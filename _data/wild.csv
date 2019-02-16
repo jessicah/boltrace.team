@@ -1,181 +1,182 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums
-A,5,70,Innovation,975,000000,52ff33,000000,Louise Houbak,dk,625825,gold silver silver silver silver
-A,5,70,We Showed Up,2216,080707,adff2f,ffffff,Ronna Akins,us,72495,gold silver bronze gold silver bronze
-A,5,69,[DRAFT],1634,ffffff,e60d2e,000000,Angela Pitzer&#129410;,us,10196,gold gold bronze
-A,4,58,We Showed Up,2216,080707,adff2f,ffffff,Stephanie Ossenbrink,ca,479580,gold silver silver gold
-A,4,54,BRT,4,ffffff,050505,ff8100,Moin Moin,dk,417656,gold gold
-A,5,41,[DRAFT],1634,ffffff,e60d2e,000000,Emily Joyner,us,394039,silver silver bronze
-A,4,38,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Marlene Bj&auml;rehed,se,289822,
-A,3,38,,0,00dd00,,,Julia Leye,de,994477,gold silver bronze
-A,6,32,Vision,9,ffffff,2ea9e0,000000,Kjersti Hoel,no,169175,silver
-A,2,31,Team X,2,f5f7f6,111111,00a65a,sylvie boermans [X],nl,100763,bronze gold
-A,4,22,BRT,4,ffffff,050505,ff8100,C. Harris Momsen,cl,719263,
-A,3,21,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Beth York &#129418;,us,129099,
-A,2,21,Vision,9,ffffff,2ea9e0,000000,M&eacute;lanie LABEYRIE ,fr,623910,
-A,2,18,WOPROTEAM,3510,ffffff,34e7e4,ffffff,Lea Milleu,no,470626,bronze bronze
-A,1,18,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck,no,56138,gold
-A,2,12,,,,,,Suzy Robinson,gb,27420,silver bronze
-A,3,11,ZSUN,161,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca,87284,bronze
-A,1,11,REVO,2672,fc00e3,000000,fc00e3,Maria Victoria Vazquez-Tojeiro [REVO] B,es,360262,
-A,3,10,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L.S,gb,245625,bronze
-A,1,10,ZHR,1979,ff0000,03228c,03228c,Cassie Baldi,gb,13266,gold
-A,1,10,BRT,4,ffffff,050505,ff8100,Sarah Croucher[BRT],gb,133126,gold
-A,1,10,,0,00dd00,,,Caitlin Lovelace ,us,460524,gold
-A,1,9,,,,,,Miriam van Reijen,nl,526983,
-A,1,9,,0,00dd00,,,Nicola Valarino,gi,333452,
-A,1,5,,,,,,beth fisk,us,202917,bronze
-A,1,3,BRT,4,ffffff,050505,ff8100,Aly Bevan BRT Hellcatz B1,gb,794776,
-A,1,3,Vision,9,ffffff,2ea9e0,000000,Pamela &lt;V I S I O N&gt;,us,9021,
-A,1,3,DBR,1986,ffffff,eb7b2a,ffffff,Anne M. Rasmussen [Racing Viborg],dk,1021906,
-A,1,3,Team France,574,dd4b39,ffffff,0073b7,Marie Lafleur,fr,251742,
-A,1,2,,,,,,Alexandra N&ouml;hles/Carpe Diem ),de,467406,
-A,1,1,,0,00dd00,,,Marianne van Leeuwen,nl,1122514,
-B,5,129,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jennifer Krueger,us,80832,gold gold
-B,6,126,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,silver bronze gold gold gold gold
-B,6,118,ZSUN,161,ffffff,0073b7,ffffff,C Scott,gb-sct,340007,bronze silver
-B,5,116,PTz,1,ffffff,403d3a,e3680f,Siv Engmo,no,217993,silver bronze gold silver
-B,6,97,PTz,1,ffffff,403d3a,e3680f,Karen Richardson,us,134257,silver
-B,6,89,ZSUN,161,ffffff,0073b7,ffffff,Hilde Asperheim,no,288940,gold bronze
-B,5,82,TFC,10,111111,f3f300,111111,Sarah Barber,us,296530,gold bronze silver
-B,5,81,REVO,2672,fc00e3,000000,fc00e3,Silje Holmsen [REVO] B,no,188434,silver bronze
-B,5,81,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Laura Hewitt,ca,271103,bronze
-B,5,73,BRT,4,ffffff,050505,ff8100,Jen Doyle [BRT],gb,115835,silver
-B,4,67,We Showed Up,2216,080707,adff2f,ffffff,Megan Holtham 6520,ca,242405,gold bronze bronze
-B,6,57,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Diana Wilson &#129418;,ca,934846,
-B,5,57,We Showed Up,2216,080707,adff2f,ffffff,tracy moore,ca,654026,
-B,5,56,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Susanne Freidberg &#129418;,us,177766,gold
-B,3,45,REVO,2672,fc00e3,000000,fc00e3,Suzanne Bessette [REVO] B,us,569518,
-B,3,45,ZSUN,161,ffffff,0073b7,ffffff,Carrie Merritt ,us,456545,
-B,2,41,REVO,2672,fc00e3,000000,fc00e3,Christine Culver [REVO],us,370756,gold
-B,2,36,REVO,2672,fc00e3,000000,fc00e3,Sylvia Granlund [REVO] ,no,165013,
-B,2,30,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Dame D ,us,128591,
-B,2,30,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Carey Conabeare &#129418;,gb,182411,silver
-B,3,29,BRT,4,ffffff,050505,ff8100,Amy Johnson 4376,gb,88534,
-B,2,27,PTz,1,ffffff,403d3a,e3680f,sonia insley,gb,70830,
-B,2,24,REVO,2672,fc00e3,000000,fc00e3,Anna Rogers [REVO] B,ca,265859,bronze
-B,1,23,We Showed Up,2216,080707,adff2f,ffffff,Yume Kobayashi,ca,851686,silver
-B,1,23,REVO,2672,fc00e3,000000,fc00e3,JamieLee Wright [REVO],bm,324947,silver
-B,1,21,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Shelly Coker[Vixen]&#129418;,gb,338493,bronze
-B,1,19,,,,,,Jessica McWhirt,us,133939,
-B,2,18,,0,00dd00,,,Lillian C,gb,23444,
-B,2,16,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Alice Alexander,us,250607,
-B,1,15,,0,00dd00,,,Megan Galinat ,us,1074469,silver
-B,3,13,ZSUN,161,ffffff,0073b7,ffffff,Lisa jane ZSUN,gb,384525,
-B,1,13,,,,,,Zora Kohoutkova2826,sk,532382,
-B,1,13,Innovation,975,000000,52ff33,000000,Katarina Augustin INC,fi,383329,bronze
-B,1,11,Innovation,975,000000,52ff33,000000,Maddy Lee-Smith,gb,609300,
-B,1,11,TeamODZ,7,ff851b,111111,3c8dbc,Paula Boyle,us,126441,
-B,1,9,KISS RT,36,f56600,012350,84b7ca,Lisa Hynes,us,405131,
-B,1,9,,0,00dd00,,,Gemma Sampson,au,375538,
-B,2,8,PTz,1,ffffff,403d3a,e3680f,Sandra  Deegan,ca,60856,
-B,1,8,GVR,3123,f51d1d,eaf901,000000,Julie Phelps,us,37354,
-B,1,7,,,,,,Lorna Breetzke1875,,993332,
-B,1,7,ZSUN,161,ffffff,0073b7,ffffff,Becky Rittner 4768,us,583890,
-B,1,7,,0,00dd00,,,Caroline Selin,se,166443,
-B,1,7,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ann. Barnes &#129418;,ca,178346,
-B,2,6,REVO,2672,fc00e3,000000,fc00e3,Melanie Solmon [REVO] B,ca,292182,
-B,1,6,ICC,2494,000000,f2a30b,210303,Liz Bridgen (Ilkeston CC),gb,490194,
-B,1,5,ZSUN,161,ffffff,0073b7,ffffff,Karen Wu [ZSUUN/HERD],ca,595433,
-B,1,5,,0,00dd00,,,Nina Gilljam,se,189774,
-B,1,5,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sarah Thomas &#129418;,gb,34347,
-B,1,5,BRT,4,ffffff,050505,ff8100,lynne parkinson1552,gb,553623,
-B,1,4,REVO,2672,fc00e3,000000,fc00e3,Sil Cal [REVO] B1,ar,447517,
-B,1,3,,,,,,Samo Samo,nl,800433,
-B,1,3,REVO,2672,fc00e3,000000,fc00e3,Emma Brinkley [REVO] C,gb,470705,
-B,1,3,,0,00dd00,,,Catherine Falardeau,ca,958044,
-B,1,1,,,,,,Sophie R.,fr,988611,
-C,6,167,BRT,4,ffffff,050505,ff8100,D. Barreto BRT Hellcatz,mx,581267,gold bronze bronze bronze silver
-C,6,148,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Deanna Solomon,ca,435347,bronze bronze
-C,5,119,BRT,4,ffffff,050505,ff8100,Allison Held BRT Hellcatz ,gb,48061,bronze gold gold
-C,6,118,BRT,4,ffffff,050505,ff8100,Melisande Reade,ie,540242,gold gold
-C,6,108,Les Roberto,3470,f00202,f1f514,000000,C Chalou,ca,224992,
-C,6,101,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ana Otiebrab &#129418;,es,392006,silver gold
-C,4,98,BRT,4,ffffff,050505,ff8100,Adriette Myburgh,gb,841721,silver silver silver
-C,4,92,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Gemma Ankers,gb,37176,bronze
-C,6,74,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us,196575,bronze
-C,4,72,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sarah  Sewatsky,us,548468,
-C,3,63,PTz,1,ffffff,403d3a,e3680f,Katie Pothier,us,137233,
-C,5,62,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,silver bronze
-C,2,62,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb,344233,
-C,6,57,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Dawn Bardon,us,418392,gold gold bronze gold
-C,3,51,BRT,4,ffffff,050505,ff8100,Sari Puumala BRT Hellcatz ,fi,604917,
-C,3,51,ZSUN,161,ffffff,0073b7,ffffff,Wendy Habermann,ch,345083,bronze
-C,5,50,We Showed Up,2216,080707,adff2f,ffffff,Dee Makepeace,ca,191036,bronze
-C,2,46,,,,,,Lori Scott,us,441001,silver silver
-C,4,44,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Aerin Artessa [VVixen],us,931073,
-C,1,42,REVO,2672,fc00e3,000000,fc00e3,Stacey Larkin [REVO] C1,gb,464549,gold
-C,2,40,REVO,2672,fc00e3,000000,fc00e3,Karla Williams [REVO],gb,128441,
-C,1,39,TeamODZ,7,ff851b,111111,3c8dbc,amy jentz (teamODZ),us,332600,silver
-C,2,36,BRT,4,ffffff,050505,ff8100,Lynda Kellam,gb,38339,
-C,5,34,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L Hom ,us,10154,
-C,3,32,BRT,4,ffffff,050505,ff8100,Sarah Wilson,us,204491,silver
-C,1,29,,0,00dd00,,,Anne Sharratt,gb-eng,438619,
-C,3,27,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Christina Barbieri 9159,us,119174,
-C,1,27,USMES,79,ffffff,0073b7,ffffff,Arleigh Burke*USMES*,us,121167,
-C,2,26,ZSUN,161,ffffff,0073b7,ffffff,Julie Moran2174,us,485678,
-C,2,26,,0,00dd00,,,Judy Goble (Silver Wheels Cycling Club),us,981946,
-C,1,26,,,,,,Kelly Roloff,ca,299937,gold
-C,2,25,,0,00dd00,,,Victoria Edwards,gb,1073499,gold
-C,4,24,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sharon Longley,us,466958,
-C,3,23,,0,00dd00,,,Liz Comlay,gb,198455,gold
-C,1,23,BRT,4,ffffff,050505,ff8100,Maria Nilsson (KCK),se,586571,
-C,1,23,REVO,2672,fc00e3,000000,fc00e3,Jude Williams [REVO]C2,gb,93210,
-C,2,22,REVO,2672,fc00e3,000000,fc00e3,Kola Whitedog,us,84273,
-C,1,21,,,,,,Patty Collins,us,660141,bronze
-C,1,21,,0,00dd00,,,Heidi Gabriel,dk,385102,
-C,1,19,REVO,2672,fc00e3,000000,fc00e3,Lindy Gray [REVO] C1,gb,57518,
-C,1,19,#EFDV,3094,4d4149,ff68c6,060004,Helen Dutrieux,gb,276637,
-C,3,17,ZSUN,161,ffffff,0073b7,ffffff,Courtnee Swaim,us,502830,
-C,2,17,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Linda  Brocato [vvixen],us,551148,gold
-C,1,17,DBR,1986,ffffff,eb7b2a,ffffff,Tine Mathiesen,dk,486805,
-C,1,15,ZSUN,161,ffffff,0073b7,ffffff,Sandra kelly,ie,793741,
-C,1,15,REVO,2672,fc00e3,000000,fc00e3,Melissa Hunter REVO,us,209515,silver
-C,3,14,,0,00dd00,,,Lynn Simpson 1920,gb,923028,
-C,1,13,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Adelle Condon,us,14689,
-C,1,13,,,,,,Pamela Kennedy,us,963876,
-C,1,11,,,,,,Diz [KruisCX],hu,958342,
-C,2,10,BRT,4,ffffff,050505,ff8100,Rose Garner,us,387716,
-C,1,9,,0,00dd00,,,Carolyn Wilk,us,906242,
-C,1,8,,,,,,Ani @ani.new,at,897512,
-C,2,7,,0,00dd00,,,L Rathjen,us,874935,
-C,1,7,,,,,,Christine Fuentes,us,215767,
-C,1,7,,0,00dd00,,,Anna Sigga,is,124489,
-C,1,6,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cath Erine,gb,217599,
-C,1,5,ZSUN,161,ffffff,0073b7,ffffff,Helen Sharif Zsun-C,us,475136,
-C,1,5,REVO,2672,fc00e3,000000,fc00e3,Karen Grady,us,382572,
-C,1,5,,0,00dd00,,,M Collins,us,804568,
-C,1,5,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Caroline Gordon [VVixen],us,895492,
-C,1,4,#EFDV,3094,4d4149,ff68c6,060004,Laura Fortin #EFDV,fr,929075,
-C,1,4,,0,00dd00,,,Lisa Buckland,us,10011,
-C,1,3,,,,,,Elaine DeBitetto (MONSTERS),us,189197,
-C,1,3,,,,,,Susie wyrick,us,10598,
-C,1,3,ZSUN,161,ffffff,0073b7,ffffff,Maggie Kean ZSUN (C),us,60446,
-C,1,3,REVO,2672,fc00e3,000000,fc00e3,Fran Bambust,nl,427114,
-C,1,3,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,
-C,1,2,,0,00dd00,,,Diane Laliberte,ca,909168,
-C,1,1,BRT,4,ffffff,050505,ff8100,Lucille Corrigan BRT(HellcatZ) ,gb,1084832,
-C,1,1,,0,00dd00,,,M. Dybich,pl,891336,
-D,6,49,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cerys Willoughby,gb,30637,gold silver silver gold gold bronze
-D,4,34,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Debbie Mitchell,ca,128754,gold silver silver gold
-D,5,25,REVO,2672,fc00e3,000000,fc00e3,Sara Perrin [REVO] D,us,420144,silver bronze bronze silver
-D,2,14,BRT,4,ffffff,050505,ff8100,Laura Mitchell [BRT Hellcatz] D,gb,683476,silver silver
-D,1,10,Team CLS,1426,3d9970,ffffff,ffffff,Julie Byrne,gb,171404,gold
-D,1,10,BRT,4,ffffff,050505,ff8100,Kim Cognato (BRT HellcatZ D),us,598020,gold
-D,2,8,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,bronze
-D,3,7,We Showed Up,2216,080707,adff2f,ffffff,Karen  Abbott [WSU),ca,534442,bronze
-D,1,7,ETC athletics,3559,ffffff,339933,006633,Virginie Calvar-Caillat4048,fr,960166,silver
-D,1,7,,,,,,Meganne Huett,us,203007,silver
-D,1,7,,0,00dd00,,,Chris Fox,ca,91826,silver
-D,1,7,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Joan Ingram [VVixen]&#129418;,us,679945,silver
-D,2,6,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jessica York,us,120839,bronze
-D,1,5,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Katrin  Eichstaedt(WTT),de,974521,bronze
-D,1,5,REVO,2672,fc00e3,000000,fc00e3,Cheryl Niccum,us,96756,bronze
-D,1,5,,0,00dd00,,,Lori Martell,us,141844,bronze
-D,1,3,,,,,,K. A.,gb,344727,
-D,1,3,BRT,4,ffffff,050505,ff8100,Sue Swan,gb,694853,
-D,1,3,,,,,,Lisa Mackinnon,,893022,
-D,1,3,,,,,,Kim DuBord- Team ERRACE,us,2935,
-D,1,3,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Susan Shafer 8461,us,696310,
-D,1,3,BRT,4,ffffff,050505,ff8100,Susie Phillips HERD,gb,421982,
-D,1,3,,0,00dd00,,,Ellie Norvell ,us,600197,
-D,1,1,,,,,,Mercedes Jetton,us,945308,
+A,7,77,We Showed Up,2216,080707,adff2f,ffffff,Ronna Akins,us,72495,gold gold silver silver bronze bronze
+A,5,75,Innovation,975,000000,52ff33,000000,Louise Houbak,dk,625825,gold silver silver silver silver
+A,5,75,[DRAFT],1634,ffffff,e60d2e,000000,Angela Pitzer&#129410;,us,10196,gold gold bronze
+A,4,63,We Showed Up,2216,080707,adff2f,ffffff,Stephanie Ossenbrink,ca,479580,gold gold silver silver
+A,4,58,BRT,4,ffffff,050505,ff8100,Moin Moin,dk,417656,gold gold
+A,5,46,[DRAFT],1634,ffffff,e60d2e,000000,Emily Joyner,us,394039,silver silver bronze
+A,4,42,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Marlene Bj&auml;rehed,se,289822,
+A,3,41,,,,,,Julia Leye,de,994477,gold silver bronze
+A,6,38,Vision,9,ffffff,2ea9e0,000000,Kjersti Hoel,no,169175,silver
+A,2,33,Team X,2,f5f7f6,111111,00a65a,sylvie boermans [X],nl,100763,gold bronze
+A,4,26,BRT,4,ffffff,050505,ff8100,C. Harris Momsen,cl,719263,
+A,3,24,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Beth York &#129418;,us,129099,
+A,2,24,Vision,9,ffffff,2ea9e0,000000,M&eacute;lanie LABEYRIE ,fr,623910,
+A,2,20,,,,,,Lea Milleu,no,470626,bronze bronze
+A,1,19,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck,no,56138,gold
+A,3,14,ZSUN,161,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca,87284,bronze
+A,2,14,,,,,,Suzy Robinson,gb,27420,silver bronze
+A,3,13,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L.S,gb,245625,bronze
+A,1,12,REVO,2672,fc00e3,000000,fc00e3,Maria Victoria Vazquez-Tojeiro [REVO] T@TT,es,360262,
+A,1,11,ZHR,1979,ff0000,03228c,03228c,Cassie Baldi,gb,13266,gold
+A,1,11,BRT,4,ffffff,050505,ff8100,Sarah Croucher[BRT],gb,133126,gold
+A,1,11,,,,,,Caitlin Lovelace ,us,460524,gold
+A,1,10,,,,,,Miriam van Reijen,nl,526983,
+A,1,10,,,,,,Nicola Valarino ZHR (D),gi,333452,
+A,1,6,,,,,,beth fisk,us,202917,bronze
+A,1,4,BRT,4,ffffff,050505,ff8100,Aly Bevan BRT Hellcatz B1,gb,794776,
+A,1,4,Vision,9,ffffff,2ea9e0,000000,Pamela &lt;V I S I O N&gt;,us,9021,
+A,1,4,DBR,1986,ffffff,eb7b2a,ffffff,Anne M. Rasmussen [Racing Viborg],dk,1021906,
+A,1,4,Team France,574,dd4b39,ffffff,0073b7,Marie Lafleur,fr,251742,
+A,1,3,,,,,,Alexandra N&ouml;hles/Carpe Diem ) ,de,467406,
+A,1,2,,,,,,Marianne van Leeuwen,nl,1122514,
+B,11,137,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,gold gold gold gold silver bronze
+B,5,135,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jennifer Krueger,us,80832,gold gold
+B,6,124,ZSUN,161,ffffff,0073b7,ffffff,C Scott,gb-sct,340007,silver bronze
+B,5,121,PTz,1,ffffff,403d3a,e3680f,Siv Engmo,no,217993,gold silver silver bronze
+B,6,104,PTz,1,ffffff,403d3a,e3680f,Karen Richardson,us,134257,silver
+B,8,97,ZSUN,161,ffffff,0073b7,ffffff,Hilde Asperheim,no,288940,gold bronze
+B,5,87,TFC,10,111111,f3f300,111111,Sarah Barber,us,296530,gold silver bronze
+B,5,86,REVO,2672,fc00e3,000000,fc00e3,Silje Holmsen [REVO] B,no,188434,silver bronze
+B,5,86,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Laura Hewitt,ca,271103,bronze
+B,5,78,BRT,4,ffffff,050505,ff8100,Jen Doyle [BRT],gb,115835,silver
+B,4,71,We Showed Up,2216,080707,adff2f,ffffff,Megan Holtham 6520,ca,242405,gold bronze bronze
+B,6,63,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Diana Wilson &#129418;,ca,934846,
+B,5,62,We Showed Up,2216,080707,adff2f,ffffff,tracy moore,ca,654026,
+B,5,61,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Susanne Freidberg &#129418;,us,177766,gold
+B,3,48,REVO,2672,fc00e3,000000,fc00e3,Suzanne Bessette [REVO] B,us,569518,
+B,3,48,ZSUN,161,ffffff,0073b7,ffffff,Carrie Merritt ,us,456545,
+B,2,44,REVO,2672,fc00e3,000000,fc00e3,Christine Culver [REVO],us,370756,gold
+B,2,38,REVO,2672,fc00e3,000000,fc00e3,Sylvia Granlund [REVO] ,no,165013,
+B,2,32,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Dame D ,us,128591,
+B,3,32,BRT,4,ffffff,050505,ff8100,Amy Johnson 4376,gb,88534,
+B,2,32,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Carey Conabeare &#129418;,gb,182411,silver
+B,2,29,PTz,1,ffffff,403d3a,e3680f,sonia insley,gb,70830,
+B,2,26,REVO,2672,fc00e3,000000,fc00e3,Anna Rogers [REVO] ,ca,265859,bronze
+B,1,24,We Showed Up,2216,080707,adff2f,ffffff,Yume Kobayashi,ca,851686,silver
+B,1,24,REVO,2672,fc00e3,000000,fc00e3,JamieLee Wright [REVO],gg,324947,silver
+B,1,22,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Shelly Coker[Vixen]&#129418;,gb,338493,bronze
+B,2,20,,,,,,Lillian C,gb,23444,
+B,1,20,REVO,2672,fc00e3,000000,fc00e3,Jessica McWhirt,us,133939,
+B,2,18,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Alice Alexander,us,250607,
+B,3,16,ZSUN,161,ffffff,0073b7,ffffff,Lisa jane ZSUN,gb,384525,
+B,1,16,,,,,,Megan Galinat ,us,1074469,silver
+B,1,14,,,,,,Zora Kohoutkova2826,sk,532382,
+B,1,14,Innovation,975,000000,52ff33,000000,Katarina Augustin INC ,fi,383329,bronze
+B,1,12,Innovation,975,000000,52ff33,000000,Maddy Lee-Smith,gb,609300,
+B,1,12,TeamODZ,7,ff851b,111111,3c8dbc,Paula Boyle,us,126441,
+B,1,10,KISS RT,36,f56600,012350,84b7ca,Lisa Hynes ,us,405131,
+B,2,10,PTz,1,ffffff,403d3a,e3680f,Sandra  Deegan,ca,60856,
+B,1,10,,,,,,Gemma Sampson,au,375538,
+B,1,9,GVR,3123,f51d1d,eaf901,000000,Julie Phelps,us,37354,
+B,1,8,,,,,,Lorna Breetzke1875,gb,993332,
+B,2,8,REVO,2672,fc00e3,000000,fc00e3,Melanie Solmon [REVO] B,ca,292182,
+B,1,8,ZSUN,161,ffffff,0073b7,ffffff,Becky Rittner 4768,us,583890,
+B,1,8,,,,,,Caroline Selin,se,166443,
+B,1,8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ann. Barnes &#129418;,ca,178346,
+B,1,7,ICC,2494,000000,f2a30b,210303,Liz Bridgen (Ilkeston CC),gb,490194,
+B,1,6,ZSUN,161,ffffff,0073b7,ffffff,Karen Wu [ZSUUN/HERD],ca,595433,
+B,1,6,,,,,,Nina Gilljam,se,189774,
+B,1,6,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sarah Thomas &#129418;,gb,34347,
+B,1,6,BRT,4,ffffff,050505,ff8100,lynne parkinson1552,gb,553623,
+B,1,5,REVO,2672,fc00e3,000000,fc00e3,Sil Cal [REVO],ar,447517,
+B,1,4,,,,,,Samo Samo,nl,800433,
+B,1,4,REVO,2672,fc00e3,000000,fc00e3,Emma Brinkley [REVO],gb,470705,
+B,1,4,,,,,,Catherine Falardeau,ca,958044,
+B,1,2,,,,,,Sophie R.,fr,988611,
+C,9,176,BRT,4,ffffff,050505,ff8100,D. Barreto BRT Hellcatz,mx,581267,gold silver bronze bronze bronze
+C,6,154,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Deanna Solomon,ca,435347,bronze bronze
+C,7,126,BRT,4,ffffff,050505,ff8100,Allison Held BRT Hellcatz ,gb,48061,gold gold bronze
+C,6,124,BRT,4,ffffff,050505,ff8100,Melisande Reade,ie,540242,gold gold
+C,6,114,Les Roberto,3470,f00202,f1f514,000000,C Chalou,ca,224992,
+C,6,107,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ana Otiebrab &#129418;,es,392006,gold silver
+C,5,103,BRT,4,ffffff,050505,ff8100,Adriette Myburgh,gb,841721,silver silver silver
+C,4,96,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Gemma Ankers,gb,37176,bronze
+C,6,80,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us,196575,bronze
+C,4,76,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sarah  Sewatsky,us,548468,
+C,7,69,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,silver bronze
+C,3,66,PTz,1,ffffff,403d3a,e3680f,Katie Pothier,us,137233,
+C,2,64,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb,344233,
+C,6,64,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Dawn Bardon,us,418392,gold gold gold bronze
+C,5,55,We Showed Up,2216,080707,adff2f,ffffff,Dee Makepeace,ca,191036,bronze
+C,3,54,ZSUN,161,ffffff,0073b7,ffffff,Wendy Habermann,ch,345083,bronze
+C,3,54,BRT,4,ffffff,050505,ff8100,Sari Puumala BRT Hellcatz ,fi,604917,
+C,4,48,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Aerin Artessa [VVixen],us,931073,
+C,2,48,,,,,,Lori Scott,us,441001,silver silver
+C,1,43,REVO,2672,fc00e3,000000,fc00e3,Stacey Larkin [REVO] C1,gb,464549,gold
+C,2,42,REVO,2672,fc00e3,000000,fc00e3,Karla Williams [REVO],gb,128441,
+C,1,40,TeamODZ,7,ff851b,111111,3c8dbc,amy jentz (teamODZ),us,332600,silver
+C,5,39,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L Hom ,us,10154,
+C,2,38,BRT,4,ffffff,050505,ff8100,Lynda Kellam,gb,38339,
+C,3,35,BRT,4,ffffff,050505,ff8100,Sarah Wilson,us,204491,silver
+C,3,30,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Christina Barbieri 9159,us,119174,
+C,1,30,,,,,,Anne Sharratt,gb-eng,438619,
+C,4,28,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sharon Longley,us,466958,
+C,2,28,ZSUN,161,ffffff,0073b7,ffffff,Julie Moran2174,us,485678,
+C,2,28,ZHR,1979,ff0000,03228c,03228c,Judy Goble (Silver Wheels Cycling Club),us,981946,
+C,1,28,USMES,79,ffffff,0073b7,ffffff,Arleigh Burke*USMES*,us,121167,
+C,1,27,,,,,,Kelly Roloff,ca,299937,gold
+C,3,27,,,,,,Liz Comlay,gb,198455,gold
+C,2,27,,,,,,Victoria Edwards,gb,1073499,gold
+C,1,24,Sz,32,f3f300,0073b7,f3f300,Maria Nilsson (KCK),se,586571,
+C,2,24,REVO,2672,fc00e3,000000,fc00e3,Kola Whitedog,us,84273,
+C,1,24,REVO,2672,fc00e3,000000,fc00e3,Jude Williams [REVO]C,gb,93210,
+C,1,22,,,,,,Patty Collins,us,660141,bronze
+C,1,22,Summit,3919,000000,e6dfdf,000000,Heidi Gabriel,dk,385102,
+C,3,20,ZSUN,161,ffffff,0073b7,ffffff,Courtnee Swaim,us,502830,
+C,1,20,REVO,2672,fc00e3,000000,fc00e3,Lindy Gray [REVO] C,gb,57518,
+C,2,20,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Linda  Brocato [vvixen],us,551148,gold
+C,1,20,#EFDV,3094,4d4149,ff68c6,060004,Helen Dutrieux,gb,276637,
+C,1,18,DBR,1986,ffffff,eb7b2a,ffffff,Tine Mathiesen,dk,486805,
+C,3,17,,,,,,Lynn Simpson 1920,gb,923028,
+C,1,16,ZSUN,161,ffffff,0073b7,ffffff,Sandra kelly,ie,793741,
+C,1,16,REVO,2672,fc00e3,000000,fc00e3,Melissa Hunter REVO,us,209515,silver
+C,1,14,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Adelle Condon,us,14689,
+C,1,14,BRT,4,ffffff,050505,ff8100,Pamela Kennedy,us,963876,
+C,1,12,,,,,,Diz [KruisCX],hu,958342,
+C,2,12,BRT,4,ffffff,050505,ff8100,Rose Garner,us,387716,
+C,1,10,,,,,,Carolyn Wilk,us,906242,
+C,1,9,,,,,,Ani @ani.new ,at,897512,
+C,2,9,,,,,,L Rathjen,us,874935,
+C,1,8,,,,,,Christine Fuentes,us,215767,
+C,1,8,ZSUN,161,ffffff,0073b7,ffffff,Anna Sigga,is,124489,
+C,1,7,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cath Erine,gb,217599,
+C,1,6,ZSUN,161,ffffff,0073b7,ffffff,Helen Sharif Zsun-C,us,475136,
+C,1,6,REVO,2672,fc00e3,000000,fc00e3,Karen Grady,us,382572,
+C,1,6,,,,,,M Collins,us,804568,
+C,1,6,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Caroline Gordon [VVixen],us,895492,
+C,1,5,#EFDV,3094,4d4149,ff68c6,060004,Laura Fortin #EFDV,fr,929075,
+C,1,5,,,,,,Lisa Buckland,us,10011,
+C,1,4,,,,,,Elaine DeBitetto (MONSTERS)In The Basement &#128050;,us,189197,
+C,1,4,,,,,,Susie wyrick,us,10598,
+C,1,4,ZSUN,161,ffffff,0073b7,ffffff,Maggie Kean ZSUN (C),us,60446,
+C,1,4,REVO,2672,fc00e3,000000,fc00e3,Fran Bambust,nl,427114,
+C,1,4,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,
+C,1,3,,,,,,Diane Laliberte,ca,909168,
+C,1,2,BRT,4,ffffff,050505,ff8100,Lucille Corrigan BRT(HellcatZ) ,gb,1084832,
+C,1,2,,,,,,M. Dybich,pl,891336,
+D,6,55,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cerys Willoughby,gb,30637,gold gold gold silver silver bronze
+D,4,38,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Debbie Mitchell,ca,128754,gold gold silver silver
+D,5,30,REVO,2672,fc00e3,000000,fc00e3,Sara Perrin [REVO] D,us,420144,silver silver bronze bronze
+D,2,16,BRT,4,ffffff,050505,ff8100,Laura Mitchell [BRT Hellcatz] D,gb,683476,silver silver
+D,1,11,Team CLS,1426,3d9970,ffffff,ffffff,Julie Byrne,gb,171404,gold
+D,1,11,BRT,4,ffffff,050505,ff8100,Kim Cognato (BRT HellcatZ D),us,598020,gold
+D,3,10,We Showed Up,2216,080707,adff2f,ffffff,Karen  Abbott [WSU),ca,534442,bronze
+D,2,10,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,bronze
+D,2,8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jessica York,us,120839,bronze
+D,1,8,ETC athletics,3559,ffffff,339933,006633,Virginie Calvar-Caillat ,fr,960166,silver
+D,1,8,,,,,,Meganne Huett,us,203007,silver
+D,1,8,,,,,,Chris Fox,ca,91826,silver
+D,1,8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Joan Ingram [VVixen]&#129418;,us,679945,silver
+D,1,6,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Katrin  Eichstaedt(WTT),de,974521,bronze
+D,1,6,REVO,2672,fc00e3,000000,fc00e3,Cheryl Niccum,us,96756,bronze
+D,1,6,,,,,,Lori Martell,us,141844,bronze
+D,1,4,,,,,,K. A.,gb,344727,
+D,1,4,BRT,4,ffffff,050505,ff8100,Sue Swan,gb,694853,
+D,1,4,,,,,,Lisa Mackinnon,,893022,
+D,1,4,,,,,,Kim DuBord- Team ERRACE,us,2935,
+D,1,4,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Susan Shafer 8461,us,696310,
+D,1,4,BRT,4,ffffff,050505,ff8100,Susie Phillips BRT HellcatZ,gb,421982,
+D,1,4,,,,,,Ellie Norvell ,us,600197,
+D,1,2,,,,,,Mercedes Jetton,us,945308,
+
