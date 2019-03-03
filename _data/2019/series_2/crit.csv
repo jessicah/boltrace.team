@@ -1,0 +1,64 @@
+category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums
+A,1,35,BRT,4,ffffff,050505,ff8100,Neil Linford-Relph [BRT],gb,522589,gold
+A,1,32,Innovation,975,000000,52ff33,000000,James Barnes,za,18123,silver
+A,1,30,BZR cycling team,35,f3f300,111111,dd4b39,Bert De Ridder,be,296378,bronze
+A,1,28,BRT,4,ffffff,050505,ff8100,Gerrie Scholtes &#128304;,nl,22315,
+A,1,26,Team X,2,f5f7f6,111111,00a65a,Jez Fabes,gb,379,
+A,1,24,BRT,4,ffffff,050505,ff8100,James McCormick,gb,171442,
+A,1,22,BRT,4,ffffff,050505,ff8100,Aaron Barry&#9889;&#65039; [BRT],gb,743592,
+A,1,20,,0,00dd00,,,Espen Nyland 6633,no,121688,
+A,1,18,,0,00dd00,,,Remco Beckers,nl,506582,
+A,1,16,,0,00dd00,,,Geoffrey Warnier,be,1017806,
+A,1,14,DIRT,2707,29ec34,563c0f,df6a0d,john sallah [DIRT],us,9311,
+A,1,12,Equipe JZQc,2571,ffffff,003399,ffffff,Stephan Martel-JZQC,ca,123919,
+A,1,10,,0,00dd00,,,Chris Bailey (KTM MTB),gb,64633,
+A,1,8,TriRun ,3261,ffffff,0073b7,ffffff,Gabe K,at,225553,
+A,1,7,BRT,4,ffffff,050505,ff8100,Sean Casson,gb,161615,
+A,1,6,,0,00dd00,,,J Julian MT4077,gb,63846,
+A,1,5,,0,00dd00,,,Lothar B.,de,420161,
+A,1,4,teamWKG,1330,fa5e06,3f4c54,3f4c54,Jamie Woodward,gb,685302,
+A,1,3,,0,00dd00,,,Jana Richtrova,us,31530,
+B,1,43,Vikings,90,c2c2c2,0073b7,ee6331,Espen Solvin,no,183605,gold
+B,1,40,Ride WLF,2257,070807,f50a50,080101,Richard Godfrey,gb-eng,432348,silver
+B,1,38,TFC,10,111111,f3f300,111111,Hugo Heitmeijer,nl,883496,bronze
+B,1,36,,0,00dd00,,,Per Orestig,se,851431,
+B,1,34,,0,00dd00,,,Jens Van Cauwenberghe,be,229654,
+B,1,32,BRT,4,ffffff,050505,ff8100,Barry Davis,gb-eng,397176,
+B,1,30,,0,00dd00,,,Frank Francesco ,us,994708,
+B,1,28,IRL,3369,ffffff,32968e,e66f1a,Ciaran Hallinan 4404,ie,402035,
+B,1,26,Team Poland,25,ffffff,ff1800,ff0000,Jaro Kielar,pl,899039,
+B,1,24,BRT,4,ffffff,050505,ff8100,David Watson,us,204112,
+B,1,22,,0,00dd00,,,Nick Darvell,gb-eng,809047,
+B,1,20,ZESP,2146,000000,fabd00,ad1519,JoSeRRa ,es,695368,
+B,1,18,Team CLS,1426,3d9970,ffffff,ffffff,Jean-Paul Wheater (B&DCC),gb,161332,
+B,1,16,,0,00dd00,,,Phillip Oliver,gb-wls,76196,
+B,1,14,Equipe JZQc,2571,ffffff,003399,ffffff,Paul St-Arneault JZQc(B),ca,635764,
+B,1,12,BZR cycling team,35,f3f300,111111,dd4b39,Bart Reyserhove,be,44904,
+B,1,10,BRT,4,ffffff,050505,ff8100,Keith Brothers [BRT],gb,233265,
+B,1,9,,0,00dd00,,,Jeroen Reijnoudt2513,nl,727567,
+B,1,8,,0,00dd00,,,Steve Stahl,us,729848,
+B,1,7,IRL,3369,ffffff,32968e,e66f1a,Dwyer O&#039;Neill,ie,79691,
+B,1,6,BRT,4,ffffff,050505,ff8100,Steve Wiltshire,gb,484548,
+B,1,5,,0,00dd00,,,Mikael Brage,se,591348,
+B,1,4,BRT,4,ffffff,050505,ff8100,Jordan Radin [BRT],us,930209,
+B,1,3,,0,00dd00,,,Leonie Keeling,gb,915026,
+B,1,2,,0,00dd00,,,Johannes Mayer,de,927413,
+C,1,35,BRT,4,ffffff,050505,ff8100,Derek Cahoon,us,719674,gold
+C,1,32,TFC,10,111111,f3f300,111111,Paul Boardman,gb-eng,78903,silver
+C,1,30,,0,00dd00,,,Chris Davies,gb-wls,661185,bronze
+C,1,28,,0,00dd00,,,Darren Stanley,gb-eng,930886,
+C,1,26,BRT,4,ffffff,050505,ff8100,Art Pacione [BRT],us,112213,
+C,1,24,SK RYE,2390,ffffff,0073b7,ffffff,Silje L&oslash;vstad,no,398561,
+C,1,22,DBR,1986,ffffff,eb7b2a,ffffff,Ronni Tingk&aelig;r,dk,984434,
+C,1,20,,0,00dd00,,,W.Beyen,be,816409,
+C,1,18,,0,00dd00,,,Ryan Bankhead 8391,gb-nir,805464,
+C,1,16,,0,00dd00,,,Nick Calame1588,ca,787345,
+C,1,14,BZR cycling team,35,f3f300,111111,dd4b39,Patrick Steenhout (BZR),be,727326,
+C,1,12,Ely,3334,ccff00,000000,e60505,Jonathan Tully [Ely],gb,287333,
+C,1,10,DBR,1986,ffffff,eb7b2a,ffffff,Jan Gregersen,dk,93404,
+C,1,8,Hitchin Nomads,2722,ffffff,0073b7,ffffff,Mark Loosley,gb,226179,
+C,1,7,ZESP,2146,000000,fabd00,ad1519,Rafuky ,es,177536,
+C,1,6,Vikings,90,c2c2c2,0073b7,ee6331,Maria Gydesen,dk,176130,
+C,1,5,,0,00dd00,,,Terry lowfast,us,1055062,
+D,1,11,,0,00dd00,,,Peter Nasser,za,933494,gold
+D,1,8,,0,00dd00,,,Dana Messina,us,713614,silver

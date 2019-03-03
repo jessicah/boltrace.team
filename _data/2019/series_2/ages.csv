@@ -1,0 +1,69 @@
+category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums
+A,1,11,CyclingHub,2635,f65000,00364a,ffffff,Guus Bouman&#129414;,nl,408391,gold
+A,1,8,TeamNL,2281,ffffff,ffa500,ffa500,Bas Pater,nl,859868,silver
+A,1,6,BRT,4,ffffff,050505,ff8100,Martin Lightwood &#128074;&#127996; [BRT],gb-wls,401047,bronze
+B,1,27,IRL,3369,ffffff,32968e,e66f1a,Alan Campbell,gb-nir,210541,gold
+B,1,24,MDCC,843,ffffff,0073b7,ffffff,Richard da Silva,gb,121927,silver
+B,1,22,CBCB Hire,3331,ffffff,ff2323,000000,Mark T (CBCB Hire),gb,760336,bronze
+B,1,20,BZR cycling team,35,f3f300,111111,dd4b39,Sven De Schryver,be,177491,
+B,1,18,BRT,4,ffffff,050505,ff8100,Peter Campbell,gb-eng,40108,
+B,1,16,teamWKG,1330,fa5e06,3f4c54,3f4c54,Jamie Woodward,gb,685302,
+B,1,14,Radsport K&ouml;nig,3482,ffffff,0073b7,ffffff,Ren&eacute; K&ouml;nig,de,908786,
+B,1,12,,0,00dd00,,,Sasa Bracko,hr,986047,
+B,1,10,,0,00dd00,,,Pak Ho,hk,776250,
+B,1,8,,0,00dd00,,,Ian Jervis5254,gb,980837,
+B,1,6,,0,00dd00,,,Richard Williams,gb-eng,485358,
+B,1,5,TeamNL,2281,ffffff,ffa500,ffa500,Onno F,nl,828907,
+C,1,27,BRT,4,ffffff,050505,ff8100,Mark Gardiner,gb,691846,gold
+C,1,24,,0,00dd00,,,Rich Babbage,gb,28524,silver
+C,1,22,Sz,32,f3f300,0073b7,f3f300,Tony Helmersson,se,105075,bronze
+C,1,20,BRT,4,ffffff,050505,ff8100,John Bergenske&#9889;&#65039;BRT A2,us,180408,
+C,1,18,,0,00dd00,,,Darren Griffiths,gb-wls,67827,
+C,1,16,,0,00dd00,,,Jan Lindh,se,863622,
+C,1,14,,0,00dd00,,,Tom Martin WBR (B),gb,216718,
+C,1,12,,0,00dd00,,,Billy No Mates,gb,628404,
+C,1,10,,0,00dd00,,,Dave Slater,gb,877092,
+C,1,8,,0,00dd00,,,Matt Smith6184,gb-eng,708823,
+C,1,6,,0,00dd00,,,Michael Scholz,de,959019,
+C,1,5,,0,00dd00,,,Steven Michik,us,200354,
+C,1,4,,0,00dd00,,,Si Lee,gb,866288,
+C,1,3,,0,00dd00,,,Chris Beecham,gb,24741,
+C,1,2,URU,2365,ffffff,0073b7,ffffff,Marcelo Olmedo (PCTS),uy,398732,
+D,1,67,,0,00dd00,,,Morten AndersenZHR(F),dk,470486,gold
+D,1,64,Race3R,791,000000,2bc3f4,ffffff,Alexis  LOUGE ,fr,36027,silver
+D,1,62,,0,00dd00,,,Peter Lambie ,gb-sct,569368,bronze
+D,1,60,,0,00dd00,,,Olivier Ringot,fr,689684,
+D,1,58,IBTC,2013,ffffff,0073b7,ffffff,Brett Tremaine,us,38574,
+D,1,56,BRT,4,ffffff,050505,ff8100,Andrew Tapley,gb,145450,
+D,1,54,,0,00dd00,,,Douglas Darling,us,90667,
+D,1,52,DIRT,2707,29ec34,563c0f,df6a0d,VANDY 365 (DIRT),us,7213,
+D,1,50,,0,00dd00,,,Albert Bold  ,us,289219,
+D,1,48,BRT,4,ffffff,050505,ff8100,Phil Donnelly  [BRT],gb,514370,
+D,1,46,BZR cycling team,35,f3f300,111111,dd4b39,Geert Philipsen,be,67032,
+D,1,44,BRT,4,ffffff,050505,ff8100,Scott Main [BRT],gb-sct,1002910,
+D,1,42,,0,00dd00,,,Eric Greenhalgh,gb-eng,111318,
+D,1,40,BZR cycling team,35,f3f300,111111,dd4b39,Luc Govaerts@Bike-Inn.be,be,293823,
+D,1,38,,0,00dd00,,,Terry Flynn,gb,397987,
+D,1,36,,0,00dd00,,,James Bennie,us,1041658,
+D,1,34,teamWKG,1330,fa5e06,3f4c54,3f4c54,GORDON JACKSON,gb,19671,
+D,1,32,C100,3437,ffffff,0073b7,ffffff,joseph massad,ca,223733,
+D,1,30,,0,00dd00,,,Martyn Sweett ,gb,239949,
+D,1,28,DBR,1986,ffffff,eb7b2a,ffffff,Kim Villarino Hejnesen [DBR],dk,1096870,
+D,1,26,STW,756,ffffff,0073b7,ffffff,Andy King,gb,264059,
+D,1,24,Radsport K&ouml;nig,3482,ffffff,0073b7,ffffff,J&ouml;rg H&ouml;fler,de,1002608,
+D,1,22,,0,00dd00,,,Tony Ballinger6349,gb,1098196,
+D,1,20,,0,00dd00,,,COLIN LEIPER CLS BRT[D],gb,267765,
+D,1,18,KirchmairCycling,2991,210606,f2e80d,000103,Peter Enserer(KC),at,887372,
+D,1,16,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,G. K&uuml;hner TEA,de,484982,
+D,1,15,Race3R,791,000000,2bc3f4,ffffff,Colin  Jamieson,nz,17763,
+D,1,14,,0,00dd00,,,Dite Scott,gb,912862,
+D,1,13,SZR,111,ffffff,0073b7,ffffff,chris wrigley Team SZR,gb-eng,676854,
+D,1,12,BRT,4,ffffff,050505,ff8100,Art Pacione [BRT],us,112213,
+D,1,11,,0,00dd00,,,Christer Karlsson,se,565226,
+D,1,10,,0,00dd00,,,Terence Burnham ,gb,412712,
+D,1,9,,0,00dd00,,,Jez Hoyland ,gb-eng,985131,
+D,1,8,Team Poland,25,ffffff,ff1800,ff0000,Jerzy Znaniecki,pl,396757,
+D,1,7,DBR,1986,ffffff,eb7b2a,ffffff,Mik Hatting,dk,301299,
+D,1,6,,0,00dd00,,,Geoff Myatt,gb-eng,714816,
+D,1,5,,0,00dd00,,,John  Bradley ,gb,797306,
+D,1,4,BRT,4,ffffff,050505,ff8100,Julian Hudson(zzrc),ca,92276,
