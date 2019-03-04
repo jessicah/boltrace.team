@@ -9,7 +9,7 @@ redirect_from: "/ages"
 <ul>
 	<li>Start Date: In progress</li>
 	<li>End Date: 21st December, 2018</li>
-	<li>Event Day & Time: Friday, 18:30 GMT</li>
+	<li>Event Day & Time: <span class='date-data' data-date='2019-03-08-18-30' data-format='day-time'>Friday, 6:30pm UTC</span></li>
 	<li>Duration: 8 weeks</li>
 	<li>Categories<br/>
 		Based on your birth <strong>year</strong>, not your birthday:
@@ -60,3 +60,4 @@ redirect_from: "/ages"
 
 <h2>League Standings</h2>
 {% include standings.html riders=site.data.2019.series_2.ages teams=site.data.2019.series_2.agesteam %}
+{% include datetime.html %}
