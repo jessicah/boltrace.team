@@ -1,6 +1,7 @@
 ---
 layout: default
 redirect_from: "/tt"
+date: 09/03/2019
 ---
 
 <h2>Time Trial League</h2>
@@ -63,5 +64,6 @@ redirect_from: "/tt"
 </ul>
 
 <h3>Current Standings</h3>
-<p>No results yet!</p>
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+{% include standings.html riders=site.data.2019.series_2.timetrial teams=site.data.2019.series_2.timetrialteam %}
 {% include datetime.html %}
