@@ -1,6 +1,7 @@
 ---
 layout: default
 redirect_from: "/ages"
+date: 09/03/2019
 ---
 
 <h2>Ages Racing League</h2>
@@ -65,5 +66,6 @@ redirect_from: "/ages"
 </ul>
 
 <h3>Current Standings</h3>
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
 {% include standings.html riders=site.data.2019.series_2.ages teams=site.data.2019.series_2.agesteam %}
 {% include datetime.html %}

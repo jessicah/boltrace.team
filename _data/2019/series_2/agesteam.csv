@@ -1,29 +1,42 @@
 category,events,points,tid,tname,tc,tbc,tbd
+A,1,18,2854,FUSION ECT,ffffff,000000,ffffff
+A,1,15,791,Race3R,000000,2bc3f4,ffffff
 A,1,10,2635,CyclingHub,f65000,00364a,ffffff
 A,1,7,2281,TeamNL,ffffff,ffa500,ffa500
 A,1,5,4,BRT,ffffff,050505,ff8100
-B,1,26,3369,IRL,ffffff,32968e,e66f1a
-B,1,23,843,MDCC,ffffff,0073b7,ffffff
+B,2,37,3369,IRL,ffffff,32968e,e66f1a
+B,2,32,843,MDCC,ffffff,0073b7,ffffff
+B,2,24,4,BRT,ffffff,050505,ff8100
 B,1,21,3331,CBCB Hire,ffffff,ff2323,000000
 B,1,19,35,BZR cycling team,f3f300,111111,dd4b39
-B,1,17,4,BRT,ffffff,050505,ff8100
+B,1,18,407,IBD Cycling,ffffff,0073b7,ffffff
 B,1,15,1330,teamWKG,fa5e06,3f4c54,3f4c54
+B,1,15,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,13,3482,Radsport K&ouml;nig,ffffff,0073b7,ffffff
 B,1,4,2281,TeamNL,ffffff,ffa500,ffa500
-C,2,45,4,BRT,ffffff,050505,ff8100
+B,1,3,2888,VC10,ffffff,ff0000,ffffff
+C,4,57,4,BRT,ffffff,050505,ff8100
 C,1,21,32,Sz,f3f300,0073b7,f3f300
+C,1,15,2209,PODIUM,ffffff,0028b7,120707
+C,1,13,4062,SBC,ffffff,2d3f54,2d3f54
+C,1,7,3369,IRL,ffffff,32968e,e66f1a
+C,1,3,3824,ELY RC,eb8989,2e0202,eb8989
 C,1,1,2365,URU,ffffff,0073b7,ffffff
-D,5,159,4,BRT,ffffff,050505,ff8100
-D,2,84,35,BZR cycling team,f3f300,111111,dd4b39
-D,2,77,791,Race3R,000000,2bc3f4,ffffff
+D,8,250,4,BRT,ffffff,050505,ff8100
+D,3,132,791,Race3R,000000,2bc3f4,ffffff
+D,3,117,35,BZR cycling team,f3f300,111111,dd4b39
+D,3,82,1986,DBR,ffffff,eb7b2a,ffffff
+D,2,80,2707,DIRT,29ec34,563c0f,df6a0d
+D,2,78,1330,teamWKG,fa5e06,3f4c54,3f4c54
+D,2,60,756,STW,ffffff,0073b7,ffffff
 D,1,57,2013,IBTC,ffffff,0073b7,ffffff
-D,1,51,2707,DIRT,29ec34,563c0f,df6a0d
-D,1,33,1330,teamWKG,fa5e06,3f4c54,3f4c54
-D,2,33,1986,DBR,ffffff,eb7b2a,ffffff
+D,1,51,7,TeamODZ,ff851b,111111,3c8dbc
 D,1,31,3437,C100,ffffff,0073b7,ffffff
-D,1,25,756,STW,ffffff,0073b7,ffffff
+D,1,27,4033,CHOK,ffffff,0073b7,ffffff
+D,2,24,25,Team Poland,ffffff,ff1800,ff0000
 D,1,23,3482,Radsport K&ouml;nig,ffffff,0073b7,ffffff
+D,2,22,111,SZR,ffffff,0073b7,ffffff
+D,1,19,2281,TeamNL,ffffff,ffa500,ffa500
 D,1,17,2991,KirchmairCycling,210606,f2e80d,000103
 D,1,15,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
-D,1,12,111,SZR,ffffff,0073b7,ffffff
-D,1,7,25,Team Poland,ffffff,ff1800,ff0000
+D,1,11,4059,Kalmar SZR,ffffff,0073b7,ffffff
