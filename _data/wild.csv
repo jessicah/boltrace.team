@@ -1,25 +1,25 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums
-A,4,37,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,gold silver bronze
-A,3,31,BRT,4,ffffff,050505,ff8100,Moin Moin ,dk,417656,gold gold silver
-A,2,22,Vision,9,ffffff,2ea9e0,000000,Pamela &lt;V I S I O N&gt;,us,9021,bronze
-A,2,20,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Beth York &#129418;,us,129099,bronze
+A,4,35,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,gold gold bronze bronze
+A,2,24,Vision,9,ffffff,2ea9e0,000000,Pamela &lt;V I S I O N&gt;,us,9021,bronze
+A,2,22,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Beth York &#129418;,us,129099,silver
 A,1,19,We Showed Up ,2216,080707,adff2f,ffffff,Ronna Akins,us,72495,gold
 A,1,16,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck,no,56138,silver
-A,2,15,REVO,2672,fc00e3,000000,fc00e3,Sil Cal [REVO],us,447517,
-A,1,14,REVO,2672,fc00e3,000000,fc00e3,Alycia Staats,us,331617,bronze
 A,1,12,[DRAFT],1634,ffffff,e60d2e,000000,Angela Pitzer&#129410;,us,10196,
 A,1,12,,0,00dd00,,,Karen Brammer,gb,157814,
+A,1,11,BRT,4,ffffff,050505,ff8100,Moin Moin ,dk,417656,gold
 A,1,10,BRT,4,ffffff,050505,ff8100,C. Harris Momsen,cl,719263,
-A,1,10,,0,00dd00,,,Caleigh Bold,us,977742,
+A,2,9,REVO,2672,fc00e3,000000,fc00e3,Sil Cal [REVO],us,447517,bronze
 A,1,8,Canyon//SRAM,3952,ffffff,f14fa6,000000,Hannah Ludwig [CANYON/SRAM],de,236989,
 A,1,8,TWonZwift,3512,ffffff,0073b7,ffffff,Rebecca Larson,us,264660,silver
-A,1,8,,0,00dd00,,,Michelle Turner,us,1063309,
-A,1,6,REVO,2672,fc00e3,000000,fc00e3,Tina Grobler [REVO] B1,gb,472879,
+A,1,8,REVO,2672,fc00e3,000000,fc00e3,Tina Grobler [REVO] B1,gb,472879,
+A,1,8,REVO,2672,fc00e3,000000,fc00e3,Alycia Staats,us,331617,silver
+A,1,6,,0,00dd00,,,Polly Mason ,gb,136220,
 A,1,4,,0,00dd00,,,Emma Walsh,ie,856680,
 A,1,4,[DRAFT],1634,ffffff,e60d2e,000000,Emily Joyner,us,394039,
-A,1,4,,0,00dd00,,,Polly Mason ,gb,136220,
-A,1,3,,0,00dd00,,,Kirsten Hermanns2583,de,8689,
+A,1,4,,0,00dd00,,,Kirsten Hermanns2583,de,8689,
+A,1,4,,0,00dd00,,,Caleigh Bold,us,977742,
 A,1,2,,0,00dd00,,,Catherine Falardeau,ca,958044,
+A,1,2,,0,00dd00,,,Michelle Turner,us,1063309,
 B,4,56,BRT,4,ffffff,050505,ff8100,Sari Puumala BRT Hellcatz ,fi,604917,silver bronze bronze
 B,2,54,PTz,1,ffffff,403d3a,e3680f,Siv Engmo,no,217993,
 B,2,52,BRT,4,ffffff,050505,ff8100,Jen Doyle [BRT],gb,115835,
@@ -96,7 +96,7 @@ C,1,14,SLOVENIA,1963,ffffff,95c447,ffffff,Darja Vavpetic,si,954014,
 C,1,12,,0,00dd00,,,Lynn Simpson 1920,gb,923028,
 C,1,12,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sharon Longley,us,466958,
 C,1,10,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,
-C,2,10,BRT,4,ffffff,050505,ff8100,Kim Cognato (BRT HellcatZ D),us,598020,
+C,2,10,BRT,4,ffffff,050505,ff8100,Kim Cognato (BRT HellcatZ C),us,598020,
 C,1,10,We Showed Up ,2216,080707,adff2f,ffffff,Dee Makepeace,ca,191036,
 C,1,10,KirchmairCycling,2991,210606,f2e80d,000103,Team WeimaRunner,at,1031513,
 C,1,10,,0,00dd00,,,Carol  Faid,ca,913820,
