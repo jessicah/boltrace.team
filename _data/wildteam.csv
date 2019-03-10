@@ -1,5 +1,5 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,6,71,4,BRT,ffffff,050505,ff8100
+A,5,60,4,BRT,ffffff,050505,ff8100
 A,4,25,2672,REVO,fc00e3,000000,fc00e3
 A,2,24,9,Vision,ffffff,2ea9e0,000000
 A,2,22,1940,Vixen/Fox,7409a6,f79d4b,ffffff
@@ -20,10 +20,10 @@ B,1,16,2571,Equipe JZQc,ffffff,003399,ffffff
 B,1,7,265,RCC,fc2097,d2d6de,111111
 B,1,6,2834,TeamFI,0000ff,ffffff,0000ff
 C,12,242,2672,REVO,fc00e3,000000,fc00e3
-C,12,194,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,12,196,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,5,59,161,ZSUN,ffffff,0073b7,ffffff
 C,2,55,3470,e-Roberto,f00202,f1f514,000000
-C,5,44,4,BRT,ffffff,050505,ff8100
+C,3,34,4,BRT,ffffff,050505,ff8100
 C,2,34,2991,KirchmairCycling,210606,f2e80d,000103
 C,1,26,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 C,2,24,2216,We Showed Up ,080707,adff2f,ffffff
@@ -31,10 +31,10 @@ C,1,24,120,MTCT,040312,9cb2e8,d4e60d
 C,1,22,79,USMES,ffffff,0073b7,ffffff
 C,1,20,2,Team X,f5f7f6,111111,00a65a
 C,1,14,1963,SLOVENIA,ffffff,95c447,ffffff
-C,1,3,1677,Team Fearless,001f3f,39cccc,01ff70
-D,7,85,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-D,4,61,4,BRT,ffffff,050505,ff8100
-D,2,16,2672,REVO,fc00e3,000000,fc00e3
-D,1,16,2639,HERD,383c3d,fc6719,fc6719
-D,2,10,2216,We Showed Up ,080707,adff2f,ffffff
+C,1,4,1677,Team Fearless,001f3f,39cccc,01ff70
+D,6,89,4,BRT,ffffff,050505,ff8100
+D,7,77,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+D,1,14,2639,HERD,383c3d,fc6719,fc6719
+D,2,12,2672,REVO,fc00e3,000000,fc00e3
+D,2,8,2216,We Showed Up ,080707,adff2f,ffffff
 D,1,6,161,ZSUN,ffffff,0073b7,ffffff
