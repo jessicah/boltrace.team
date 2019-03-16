@@ -1,56 +1,92 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums
-A,1,27,,0,00dd00,,,1 Cycle Jockey,us,159182,gold
-A,1,24,Team Poland,25,ffffff,ff1800,ff0000,Patrick Woelke [TeamPL],pl,883585,silver
-A,1,22,Innovation,975,000000,52ff33,000000,Beckett Tooley [INC]&#128125;,us,19907,bronze
-A,1,20,CyclingHub,2635,f65000,00364a,ffffff,Quentijn Mulleneers &#127839;,be,161017,
-A,1,18,STW,756,ffffff,0073b7,ffffff,David Horn,gb,262309,
-A,1,16,545Velo,341,ffffff,0073b7,ffffff,Nicholas Nardelli,us,947070,
-A,1,14,,0,00dd00,,,Gi Blundred,gb,454953,
-A,1,12,,0,00dd00,,,Vishnu Roy,au,18431,
-A,1,10,,0,00dd00,,,Luke Amer,us,167502,
-A,1,8,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Flo Johannsson,de,889682,
-A,1,6,BRT,4,ffffff,050505,ff8100,Per R&oslash;nsg&aring;rd,no,118022,
-A,1,5,Vikings,90,c2c2c2,0073b7,ee6331,Bernard Opedal,no,586093,
-A,1,4,,0,00dd00,,,Israel Moore,us,686256,
-B,1,51,Ironworks,3061,ffffff,0073b7,ffffff,Andrew Stevenson,us,53705,gold
-B,1,48,,0,00dd00,,,Eirik Tengesdal,no,515879,silver
-B,1,46,,0,00dd00,,,Ingo Quendler,de,4202,bronze
-B,1,44,Equipe JZQc,2571,ffffff,003399,ffffff,Alexandre Filiatrault,ca,302498,
-B,1,42,,0,00dd00,,,. akafredperry,gb,66122,
-B,1,40,,0,00dd00,,,Justin De Leo,us,645030,
-B,1,38,,0,00dd00,,,Luca Cathomen1082105,ch,1082105,
-B,1,36,,0,00dd00,,,Anna Breton,us,1095386,
-B,1,34,,0,00dd00,,,Pascal Gauthier,ca,995428,
-B,1,32,,0,00dd00,,,&Eacute;ric fauchon,ca,489461,
-B,1,30,,0,00dd00,,,Andrew Shipton Striking Bikes,gb-eng,582278,
-B,1,28,ICC,2494,000000,f2a30b,210303,Chris Kaye,gb-wls,1092286,
-B,1,26,,0,00dd00,,,Blake Reardon,au,979382,
-B,1,24,,0,00dd00,,,Jamie Harris,us,584590,
-B,1,22,,0,00dd00,,,Gary Crays (PDX),us,587722,
-B,1,20,,0,00dd00,,,Ian Phillips,gb,1144763,
-B,1,18,,0,00dd00,,,Bill Campie,us,578235,
-B,1,16,,0,00dd00,,,Francois Delisle,ca,33006,
-B,1,14,,0,00dd00,,,Henrik Storm,se,1016410,
-B,1,12,SLOVENIA,1963,ffffff,95c447,ffffff,Janez Poto&#269;nik,si,117618,
-B,1,11,C2C,2832,ffffff,46baf2,ff1e1e,Martin Hopper,gb,257132,
-B,1,10,,0,00dd00,,,Richard Turkington,gb,548325,
-B,1,9,,0,00dd00,,,S F,pl,407839,
-B,1,8,Team CLS,1426,3d9970,ffffff,ffffff,David Herzig,ch,488312,
-B,1,7,,0,00dd00,,,Carlos Cabalu,ph,461903,
-B,1,6,Vikings,90,c2c2c2,0073b7,ee6331,Oeyvind Holmen(V),no,808317,
-C,1,27,,0,00dd00,,,Jochem N ,nl,364914,gold
-C,1,24,,0,00dd00,,,Simon Lachance,ca,82989,silver
-C,1,22,TFC,10,111111,f3f300,111111,Steve Tuck TFC Racing ,gb,988894,bronze
-C,1,20,,0,00dd00,,,Ben Westlake,gb,119135,
-C,1,18,,0,00dd00,,,Hans Spitshuis,nl,184917,
-C,1,16,BRT,4,ffffff,050505,ff8100,Darren Green (BRT) - Team Zwatt,gb-eng,30856,
-C,1,14,,0,00dd00,,,Pedr Morris,gb-wls,307429,
-C,1,12,,0,00dd00,,,Mark Scothern,gb,275415,
-C,1,10,,0,00dd00,,,Peter Fuerst,at,825991,
-C,1,8,,0,00dd00,,,Crystal Strong,us,816765,
-C,1,6,,0,00dd00,,,Brian Terrell,us,1050668,
-C,1,5,,0,00dd00,,,Ryan French,gb,871389,
-C,1,4,,0,00dd00,,,tom oiler,us,879578,
-C,1,3,,0,00dd00,,,John Macleod,,66581,
-D,1,11,,0,00dd00,,,Paul Malcolm9327,ca,861409,gold
-D,1,8,,0,00dd00,,,Shawn Stevens,us,610028,silver
+A,2,36,CyclingHub,2635,f65000,00364a,ffffff,Quentijn Mulleneers &#127839;,be,161017,
+A,1,34,,0,00dd00,,,Drake Deuel,us,726369,gold
+A,1,31,,0,00dd00,,,Bruce Zoom7214,gb,1060589,silver
+A,1,29,Cannondale/4iiii,2105,0d0d0d,eef2f5,f27a0b,Rowan Barrett,ca,110649,bronze
+A,1,27,,0,00dd00,,,Tom Williams4618,gb,397241,
+A,1,26,,0,00dd00,,,1 Cycle Jockey,us,159182,gold
+A,1,25,CyclingHub,2635,f65000,00364a,ffffff,Guus Bouman&#129414;,nl,408391,
+A,1,23,Team Poland,25,ffffff,ff1800,ff0000,Patrick Woelke [TeamPL],pl,883585,silver
+A,1,23,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,norman henderson Cryo Gen,gb-sct,99549,
+A,1,21,Innovation,975,000000,52ff33,000000,Beckett Tooley [INC]&#128125;,us,19907,bronze
+A,1,21,MarSting Story,3253,ffffff,0073b7,ffffff,Seth Stingley,us,942020,
+A,1,19,teamWKG,1330,fa5e06,3f4c54,3f4c54,Poul M&aelig;rsk - WKG,dk,1015309,
+A,1,17,STW,756,ffffff,0073b7,ffffff,David Horn,gb,262309,
+A,1,15,545Velo,341,ffffff,0073b7,ffffff,Nicholas Nardelli,us,947070,
+A,1,15,,0,00dd00,,,Jonathan Heath ,gb-wls,999192,
+A,1,13,,0,00dd00,,,Gi Blundred,gb,454953,
+A,1,13,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Detlef Schrader,de,54832,
+A,1,11,,0,00dd00,,,Vishnu Roy,au,18431,
+A,1,11,,0,00dd00,,,Patrick Darken,us,188739,
+A,1,9,,0,00dd00,,,Luke Amer,us,167502,
+A,1,9,Splunk&gt;,3933,ffffff,003838,ffffff,Kevin Vander Ende &#128511;,us,966423,
+A,1,7,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Flo Johannsson,de,889682,
+A,1,7,,0,00dd00,,,Andre Huyghe,fr,572458,
+A,1,6,,0,00dd00,,,Karl Moseley ZHR F ,gb,935927,
+A,1,5,BRT,4,ffffff,050505,ff8100,Per R&oslash;nsg&aring;rd,no,118022,
+A,1,5,,0,00dd00,,,koen  ter horst,nl,715822,
+A,1,4,Vikings,90,c2c2c2,0073b7,ee6331,Bernard Opedal,no,586093,
+A,1,3,,0,00dd00,,,Israel Moore,us,686256,
+B,1,50,Ironworks,3061,ffffff,0073b7,ffffff,Andrew Stevenson,us,53705,gold
+B,1,47,,0,00dd00,,,Eirik Tengesdal,no,515879,silver
+B,1,45,,0,00dd00,,,Ingo Quendler,de,4202,bronze
+B,1,43,Equipe JZQc,2571,ffffff,003399,ffffff,Alexandre Filiatrault,ca,302498,
+B,1,41,,0,00dd00,,,. akafredperry,gb,66122,
+B,1,39,,0,00dd00,,,Justin De Leo,us,645030,
+B,1,37,,0,00dd00,,,Luca Cathomen1082105,ch,1082105,
+B,1,35,,0,00dd00,,,Anna Breton,us,1095386,
+B,2,34,,0,00dd00,,,Henrik Storm,se,1016410,
+B,1,34,CyclingHub,2635,f65000,00364a,ffffff,Timothy Termont &#128169;,be,121658,gold
+B,1,33,,0,00dd00,,,Pascal Gauthier,ca,995428,
+B,1,31,,0,00dd00,,,&Eacute;ric fauchon,ca,489461,
+B,1,31,,0,00dd00,,,Kasper Linde,dk,1145368,silver
+B,1,29,,0,00dd00,,,Andrew Shipton Striking Bikes,gb-eng,582278,
+B,1,29,,0,00dd00,,,S&eacute;bastien Zinezi,ca,961513,bronze
+B,1,27,ICC,2494,000000,f2a30b,210303,Chris Kaye,gb-wls,1092286,
+B,1,27,,0,00dd00,,,Norbert NONY,fr,856867,
+B,1,25,,0,00dd00,,,Blake Reardon,au,979382,
+B,1,25,,0,00dd00,,,C eeKick 4381,us,165383,
+B,1,23,,0,00dd00,,,Jamie Harris,us,584590,
+B,1,23,,0,00dd00,,,Jonathan Dubois,ca,105930,
+B,1,21,,0,00dd00,,,Gary Crays (PDX),us,587722,
+B,1,19,,0,00dd00,,,Ian Phillips,gb,1144763,
+B,1,19,,0,00dd00,,,Jens Fokking,dk,425074,
+B,1,17,,0,00dd00,,,Bill Campie,us,578235,
+B,1,17,Team Poland,25,ffffff,ff1800,ff0000,Marek Wachnicki,pl,553568,
+B,1,15,,0,00dd00,,,Francois Delisle,ca,33006,
+B,1,15,,0,00dd00,,,Markus Theile,de,440752,
+B,1,13,,0,00dd00,,,Peter Leahy,im,906587,
+B,1,11,SLOVENIA,1963,ffffff,95c447,ffffff,Janez Poto&#269;nik,si,117618,
+B,1,11,Team TSF,3266,ffffff,0073b7,ffffff,Mehdi Sananour (TSF),fr,965347,
+B,1,10,C2C,2832,ffffff,46baf2,ff1e1e,Martin Hopper,gb,257132,
+B,1,9,,0,00dd00,,,Richard Turkington,gb,548325,
+B,1,9,Team Poland,25,ffffff,ff1800,ff0000,Artur Plebanczyk,pl,948001,
+B,1,8,,0,00dd00,,,S F,pl,407839,
+B,1,7,Team CLS,1426,3d9970,ffffff,ffffff,David Herzig,ch,488312,
+B,1,7,,0,00dd00,,,G  Bright,ca,821945,
+B,1,6,,0,00dd00,,,Carlos Cabalu,ph,461903,
+B,1,6,Vikings,90,c2c2c2,0073b7,ee6331,Geir Engen,no,662063,
+B,1,5,Vikings,90,c2c2c2,0073b7,ee6331,Oeyvind Holmen(V),no,808317,
+B,1,5,,0,00dd00,,,Tim Abbott,gb,522276,
+B,1,4,BRT,4,ffffff,050505,ff8100,Rob Spink,gb,402361,
+C,1,26,,0,00dd00,,,Jochem N ,nl,364914,gold
+C,1,23,,0,00dd00,,,Simon Lachance,ca,82989,silver
+C,1,21,TFC,10,111111,f3f300,111111,Steve Tuck TFC ,gb,988894,bronze
+C,1,19,,0,00dd00,,,Ben Westlake,gb,119135,
+C,1,17,,0,00dd00,,,Hans Spitshuis,nl,184917,
+C,1,15,BRT,4,ffffff,050505,ff8100,Darren Green (BRT) - Team Zwatt,gb-eng,30856,
+C,1,13,,0,00dd00,,,Pedr Morris,gb-wls,307429,
+C,1,11,,0,00dd00,,,Mark Scothern,gb,275415,
+C,1,10,BRT,4,ffffff,050505,ff8100,Lee Sharples,gb,6713,gold
+C,1,9,,0,00dd00,,,Peter Fuerst,at,825991,
+C,1,7,,0,00dd00,,,Crystal Strong,us,816765,
+C,1,7,,0,00dd00,,,Fabien Roy ZHR (E),ca,993083,silver
+C,1,5,,0,00dd00,,,Brian Terrell,us,1050668,
+C,1,5,,0,00dd00,,,Daniel Corrales (B) 3224,ch,508139,bronze
+C,1,4,,0,00dd00,,,Ryan French,gb,871389,
+C,1,3,,0,00dd00,,,tom oiler,us,879578,
+C,1,2,,0,00dd00,,,John Macleod,,66581,
+D,1,10,,0,00dd00,,,Paul Malcolm9327,ca,861409,gold
+D,1,10,,0,00dd00,,,Mike Lacey3840,gb,444111,gold
+D,1,7,,0,00dd00,,,Shawn Stevens,us,610028,silver
+D,1,7,,0,00dd00,,,Jason Rogers,gb,609383,silver
