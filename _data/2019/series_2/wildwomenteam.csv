@@ -1,52 +1,54 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,9,118,4,BRT,ffffff,050505,ff8100
+A,11,135,4,BRT,ffffff,050505,ff8100
 A,5,57,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,7,53,2672,REVO,fc00e3,000000,fc00e3
 A,3,32,9,Vision,ffffff,2ea9e0,000000
 A,1,24,2,Team X,f5f7f6,111111,00a65a
 A,1,19,2216,We Showed Up ,080707,adff2f,ffffff
+A,2,19,2721,Biketrainingtips,ffffff,0073b7,ffffff
 A,1,16,2991,KirchmairCycling,210606,f2e80d,000103
 A,2,16,1634,[DRAFT],ffffff,e60d2e,000000
 A,1,16,2144,CANYON,ffffff,ff005d,ff005d
 A,1,14,36,KISS RT,f56600,012350,84b7ca
-A,1,11,2721,Biketrainingtips,ffffff,0073b7,ffffff
+A,2,12,3512,TWonZwift,ffffff,0073b7,ffffff
 A,1,8,3952,Canyon//SRAM,ffffff,f14fa6,000000
-A,1,8,3512,TWonZwift,ffffff,0073b7,ffffff
 A,1,6,161,ZSUN,ffffff,0073b7,ffffff
 A,1,4,1079,Tricademy,ffffff,0073b7,ffffff
-B,26,560,2672,REVO,fc00e3,000000,fc00e3
-B,20,341,4,BRT,ffffff,050505,ff8100
-B,13,274,161,ZSUN,ffffff,0073b7,ffffff
-B,12,258,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,27,568,2672,REVO,fc00e3,000000,fc00e3
+B,22,353,4,BRT,ffffff,050505,ff8100
+B,14,280,161,ZSUN,ffffff,0073b7,ffffff
+B,14,280,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,4,157,975,Innovation,000000,52ff33,000000
-B,4,134,1,PTz,ffffff,403d3a,e3680f
-B,3,69,7,TeamODZ,ff851b,111111,3c8dbc
+B,5,140,1,PTz,ffffff,403d3a,e3680f
+B,4,81,7,TeamODZ,ff851b,111111,3c8dbc
 B,3,58,2834,FZR,0000ff,ffffff,0000ff
-B,1,35,111,SZR,ffffff,0073b7,ffffff
+B,2,51,111,SZR,ffffff,0073b7,ffffff
 B,2,32,2571,Equipe JZQc,ffffff,003399,ffffff
 B,1,32,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 B,2,22,3249,[AsC],ffffff,ee1f1f,4d08ff
 B,1,14,1677,Team Fearless,001f3f,39cccc,01ff70
+B,1,11,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,7,265,RCC,fc2097,d2d6de,111111
 B,1,7,3527,OBASS,ffffff,0073b7,ffffff
-C,24,399,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,26,418,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,17,350,2672,REVO,fc00e3,000000,fc00e3
-C,11,183,4,BRT,ffffff,050505,ff8100
-C,4,122,3470,e-Roberto,f00202,f1f514,000000
-C,6,70,161,ZSUN,ffffff,0073b7,ffffff
-C,2,60,79,USMES,ffffff,0073b7,ffffff
+C,13,195,4,BRT,ffffff,050505,ff8100
+C,5,141,3470,eRoberto,f00202,f1f514,000000
+C,8,80,161,ZSUN,ffffff,0073b7,ffffff
+C,3,68,79,USMES,ffffff,0073b7,ffffff
 C,2,54,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 C,4,48,2991,KirchmairCycling,210606,f2e80d,000103
+C,2,30,1963,SLOVENIA,ffffff,95c447,ffffff
 C,2,24,2216,We Showed Up ,080707,adff2f,ffffff
 C,1,24,120,MTCT,040312,9cb2e8,d4e60d
+C,3,21,2639,HERD,383c3d,fc6719,fc6719
 C,1,20,2,Team X,f5f7f6,111111,00a65a
-C,2,15,2639,HERD,383c3d,fc6719,fc6719
-C,1,14,1963,SLOVENIA,ffffff,95c447,ffffff
-C,1,4,1677,Team Fearless,001f3f,39cccc,01ff70
-D,10,145,4,BRT,ffffff,050505,ff8100
-D,8,83,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,1,19,3190,SpeedVille.de,ffffff,14ba14,ffffff
+C,2,16,1677,Team Fearless,001f3f,39cccc,01ff70
+D,13,166,4,BRT,ffffff,050505,ff8100
+D,9,94,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,7,55,2672,REVO,fc00e3,000000,fc00e3
+D,2,18,2639,HERD,383c3d,fc6719,fc6719
 D,1,14,3723,FART,ffffff,4caf50,4b3832
-D,1,14,2639,HERD,383c3d,fc6719,fc6719
 D,2,8,2216,We Showed Up ,080707,adff2f,ffffff
 D,1,6,161,ZSUN,ffffff,0073b7,ffffff
