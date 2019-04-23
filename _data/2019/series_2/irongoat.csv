@@ -4,7 +4,7 @@ A,2,56,Cannondale/4iiii,2105,0d0d0d,eef2f5,f27a0b,Rowan Barrett &#128304;,ca,110
 A,2,46,,0,00dd00,,,Joshua Modert,us,584631,silver silver,0
 A,3,43,,0,00dd00,,,Darren Reddick,gb,843142,,0
 A,2,36,,0,00dd00,,,O  Gordinho Gal&aacute;tico,br,722842,gold gold,0
-A,3,35,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,norman henderson Cryo Gen,gb-sct,99549,,0
+A,3,35,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,norman henderson ,gb-sct,99549,,0
 A,1,34,,0,00dd00,,,Drake Deuel,us,726369,gold,0
 A,1,34,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Simon Merritt (CRYO-GEN) (GSV),gb,38493,gold,0
 A,1,31,,0,00dd00,,,Bruce Zoom7214,gb,1060589,silver,0
@@ -35,6 +35,7 @@ A,1,11,,0,00dd00,,,Vishnu Roy,au,18431,,0
 A,1,11,,0,00dd00,,,Patrick Darken,us,188739,,0
 A,1,11,BZR cycling team,35,f3f300,111111,dd4b39,Stijn Lycke (tri) 436522 5364,be,436522,,0
 A,1,11,,0,00dd00,,,Stinky G ,fi,509307,,0
+A,1,10,Team Poland,25,ffffff,ff1800,ff0000,Marc Waldemar [TeamPL] ,pl,448426,gold,0
 A,1,9,,0,00dd00,,,Luke Amer,us,167502,,0
 A,1,9,Splunk&gt;,3933,ffffff,003838,ffffff,Kevin Vander Ende [Splunk&gt;],us,966423,,0
 A,1,9,BRT,4,ffffff,050505,ff8100,Theo Miglakis &#127808; [The Mig],gr,249545,,0
@@ -44,6 +45,7 @@ A,1,7,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Flo Johannsson,de,889682,,0
 A,1,7,,0,00dd00,,,Andre Huyghe,fr,572458,,0
 A,1,7,GDM,2798,ffffff,0073b7,ffffff,Steven GDM,be,391505,,0
 A,1,7,,0,00dd00,,,Richard Landgraff5453,us,55416,,0
+A,1,7,,0,00dd00,,,Murphy Davis,us,852728,silver,0
 A,1,6,,0,00dd00,,,Karl Moseley ZHR F ,gb,935927,,0
 A,1,6,,0,00dd00,,,Vin Kelly 7502,au,781070,,0
 A,1,5,BRT,4,ffffff,050505,ff8100,Per R&oslash;nsg&aring;rd,no,118022,,0
@@ -52,15 +54,18 @@ A,1,5,,0,00dd00,,,Benoit Savoie,ca,335905,,0
 A,1,5,,0,00dd00,,,Mikey,au,199397,,0
 A,1,5,Sandane SK,775,ffffff,0073b7,ffffff,Per Erik Eimhjellen,no,164263,,0
 A,1,5,KISS RT,36,f56600,012350,84b7ca,&Oslash;ivind Bjerkseth,no,350258,bronze,0
+A,1,5,,0,00dd00,,,Rune Blaasmo,no,42370,bronze,0
 A,1,4,Vikings,90,c2c2c2,0073b7,ee6331,Bernard Opedal,no,586093,,0
 A,1,4,Team X,2,f5f7f6,111111,00a65a,Casey Schumm &#127829;&#128304;,us,1412,,0
 A,1,3,,0,00dd00,,,Israel Moore,us,686256,,0
 A,1,3,,0,00dd00,,,P. Schaefer,de,1125195,,0
 A,1,3,,0,00dd00,,,Luigi Giaccari,de,829031,,0
+A,1,3,Team X,2,f5f7f6,111111,00a65a,Jeff Rooney &#128495;,nz,4867,,0
 A,1,2,,0,00dd00,,,Haydn Maughan,gb,486179,,0
 A,1,1,,0,00dd00,,,Alastair Murray,gb,1209801,,0
+A,1,1,,0,00dd00,,,Daniel Lewis,au,916152,,0
+B,6,144,,0,00dd00,,,S&eacute;bastien Zinezi,ca,961513,gold gold silver bronze,0
 B,5,138,CyclingHub,2635,f65000,00364a,ffffff,Timothy Termont &#129385;&#129363;,be,121658,gold gold gold gold gold,0
-B,5,134,,0,00dd00,,,S&eacute;bastien Zinezi,ca,961513,gold silver bronze,0
 B,2,70,,0,00dd00,,,Ingo Quendler,de,4202,bronze,0
 B,3,65,ICC,2494,000000,f2a30b,210303,Chris Kaye,gb-wls,1092286,,0
 B,2,58,,0,00dd00,,,William price ---- Chester tri   2087,gb-wls,320581,silver,0
@@ -96,6 +101,7 @@ B,1,23,,0,00dd00,,,Jamie Harris,us,584590,,0
 B,1,23,,0,00dd00,,,Jonathan Dubois,ca,105930,,0
 B,1,23,,0,00dd00,,,Erwin Griekspoor,nl,577844,,0
 B,1,23,,0,00dd00,,,Chris Moore,gb,51627,,0
+B,2,22,,0,00dd00,,,Marcus Elliott,gb,45616,bronze,0
 B,1,21,,0,00dd00,,,Gary Crays (PDX),us,587722,,0
 B,1,21,BRT,4,ffffff,050505,ff8100,Jason Murtagh &#9889;&#65039;BRT,gb,50134,,0
 B,1,21,,0,00dd00,,,Richard Sparkes,gb,50676,,0
@@ -106,7 +112,6 @@ B,1,19,,0,00dd00,,,Shawn Collison,ca,54794,,0
 B,2,18,DIRT,2707,29ec34,563c0f,df6a0d,Bryan Hilbert,us,1084786,,0
 B,1,17,,0,00dd00,,,Bill Campie,us,578235,,0
 B,1,17,Team Poland,25,ffffff,ff1800,ff0000,Marek Wachnicki,pl,553568,,0
-B,1,17,,0,00dd00,,,Marcus Elliott,gb,45616,,0
 B,3,16,C2C,2832,ffffff,46baf2,ff1e1e,Martin Hopper,gb,257132,,0
 B,1,15,,0,00dd00,,,Francois Delisle,ca,33006,,0
 B,2,15,SLOVENIA,1963,ffffff,95c447,ffffff,Janez Poto&#269;nik,si,117618,,0
@@ -138,10 +143,11 @@ B,1,7,,0,00dd00,,,Chris Hunt,gb,214532,,0
 B,1,7,,0,00dd00,,,Alastair Knockton,gb,809970,,0
 B,1,7,,0,00dd00,,, Goose ,us,106305,,0
 B,1,7,Team ER,1094,ffffff,0073b7,ffffff,Robert Cronje,za,221514,,0
+B,1,7,,0,00dd00,,,Diego Fonstad9394,us,329759,silver,0
 B,1,6,,0,00dd00,,,Carlos Cabalu,ph,461903,,0
 B,1,6,Vikings,90,c2c2c2,0073b7,ee6331,Geir Engen,no,662063,,0
 B,1,6,CHOCK,963,ffffff,000000,575757,Geir God&oslash;,no,417012,,0
-B,1,6,HIK,719,ffffff,0073b7,ffffff,Arjen Joosse,nl,367073,,0
+B,1,6,DIRT,2707,29ec34,563c0f,df6a0d,Arjen Joosse,nl,367073,,0
 B,1,5,Vikings,90,c2c2c2,0073b7,ee6331,Oeyvind Holmen(V),no,808317,,0
 B,1,5,,0,00dd00,,,Tim Abbott,gb,522276,,0
 B,1,5,STW,756,ffffff,0073b7,ffffff,Harvey Mushman,gb-nir,834219,,0
@@ -177,6 +183,7 @@ C,1,11,,0,00dd00,,,Joao Correia,ca,537925,,0
 C,1,10,BRT,4,ffffff,050505,ff8100,Lee Sharples,gb,6713,gold,0
 C,1,10,TFC,10,111111,f3f300,111111,Reg Bestwick TFC ,gb-eng,45213,gold,0
 C,1,10,,0,00dd00,,,JH FlyingCarp (c),us,1033606,gold,0
+C,1,10,,0,00dd00,,,Jonathan Tremblay,ca,1212657,gold,0
 C,1,9,,0,00dd00,,,Peter Fuerst,at,825991,,0
 C,1,9,,0,00dd00,,,Martin Phaneuf,ca,874784,,0
 C,1,9,Team Poland,25,ffffff,ff1800,ff0000,Bartosz Orzel,pl,1134975,,0

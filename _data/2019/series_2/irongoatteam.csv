@@ -1,13 +1,13 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,6,107,2635,CyclingHub,f65000,00364a,ffffff
 A,4,69,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,4,64,25,Team Poland,ffffff,ff1800,ff0000
 A,2,56,2105,Cannondale/4iiii,0d0d0d,eef2f5,f27a0b
-A,3,54,25,Team Poland,ffffff,ff1800,ff0000
 A,3,47,975,Innovation,000000,52ff33,000000
 A,2,28,1330,teamWKG,fa5e06,3f4c54,3f4c54
+A,3,22,2,Team X,f5f7f6,111111,00a65a
 A,1,21,3253,MarSting Story,ffffff,0073b7,ffffff
 A,2,20,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
-A,2,19,2,Team X,f5f7f6,111111,00a65a
 A,1,17,10,TFC,111111,f3f300,111111
 A,1,17,756,STW,ffffff,0073b7,ffffff
 A,1,15,341,545Velo,ffffff,0073b7,ffffff
@@ -21,7 +21,7 @@ A,1,5,36,KISS RT,f56600,012350,84b7ca
 A,1,4,90,Vikings,c2c2c2,0073b7,ee6331
 B,5,138,2635,CyclingHub,f65000,00364a,ffffff
 B,6,101,4,BRT,ffffff,050505,ff8100
-B,6,68,2707,DIRT,29ec34,563c0f,df6a0d
+B,7,74,2707,DIRT,29ec34,563c0f,df6a0d
 B,3,65,2494,ICC,000000,f2a30b,210303
 B,1,50,3061,Ironworks,ffffff,0073b7,ffffff
 B,1,43,2571,Equipe JZQc,ffffff,003399,ffffff
@@ -42,7 +42,6 @@ B,1,9,2699,FHaT,ffffff,faa643,ffffff
 B,1,9,3134,TIP,ffffff,0073b7,ffffff
 B,1,7,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,6,963,CHOCK,ffffff,000000,575757
-B,1,6,719,HIK,ffffff,0073b7,ffffff
 B,1,5,32,Sz,f3f300,0073b7,f3f300
 B,1,5,756,STW,ffffff,0073b7,ffffff
 C,3,36,1986,DBR,ffffff,eb7b2a,ffffff
