@@ -16,6 +16,8 @@ A,1,15,Team France,574,dd4b39,ffffff,0073b7,germain omnes,fr,111800,silver,0
 A,1,15,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,J. Williams &#128063;,gb,189343,,0
 A,1,15,Vikings,90,c2c2c2,0073b7,ee6331,Steinar Reinkind,no,363197,,0
 A,1,15,BRT,4,ffffff,050505,ff8100,Keith Robertson &lt;BRT&gt; &#9889;,gb,894741,silver,0
+A,4,15,BRT,4,ffffff,050505,ff8100,Rhys  Richards [BRT],gb-wls,1056206,gold gold gold bronze,2
+A,4,14,BRT,4,ffffff,050505,ff8100,Marcus Illingworth,gb,96834,silver bronze,1
 A,1,13,EBR,3741,ffffff,0073b7,ffffff,Tim Mason,gb,132847,,0
 A,1,13,Vikings,90,c2c2c2,0073b7,ee6331,thorsten gerstner (Vikings),no,873180,bronze,0
 A,2,12,,0,00dd00,,,R&uuml;diger Grosch,de,14064,,0
@@ -24,7 +26,7 @@ A,1,11,,0,00dd00,,,Lee Finch,gb-eng,269460,,0
 A,1,11,,0,00dd00,,,Ludovic Jouaud,fr,901267,,0
 A,1,11,SRVC,2474,ffffff,ff1b07,565656,Andy Larking,gb,415475,,0
 A,1,10,,0,00dd00,,,Jake Ragan 9872,gb,532358,gold,0
-A,1,10,,0,00dd00,,,Timothy Dawson,za,1006134,gold,0
+A,1,10,BRT,4,ffffff,050505,ff8100,Timothy Dawson,za,1006134,gold,0
 A,1,9,,0,00dd00,,,Giovanni Goesting,nl,1070163,,0
 A,1,9,,0,00dd00,,,Felix Clausen,dk,922707,,0
 A,1,9,BRT,4,ffffff,050505,ff8100,Grahame Mckenzie[BRT],gb,77990,,0
@@ -32,15 +34,13 @@ A,1,9,,0,00dd00,,,Michael Charlton,gb,781252,,0
 A,1,7,SZR,111,ffffff,0073b7,ffffff,Emil Nyman,se,235133,,0
 A,1,7,,0,00dd00,,,Karl Hellberg,se,460428,,0
 A,1,7,Petz Racing,2825,000000,fcaaaa,000000,Robert Petzold (petzracing.de),de,631804,,0
-A,3,7,BRT,4,ffffff,050505,ff8100,Marcus Illingworth,gb,96834,bronze,1
 A,1,5,TeamODZ,7,ff851b,111111,3c8dbc,David Crisp ,gb,165042,,0
 A,1,5,Team Italy,588,dd4b39,ffffff,00a65a,Giorgio Vedovati,it,537191,,0
 A,1,5,,0,00dd00,,,Roger Cutler (Bache Brothers),gb,748017,,0
-A,3,5,BRT,4,ffffff,050505,ff8100,Rhys  Richards [BRT],gb,1056206,gold gold bronze,2
 A,3,4,BRT,4,ffffff,050505,ff8100,. Jamie [A] [BRT],gb,401751,,1
 A,1,4,CLAN KNOX,3073,ffffff,000000,000000,Chucky P,ca,462894,,0
 A,1,3,teamWKG,1330,fa5e06,3f4c54,3f4c54,Kevin Headley ,us,247198,,0
-B,7,157,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold gold silver silver bronze,0
+B,8,157,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold gold gold silver silver bronze,0
 B,3,75,,0,00dd00,,,David Sharp,gb,482773,gold,0
 B,2,54,BRT,4,ffffff,050505,ff8100,Derek Cahoon,us,719674,,0
 B,1,50,TeamNL,2281,ffffff,ffa500,ffa500,Richard van Leeuwen,nl,496280,gold,0
@@ -48,7 +48,7 @@ B,1,50,Team Type 1,168,ffffff,0073b7,ffffff,James Bailey TT1,gb,744714,gold,0
 B,1,47,,0,00dd00,,,Marcin Kowalczyk,pl,530478,silver,0
 B,1,47,,0,00dd00,,,Alan Davidson(Dundee Thistle),gb-sct,217592,silver,0
 B,1,45,,0,00dd00,,,J&oslash;rgen L&oslash;kke,no,67106,bronze,0
-B,1,43,,0,00dd00,,,Brent Letson (B),au,35408,,0
+B,1,43,,0,00dd00,,,Brent Letson,au,35408,,0
 B,1,43,,0,00dd00,,,Jeff Phillips,us,66752,,0
 B,2,42,,0,00dd00,,,Andy Irons,gb-eng,189009,,0
 B,1,41,Team AHDR,629,fc6955,55d4fc,ffffff,Jacob Fuglsang Petersen,dk,742024,,0
@@ -81,6 +81,7 @@ B,1,19,,0,00dd00,,,Christoph Balke,de,943965,,0
 B,1,19,HERD,2639,383c3d,fc6719,383c3d,Marius Midtskogen [V] &#128002; [HERD],no,439203,,0
 B,1,19,Team Italy,588,dd4b39,ffffff,00a65a,Paolo Fanella,it,2668,,0
 B,1,19,,0,00dd00,,,Hugo Ara&uacute;jo,pt,164736,,0
+B,2,18,BRT,4,ffffff,050505,ff8100,Dejan Mitov (B),mk,164002,bronze bronze,0
 B,1,17,Race3R,791,000000,2bc3f4,ffffff,Jason Feltus&#128057; Race3R ,gb,91269,,0
 B,1,15,Team Poland,25,ffffff,ff1800,ff0000,Arek Peters,pl,629035,,0
 B,1,15,,0,00dd00,,,Nick Bowden,gb,81373,,0
@@ -90,7 +91,6 @@ B,1,15,,0,00dd00,,,Tom Spencer ,gb,913089,silver,0
 B,1,13,,0,00dd00,,,Bernd K&ouml;hler ,de,1055968,,0
 B,1,13,,0,00dd00,,,Chris Maas,nl,929412,,0
 B,1,13,,0,00dd00,,,Liwi Feuerzahn,de,1212166,,0
-B,1,13,BRT,4,ffffff,050505,ff8100,Dejan Mitov (B),mk,164002,bronze,0
 B,1,11,KOM RT,2782,ffffff,ff0000,030202,James Fox &bull; Komfuel.co.uk,gb,245664,,0
 B,1,11,,0,00dd00,,,Thore Roos,de,425965,,0
 B,1,11,,0,00dd00,,,Musio  Carlo BZR,be,238491,,0
@@ -106,6 +106,7 @@ B,1,7,HSIL,3049,f3f6f7,1763bf,0f18e8,Henrik Andlem Borresen,no,653639,,0
 B,1,7,,0,00dd00,,,Stasi Forest,pl,120653,,0
 B,1,7,,0,00dd00,,,David Beltr&aacute;n,fr,1033176,,0
 B,1,7,,0,00dd00,,,Steve Shrubsall,gb,822214,silver,0
+B,1,7,,0,00dd00,,,Manuel Sourlier,ch,1190135,silver,0
 B,1,6,,0,00dd00,,,Charlotte Backus,us,22685,,0
 B,1,6,,0,00dd00,,,Richard Cawthraw,gb,606829,,0
 B,1,5,,0,00dd00,,,Barry Pope,gb,58978,,0
@@ -136,14 +137,16 @@ C,1,11,ZESP,2146,000000,fabd00,ad1519,Alfonso Canal,es,160817,,0
 C,1,10,,0,00dd00,,,Kevin Chalmers,,629469,gold,0
 C,1,10,TFC,10,111111,f3f300,111111,Michiel Kersten,nl,425370,gold,0
 C,1,10,NTR,2860,000000,ffff00,ffffff,Charlie Ryan NTR,gb,185957,gold,0
+C,1,10,BRT,4,ffffff,050505,ff8100,David Claydon (BRT),gb,850893,gold,0
 C,1,9,,0,00dd00,,,David Williams,gb-wls,873189,,0
 C,1,9,Vision,9,ffffff,2ea9e0,000000,John Kerr,gb,32544,,0
 C,1,9,BRT,4,ffffff,050505,ff8100,Sue McCormick BRT Hellcatz ,gb,552993,,0
 C,1,7,HERD,2639,383c3d,fc6719,383c3d,Gordon Sloan HERD,gb,613280,,0
 C,1,7,VirtualRoad.Bike,3738,ffffff,ff0000,0073b7,Daniel Lancia &#127939;&#128692;&#127995;&zwj;&#9794;&#65039;,it,894848,,0
-C,1,7,Race3R,791,000000,2bc3f4,ffffff,Eric Bonner RaceWBR,gb,123214,silver,0
+C,1,7,Race3R,791,000000,2bc3f4,ffffff,Eric Bonner Race3R,gb,123214,silver,0
 C,2,7,,0,00dd00,,,Daniel Spisiak,sk,732655,silver silver,1
 C,1,7,BRT,4,ffffff,050505,ff8100,Kristy MightOn 2268,ca,429245,silver,0
+C,1,7,TFC,10,111111,f3f300,111111,Andy Beveridge TFC,gb,51283,silver,0
 C,1,6,,0,00dd00,,,Diogo Rodrigues,pt,1032451,,0
 C,1,5,,0,00dd00,,,Anne-C Bonnefoi,fr,859349,,0
 C,1,5,HERD,2639,383c3d,fc6719,383c3d,Lori Hay (Herd),gb,1037971,,0
@@ -160,6 +163,7 @@ D,1,15,HERD,2639,383c3d,fc6719,383c3d,Sven Claes [HERD],be,919493,silver,0
 D,1,13,HERD,2639,383c3d,fc6719,383c3d,James Bailey HERD,gb-eng,614908,bronze,0
 D,1,11,PTz,1,ffffff,403d3a,e3680f,Marcelo Pereira,pt,45713,,0
 D,1,10,,0,00dd00,,,Fred Gauquelin,fr,675285,gold,0
+D,1,10,TFC,10,111111,f3f300,111111,Richard McCulloch,,50300,gold,0
 D,1,9,,0,00dd00,,,Paul Davison,gb,806236,,0
 D,1,7,HERD,2639,383c3d,fc6719,383c3d,Derek Phillips (HERD),au,714462,,0
 D,1,7,,0,00dd00,,,Aaron Z,zw,191582,silver,0
