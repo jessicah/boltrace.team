@@ -1,0 +1,11 @@
+category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+B,1,10,,0,00dd00,,,Andy Cooke,gb,54923,gold,0
+B,1,7,ZRG,1942,1bc1f1,5b5b5b,1bc1f1,Andreas Rolle,de,944206,silver,0
+C,1,10,,0,00dd00,,,Rich Babbage,gb,28524,gold,0
+C,1,7,teamWKG,1330,fa5e06,3f4c54,3f4c54,Kevin Wiltshire,gb,392756,silver,0
+C,1,5,,0,00dd00,,,Bryan  Sudderth,us,488857,bronze,0
+D,1,10,[DRAFT],1634,ffffff,e60d2e,000000,Jim McQuaide &#128304;,us,7528,gold,0
+D,1,7,BRT,4,ffffff,050505,ff8100,Scott Main [BRT],gb-sct,1002910,silver,0
+D,1,5,Race3R,791,000000,2bc3f4,ffffff,Alexis  LOUGE ,fr,36027,bronze,0
+D,1,3,Team Italy,588,dd4b39,ffffff,00a65a,Paulo Rodrigues,pt,336221,,0
+D,1,1,Equipe JZQc,2571,ffffff,003399,ffffff,Serge Quessy, (JZQc),ca,430900,,0
