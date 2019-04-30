@@ -4,11 +4,6 @@
 </p>
 
 <h3>Individual Results</h3>
-{% assign graded_results = include.riders | group_by: "category" | sort: "name" %}
-{% assign a_size = graded_results[0].items.size %}
-{% assign b_size = graded_results[1].items.size %}
-{% assign c_size = graded_results[2].items.size %}
-{% assign d_size = graded_results[3].items.size %}
 <style type='text/css'>
 .even {
 	background-color: rgb(214, 208, 208);
@@ -52,19 +47,32 @@ td.team-badge > span {
 .fa-star {
 	color: gold;
 }
+thead.a-grade > tr {
+	background-color: red;
+}
+thead.b-grade > tr {
+	background-color: green;
+}
+thead.c-grade > tr {
+	background-color: lightseagreen;
+}
+thead.d-grade > tr {
+	background-color: orange;
+}
 </style>
+{% assign results = include.riders | group_by: "category" | sort: "name" %}
 <table id='individual-results'>
-	<thead class='a-grade' id='a-grade-individual'>
-			<tr style='background-color: red'>
-					<th colspan='4'>A Grade</th>
+	{% for grade in results %}
+	<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-individual'>
+			<tr>
+					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
 				</tr>
-			<tr style='background-color: red'>
+			<tr>
 <th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 </tr>
 </thead>
-<tbody class='a-grade'>
-	{% for i in (1..a_size) %}
-		{% assign item = graded_results[0].items[forloop.index0] %}
+<tbody class='{{ grade.name | lowercase}}-grade'>
+	{% for item in grade.items %}
 		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
 		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
 		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
@@ -94,145 +102,23 @@ td.team-badge > span {
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='b-grade' id='b-grade-individual'>
-		<tr style='background-color: green'>
-				<th colspan='4'>B Grade</th>
-			</tr>
-		<tr style='background-color: green'>
-	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
-	</tr>
-	</thead>
-<tbody class='b-grade'>
-	{% for i in (1..b_size) %}
-		{% assign item = graded_results[1].items[forloop.index0] %}
-		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
-		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
-		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
-		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
-	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}
-				{% for p in podiums reversed %}
-					<i class='fas fa-trophy {{ p }}'></i>
-				{% endfor %}
-				{% for i in (1..item.upgrades) %}
-					<i class='fas fa-star'></i>
-				{% endfor %}
-			</td>
-			{% assign tnamesize = item.tname.size %}
-			{% if tnamesize > 0 %}
-				{% assign border = item.tbd %}
-				{% if border == "ffffff" %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-				{% else %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-				{% endif %}
-			{% else %}
-			<td></td>
-			{% endif %}
-			<td style='text-align: right'>{{ item.events }}</td>
-			<td style='text-align: right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
-<thead class='c-grade' id='c-grade-individual'>
-		<tr style='background-color: lightseagreen'>
-				<th colspan='4'>C Grade</th>
-			</tr>
-		<tr style='background-color: lightseagreen'>
-	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
-	</tr>
-	</thead>
-<tbody class='c-grade'>
-	{% for i in (1..c_size) %}
-		{% assign item = graded_results[2].items[forloop.index0] %}
-		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
-		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
-		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
-		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
-	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}
-				{% for p in podiums reversed %}
-					<i class='fas fa-trophy {{ p }}'></i>
-				{% endfor %}
-				{% for i in (1..item.upgrades) %}
-					<i class='fas fa-star'></i>
-				{% endfor %}
-			</td>
-			{% assign tnamesize = item.tname.size %}
-			{% if tnamesize > 0 %}
-				{% assign border = item.tbd %}
-				{% if border == "ffffff" %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-				{% else %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-				{% endif %}
-			{% else %}
-			<td></td>
-			{% endif %}
-			<td style='text-align: right'>{{ item.events }}</td>
-			<td style='text-align: right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
-<thead class='d-grade' id='d-grade-individual'>
-		<tr style='background-color: orange'>
-				<th colspan='4'>D Grade</th>
-			</tr>
-		<tr style='background-color: orange'>
-	<th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
-	</tr>
-	</thead>
-<tbody class='d-grade'>
-	{% for i in (1..d_size) %}
-		{% assign item = graded_results[3].items[forloop.index0] %}
-		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
-		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
-		{% assign bronze = item.podiums | remove: "silver" | remove: "gold" %}
-		{% assign podiums = gold | append: " " | append: silver | append: " " | append: bronze | split: " " %}
-	<tr class='{% cycle "even", "odd" %}'>
-			<td>{{ item.name }}
-				{% for p in podiums reversed %}
-					<i class='fas fa-trophy {{ p }}'></i>
-				{% endfor %}
-				{% for i in (1..item.upgrades) %}
-					<i class='fas fa-star'></i>
-				{% endfor %}
-			</td>
-			{% assign tnamesize = item.tname.size %}
-			{% if tnamesize > 0 %}
-				{% assign border = item.tbd %}
-				{% if border == "ffffff" %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-				{% else %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-				{% endif %}
-			{% else %}
-			<td></td>
-			{% endif %}
-			<td style='text-align: right'>{{ item.events }}</td>
-			<td style='text-align: right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
+{% endfor %}
 </table>
-{% assign team_results = include.teams | group_by: "category" | sort: "name" %}
-{% assign a_size = team_results[0].items.size %}
-{% assign b_size = team_results[1].items.size %}
-{% assign c_size = team_results[2].items.size %}
-{% assign d_size = team_results[3].items.size %}
+
 <h3>Team Results</h3>
+{% assign results = include.teams | group_by: "category" | sort: "name" %}
 <table id='team-results'>
-	<thead class='a-team-grade' id='a-grade-team'>
-		<tr style='background-color: red'>
-			<th colspan='3'>A Grade</th>
+{% for grade in results %}
+		<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-team'>
+		<tr>
+			<th colspan='3'>{{ grade.name | uppercase }} Grade</th>
 		</tr>
-	<tr style='background-color: red'>
+	<tr>
 <th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 </tr>
 </thead>
-<tbody class='a-team-grade'>
-	{% for i in (1..a_size) %}
-		{% assign item = team_results[0].items[forloop.index0] %}
+<tbody class='{{ grade.name | lowercase }}-grade'>
+	{% for item in grade.items %}
 	<tr class='{% cycle "even", "odd" %}'>
 		{% assign tnamesize = item.tname.size %}
 		{% assign border = item.tbd %}
@@ -246,76 +132,5 @@ td.team-badge > span {
 	</tr>
 	{% endfor %}
 </tbody>
-<thead class='b-team-grade' id='b-grade-team'>
-		<tr style='background-color: green'>
-				<th colspan='3'>B Grade</th>
-			</tr>
-		<tr style='background-color: green'>
-	<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
-	</tr>
-	</thead>
-<tbody class='b-team-grade'>
-	{% for i in (1..b_size) %}
-		{% assign item = team_results[1].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}'>
-			{% assign tnamesize = item.tname.size %}
-				{% assign border = item.tbd %}
-				{% if border == "ffffff" %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-				{% else %}
-					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-				{% endif %}
-			<td style='text-align:right'>{{ item.events }}</td>
-			<td style='text-align:right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
-<thead class='c-team-grade' id='c-grade-team'>
-		<tr style='background-color: lightseagreen'>
-				<th colspan='3'>C Grade</th>
-			</tr>
-		<tr style='background-color: lightseagreen'>
-		<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
-	</tr>
-	</thead>
-<tbody class='c-team-grade'>
-	{% for i in (1..c_size) %}
-		{% assign item = team_results[2].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}'>
-		{% assign tnamesize = item.tname.size %}
-		{% assign border = item.tbd %}
-		{% if border == "ffffff" %}
-			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-		{% else %}
-			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-		{% endif %}
-	<td style='text-align:right'>{{ item.events }}</td>
-	<td style='text-align:right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
-<thead class='d-team-grade' id='d-grade-team'>
-		<tr style='background-color: orange'>
-				<th colspan='3'>D Grade</th>
-			</tr>
-		<tr style='background-color: orange'>
-			<th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
-	</tr>
-	</thead>
-<tbody class='d-team-grade'>
-	{% for i in (1..d_size) %}
-		{% assign item = team_results[3].items[forloop.index0] %}
-	<tr class='{% cycle "even", "odd" %}'>
-		{% assign tnamesize = item.tname.size %}
-		{% assign border = item.tbd %}
-		{% if border == "ffffff" %}
-			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbc}}'>{{ item.tname }}</span></td>
-		{% else %}
-			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
-		{% endif %}
-	<td style='text-align:right'>{{ item.events }}</td>
-	<td style='text-align:right'>{{ item.points }}</td>
-	</tr>
-	{% endfor %}
-</tbody>
+{% endfor %}
 </table>
