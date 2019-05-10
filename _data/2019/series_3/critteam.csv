@@ -1,10 +1,20 @@
 category,events,points,tid,tname,tc,tbc,tbd
+A,2,33,36,KISS RT,f56600,012350,84b7ca
 A,2,28,2144,CANYON,ffffff,ff005d,ff005d
-A,1,18,36,KISS RT,f56600,012350,84b7ca
+A,2,20,4,BRT,ffffff,050505,ff8100
+A,1,18,4165,&#9981;,ffffff,ffffff,ffffff
 A,1,11,2298,Rowe & King,ffffff,2b5bb8,2fba4e
-A,1,9,4,BRT,ffffff,050505,ff8100
-B,1,15,90,Vikings,c2c2c2,0073b7,ee6331
-B,2,14,4,BRT,ffffff,050505,ff8100
+B,3,16,4,BRT,ffffff,050505,ff8100
+B,1,15,975,Innovation,000000,52ff33,000000
+B,1,11,629,Team AHDR,fc6955,55d4fc,ffffff
+B,1,9,2707,DIRT,29ec34,563c0f,df6a0d
 B,1,7,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 B,1,5,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,3,22,4,BRT,ffffff,050505,ff8100
+C,4,45,4,BRT,ffffff,050505,ff8100
+C,1,26,1426,Team CLS,3d9970,ffffff,ffffff
+C,1,21,168,Team Type 1,ffffff,0073b7,ffffff
+C,1,17,1330,teamWKG,fa5e06,3f4c54,3f4c54
+C,1,11,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,1,5,2699,FHaT,ffffff,faa643,ffffff
+C,1,3,10,TFC,111111,f3f300,111111
+D,1,10,4,BRT,ffffff,050505,ff8100
