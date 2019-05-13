@@ -1,8 +1,11 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,1,18,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,2,31,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,2,20,975,Innovation,000000,52ff33,000000
+A,1,18,2,Team X,f5f7f6,111111,00a65a
 A,1,15,25,Team Poland,ffffff,ff1800,ff0000
-A,1,13,975,Innovation,000000,52ff33,000000
+A,1,15,984,HFR,ffffff,0073b7,ffffff
 A,1,11,392,GFTbe,ffffff,0073b7,ffffff
+A,1,9,3894,DCVELO ,ffffff,1c6ea1,f51b1b
 B,2,20,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,1,15,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 B,1,7,1677,Team Fearless,001f3f,39cccc,01ff70
