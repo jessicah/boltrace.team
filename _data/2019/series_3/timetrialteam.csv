@@ -1,12 +1,13 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,6,58,4,BRT,ffffff,050505,ff8100
-A,2,36,9,Vision,ffffff,2ea9e0,000000
+A,9,78,4,BRT,ffffff,050505,ff8100
+A,3,41,9,Vision,ffffff,2ea9e0,000000
 A,2,28,36,KISS RT,f56600,012350,84b7ca
 A,1,11,3367,Purple Train,faff66,5a005a,5a005a
-B,3,51,4,BRT,ffffff,050505,ff8100
+B,4,61,4,BRT,ffffff,050505,ff8100
 B,1,15,3469,Holmenkollen CK,111e6c,f8dae5,111e6c
 B,1,11,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,7,2665,British Cycling,ffffff,ff001f,0000ff
+C,4,51,4,BRT,ffffff,050505,ff8100
+C,1,9,25,Team Poland,ffffff,ff1800,ff0000
 C,1,7,10,TFC,111111,f3f300,111111
-C,1,5,4,BRT,ffffff,050505,ff8100
-D,3,27,4,BRT,ffffff,050505,ff8100
+D,4,37,4,BRT,ffffff,050505,ff8100
