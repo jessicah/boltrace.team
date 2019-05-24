@@ -1,23 +1,35 @@
 category,events,points,tid,tname,tc,tbc,tbd
+A,3,35,4,BRT,ffffff,050505,ff8100
 A,2,33,36,KISS RT,f56600,012350,84b7ca
 A,2,28,2144,CANYON,ffffff,ff005d,ff005d
-A,2,20,4,BRT,ffffff,050505,ff8100
+A,1,26,975,Innovation,000000,52ff33,000000
+A,1,23,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,1,19,25,Team Poland,ffffff,ff1800,ff0000
 A,1,18,4165,&#9981;,ffffff,ffffff,ffffff
+A,1,17,1826,BOC,ffffff,0073b7,ffffff
+A,1,13,2734,PLCC,ffffff,00ff00,000000
 A,1,11,2298,Rowe & King,ffffff,2b5bb8,2fba4e
+A,1,9,2779,FINESSE,f7f915,0ccaff,00a8d6
 A,1,7,3642,TDLCCYCLING,ffffff,0073b7,ffffff
-B,2,25,975,Innovation,000000,52ff33,000000
-B,3,16,4,BRT,ffffff,050505,ff8100
-B,1,11,629,Team AHDR,fc6955,55d4fc,ffffff
+A,1,5,3881,Essex,ffffff,cf142b,f7e017
+B,3,40,975,Innovation,000000,52ff33,000000
+B,5,39,4,BRT,ffffff,050505,ff8100
+B,2,34,629,Team AHDR,fc6955,55d4fc,ffffff
+B,1,26,3003,Groove SES,ffffff,0073b7,ffffff
+B,1,17,1426,Team CLS,3d9970,ffffff,ffffff
+B,1,13,2922,SDCC,ffffff,0073b7,ffffff
 B,1,9,2707,DIRT,29ec34,563c0f,df6a0d
 B,2,8,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,1,7,1986,DBR,ffffff,eb7b2a,ffffff
 B,1,7,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
-C,7,76,4,BRT,ffffff,050505,ff8100
+B,1,7,1992,WECC,ffffff,fa01ff,2102fe
+B,1,5,1611,GGCC,ffffff,0073b7,ffffff
+C,9,105,4,BRT,ffffff,050505,ff8100
+C,2,39,1426,Team CLS,3d9970,ffffff,ffffff
 C,2,39,168,Team Type 1,ffffff,0073b7,ffffff
-C,1,26,1426,Team CLS,3d9970,ffffff,ffffff
+C,3,23,10,TFC,111111,f3f300,111111
 C,1,17,1330,teamWKG,fa5e06,3f4c54,3f4c54
+C,2,12,25,Team Poland,ffffff,ff1800,ff0000
 C,1,11,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-C,1,9,25,Team Poland,ffffff,ff1800,ff0000
-C,2,8,10,TFC,111111,f3f300,111111
 C,1,5,2699,FHaT,ffffff,faa643,ffffff
 D,2,20,4,BRT,ffffff,050505,ff8100
