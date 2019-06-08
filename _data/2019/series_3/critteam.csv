@@ -1,41 +1,43 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,5,48,4,BRT,ffffff,050505,ff8100
+A,8,98,4,BRT,ffffff,050505,ff8100
+A,3,52,36,KISS RT,f56600,012350,84b7ca
 A,2,41,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,2,33,36,KISS RT,f56600,012350,84b7ca
 A,2,28,2144,CANYON,ffffff,ff005d,ff005d
 A,1,26,975,Innovation,000000,52ff33,000000
 A,1,19,25,Team Poland,ffffff,ff1800,ff0000
 A,1,18,4165,&#9981;,ffffff,ffffff,ffffff
 A,1,17,1826,BOC,ffffff,0073b7,ffffff
+A,2,14,843,MDCC,ffffff,0073b7,ffffff
 A,1,13,144,NCVC,ffffff,0073b7,ffffff
 A,1,13,2734,PLCC,ffffff,00ff00,000000
 A,1,11,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,9,2779,FINESSE,f7f915,0ccaff,00a8d6
 A,1,7,3642,TDLCCYCLING,ffffff,0073b7,ffffff
 A,1,5,3881,Essex,ffffff,cf142b,f7e017
-A,1,5,843,MDCC,ffffff,0073b7,ffffff
+A,1,5,2,Team X,f5f7f6,111111,00a65a
 A,1,1,2146,ZESP,000000,fabd00,ad1519
-B,7,67,4,BRT,ffffff,050505,ff8100
-B,3,40,975,Innovation,000000,52ff33,000000
-B,2,35,1426,Team CLS,3d9970,ffffff,ffffff
-B,2,34,629,Team AHDR,fc6955,55d4fc,ffffff
+B,9,99,4,BRT,ffffff,050505,ff8100
+B,4,59,975,Innovation,000000,52ff33,000000
+B,3,57,629,Team AHDR,fc6955,55d4fc,ffffff
+B,3,52,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,26,3003,Groove SES,ffffff,0073b7,ffffff
+B,2,18,2707,DIRT,29ec34,563c0f,df6a0d
 B,1,13,2922,SDCC,ffffff,0073b7,ffffff
+B,1,13,791,Race3R,000000,2bc3f4,ffffff
 B,1,11,302,LAMONT,ffffff,0073b7,ffffff
-B,1,9,2707,DIRT,29ec34,563c0f,df6a0d
 B,2,8,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,1,7,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,7,1986,DBR,ffffff,eb7b2a,ffffff
 B,1,7,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
 B,1,7,1992,WECC,ffffff,fa01ff,2102fe
 B,1,5,1611,GGCC,ffffff,0073b7,ffffff
-C,14,178,4,BRT,ffffff,050505,ff8100
-C,3,62,168,Team Type 1,ffffff,0073b7,ffffff
+C,16,206,4,BRT,ffffff,050505,ff8100
+C,4,80,168,Team Type 1,ffffff,0073b7,ffffff
 C,2,39,1426,Team CLS,3d9970,ffffff,ffffff
-C,3,23,10,TFC,111111,f3f300,111111
+C,4,30,10,TFC,111111,f3f300,111111
 C,1,21,36,KISS RT,f56600,012350,84b7ca
 C,1,17,1330,teamWKG,fa5e06,3f4c54,3f4c54
 C,2,12,25,Team Poland,ffffff,ff1800,ff0000
 C,1,11,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,1,5,2699,FHaT,ffffff,faa643,ffffff
-D,4,37,4,BRT,ffffff,050505,ff8100
+D,5,44,4,BRT,ffffff,050505,ff8100
