@@ -84,7 +84,7 @@ window.onload = function() {
 		var span = document.createElement("span");
 		var f = formatDate(d);
 		if (el.getAttribute('data-format') == 'day-time') {
-			span.innerText = " (" + f.dayOfWeek + " " + f.hours + ":" + f.minutes + f.ampm + ")";
+			span.innerText = " (" + f.dayOfWeek + " " + (f.hours == 0 ? "12" : f.hours) + ":" + f.minutes + f.ampm + ")";
 		} else {
 			if (d.getUTCDate() == d.getDate() && d.getUTCMonth() == d.getMonth() && d.getUTCFullYear() == d.getFullYear()) {
 				// safe to assume we're still on the same day
