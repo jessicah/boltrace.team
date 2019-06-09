@@ -1,5 +1,12 @@
 <script type='text/javascript'>
-function formatDate(date) {
+function formatDate(date, useUpcomingDay=false) {
+	if (useUpcomingDay) {
+		var current = new Date();
+		while (date < current) {
+			date.setUTCDate(date.getUTCDate() + 7);
+		}
+	}
+
 	var daySuffix = "th";
 	var day = date.getDate();
 	switch (day) {
@@ -66,6 +73,10 @@ window.onload = function() {
 	for (var i = 0; i < els.length; ++i) {
 		var el = els[i];
 		var d = new Date(0);
+		var useUpcomingDay = false;
+		if (el.hasAttribute('data-use-upcoming') && el.getAttribute('data-use-upcoming') == 'true') {
+			useUpcomingDay = true;
+		}
 		if (el.hasAttribute('data-date')) {
 			var parts = el.getAttribute('data-date').split('-');
 			if (parts < 5) {
@@ -82,7 +93,7 @@ window.onload = function() {
 			continue;
 		}
 		var span = document.createElement("span");
-		var f = formatDate(d);
+		var f = formatDate(d, useUpcomingDay);
 		if (el.getAttribute('data-format') == 'day-time') {
 			span.innerText = " (" + f.dayOfWeek + " " + (f.hours == 0 ? "12" : f.hours) + ":" + f.minutes + f.ampm + ")";
 		} else {
