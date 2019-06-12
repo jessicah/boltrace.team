@@ -4,62 +4,6 @@
 </p>
 
 <h3>Individual Results</h3>
-<style type='text/css'>
-.even {
-	background-color: rgb(214, 208, 208);
-}
-.odd {
-	background-color: rgb(224, 218, 218);
-}
-td {
-	padding-left: 1em;
-	padding-right: 1em;
-	color: black;
-}
-th {
-	padding-left: 1em;
-	padding-right: 1em;
-	text-align: left;
-}
-thead {
-	background-color: rgba(242, 120, 12, 1);
-}
-</style>
-<style type='text/css'>
-#individual-results td.team-badge {
-	text-align: right;
-}
-#team-results td.team-badge {
-	text-align: left;
-}
-td.team-badge {
-	padding-top: 3px;
-	padding-bottom: 3px;
-}
-td.team-badge > span {
-	font-size: 75%;
-	padding-top: 2px;
-	padding-left: 4px;
-	padding-right: 4px;
-	border-style: solid;
-	border-width: 2px;
-}
-.fa-star {
-	color: gold;
-}
-thead.a-grade > tr {
-	background-color: red;
-}
-thead.b-grade > tr {
-	background-color: green;
-}
-thead.c-grade > tr {
-	background-color: lightseagreen;
-}
-thead.d-grade > tr {
-	background-color: orange;
-}
-</style>
 {% assign results = include.riders | group_by: "category" | sort: "name" %}
 <table id='individual-results'>
 	{% for grade in results %}
@@ -95,10 +39,10 @@ thead.d-grade > tr {
 					<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 				{% endif %}
 			{% else %}
-			<td></td>
+			<td>&nbsp;</td>
 			{% endif %}
-			<td style='text-align: right'>{{ item.events }}</td>
-			<td style='text-align: right'>{{ item.points }}</td>
+			<td class='events'>{{ item.events }}</td>
+			<td class='points'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
@@ -127,8 +71,8 @@ thead.d-grade > tr {
 		{% else %}
 			<td class='team-badge'><span style='background-color: {{item.tbc}}; color:{{item.tc}}; border-color: {{item.tbd}}'>{{ item.tname }}</span></td>
 		{% endif %}
-	<td style='text-align:right'>{{ item.events }}</td>
-	<td style='text-align:right'>{{ item.points }}</td>
+	<td class='events'>{{ item.events }}</td>
+	<td class='points'>{{ item.points }}</td>
 	</tr>
 	{% endfor %}
 </tbody>
