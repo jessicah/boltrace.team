@@ -1,15 +1,15 @@
 ---
 layout: default
 redirect_from: "/tt"
-date: 22/06/2019
+date: 26/06/2019
 ---
 
 <h2>Time Trial League</h2>
 
 <h3>Event Information</h3>
 <ul>
-	<li>Start Date: 1st May, 2019</li>
-	<li>End Date: 26th June, 2019</li>
+	<li>Start Date: 26th June, 2019</li>
+	<li>End Date: 14th August, 2019</li>
 	<li>Event Day & Time: <span class='date-data' data-date='2019-05-01-18-35' data-format='day-time' data-use-upcoming='true'>Wednesday, 6:35pm UTC</span></li>
 	<li>Duration: 8 weeks</li>
 	<li>Categories
@@ -63,9 +63,10 @@ date: 22/06/2019
 <ul>
 	<li><a href='/results/2019/series-1/time-trial-league'>2019 Series 1</a></li>
 	<li><a href='/results/2019/series-2/time-trial-league'>2019 Series 2</a></li>
+	<li><a href='/results/2019/series-3/time-trial-league'>2019 Series 3</a></li>
 </ul>
 
 <h3>Current Standings</h3>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
-{% include standings.html riders=site.data.2019.series_3.timetrial teams=site.data.2019.series_3.timetrialteam %}
+{% include standings.html riders=site.data.2019.series_4.timetrial teams=site.data.2019.series_4.timetrialteam %}
 {% include datetime.html %}
