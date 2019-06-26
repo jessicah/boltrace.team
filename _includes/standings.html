@@ -5,6 +5,11 @@
 
 <h3>Individual Results</h3>
 {% assign results = include.riders | group_by: "category" | sort: "name" %}
+{% if results.size < 1 %}
+<p>
+	No results yet.
+</p>
+{% else %}
 <table id='individual-results'>
 	{% for grade in results %}
 	<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-individual'>
@@ -48,9 +53,15 @@
 </tbody>
 {% endfor %}
 </table>
+{% endif %}
 
 <h3>Team Results</h3>
 {% assign results = include.teams | group_by: "category" | sort: "name" %}
+{% if results.size < 1 %}
+<p>
+	No results yet.
+</p>
+{% else %}
 <table id='team-results'>
 {% for grade in results %}
 		<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-team'>
@@ -78,3 +89,4 @@
 </tbody>
 {% endfor %}
 </table>
+{% endif %}
