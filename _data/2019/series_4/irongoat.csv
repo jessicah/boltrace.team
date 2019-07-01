@@ -1,14 +1,43 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,1,26,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Julian White,ca,563359,gold,0
+A,1,23,,0,00dd00,,,Steffen Huber 8703,us,573420,silver,0
+A,1,21,Team X,2,f5f7f6,111111,00a65a,Casey Schumm &#127829;&#128304;,us,1412,bronze,0
+A,1,19,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Daniel Lewis,au,916152,,0
+A,1,17,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Simon Lyons,au,748454,,0
+A,2,16,Innovation,975,000000,52ff33,000000,Mark Shaw,nz,70690,silver,0
+A,1,15,,0,00dd00,,,Jacob K.(Mukki Latte),de,619959,,0
+A,1,13,BRT,4,ffffff,050505,ff8100,Aaron Barry&#9889;&#65039; [BRT],gb,743592,,0
+A,1,11,,0,00dd00,,,Daisuke Hashimoto,jp,158282,,0
 A,1,10,Innovation,975,000000,52ff33,000000,Andrew Kirby,gb,933861,gold,0
-A,1,7,Innovation,975,000000,52ff33,000000,Mark Shaw,nz,70690,silver,0
+A,1,7,VS CYCLES,783,ffffff,0073b7,ffffff,Paul Waddington,gb,247818,,0
 A,1,5,teamWKG,1330,fa5e06,3f4c54,3f4c54,Gi Blundred,gb,454953,bronze,0
+A,1,5,KLD,2163,0073b7,ffffff,0073b7,Dmitryi damynk&#127472;&#127473;&#127465;&#127479;&#127482;,ru,130597,,0
 A,1,3,BRT,4,ffffff,050505,ff8100,Sean Casson,gb,161615,,0
 A,1,1,BRT,4,ffffff,050505,ff8100,Fernando Delvalle,us,12440,,0
-B,1,10,Team MBBC Racing,2659,ffffff,0073b7,ff091e,Brandon Benham,us,605982,gold,0
-B,1,7,FinishStrong,1740,ffffff,0073b7,ffffff,Robby Parker,us,66794,silver,0
-B,1,5,,0,00dd00,,,Adam Jones,gb,261315,bronze,0
-B,1,3,,0,00dd00,,,Chris Lomas(C),gb,704962,,0
-B,1,1,,0,00dd00,,,Russell Brooks,gb,843706,,0
-C,1,10,,0,00dd00,,,Darren Glendenning,au,1262968,gold,0
-C,1,7,,0,00dd00,,,Christian Jacobsen,dk,74378,silver,0
-C,1,5,,0,00dd00,,,Crystal Strong,us,816765,bronze,0
+B,2,34,FinishStrong,1740,ffffff,0073b7,ffffff,Robby Parker,us,66794,silver,0
+B,2,33,Team MBBC Racing,2659,ffffff,0073b7,ff091e,Brandon Benham,us,605982,gold,0
+B,1,26,,0,00dd00,,,Steve Jamison,us,362232,gold,0
+B,1,23,Sandane SK,775,ffffff,0073b7,ffffff,Per Erik Eimhjellen,no,164263,silver,0
+B,1,21,,0,00dd00,,,Fred Doucette,us,248424,bronze,0
+B,1,17,Dutch Diesel Cyc,2649,ffffff,e35221,23398f,Ryan McGee [DDC] ,us,545017,,0
+B,1,13,,0,00dd00,,,Adam Jones,gb,261315,bronze,0
+B,1,13,Team AHDR,629,fc6955,55d4fc,ffffff,Darren Bramwell,au,131612,,0
+B,1,11,,0,00dd00,,,Chris Lomas(C),gb,704962,,0
+B,1,11,,0,00dd00,,,Eric Nieminen,us,97194,,0
+B,1,9,,0,00dd00,,,Darren Glendenning,au,1262968,,0
+B,1,9,INTENT,554,ffffff,0073b7,ffffff,Gregory Nash,us,6023,,0
+B,1,7,,0,00dd00,,,Russell Brooks,gb,843706,,0
+B,1,7,BRT,4,ffffff,050505,ff8100,Jason Murtagh &#9889;&#65039;BRT,gb,50134,,0
+B,1,5,,0,00dd00,,,Josh Ross,us,36937,,0
+B,1,4,,0,00dd00,,,Peter Jeffers,au,729720,,0
+B,1,3,,0,00dd00,,,Neil Green,us,178162,,0
+B,1,2,,0,00dd00,,,Ryan Heisler (Sonic Endurance / Slowtwitch) 1204,us,709166,,0
+C,1,18,IRL,3369,ffffff,32968e,e66f1a,Dane Farrell ,ie,778258,gold,0
+C,1,15,WATTBIKE,2738,ffffff,000000,ff3535,John Barry Whitaker,gb,672541,silver,0
+C,1,13,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Mathias Keller &#9419;,cl,995824,bronze,0
+C,1,11,,0,00dd00,,,stuart brazier,gb,17723,,0
+C,1,10,,0,00dd00,,,Christian Jacobsen,dk,74378,gold,0
+C,1,9,,0,00dd00,,,Peter Walker,ca,115121,,0
+C,1,7,,0,00dd00,,,Crystal Strong,us,816765,silver,0
+C,1,7,,0,00dd00,,,Kevin Kirkham,gb,1131306,,0
+C,1,5,,0,00dd00,,,Jo Bridson,im,850455,,0
