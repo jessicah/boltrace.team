@@ -2,6 +2,7 @@ category,events,points,tid,tname,tc,tbc,tbd
 A,1,18,36,KISS RT,f56600,012350,84b7ca
 A,1,13,1986,DBR,ffffff,eb7b2a,ffffff
 A,1,11,791,Race3R,000000,2bc3f4,ffffff
+A,1,10,4,BRT,ffffff,050505,ff8100
 A,1,10,1405,AFC,ff0000,000000,cc0000
 A,1,9,1,PTz,ffffff,403d3a,e3680f
 A,1,7,4201,WTRL e-Racing,f5f3f3,8f8f8f,010000
@@ -9,14 +10,20 @@ B,1,23,574,Team France,dd4b39,ffffff,0073b7
 B,1,19,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,11,1,PTz,ffffff,403d3a,e3680f
 B,1,10,4308,Mach5,ffffff,0073b7,ffffff
+B,1,10,10,TFC,111111,f3f300,111111
 B,1,7,4,BRT,ffffff,050505,ff8100
 B,1,5,41,RuhrRiders,ff8700,000000,5cb0fc
 B,1,4,2214,PST,ffffff,0073b7,ffffff
 C,1,23,4,BRT,ffffff,050505,ff8100
 C,1,19,1458,CycleChat,ffffff,0073b7,ffffff
+C,1,10,2639,HERD,383c3d,fc6719,383c3d
 C,1,9,2980,iGregari,ffffff,0073b7,ffffff
+D,4,51,4,BRT,ffffff,050505,ff8100
 D,2,20,2639,HERD,383c3d,fc6719,383c3d
 D,1,18,2281,TeamNL,ffffff,ffa500,ffa500
 D,1,15,2570,Walsall Lads,ffffff,0073b7,ffffff
 D,1,13,4291,BadAss,ffffff,0073b7,ffffff
-D,1,11,4,BRT,ffffff,050505,ff8100
+D,1,11,2991,KirchmairCycling,210606,f2e80d,000103
+D,1,9,1330,teamWKG,fa5e06,3f4c54,3f4c54
+D,1,3,79,USMES,ffffff,0073b7,ffffff
+D,1,2,2740,Team CRYO-GEN,ffffff,0073b7,ffffff

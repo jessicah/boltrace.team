@@ -1,18 +1,25 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,3,62,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,5,45,4,BRT,ffffff,050505,ff8100
 A,3,26,975,Innovation,000000,52ff33,000000
 A,1,21,2,Team X,f5f7f6,111111,00a65a
-A,3,17,4,BRT,ffffff,050505,ff8100
+A,2,10,1330,teamWKG,fa5e06,3f4c54,3f4c54
+A,2,9,9,Vision,ffffff,2ea9e0,000000
+A,1,9,302,LAMONT,ffffff,0073b7,ffffff
 A,1,7,783,VS CYCLES,ffffff,0073b7,ffffff
-A,1,5,1330,teamWKG,fa5e06,3f4c54,3f4c54
 A,1,5,2163,KLD,0073b7,ffffff,0073b7
+B,3,58,629,Team AHDR,fc6955,55d4fc,ffffff
 B,2,34,1740,FinishStrong,ffffff,0073b7,ffffff
 B,2,33,2659,Team MBBC Racing,ffffff,0073b7,ff091e
 B,1,23,775,Sandane SK,ffffff,0073b7,ffffff
+B,1,23,35,BZR cycling team,f3f300,111111,dd4b39
+B,1,21,791,Race3R,000000,2bc3f4,ffffff
 B,1,17,2649,Dutch Diesel Cyc,ffffff,e35221,23398f
-B,1,13,629,Team AHDR,fc6955,55d4fc,ffffff
+B,1,15,32,Sz,f3f300,0073b7,f3f300
 B,1,9,554,INTENT,ffffff,0073b7,ffffff
 B,1,7,4,BRT,ffffff,050505,ff8100
 C,1,18,3369,IRL,ffffff,32968e,e66f1a
 C,1,15,2738,WATTBIKE,ffffff,000000,ff3535
+C,1,15,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,13,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,7,1348,Saints and Spinners CC,ffffff,236192,236192
