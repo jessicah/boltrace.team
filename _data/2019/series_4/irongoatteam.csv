@@ -2,11 +2,13 @@ category,events,points,tid,tname,tc,tbc,tbd
 A,3,62,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,5,45,4,BRT,ffffff,050505,ff8100
 A,3,26,975,Innovation,000000,52ff33,000000
+A,4,23,1330,teamWKG,fa5e06,3f4c54,3f4c54
 A,1,21,2,Team X,f5f7f6,111111,00a65a
-A,2,10,1330,teamWKG,fa5e06,3f4c54,3f4c54
 A,2,9,9,Vision,ffffff,2ea9e0,000000
 A,1,9,302,LAMONT,ffffff,0073b7,ffffff
 A,1,7,783,VS CYCLES,ffffff,0073b7,ffffff
+A,1,7,4327,TRB,e84444,ffffff,000000
+A,1,5,629,Team AHDR,fc6955,55d4fc,ffffff
 A,1,5,2163,KLD,0073b7,ffffff,0073b7
 B,3,58,629,Team AHDR,fc6955,55d4fc,ffffff
 B,2,34,1740,FinishStrong,ffffff,0073b7,ffffff
@@ -22,4 +24,5 @@ C,1,18,3369,IRL,ffffff,32968e,e66f1a
 C,1,15,2738,WATTBIKE,ffffff,000000,ff3535
 C,1,15,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,13,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,10,588,Team Italy,dd4b39,ffffff,00a65a
 C,1,7,1348,Saints and Spinners CC,ffffff,236192,236192

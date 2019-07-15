@@ -1,31 +1,55 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,2,25,DBR,1986,ffffff,eb7b2a,ffffff,Tommy Iversen,dk,668206,gold silver,0
-A,1,18,,0,00dd00,,,Aaron Groot,au,384607,gold,0
-A,2,14,,0,00dd00,,,Mizmushi Pedal,jp,545587,,0
+A,3,48,DBR,1986,ffffff,eb7b2a,ffffff,Tommy Iversen,dk,668206,gold silver silver,0
+A,2,33,,0,00dd00,,,Aaron Groot,au,384607,gold,0
+A,1,26,Vikings,90,c2c2c2,0073b7,ee6331,Brage Bergeng [V]&#128034;,no,429749,gold,0
+A,3,21,,0,00dd00,,,Mizmushi Pedal,jp,545587,,0
+A,1,21,,0,00dd00,,,Alan Beecroft,gb,856846,bronze,0
+A,1,19,&#9888;&#65039; Dropouts,3711,fa0009,ffff0b,aaaaff,Paul Smith 1145,us,467100,,0
+A,1,17,ZOA,2709,3fff5e,545050,000000,Rilyn Mosbey,au,776835,,0
+A,2,13,MDCC,843,ffffff,0073b7,ffffff,Richard da Silva,gb,121927,,0
 A,1,13,BRT,4,ffffff,050505,ff8100,Theo Miglakis &#127808; [The Mig],gr,249545,bronze,0
-A,1,9,MDCC,843,ffffff,0073b7,ffffff,Richard da Silva,gb,121927,,0
+A,1,13,,0,00dd00,,,Paul Hughes ZHR (E),gb,147686,,0
+A,1,11,,0,00dd00,,,Ben Iddon|#PDH|,gb,83028,,0
+A,1,9,BRT,4,ffffff,050505,ff8100,Aaron Barry&#9889;&#65039; [BRT],gb,743592,,0
 A,1,7,BRT,4,ffffff,050505,ff8100,Michael Durr [BRT],gb,74813,silver,0
 A,1,7,,0,00dd00,,,Luke Cotton,gb,407093,,0
 A,1,5,,0,00dd00,,,Brad Spencer,us,138483,bronze,0
 A,1,5,,0,00dd00,,,Jeff is a Banana,ca,1096837,,0
+A,1,5,Contact RT,4338,ffffff,120a0a,fafafa,Neil WALKER 8105,gb,1191136,,0
+A,1,3,,0,00dd00,,,Andy Wylde,gb,737856,,0
 A,1,1,BRT,4,ffffff,050505,ff8100,Rhys  Richards [BRT],gb-wls,1056206,,0
+B,1,34,ZSUN,161,ffffff,0073b7,ffffff,dylan jones,gb-wls,135491,gold,0
+B,1,31,Team ZWC,1958,f70f66,292935,ea0026,Jonny Bullen,gb,383902,silver,0
+B,1,29,Race3R,791,000000,2bc3f4,ffffff,Anders Blakstvedt ,no,582130,bronze,0
+B,1,27,Deeside,1811,ffffff,0073b7,ffffff,Cameron Stromberg,gb-sct,506406,,0
 B,1,26,Innovation,975,000000,52ff33,000000,christopher jehu &#128125;,gb-wls,149818,gold,0
+B,1,25,Muckle CC,4337,ffffff,0073b7,ffffff,Richard Davidson MCC,gb,631510,,0
 B,1,23,BRT,4,ffffff,050505,ff8100,Chris York [BRT],nz,144440,silver,0
+B,1,23,,0,00dd00,,,kevin jones 7336,gb,844437,,0
 B,1,21,,0,00dd00,,,J John,gb,36869,bronze,0
+B,1,21,CBT,2349,ffffff,000000,ffffff,Raimund Lehle,eu,172233,,0
 B,1,19,,0,00dd00,,,RUBEN 6610,es,1125763,,0
+B,1,19,BRT,4,ffffff,050505,ff8100,Leon Bond,gb,266642,,0
 B,1,17,BRT,4,ffffff,050505,ff8100,Daniel Potter &#9889;,gb,83111,,0
+B,1,17,,0,00dd00,,,Terry Flynn,gb,397987,,0
 B,1,15,Equipe JZQc,2571,ffffff,003399,ffffff,Paul St-Arneault JZQc,ca,635764,,0
+B,1,15,BRT,4,ffffff,050505,ff8100,Dolph Meyer ,gb,166047,,0
 B,1,13,,0,00dd00,,,Michael Ribagnac,fr,1106980,,0
+B,1,13,,0,00dd00,,,Strauven   Eddy,be,652665,,0
+B,2,12,,0,00dd00,,,Tom Waddell,gb,737762,,0
 B,1,11,,0,00dd00,,,Michael Witzel,de,966742,,0
+B,1,11,,0,00dd00,,,Adam Allan,au,688558,,0
 B,1,10,Fell Swoop,2306,ffa500,000000,000000,Chris Staats,us,625957,gold,0
+B,3,10,BRT,4,ffffff,050505,ff8100,Edu Harms [BRT]&#128304;,nl,885157,,0
 B,1,9,Vikings,90,c2c2c2,0073b7,ee6331,Ole Petter L&oslash;d&oslash;en,no,554963,,0
 B,1,7,KISS RT,36,f56600,012350,84b7ca,Sonic The Hedgehog,gb,49294,silver,0
 B,1,7,Sz,32,f3f300,0073b7,f3f300,Nicklas nille Johansson,se,3224,,0
-B,2,5,BRT,4,ffffff,050505,ff8100,Edu Harms [BRT]&#128304;,nl,885157,,0
+B,1,7,BRT,4,ffffff,050505,ff8100,Derek Cahoon,us,719674,,0
+B,1,6,,0,00dd00,,,Chris Gale,gb,1126834,,0
 B,1,5,,0,00dd00,,,David Pichler,gb,1131699,bronze,0
 B,1,5,,0,00dd00,,,Chris Lomas(C),gb,704962,,0
+B,1,4,Team Poland,25,ffffff,ff1800,ff0000,Tomasz Thrun[TeamPL],pl,679608,,0
 B,1,3,DIRT,2707,29ec34,563c0f,df6a0d,. GUTS,us,71064,,0
-B,1,3,,0,00dd00,,,Tom Waddell,gb,737762,,0
 B,1,2,,0,00dd00,,,Ralf Strauss5524,us,231142,,0
 B,1,1,TFC,10,111111,f3f300,111111,A Rose,us,449840,,0
 C,1,26,Team Type 1,168,ffffff,0073b7,ffffff,Gary Gaffel (TT1),au,853104,gold,0
@@ -34,18 +58,23 @@ C,1,21,,0,00dd00,,,David Hilbert,us,766420,bronze,0
 C,1,19,,0,00dd00,,,C AM I AM 3902,,1271719,,0
 C,1,18,BRT,4,ffffff,050505,ff8100,David Claydon (BRT),gb,850893,gold,0
 C,1,17,MTCT,120,040312,9cb2e8,d4e60d,Oliver Loehlein,at,185005,,0
+C,2,16,BRT,4,ffffff,050505,ff8100,Art Pacione [BRT],us,112213,bronze,0
 C,1,15,,0,00dd00,,,ryan hochworter,us,8194,silver,0
 C,1,15,,0,00dd00,,,Gino Mordocco9878,us,1114503,,0
-C,1,13,BRT,4,ffffff,050505,ff8100,Art Pacione [BRT],us,112213,bronze,0
 C,1,13,TFC,10,111111,f3f300,111111,Ryan DeadPool Miller TFC,us,331384,,0
 C,1,11,,0,00dd00,,,Stefan Greger,de,1272902,,0
 C,1,11,HERD,2639,383c3d,fc6719,383c3d,Esteban Saracho ,ar,1204855,,0
-C,1,9,BRT,4,ffffff,050505,ff8100,Jim Connally BRT,us,251879,,0
+C,2,10,BRT,4,ffffff,050505,ff8100,Jim Connally BRT,us,251879,,0
+C,1,10,,0,00dd00,,,Ross Byrne,ie,962879,gold,0
 C,1,9,TFC,10,111111,f3f300,111111,Robert Carlin,us,1161566,,0
 C,1,7,,0,00dd00,,,Thomas Bremner,gb,1127794,,0
 C,1,7,,0,00dd00,,,Sven Ramspott &#128059;,de,871393,,0
+C,1,7,,0,00dd00,,,I&ntilde;igo Izeta,tt,1264718,silver,0
 C,1,5,Team Poland,25,ffffff,ff1800,ff0000,Daniel Qr,pl,984997,,0
+C,1,5,,0,00dd00,,,Chris Hearle,gb,405727,bronze,0
 C,1,4,,0,00dd00,,,Scott Curry,ca,897171,,0
 C,1,3,,0,00dd00,,,S im C,au,1263197,,0
 D,1,10,,0,00dd00,,,Stig Hanssen 6339,no,946558,gold,0
 D,1,10,DIRT,2707,29ec34,563c0f,df6a0d,Matthew Aken,us,263092,gold,0
+D,1,10,BRT,4,ffffff,050505,ff8100,Michael Cruz [BRT],us,13789,gold,0
+D,1,7,BRT,4,ffffff,050505,ff8100,Julian Hudson,ca,92276,silver,0
