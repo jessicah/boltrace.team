@@ -1,6 +1,9 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,5,55,4,BRT,ffffff,050505,ff8100
+A,8,75,4,BRT,ffffff,050505,ff8100
 B,4,26,4,BRT,ffffff,050505,ff8100
 B,1,18,2291,NFCC,fcfcfc,d40707,14ab1a
-C,2,20,4,BRT,ffffff,050505,ff8100
-D,3,27,4,BRT,ffffff,050505,ff8100
+B,1,5,4267,WaW,ffffff,000000,ffe600
+B,1,5,756,STW,ffffff,0073b7,ffffff
+C,4,42,4,BRT,ffffff,050505,ff8100
+C,2,20,1330,teamWKG,fa5e06,3f4c54,3f4c54
+D,5,44,4,BRT,ffffff,050505,ff8100
