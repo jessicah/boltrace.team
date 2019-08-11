@@ -1,9 +1,13 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,8,75,4,BRT,ffffff,050505,ff8100
+A,1,10,3855,Splunk,ffffff,65a637,000000
+A,1,7,1887,EH*,ffffff,0073b7,ffffff
+A,1,5,1839,Dogfish,000000,00ffff,00ffff
 B,4,26,4,BRT,ffffff,050505,ff8100
 B,1,18,2291,NFCC,fcfcfc,d40707,14ab1a
+B,1,10,1981,Hale Velo,fafafa,030202,e48528
 B,1,5,4267,WaW,ffffff,000000,ffe600
 B,1,5,756,STW,ffffff,0073b7,ffffff
-C,4,42,4,BRT,ffffff,050505,ff8100
+C,5,47,4,BRT,ffffff,050505,ff8100
 C,2,20,1330,teamWKG,fa5e06,3f4c54,3f4c54
 D,5,44,4,BRT,ffffff,050505,ff8100
