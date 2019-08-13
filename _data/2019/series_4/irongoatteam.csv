@@ -1,11 +1,13 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,5,87,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,5,45,4,BRT,ffffff,050505,ff8100
+A,4,44,975,Innovation,000000,52ff33,000000
 A,2,39,2,Team X,f5f7f6,111111,00a65a
-A,3,26,975,Innovation,000000,52ff33,000000
 A,4,23,1330,teamWKG,fa5e06,3f4c54,3f4c54
+A,3,18,9,Vision,ffffff,2ea9e0,000000
+A,1,13,2570,Walsall Lads,ffffff,0073b7,ffffff
 A,1,13,25,Team Poland,ffffff,ff1800,ff0000
-A,2,9,9,Vision,ffffff,2ea9e0,000000
+A,1,11,2971,SWOZR,ffffff,0073b7,ffffff
 A,1,9,3185,FUSION DEVELOPMENT,ffffff,0a1e29,ffffff
 A,1,9,302,LAMONT,ffffff,0073b7,ffffff
 A,1,7,783,VS CYCLES,ffffff,0073b7,ffffff
@@ -22,6 +24,7 @@ B,1,23,775,Sandane SK,ffffff,0073b7,ffffff
 B,1,21,791,Race3R,000000,2bc3f4,ffffff
 B,1,17,2649,Dutch Diesel Cyc,ffffff,e35221,23398f
 B,1,15,32,Sz,f3f300,0073b7,f3f300
+B,1,10,189,Pedal Racing,ffffff,0073b7,ffffff
 B,1,9,10,TFC,111111,f3f300,111111
 B,1,9,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,1,9,554,INTENT,ffffff,0073b7,ffffff
