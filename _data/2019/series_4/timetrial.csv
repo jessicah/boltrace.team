@@ -1,19 +1,20 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,6,53,,0,00dd00,,,Pete Younghusband,gb,349961,gold silver silver bronze bronze,0
-A,4,29,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold,0
+A,7,58,,0,00dd00,,,Pete Younghusband,gb,349961,gold gold silver silver bronze bronze,0
+A,5,30,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold,0
 A,2,22,BRT,4,ffffff,050505,ff8100,Rhys  Richards [BRT],gb-wls,1056206,silver silver,0
 A,1,18,,0,00dd00,,,Aaron Ward,gb,366821,gold,0
 A,1,18,,0,00dd00,,,brent ducker,au,932792,gold,0
 A,1,15,BRT,4,ffffff,050505,ff8100,Bas Seldenrijk &#128076;,nl,274131,silver,0
+A,2,14,,0,00dd00,,,David Macivor,gb-sct,147273,,0
 A,1,13,,0,00dd00,,,Jeremy Pletka,us,1186202,bronze,0
-A,1,11,,0,00dd00,,,David Macivor,gb-sct,147273,,0
 A,1,10,,0,00dd00,,,Mircea Puiulet,us,7672,gold,0
 A,1,10,,0,00dd00,,,Si Reynolds,gb,1201563,gold,0
+A,2,10,,0,00dd00,,,R&uuml;diger Grosch,de,14064,bronze bronze,0
 A,1,10,Splunk,3855,ffffff,65a637,000000,FinK Andi,it,495,gold,0
 A,1,9,BRT,4,ffffff,050505,ff8100,Marcus Illingworth (BRT),gb,96834,,0
 A,1,7,,0,00dd00,,,Mark Payne,gb,512394,,0
 A,1,7,EH*,1887,ffffff,0073b7,ffffff,John Waller,gb-sct,14073,silver,0
-A,1,5,,0,00dd00,,,R&uuml;diger Grosch,de,14064,bronze,0
+A,1,7,TFC,10,111111,f3f300,111111,John Polak,cz,789174,silver,0
 A,1,5,Dogfish,1839,000000,00ffff,00ffff,Brian Wingbermuehle,us,252265,bronze,0
 A,1,1,,0,00dd00,,,Rich Babbage,gb,28524,,0
 B,2,18,BRT,4,ffffff,050505,ff8100,Francisco Arce BRT,za,652272,silver,0
@@ -26,6 +27,7 @@ B,1,10,,0,00dd00,,,Jacob Svarre,dk,280547,gold,0
 B,1,10,,0,00dd00,,,Ryan Cleary,us,9400,gold,0
 B,1,10,Hale Velo,1981,fafafa,030202,e48528,Kevin West,gb,257309,gold,0
 B,1,10,,0,00dd00,,,Cedric Jarion,fr,1240845,gold,0
+B,1,10,TFC,10,111111,f3f300,111111,Steve Tuck TFC,gb,988894,gold,0
 B,1,9,,0,00dd00,,,Steven Lobregt ,nl,448927,,0
 B,1,7,,0,00dd00,,,anthony lucas,gb,937500,silver,0
 B,1,7,,0,00dd00,,,Jon Simpson,gb,808813,,0
@@ -47,6 +49,7 @@ C,5,12,BRT,4,ffffff,050505,ff8100,Michael Cruz [BRT],us,13789,gold gold gold sil
 C,1,11,teamWKG,1330,fa5e06,3f4c54,3f4c54,KeithD (WKG FUN),gb-eng,13747,,0
 C,1,10,,0,00dd00,,,Stuart Gordon,gb-sct,363993,gold,0
 C,1,10,,0,00dd00,,,Ditlev Friis,dk,12422,gold,0
+C,1,10,TFC,10,111111,f3f300,111111,G MoRgAn (TFC2),gb-wls,901283,gold,0
 C,1,9,teamWKG,1330,fa5e06,3f4c54,3f4c54,KatherineD (WKG FUN),gb,51644,,0
 C,1,7,,0,00dd00,,,Terry Docherty,gb,110181,silver,0
 C,1,7,,0,00dd00,,,Pedro Sardinha,pt,692793,,0

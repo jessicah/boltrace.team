@@ -1,37 +1,43 @@
+category,events,points,tid,tname,tc,tbc,tbd
 A,6,61,4,BRT,ffffff,050505,ff8100
 A,2,34,3711,&#9888;&#65039; Dropouts,fa0009,ffff0b,aaaaff
 A,1,26,90,Vikings,c2c2c2,0073b7,ee6331
 A,1,19,2709,ZOA,3fff5e,545050,000000
+A,2,18,2734,PLCC,ffffff,00ff00,000000
 A,2,16,843,MDCC,ffffff,0073b7,ffffff
 A,1,15,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,1,13,2738,WATTBIKE,ffffff,000000,ff3535
+A,1,11,10,TFC,111111,f3f300,111111
 A,1,10,4327,TRB,e84444,ffffff,000000
-A,1,9,2734,PLCC,ffffff,00ff00,000000
 A,1,7,975,Innovation,000000,52ff33,000000
 A,1,7,4338,Contact RT,ffffff,120a0a,fafafa
-B,12,118,4,BRT,ffffff,050505,ff8100
-B,3,62,975,Innovation,000000,52ff33,000000
+A,1,3,2,Team X,f5f7f6,111111,00a65a
+B,16,172,4,BRT,ffffff,050505,ff8100
+B,4,85,975,Innovation,000000,52ff33,000000
 B,1,34,161,ZSUN,ffffff,0073b7,ffffff
 B,1,31,1958,Team ZWC,f70f66,292935,ea0026
+B,2,30,2241,TSE,ffffff,0073b7,ffffff
 B,1,29,791,Race3R,000000,2bc3f4,ffffff
 B,2,28,2306,Fell Swoop,ffa500,000000,000000
 B,1,27,1811,Deeside,ffffff,0073b7,ffffff
+B,1,26,1330,teamWKG,fa5e06,3f4c54,3f4c54
 B,1,26,574,Team France,dd4b39,ffffff,0073b7
 B,1,25,4337,Muckle CC,ffffff,0073b7,ffffff
 B,1,23,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,21,2349,CBT,ffffff,000000,ffffff
+B,1,17,4201,WTRL,f5f3f3,8f8f8f,010000
 B,1,15,2571,Equipe JZQc,ffffff,003399,ffffff
 B,1,13,1,PTz,ffffff,403d3a,e3680f
-B,1,11,2241,TSE,ffffff,0073b7,ffffff
+B,2,12,1979,ZHR,ff0000,03228c,03228c
 B,1,10,3741,EBR,ffffff,0073b7,ffffff
 B,1,9,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,7,32,Sz,f3f300,0073b7,f3f300
 B,1,7,36,KISS RT,f56600,012350,84b7ca
 B,1,7,3653,TriSportWAY,ffffff,3494d9,fe7dff
-B,1,5,1979,ZHR,ff0000,03228c,03228c
+B,2,6,10,TFC,111111,f3f300,111111
 B,1,4,25,Team Poland,ffffff,ff1800,ff0000
 B,1,3,2707,DIRT,29ec34,563c0f,df6a0d
-B,1,1,10,TFC,111111,f3f300,111111
-C,9,78,4,BRT,ffffff,050505,ff8100
+C,10,88,4,BRT,ffffff,050505,ff8100
 C,4,34,10,TFC,111111,f3f300,111111
 C,1,26,168,Team Type 1,ffffff,0073b7,ffffff
 C,2,20,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
