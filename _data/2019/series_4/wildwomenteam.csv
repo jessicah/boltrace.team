@@ -1,19 +1,19 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,4,41,4,BRT,ffffff,050505,ff8100
-A,2,22,791,Race3R,000000,2bc3f4,ffffff
-B,3,33,629,Team AHDR,fc6955,55d4fc,ffffff
-B,4,24,161,ZSUN,ffffff,0073b7,ffffff
-B,3,20,4,BRT,ffffff,050505,ff8100
+A,5,52,4,BRT,ffffff,050505,ff8100
+A,3,33,791,Race3R,000000,2bc3f4,ffffff
+B,8,85,629,Team AHDR,fc6955,55d4fc,ffffff
+B,5,34,4,BRT,ffffff,050505,ff8100
+B,5,28,161,ZSUN,ffffff,0073b7,ffffff
 B,1,8,975,Innovation,000000,52ff33,000000
 B,2,8,2672,REVO,fc00e3,000000,fc00e3
 B,1,8,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,1,8,2692,[JCKL],ffffff,0073b7,ffffff
 B,1,2,4407,PP-PTY,ffffff,0073b7,ffffff
-C,18,189,629,Team AHDR,fc6955,55d4fc,ffffff
-C,4,29,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-C,3,21,4,BRT,ffffff,050505,ff8100
+C,23,220,629,Team AHDR,fc6955,55d4fc,ffffff
+C,5,38,4,BRT,ffffff,050505,ff8100
+C,5,37,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,2,14,161,ZSUN,ffffff,0073b7,ffffff
-D,4,41,629,Team AHDR,fc6955,55d4fc,ffffff
+D,6,63,629,Team AHDR,fc6955,55d4fc,ffffff
 D,3,20,2672,REVO,fc00e3,000000,fc00e3
 D,2,19,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,1,11,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
