@@ -1,20 +1,38 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,2,29,Race3R,791,000000,2bc3f4,ffffff,Tom Gakes,nl,387828,gold,0
 A,1,18,,0,00dd00,,,Tom Grimshaw,gb,169410,gold,0
 A,1,15,,0,00dd00,,,Ken Evensen,no,242503,silver,0
+A,1,15,BRT,4,ffffff,050505,ff8100,David Billings,gb,181148,silver,0
 A,1,13,,0,00dd00,,,Aaron Baker,us,923395,bronze,0
-A,1,11,Race3R,791,000000,2bc3f4,ffffff,Tom Gakes,nl,387828,,0
+A,1,13,BRT,4,ffffff,050505,ff8100,Theo Miglakis &#127808; [The Mig],gr,249545,bronze,0
+A,1,11,Race3R,791,000000,2bc3f4,ffffff,Will Griffiths,gb,293517,,0
 A,1,9,Rowe & King,2298,ffffff,2b5bb8,2fba4e,Luke Dix,gb-wls,214249,,0
+A,1,9,Team AHDR,629,fc6955,55d4fc,ffffff,Jon Odams,au,358512,,0
 A,1,7,PTz,1,ffffff,403d3a,e3680f,Carlos Merino,pt,211627,,0
+A,1,7,,0,00dd00,,,James Somerfield,gb,323424,,0
 A,1,5,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Vincent Davis,us,87402,,0
 A,1,3,,0,00dd00,,,&#23665; &#30452;&#20154;,jp,715466,,0
-B,1,10,teamWKG,1330,fa5e06,3f4c54,3f4c54,Jamie Woodward (WKG VOMIT),gb,685302,gold,0
+B,2,36,teamWKG,1330,fa5e06,3f4c54,3f4c54,Jamie Woodward [WKG],gb,685302,gold gold,0
+B,1,23,EBR,3741,ffffff,0073b7,ffffff,Matt Anderson7599,gb,193627,silver,0
+B,1,21,Ironworks,3061,ffffff,0073b7,ffffff,Andrew Stevenson,us,53705,bronze,0
+B,1,19,,0,00dd00,,,Jonathon Stacey,gb,591653,,0
+B,1,17,BRT,4,ffffff,050505,ff8100,Darren Green (BRT) (B),gb-eng,30856,,0
+B,1,15,BRT,4,ffffff,050505,ff8100,Stuart Leach,gb,322268,,0
+B,1,13,,0,00dd00,,,Paul White,gb-wls,627598,,0
+B,1,11,,0,00dd00,,,John O&#039;Gorman,gb,1213884,,0
+B,1,9,,0,00dd00,,,Chris Hearle,gb,405727,,0
 B,1,7,TSE,2241,ffffff,0073b7,ffffff,steve franklin,gb,25421,silver,0
+B,1,7,,0,00dd00,,,Alexander Grindberg,se,1342676,,0
 B,1,5,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,bronze,0
+B,1,5,TFC,10,111111,f3f300,111111,Steve Stahl (TFC2),us,729848,,0
+B,1,4,,0,00dd00,,,Romke De haan,nl,1344554,,0
 B,1,3,,0,00dd00,,,David Rylah3120,au,1160223,,0
 B,1,1,PTz,1,ffffff,403d3a,e3680f,Stuart Lynne,ca,78201,,0
-C,1,18,BRT,4,ffffff,050505,ff8100,Vin Lam &#128033; [BRT]&#9889;,gb,868022,gold,0
-C,1,15,BRT,4,ffffff,050505,ff8100,Edu Harms [BRT]&#128304;,nl,885157,silver,0
+C,2,25,BRT,4,ffffff,050505,ff8100,Edu Harms &#128304; (BRcT),nl,885157,gold silver,0
+C,2,23,BRT,4,ffffff,050505,ff8100,Vin Lam &#128033; [BRT]&#9889;,gb,868022,gold bronze,0
 C,1,13,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,bronze,0
 C,1,11,USMES,79,ffffff,0073b7,ffffff,Sterling Catterton,us,21678,,0
 C,1,9,,0,00dd00,,,S im C,au,1263197,,0
 C,1,7,BRT,4,ffffff,050505,ff8100,Michael Cruz [BRT],us,13789,,0
+C,1,7,BRT,4,ffffff,050505,ff8100,David Claydon (BRcT),gb,850893,silver,0
+C,1,3,BRT,4,ffffff,050505,ff8100,D. Bull,ie,346690,,0

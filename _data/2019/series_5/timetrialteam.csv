@@ -1,8 +1,18 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,1,10,9,Vision,ffffff,2ea9e0,000000
-B,2,39,4,BRT,ffffff,050505,ff8100
-B,1,23,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
+A,2,20,9,Vision,ffffff,2ea9e0,000000
+A,1,7,25,Team Poland,ffffff,ff1800,ff0000
+B,4,55,4,BRT,ffffff,050505,ff8100
+B,2,49,1942,ZRG,1bc1f1,5b5b5b,1bc1f1
+B,1,21,3343,BMPRO,120303,ffff00,2b0a0a
+B,1,19,2291,NFCC,fcfcfc,d40707,14ab1a
 B,1,17,90,Vikings,c2c2c2,0073b7,ee6331
+B,1,17,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,11,4062,SBC,ffffff,2d3f54,54980b
 B,1,9,2281,TeamNL,ffffff,ffa500,ffa500
+B,1,7,2054,ZJRT,ac1d88,0073b7,cdac1f
 B,1,5,1986,DBR,ffffff,eb7b2a,ffffff
+B,1,5,3815,TMF,ffffff,0073b7,000000
+B,1,4,2363,BKRS,ffffff,35b59e,000000
+B,1,2,290,Maximus,ffffff,0073b7,ffffff
+B,1,1,2931,ZHU,0073b7,ffffff,0073b7
+C,1,7,2707,DIRT,29ec34,563c0f,df6a0d
