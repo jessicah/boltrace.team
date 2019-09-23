@@ -2,60 +2,87 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,20,,0,00dd00,,,Seb Kleb,de,299246,gold gold,0
 A,1,10,,0,00dd00,,,Michal Malek,pl,197504,gold,0
 A,1,10,Team GIANT,3549,000000,f70000,000000,Maik Abraham,de,141795,gold,0
+A,1,10,,0,00dd00,,,Ben Cimmino,us,19755,gold,0
+A,1,10,Vision,9,ffffff,2ea9e0,000000,Kate Robinson,gb,867497,gold,0
 A,1,7,CK Lunedi,709,ffffff,0073b7,ffffff,Rikard Runnberg,se,212081,silver,0
 A,1,7,CNDRBLK,4351,000000,8ecfe8,f7b9b9,Marcus J. Duval,us,642936,silver,0
 A,1,7,,0,00dd00,,,D Zeggelaar,ca,812036,silver,0
+A,1,7,NFCC,2291,fcfcfc,d40707,14ab1a,Matt Cafferky [NFCC/LTC/NFR],gb,844132,silver,0
 A,1,5,Race3R,791,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,bronze,0
 A,1,5,,0,00dd00,,,Eric Hauser5676,de,506090,bronze,0
 A,1,3,AWCC,2758,ffffff,0073b7,ffffff,N eil,gb-sct,312216,,0
 A,1,3,,0,00dd00,,,W VA -- ,be,798334,,0
 A,1,1,BRT,4,ffffff,050505,ff8100,David Salvador,pt,712936,,0
+B,3,22,PTz,1,ffffff,403d3a,e3680f,Mark Anthony Jones,gb-wls,75787,gold silver bronze,0
 B,1,18,IndoorSpecialist,3964,ffffff,1b4970,f7850e,Chris Beck &#128304;,us,177885,gold,0
+B,3,18,,0,00dd00,,,Steve Cairns Perth United,gb-sct,1157133,gold bronze,0
 B,1,15,[DRAFT],1634,ffffff,e60d2e,000000,Adam Carne &#129416;,us,164983,silver,0
 B,1,13,,0,00dd00,,,oaken work,ca,185417,bronze,0
-B,2,13,,0,00dd00,,,Steve Cairns Perth United,gb-sct,1157133,gold,0
 B,1,11,Beacon,3576,ffffff,0073b7,ffffff,Lee Spiers Army/Beacon Rcc 4753,gb,987358,,0
 B,1,10,FUSION DEVELOPMENT,3185,ffffff,0a1e29,ffffff,Yukio Bergholdt &#128737;&#65039;&#128304; ,dk,49249,gold,0
 B,1,10,Holmenkollen CK,3469,111e6c,f8dae5,111e6c,Trond G. Amundsen,no,412981,gold,0
+B,1,10,,0,00dd00,,,Stefan Abrahamsen,dk,892055,gold,0
 B,1,9,BZR cycling team,35,f3f300,111111,dd4b39,Bart Billen,be,329440,,0
 B,1,7,TFC,10,111111,f3f300,111111,Richard Gubby,gb,1118849,,0
 B,1,7,WATTBIKE,2738,ffffff,000000,ff3535,Farrell Kilbane (GKV) ,ie,275412,silver,0
 B,1,7,,0,00dd00,,,Patrik Suter,ch,1115047,silver,0
-B,1,5,PTz,1,ffffff,403d3a,e3680f,Mark Anthony Jones,gb-wls,75787,bronze,0
-B,1,1,Vikings,90,c2c2c2,0073b7,ee6331,Vegard Thomassen [V],no,36050,,0
+B,1,7,,0,00dd00,,,D uncan Reid,gb,37116,silver,0
+B,1,5,,0,00dd00,,,Paul Fitzpatrick,gb,629652,bronze,0
+B,1,3,,0,00dd00,,,jason killiner,gb-wls,954215,,0
+B,1,1,Vikings,90,c2c2c2,0073b7,ee6331,Vegard Thomassen [V] (Valhalla),no,36050,,0
+B,1,1,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Nathan Roach,gb,391715,,0
 C,2,28,TeamODZ,7,ff851b,111111,3c8dbc,Vitor Mateus (Tacx Neo),pt,29973,silver bronze,0
+C,2,25,VC10,2888,ffffff,ff0000,ffffff,Simon Oxenham,gb,1011,gold silver,0
 C,2,25,,0,00dd00,,,Francisco Garrido,us,191042,gold silver,0
-C,1,18,VC10,2888,ffffff,ff0000,ffffff,Simon Oxenham,gb,1011,gold,0
+C,2,25,Team CLS,1426,3d9970,ffffff,ffffff,Shaun Randall,gb,176113,gold silver,0
 C,1,18,,0,00dd00,,,Russ Dolby ,gb,328600,gold,0
+C,1,18,ZHR,1979,ff0000,03228c,03228c,Steve Pellowe - Velobants CC,gb-eng,88648,gold,0
 C,1,13,TFC,10,111111,f3f300,111111,Simon Rigby (TFC),im,868464,bronze,0
+C,1,13,Race3R,791,000000,2bc3f4,ffffff,James Farren,gb,63968,bronze,0
+C,2,12,,0,00dd00,,,Heiko Witt,de,325159,silver bronze,0
 C,1,11,MEX-DF.,2851,ffffff,0073b7,ffffff,Viktor Mineiro,mx,551773,,0
 C,1,11,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Alan Aslin,gb-eng,1105559,,0
+C,1,11,,0,00dd00,,,Jean-luc crouzilles,fr,691984,,0
 C,1,10,Team CLS,1426,3d9970,ffffff,ffffff,Gregor Nicodemus,de,120501,gold,0
 C,1,9,DBR,1986,ffffff,eb7b2a,ffffff,Steen Bang-Madsen,dk,303296,,0
 C,1,9,,0,00dd00,,,Matt Burton 1353,gb,498010,,0
+C,1,9,,0,00dd00,,,Tom Martin WBR (B),gb,216718,,0
 C,1,7,,0,00dd00,,,Elliot Davis 7583,gb,1001718,silver,0
 C,1,7,,0,00dd00,,,Chris Gale,gb,1126834,,0
 C,1,7,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Alan Glendinning,gb-nir,803805,,0
-C,1,7,,0,00dd00,,,Heiko Witt,de,325159,silver,0
+C,1,7,,0,00dd00,,,Dave Slater,gb,877092,,0
 C,1,5,,0,00dd00,,,james grainger,gb,1253382,,0
 C,1,5,,0,00dd00,,,Chris Egan5769,gb,1313877,,0
 C,1,5,Vikings,90,c2c2c2,0073b7,ee6331,Rune Hamann Olsen,no,177890,bronze,0
-D,4,45,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold bronze bronze,0
-D,3,37,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,silver silver silver,0
+C,1,5,,0,00dd00,,,Lisa &#039;foxy&#039; Jane Lait &#129418;,gb,384525,,0
+C,1,3,,0,00dd00,,,Andreas K2838,zw,1237300,,0
+D,6,83,BRT,4,ffffff,050505,ff8100,Andrew Tapley [BRT],gb,145450,gold silver silver bronze bronze,0
+D,4,63,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,gold silver silver silver,0
 D,2,29,BRT,4,ffffff,050505,ff8100,Nigel Holmes,gb,456445,gold,0
 D,1,26,ZHR,1979,ff0000,03228c,03228c,John Blumenthal,ca,10853,gold,0
-D,1,21,DIRT,2707,29ec34,563c0f,df6a0d,I.am. Sam (DIRT),us,1107524,bronze,0
+D,2,22,,0,00dd00,,,Dane Stevens,us,289590,,0
+D,1,21,DIRT,2707,29ec34,563c0f,df6a0d,I.am. Sam [DIRT],us,1107524,bronze,0
+D,1,21,,0,00dd00,,,stephen shorland,gb,174494,bronze,0
+D,2,20,TeamPL,25,ffffff,ff1800,ff0000,Dariusz Krysiak 5262,pl,215872,,0
+D,1,19,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Dave Gould CRYO-GEN ,gb-eng,600137,,0
+D,2,18,,0,00dd00,,,Robbie Macquarrie,nz,1246966,,0
+D,1,18,Vision,9,ffffff,2ea9e0,000000,Sebastian K&uuml;hn &#128304;,de,49679,gold,0
+D,1,17,,0,00dd00,,,Terry Flynn,gb,397987,,0
+D,2,16,,0,00dd00,,,COLIN LEIPER  CLS ,gb,267765,,0
 D,1,15,,0,00dd00,,,Giovanni Goesting,nl,1070163,silver,0
 D,1,15,BadAss,4291,ffffff,0073b7,ffffff,Kim Villarino Hejnesen [BadAss],dk,1096870,,0
+D,1,15,,0,00dd00,,,Petrov1031189 Lesnik EN (C),ru,1031189,,0
 D,1,13,Innovation,975,000000,52ff33,000000,Stephen Whiston,gb,482702,bronze,0
-D,1,13,Team Poland,25,ffffff,ff1800,ff0000,Dariusz Krysiak 5262,pl,215872,,0
-D,1,11,BRT,4,ffffff,050505,ff8100,Dolph Meyer (BRT Craft B&rsquo;ers),gb,166047,,0
-D,1,11,,0,00dd00,,,Dane Stevens,us,289590,,0
+D,1,13,,0,00dd00,,,Keith Emery (LRC),gb-eng,1305139,,0
+D,1,13,,0,00dd00,,,Dave Metzinger,us,80575,bronze,0
+D,1,11,BRT,4,ffffff,050505,ff8100,Dolph Meyer (BRT Craft Beers),gb,166047,,0
+D,1,11,,0,00dd00,,,Rob Wainwright,gb-sct,399027,,0
 D,1,10,,0,00dd00,,,Mark   Dabell,us,297114,gold,0
-D,1,9,,0,00dd00,,,Robbie Macquarrie,nz,1246966,,0
+D,2,10,,0,00dd00,,,Garry Barker,gb,1099506,,0
 D,1,9,,0,00dd00,,,Colin Walmsley ,gb,935281,,0
-D,1,7,,0,00dd00,,,COLIN LEIPER  CLS ,gb,267765,,0
-D,1,7,,0,00dd00,,,Garry Barker,gb,1099506,,0
+D,1,7,,0,00dd00,,,Mazi Maza,gb,615153,,0
 D,1,5,,0,00dd00,,,Patric Briner  G,us,406266,,0
+D,1,5,,0,00dd00,,,David Walton KISS(D),gb-eng,284496,,0
+D,1,4,BRT,4,ffffff,050505,ff8100,jude woodcock BRT Hellcatz,vi,659665,,0
 D,1,3,,0,00dd00,,,# Irongran,gb,118958,,0
 D,1,3,,0,00dd00,,,David Goodyear,no,752753,,0
