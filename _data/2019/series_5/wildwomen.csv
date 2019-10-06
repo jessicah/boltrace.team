@@ -1,35 +1,60 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,1,82,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck,no,56138,gold,0
-A,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Fran Bambust,be,427114,gold,0
-A,1,82,BRT,4,ffffff,050505,ff8100,Vicky Nealon (The BRaT pack),gb,1019855,gold,0
+A,2,164,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck,no,56138,gold gold,0
+A,2,164,BRT,4,ffffff,050505,ff8100,Vicky Nealon (The BRaT pack),gb,1019855,gold gold,0
+A,2,159,Team AHDR,629,fc6955,55d4fc,ffffff,Fran Bambust,be,427114,gold bronze,0
+A,2,152,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,silver,0
+A,2,110,#EFDV,3094,4d4149,ff68c6,060004,Nanou G,be,916752,,1
+A,1,82,HEINO RT,4397,ffffff,ff0000,ff3b3b,Maria Hoiriis,dk,640583,gold,0
 A,1,79,,0,00dd00,,,Adele B-S,ca,1309810,silver,0
 A,1,79,,0,00dd00,,,Debbie Greig,gb,387466,silver,0
-A,1,79,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,silver,0
+A,1,79,Race3R,791,000000,2bc3f4,ffffff,Charlotte Watts [R3R],gb,617677,silver,0
+A,1,79,Pronghorn ECT,3087,000000,fff8f8,828080,Line Heerup Madsen,dk,927830,silver,0
+B,2,164,Team AHDR,629,fc6955,55d4fc,ffffff,Kelly Murphy,au,414760,gold gold,0
+B,2,158,#EFDV,3094,4d4149,ff68c6,060004,Sophie Maenhout,be,802826,silver silver,0
+B,2,150,Team AHDR,629,fc6955,55d4fc,ffffff,Michelle Bond9178,au,378121,bronze,0
+B,2,148,ZSUN,161,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,silver,0
 B,1,82,ZSUN,161,ffffff,0073b7,ffffff,Carrie Merritt ,us,456545,gold,0
-B,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Kelly Murphy,au,414760,gold,0
 B,1,82,TBC RACING,4030,ffffff,0073b7,ffffff,Lisa Melvin,gb-sct,56485,gold,0
-B,1,79,ZSUN,161,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,silver,0
-B,1,79,#EFDV,3094,4d4149,ff68c6,060004,Sophie Maenhout,be,802826,silver,0
+B,1,82,KISS RT,36,f56600,012350,84b7ca,Anja Leuendorff,de,170027,gold,0
+B,1,82,PTz,1,ffffff,403d3a,e3680f,Siv Engmo,no,217993,gold,0
 B,1,79,ZSUN,161,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca,87284,silver,0
+B,1,79,S&auml;var CK,1766,ffffff,0073b7,ffffff,Mikaela Asplund,se,192975,silver,0
+B,1,79,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Krista Kadatz,ca,928030,silver,0
 B,1,77,Team AHDR,629,fc6955,55d4fc,ffffff,Emily Compson,au,597805,bronze,0
 B,1,77,ZSUN,161,ffffff,0073b7,ffffff,willemijn de Ru,ch,76435,bronze,0
+B,1,77,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Laura Hewitt,ca,271103,bronze,0
+B,1,77,Vikings,90,c2c2c2,0073b7,ee6331,Anne  L&oslash;fshus [V],no,1038506,bronze,0
 B,1,75,Team AHDR,629,fc6955,55d4fc,ffffff,Krystle Simpson,au,197944,,0
-B,1,73,Team AHDR,629,fc6955,55d4fc,ffffff,Michelle Bond9178,au,378121,,0
-B,1,71,#EFDV,3094,4d4149,ff68c6,060004,Nanou G,be,916752,,0
+B,1,75,Team Fearless,1677,001f3f,39cccc,01ff70,Ruthie Shapiro,us,23967,,0
+B,1,75,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae Cryo-Gen,au,1332978,,0
+B,1,75,OrkneyCC,4200,de3232,0f0606,eb3636,Olga Hamilton 5394,gb,937749,,0
+B,1,73,eLatino,4523,fe2ec8,fafafa,fe2ec8,Barbara Frisch &#127802;MomInsideTraining,ar,692263,,0
+B,1,71,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us,196575,,0
+C,2,161,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,gold silver,0
+C,2,161,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie Cryo-Gen,za,1235014,gold silver,0
+C,2,154,Team AHDR,629,fc6955,55d4fc,ffffff,Janine P,au,406779,silver,0
+C,2,152,BRT,4,ffffff,050505,ff8100,Lisa Armistead,us,279546,bronze,0
+C,2,152,Team AHDR,629,fc6955,55d4fc,ffffff,Jen Williams&#128156;,au,31704,bronze,0
+C,2,138,,0,00dd00,,,Maria Somvall,se,1361271,,0
 C,1,82,BRT,4,ffffff,050505,ff8100,D. Barreto BRT Hellcatz,mx,581267,gold,0
-C,1,82,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie Cryo-Gen,za,1235014,gold,0
 C,1,82,ZSUN,161,ffffff,0073b7,ffffff,Monica Holmes,us,71189,gold,0
-C,1,79,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,silver,0
-C,1,79,Team AHDR,629,fc6955,55d4fc,ffffff,Janine P,au,406779,silver,0
+C,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Deanna Solomon,ca,435347,gold,0
+C,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Mel Cockshutt,au,360943,gold,0
 C,1,79,,0,00dd00,,,Ewa Siarka,pl,1069206,silver,0
+C,1,79,,0,00dd00,,,Valery Ramirez (Race3R),ca,475208,silver,0
+C,1,79,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sharon Longley,us,466958,silver,0
 C,1,77,ZSUN,161,ffffff,0073b7,ffffff,Wendy Habermann,ch,345083,bronze,0
 C,1,77,Team AHDR,629,fc6955,55d4fc,ffffff,Sharon MacMaster,au,34166,bronze,0
 C,1,77,,0,00dd00,,,Tanya Appuhn,us,422242,bronze,0
-C,1,75,BRT,4,ffffff,050505,ff8100,Lisa Armistead,us,279546,,0
-C,1,75,Team AHDR,629,fc6955,55d4fc,ffffff,Jen Williams&#128156;,au,31704,,0
+C,1,75,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,,0
 C,1,73,ZSUN,161,ffffff,0073b7,ffffff,Stephenie Jackman,gb,1058573,,0
-C,1,73,,0,00dd00,,,Maria Somvall,se,1361271,,0
-D,1,82,,0,00dd00,,,Emily Lewis,gb,871667,gold,0
+C,1,73,,0,00dd00,,,Astrid 5020,at,1269122,,0
+C,1,71,Team Fearless,1677,001f3f,39cccc,01ff70,Virginia Howard,us,122695,,0
+C,1,69,,0,00dd00,,,Tracy Verdegan,us,1066492,,0
+C,1,67,Race3R,791,000000,2bc3f4,ffffff,Isabelle Goupil (R3R Westlife),ca,1151562,,0
+D,2,164,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cerys Willoughby,gb,30637,gold gold,0
+D,2,161,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,gold silver,0
+D,1,82,ZSUN,161,ffffff,0073b7,ffffff,Emily Lewis,gb,871667,gold,0
 D,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Carol Ng,au,167002,gold,0
-D,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cerys Willoughby,gb,30637,gold,0
-D,1,79,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,silver,0
+D,1,82,,0,00dd00,,,Litta Lauth,dk,1285076,gold,0
+D,1,79,,0,00dd00,,,Xuan Sheng,jp,1114981,silver,0
