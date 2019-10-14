@@ -1,31 +1,36 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,4,316,4,BRT,ffffff,050505,ff8100
+A,6,472,4,BRT,ffffff,050505,ff8100
+A,3,234,629,Team AHDR,fc6955,55d4fc,ffffff
+A,2,164,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,2,164,2144,CANYON,ffffff,ff005d,ff005d
-A,2,159,629,Team AHDR,fc6955,55d4fc,ffffff
-A,1,82,4397,HEINO RT,ffffff,ff0000,ff3b3b
+A,2,161,791,Race3R,000000,2bc3f4,ffffff
+A,2,152,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,2,152,3094,#EFDV,4d4149,ff68c6,060004
+A,1,82,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,1,79,3087,Pronghorn ECT,000000,fff8f8,828080
-A,1,79,791,Race3R,000000,2bc3f4,ffffff
-A,1,75,3094,#EFDV,4d4149,ff68c6,060004
-B,5,393,629,Team AHDR,fc6955,55d4fc,ffffff
-B,5,386,161,ZSUN,ffffff,0073b7,ffffff
-B,3,229,3094,#EFDV,4d4149,ff68c6,060004
+A,1,79,4460,GCA,000000,f50000,401414
+B,8,629,629,Team AHDR,fc6955,55d4fc,ffffff
+B,6,455,161,ZSUN,ffffff,0073b7,ffffff
+B,5,384,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,4,306,3094,#EFDV,4d4149,ff68c6,060004
 B,2,154,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,2,148,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,2,152,1677,Team Fearless,001f3f,39cccc,01ff70
 B,1,82,1,PTz,ffffff,403d3a,e3680f
 B,1,82,36,KISS RT,f56600,012350,84b7ca
 B,1,82,4030,TBC RACING,ffffff,0073b7,ffffff
 B,1,79,1766,S&auml;var CK,ffffff,0073b7,ffffff
 B,1,77,90,Vikings,c2c2c2,0073b7,ee6331
-B,1,75,1677,Team Fearless,001f3f,39cccc,01ff70
 B,1,75,4200,OrkneyCC,de3232,0f0606,eb3636
 B,1,73,4523,eLatino,fe2ec8,fafafa,fe2ec8
-C,6,465,629,Team AHDR,fc6955,55d4fc,ffffff
-C,5,393,161,ZSUN,ffffff,0073b7,ffffff
-C,4,309,4,BRT,ffffff,050505,ff8100
-C,2,161,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,2,161,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,1,71,35,BZR cycling team,f3f300,111111,dd4b39
+C,9,697,629,Team AHDR,fc6955,55d4fc,ffffff
+C,6,475,161,ZSUN,ffffff,0073b7,ffffff
+C,6,467,4,BRT,ffffff,050505,ff8100
+C,5,380,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,4,320,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,2,146,791,Race3R,000000,2bc3f4,ffffff
+C,1,73,2834,FZR,0000ff,ffffff,0000ff
 C,1,71,1677,Team Fearless,001f3f,39cccc,01ff70
-C,1,67,791,Race3R,000000,2bc3f4,ffffff
-D,3,243,161,ZSUN,ffffff,0073b7,ffffff
-D,2,164,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+D,5,407,161,ZSUN,ffffff,0073b7,ffffff
+D,3,246,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,1,82,629,Team AHDR,fc6955,55d4fc,ffffff
