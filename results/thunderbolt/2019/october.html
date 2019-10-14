@@ -1,0 +1,47 @@
+---
+layout: default
+date: 15/10/2019
+---
+
+<h2 id='results'>Thunder Bolt Stage Race: October 2019</h2>
+
+<p>
+	Welcome to the Five Day Thunder Bolt Stage Race, running from October 18th to October 23rd. The stage race
+	uses a time-based General Classification, as well as having a sprinter and climber classification. The
+	sprinter and climber classifications will award the first 6 of each grade points (10, 7, 5, 3, 2, 1) for
+	all sprint and KOM segments in each race. Racers will need to complete at least four events to be counted
+	in the classifications. If there are enough numbers, we will have separate classifications for women as
+	well.
+</p>
+
+<h3>Race Schedule</h3>
+<ul>
+	<li><span class='date-data' data-date='2019-10-18-18-30' data-format='day-time'>October 18, 18:30 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-19-19-20' data-format='day-time'>October 19, 19:20 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-20-19-00' data-format='day-time'>October 20, 19:00 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-21-18-30' data-format='day-time'>October 21, 18:30 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-23-18-35' data-format='day-time'>October 23, 18:35 UTC</span></li>
+</ul>
+
+<h3>Rules</h3>
+<ul>
+	<li>Must be registered with <a href='https://www.zwiftpower.com/'>ZwiftPower</a> for official results</li>
+	<li>Heart rate monitors are recommended, but not required</li>
+	<li>Powermeter or Smart Trainer required for official result placement</li>
+	<li>Riders going over category limits will be upgraded</li>
+	<li>Race Commissar&rsquo;s decision will be final</li>
+</ul>
+
+<h3>Categories (<a href='/my-category'>best 30 day est. FTP</a>)</h3>
+<ol style='list-style-type: upper-alpha'>
+		<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>4.0W/kg and OVER</span></li>
+		<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>3.2W/kg to 3.99W/kg</span></li>
+		<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>2.5W/kg to 3.19W/kg</span></li>
+		<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>2.49W/kg and UNDER</span></li>
+	</ol>
+
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+
+{% include standings.html riders=site.data.thunderbolt.2019.october.individuals teams=site.data.thunderbolt.2019.october.teams %}
+
+{% include datetime.html %}
