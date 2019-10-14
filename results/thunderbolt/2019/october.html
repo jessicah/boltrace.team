@@ -51,6 +51,6 @@ date: 15/10/2019
 
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
 
-{% include standings.html riders=site.data.thunderbolt.2019.october.individuals teams=site.data.thunderbolt.2019.october.teams %}
+{% include standings.html showteams="no" riders=site.data.thunderbolt.2019.october.individuals teams=site.data.thunderbolt.2019.october.teams %}
 
 {% include datetime.html %}

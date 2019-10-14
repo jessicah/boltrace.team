@@ -1,6 +1,7 @@
+{% assign showteams = include.showteams | default: "yes" %}
 <p>
 	Individual results: <a href='#a-grade-individual'>A Grade</a> | <a href='#b-grade-individual'>B Grade</a> | <a href='#c-grade-individual'>C Grade</a> | <a href='#d-grade-individual'>D Grade</a><br/>
-	Team results: <a href='#a-grade-team'>A Grade</a> | <a href='#b-grade-team'>B Grade</a> | <a href='#c-grade-team'>C Grade</a> | <a href='#d-grade-team'>D Grade</a>
+{% if showteams == "yes" %}Team results: <a href='#a-grade-team'>A Grade</a> | <a href='#b-grade-team'>B Grade</a> | <a href='#c-grade-team'>C Grade</a> | <a href='#d-grade-team'>D Grade</a>{% endif %}
 </p>
 
 <h3>Individual Results</h3>
@@ -12,7 +13,7 @@
 {% else %}
 <table id='individual-results'>
 	{% for grade in results %}
-	<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-individual'>
+	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-individual'>
 			<tr>
 					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
 				</tr>
@@ -20,7 +21,7 @@
 <th>Name</th><th style='text-align: right'>Team</th><th style='text-align: center'>E</th><th style='text-align: center'>P</th>
 </tr>
 </thead>
-<tbody class='{{ grade.name | lowercase}}-grade'>
+<tbody class='{{ grade.name | downcase }}-grade'>
 	{% for item in grade.items %}
 		{% assign gold = item.podiums | remove: "silver" | remove: "bronze" %}
 		{% assign silver = item.podiums | remove: "gold" | remove: "bronze" %}
@@ -55,6 +56,7 @@
 </table>
 {% endif %}
 
+{% if showteams == "yes" %}
 <h3>Team Results</h3>
 {% assign results = include.teams | group_by: "category" | sort: "name" %}
 {% if results.size < 1 %}
@@ -64,7 +66,7 @@
 {% else %}
 <table id='team-results'>
 {% for grade in results %}
-		<thead class='{{ grade.name | lowercase }}-grade' id='{{ grade.name | lowercase }}-grade-team'>
+		<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-team'>
 		<tr>
 			<th colspan='3'>{{ grade.name | uppercase }} Grade</th>
 		</tr>
@@ -72,7 +74,7 @@
 <th>Team</th><th style='text-align: right'>Results</th><th style='text-align: right'>Points</th>
 </tr>
 </thead>
-<tbody class='{{ grade.name | lowercase }}-grade'>
+<tbody class='{{ grade.name | downcase }}-grade'>
 	{% for item in grade.items %}
 	<tr class='{% cycle "even", "odd" %}'>
 		{% assign tnamesize = item.tname.size %}
@@ -89,4 +91,5 @@
 </tbody>
 {% endfor %}
 </table>
+{% endif %}
 {% endif %}
