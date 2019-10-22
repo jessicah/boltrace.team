@@ -72,6 +72,10 @@ primal: /primal.svg
 
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
 
-{% include standings.html showteams="no" riders=site.data.thunderbolt.2019.october.individuals teams=site.data.thunderbolt.2019.october.teams %}
+{% include standings.html
+	riders=site.data.thunderbolt.2019.october.individuals
+	sprints=site.data.thunderbolt.2019.october.sprints
+	climbs=site.data.thunderbolt.2019.october.climbs
+%}
 
 {% include datetime.html %}
