@@ -1,6 +1,6 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,5,40,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
-A,5,18,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
+A,5,40,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT] (The BRaT Pack),gb,35037,,0
+A,5,18,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; (The BRaT Pack),gb-wls,1119043,,0
 A,5,11,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
 A,3,10,Blarney CC,4612,f5eeee,e61313,241818,Colm Sheahan,ie,1184344,,0
 A,1,8,RuhrRiders,41,ff8700,000000,5cb0fc,Thomas Hebestreit,de,167123,,0
@@ -9,7 +9,7 @@ A,2,5,BRT,4,ffffff,050505,ff8100,Will Budge &#9889;&#65039;&#128304; [BRT],gb,19
 A,5,5,BRT,4,ffffff,050505,ff8100,David Billings,gb,181148,,0
 A,4,4,ZHR,1979,ff0000,03228c,03228c,Rick Sorenson,us,197869,,0
 A,4,3,TeamNL,2281,ffffff,ffa500,ffa500,Karsten Neus ,nl,772538,,0
-B,4,27,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
+B,4,27,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine (Herd of Lions),ie,787676,,0
 B,4,20,BRT,4,ffffff,050505,ff8100,Paul Skipper &#128304;(BRT Draft Beers),gb,12026,,0
 B,2,12,,0,00dd00,,,Ken Allen,nz,1306789,,0
 B,1,12,YYJPower,2994,ffffff,0d0303,ff0000,S H,ca,963259,,0
