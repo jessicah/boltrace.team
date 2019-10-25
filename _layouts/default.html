@@ -420,10 +420,27 @@
       <li><a href='/join-brt' style='padding-left: 0'>Join BRT</a></li>
       <li><a href='/zwift-power-guide'>ZwiftPower Guide</a></li>
       <li><a href='/zwift-racing-guide'>Zwift Racing Guide</a></li>
-      <li><span style='padding-left: 1em; font-size: 100%'>Sponsored by</span> <a href='https://www.primaleurope.com/'
-          style='padding-left: 0'>Primal Europe</a></li>
     </ul>
-    <hr />
+    <hr style='margin-bottom: 4px' />
+    <style type='text/css'>
+    #nav-sponsors {
+      display: flex;
+      padding: 0;
+      margin: 4px;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+    #nav-sponsors > a {
+      display: inline-block;
+      margin: 4px;
+    }
+    </style>
+    <div id='nav-sponsors' class='nav-menu'>
+      <a href='https://www.primaleurope.com/'><img src='/primal.svg' style='height: 1.5em' /></a>
+      <a href='https://thesufferfest.com'>
+        <img src='/sufferfest2.svg' style='height: 1.5em'/></a>
+      </div>
+    <hr style='margin-top: 0'/>
     {{content}}
     <p style='text-align: center'>
       <a href='https://www.primaleurope.com/'><img src='/primal.svg'
