@@ -1,43 +1,49 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,12,914,629,Team AHDR,fc6955,55d4fc,ffffff
+A,13,996,629,Team AHDR,fc6955,55d4fc,ffffff
 A,8,624,4,BRT,ffffff,050505,ff8100
 A,6,484,4397,HEINO RT,ffffff,ff0000,ff3b3b
-A,5,373,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,6,452,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,4,328,2144,CANYON,ffffff,ff005d,ff005d
+A,4,321,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,3,240,791,Race3R,000000,2bc3f4,ffffff
-A,2,164,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,2,156,3973,TURBO,fc671a,000000,000000
 A,1,82,3512,TWonZwift,ffffff,0073b7,ffffff
 A,1,79,1634,[DRAFT],ffffff,e60d2e,000000
+A,1,77,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,75,1677,Team Fearless,001f3f,39cccc,01ff70
-B,15,1197,629,Team AHDR,fc6955,55d4fc,ffffff
-B,13,942,161,ZSUN,ffffff,0073b7,ffffff
-B,13,934,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-B,6,479,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,17,1358,629,Team AHDR,fc6955,55d4fc,ffffff
+B,16,1163,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,15,1082,161,ZSUN,ffffff,0073b7,ffffff
+B,7,561,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,4,315,1,PTz,ffffff,403d3a,e3680f
 B,4,294,1677,Team Fearless,001f3f,39cccc,01ff70
-B,3,236,1,PTz,ffffff,403d3a,e3680f
 B,3,223,4200,OrkneyCC,de3232,0f0606,eb3636
 B,2,156,1766,S&auml;var CK,ffffff,0073b7,ffffff
 B,2,151,36,KISS RT,f56600,012350,84b7ca
 B,1,82,4030,TBC RACING,ffffff,0073b7,ffffff
 B,1,77,90,Vikings,c2c2c2,0073b7,ee6331
+B,1,75,1426,Team CLS,3d9970,ffffff,ffffff
+B,1,75,2834,FZR,0000ff,ffffff,0000ff
 B,1,73,4523,eLatino,fe2ec8,fafafa,fe2ec8
 B,1,71,35,BZR cycling team,f3f300,111111,dd4b39
-C,12,928,629,Team AHDR,fc6955,55d4fc,ffffff
-C,11,868,4,BRT,ffffff,050505,ff8100
-C,11,856,161,ZSUN,ffffff,0073b7,ffffff
-C,7,544,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,14,1085,161,ZSUN,ffffff,0073b7,ffffff
+C,14,1084,629,Team AHDR,fc6955,55d4fc,ffffff
+C,12,950,4,BRT,ffffff,050505,ff8100
+C,11,851,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,5,397,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-C,3,221,791,Race3R,000000,2bc3f4,ffffff
-C,1,79,4545,MVW,fff700,000000,000000
+C,4,300,791,Race3R,000000,2bc3f4,ffffff
+C,2,154,4545,MVW,fff700,000000,000000
+C,2,142,1677,Team Fearless,001f3f,39cccc,01ff70
 C,1,79,1426,Team CLS,3d9970,ffffff,ffffff
+C,1,79,168,Team Type 1,ffffff,0073b7,ffffff
 C,1,79,207,TPH Racing,ffffff,0073b7,ebebeb
 C,1,73,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
 C,1,73,2834,FZR,0000ff,ffffff,0000ff
+C,1,73,1845, VEGAN ,ffffff,00a65a,0adb2c
 C,1,71,2672,REVO,fc00e3,000000,fc00e3
-C,1,71,1677,Team Fearless,001f3f,39cccc,01ff70
-D,9,729,161,ZSUN,ffffff,0073b7,ffffff
-D,6,489,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,1,69,4107,Team DR,08254f,ff8a00,08254f
+D,10,808,161,ZSUN,ffffff,0073b7,ffffff
+D,9,723,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,2,164,629,Team AHDR,fc6955,55d4fc,ffffff
 D,1,82,2672,REVO,fc00e3,000000,fc00e3
 D,1,77,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
