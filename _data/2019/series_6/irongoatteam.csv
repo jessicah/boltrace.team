@@ -1,14 +1,19 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,4,97,4493,ZTPL eRacing,ffffff,ff0000,000000
-A,1,29,1330,teamWKG,fa5e06,3f4c54,3f4c54
+A,6,124,4493,ZTPL eRacing,ffffff,ff0000,000000
+A,1,29,1986,DBR,ffffff,eb7b2a,ffffff
 A,1,23,2734,PLCC,ffffff,00ff00,000000
 A,1,21,1426,Team CLS,3d9970,ffffff,ffffff
+A,1,21,1979,ZHR,ff0000,03228c,03228c
 A,2,21,4,BRT,ffffff,050505,ff8100
 A,1,15,1845, VEGAN ,ffffff,00a65a,0adb2c
 A,1,15,4612,Blarney CC,f5eeee,e61313,241818
+A,1,11,90,Vikings,c2c2c2,0073b7,ee6331
 A,1,11,293,Holand SK,ffffff,0073b7,ffffff
+A,1,9,4222,2RR,ffffff,1010de,ff0000
+A,1,5,3185,FUSION DEVELOPMENT,ffffff,0a1e29,ffffff
 A,1,4,588,Team Italy,dd4b39,ffffff,00a65a
 A,1,3,3562,Scott-RackUltra,ffffff,0073b7,ffffff
+A,1,2,3751,Dutch Racing,121212,fc6719,121212
 B,1,34,353,MRC,ffffff,0073b7,ffffff
 B,1,34,4338,Contact RT,ffffff,120a0a,fafafa
 B,1,31,25,TeamPL,ffffff,ff1800,ff0000
@@ -19,12 +24,15 @@ B,1,25,1997,RSV,ffffff,b77900,ffffff
 B,1,23,322,Audi,ffffff,0073b7,ffffff
 B,1,17,2952,LFCC ,000000,00ff4e,000000
 B,1,15,4717,Racing Viborg,000000,ff6b00,000000
+B,1,13,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,13,1986,DBR,ffffff,eb7b2a,ffffff
 B,1,13,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
+B,2,13,35,BZR cycling team,f3f300,111111,dd4b39
+B,1,11,843,MDCC,ffffff,0073b7,ffffff
+B,2,10,2571,Equipe JZQc,ffffff,003399,ffffff
 B,1,6,60,TBR Racing,ffffff,0073b7,ffffff
 B,1,5,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,1,4,35,BZR cycling team,f3f300,111111,dd4b39
-B,1,3,2571,Equipe JZQc,ffffff,003399,ffffff
+C,1,15,2807,CYCMYTH,ffffff,0073b7,ffffff
 C,1,15,2768,Cranks,ffffff,0073b7,ffffff
 C,1,11,4,BRT,ffffff,050505,ff8100
 C,1,9,1426,Team CLS,3d9970,ffffff,ffffff
