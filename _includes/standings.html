@@ -21,7 +21,7 @@
 	No results yet.
 </p>
 {% else %}
-<table id='individual-results'>
+<table id='individual-results' class='collapse'>
 	{% for grade in results %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-individual'>
 			<tr>
@@ -75,7 +75,7 @@
 	No results yet.
 </p>
 {% else %}
-<table id='team-results'>
+<table id='team-results' class='collapse'>
 {% for grade in results %}
 		<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-team'>
 		<tr>
@@ -113,7 +113,7 @@
 	No results yet.
 </p>
 {% else %}
-<table id='sprint-results'>
+<table id='sprint-results' class='collapse'>
 	{% for grade in results %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-sprint'>
 			<tr>
@@ -167,7 +167,7 @@
 	No results yet.
 </p>
 {% else %}
-<table id='climb-results'>
+<table id='climb-results' class='collapse'>
 	{% for grade in results %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-climb'>
 			<tr>

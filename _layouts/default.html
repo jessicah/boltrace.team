@@ -205,37 +205,37 @@
         padding-bottom: 1em;
       }
 
-      table {
+      table.collapse {
         width: 100%;
       }
 
-      table,
-      thead,
-      tbody,
-      th,
-      td,
-      tr {
+      table.collapse,
+      table.collapse thead,
+      table.collapse tbody,
+      table.collapse th,
+      table.collapse td,
+      table.collapse tr {
         display: block;
       }
 
-      thead tr:nth-of-type(2) {
+      table.collapse thead tr:nth-of-type(2) {
         position: absolute;
         top: -9999px;
         left: -9999px;
       }
 
-      tr {
+      table.collapse tr {
         margin-bottom: 1em
       }
 
-      td {
+      table.collapse td {
         border: none;
         border-bottom: 1px solid #eee;
         position: relative;
         padding-left: 50%;
       }
 
-      td:before {
+      table.collapse td:before {
         position: absolute;
         left: 6px;
         width: 45%;
@@ -243,11 +243,11 @@
         white-space: nowrap;
       }
 
-      td.events {
+      table.collapse td.events {
         text-align: left;
       }
 
-      td.points {
+      table.collapse td.points {
         text-align: left;
       }
 
