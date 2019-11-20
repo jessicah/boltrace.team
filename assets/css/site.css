@@ -1,0 +1,387 @@
+@font-face {
+	font-family: "Nimbus-Condensed";
+	src: url("/assets/fonts/NimbusSansDOT-LighCond.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+  }
+
+  @font-face {
+	font-family: "Nimbus-Condensed";
+	src: url("/assets/fonts/NimbusSansDOT-BoldCond.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+  }
+
+  @font-face {
+	font-family: "Nimbus-Condensed";
+	src: url("/assets/fonts/NimbusSansDOT-LighCondItal.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+  }
+
+  @font-face {
+	font-family: "Nimbus-Condensed";
+	src: url("/assets/fonts/NimbusSansDOT-BoldCondItal.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+  }
+
+  * {
+	font-size: 16pt;
+	box-sizing: border-box;
+  }
+
+  body {
+	background-color: rgb(63, 50, 47);
+	color: white;
+	font-family: Nimbus-Condensed, sans-serif;
+	width: 900px;
+	margin: auto;
+  }
+
+  #content {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border: 2px solid rgba(242, 120, 12, 1);
+	background-color: rgba(204, 204, 204, 1);
+	background-color: rgb(255, 234, 217);
+	border-radius: 10px;
+	color: black;
+	padding: 2em;
+	padding-top: 0;
+  }
+
+  table {
+	width: 100%;
+  }
+
+  /* standings CSS */
+  .even {
+	background-color: rgb(214, 208, 208);
+	background-color: rgb(245, 214, 197);
+  }
+
+  .odd {
+	background-color: rgb(224, 218, 218);
+	background-color: rgb(245, 224, 207);
+  }
+
+  td {
+	padding-left: 1em;
+	padding-right: 1em;
+	color: black;
+  }
+
+  th {
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: left;
+  }
+
+  thead {
+	background-color: rgba(242, 120, 12, 1);
+  }
+
+  #individual-results td.team-badge {
+	text-align: right;
+  }
+
+  #team-results td.team-badge {
+	text-align: left;
+  }
+
+  td.events {
+	text-align: right;
+  }
+
+  td.points {
+	text-align: right;
+  }
+
+  td.team-badge {
+	padding-top: 3px;
+	padding-bottom: 3px;
+  }
+
+  td.team-badge>span {
+	padding-top: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	border-style: solid;
+	border-width: 2px;
+  }
+
+  td:content {
+	border-style: solid;
+	border-width: 2px;
+  }
+
+  td.odd:content {
+	border-color: rgb(224, 218, 218);
+  }
+
+  td.even:content {
+	border-color: rgb(214, 208, 208);
+  }
+
+  .fa-star {
+	color: gold;
+  }
+
+  thead.a-grade>tr {
+	background-color: red;
+  }
+
+  thead.b-grade>tr {
+	background-color: green;
+  }
+
+  thead.c-grade>tr {
+	background-color: lightseagreen;
+  }
+
+  thead.d-grade>tr {
+	background-color: orange;
+  }
+
+  /* end of standings CSS */
+
+  /* handle display on smaller device widths */
+  @media only screen and (max-width: 900px) {
+	body {
+	  margin: 0;
+	  padding: 0;
+	  width: calc(100% - 2px);
+	  background-color: rgba(204, 204, 204, 1);
+	}
+
+	/* only scale up font size on higher-DPI devices */
+	@media only screen and (min-resolution: 120dpi) {
+	  * {
+		font-size: 10vw;
+	  }
+
+	  body {
+		width: calc(200% - 4px);
+	  }
+	}
+
+
+	/*#content>ul>li {
+	  list-style-type: none;
+	}*/
+	#content>ul {
+	  padding-left: 1em;
+	}
+	#content>ol {
+	  padding-left: 1.5em;
+	}
+
+	#content>* {
+	  padding-left: 16px;
+	  padding-right: 16px;
+	  width: calc(100% - 32px);
+	}
+
+	#content {
+	  width: 100%;
+	  margin-top: 0;
+	  margin-bottom: 0;
+	  border: none;
+	  padding: 0;
+	  border-radius: 0;
+	  padding-top: 0.5em;
+	  padding-bottom: 1em;
+	}
+
+	table.collapse {
+	  width: 100%;
+	}
+
+	table.collapse,
+	table.collapse thead,
+	table.collapse tbody,
+	table.collapse th,
+	table.collapse td,
+	table.collapse tr {
+	  display: block;
+	}
+
+	table.collapse thead tr:nth-of-type(2) {
+	  position: absolute;
+	  top: -9999px;
+	  left: -9999px;
+	}
+
+	table.collapse tr {
+	  margin-bottom: 1em
+	}
+
+	table.collapse td {
+	  border: none;
+	  border-bottom: 1px solid #eee;
+	  position: relative;
+	  padding-left: 50%;
+	}
+
+	table.collapse td:before {
+	  position: absolute;
+	  left: 6px;
+	  width: 45%;
+	  padding-right: 10px;
+	  white-space: nowrap;
+	}
+
+	table.collapse td.events {
+	  text-align: left;
+	}
+
+	table.collapse td.points {
+	  text-align: left;
+	}
+
+	#individual-results td.team-badge {
+	  text-align: left;
+	}
+
+	#individual-results td:nth-of-type(1):before {
+	  content: "Name"
+	}
+
+	#individual-results td:nth-of-type(2):before {
+	  content: "Team"
+	}
+
+	#individual-results td:nth-of-type(3):before {
+	  content: "Events"
+	}
+
+	#individual-results td:nth-of-type(4):before {
+	  content: "Points"
+	}
+
+	#team-results td:nth-of-type(1):before {
+	  content: "Team"
+	}
+
+	#team-results td:nth-of-type(2):before {
+	  content: "Events"
+	}
+
+	#team-results td:nth-of-type(3):before {
+	  content: "Points"
+	}
+  }
+
+  #team-name {
+	height: 120px;
+	padding-bottom: 38px;
+  }
+
+  #logo-separator {
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+  }
+
+  #team-logo {
+	height: 153px;
+  }
+
+  #primal-logo {
+	height: 3em;
+	padding-left: 1em;
+	padding-right: 1em;
+  }
+
+  #word-mark {
+	display: none;
+	height: 1.5em;
+	padding-bottom: 1em;
+	padding-left: 0.5em;
+  }
+
+  h1 {
+	font-size: 2em;
+  }
+
+  h2 {
+	font-size: 1.5em;
+  }
+
+  h3 {
+	font-size: 1.2em;
+  }
+
+  #nav,
+  #nav2 {
+	padding: 0;
+	margin: 0;
+	display: inline;
+  }
+
+  ul.nav-menu li {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+  }
+
+  ul.nav-menu>li>a {
+	padding-left: 8px;
+	padding-right: 8px;
+	color: #d76127;
+	text-decoration: none;
+  }
+
+  ul.nav-menu>li>a:hover {
+	color: #ff5500;
+	text-decoration: underline;
+  }
+
+  a {
+	color: #d76127;
+	text-decoration: none;
+  }
+
+  a:hover {
+	color: #ff5500;
+	text-decoration: underline;
+  }
+
+  input,
+  button {
+	font-family: "Nimbus-Condensed";
+  }
+
+  i.fas {
+	font-size: 16px;
+	text-stroke: 1px black;
+	-webkit-text-stroke: 1px black;
+	float: right;
+	line-height: 18pt;
+	margin-left: 4px;
+  }
+
+  i.gold {
+	color: gold;
+  }
+
+  i.silver {
+	color: silver;
+  }
+
+  i.bronze {
+	color: #cd7f32;
+  }
+
+  @media only screen and (max-width: 900px) {
+
+	/* only scale up font size on higher-DPI devices */
+	@media only screen and (min-resolution: 120dpi) {
+	  i.fas {
+		font-size: 32px;
+		float: none;
+	  }
+	}
+  }
+  
