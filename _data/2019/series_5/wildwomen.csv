@@ -1,94 +1,106 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,7,464,Team AHDR,629,fc6955,55d4fc,ffffff,Nanou G,be,916752,gold gold bronze,1
-A,6,416,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae Cryo-Gen ,au,1332978,silver silver bronze,1
+A,8,473,Team AHDR,629,fc6955,55d4fc,ffffff,Nanou G,be,916752,gold gold gold bronze,1
+A,7,458,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN Hawks) ,au,1332978,silver silver silver bronze,1
 A,5,392,Team AHDR,629,fc6955,55d4fc,ffffff,Fran Bambust,be,427114,gold silver silver bronze,0
+A,5,387,BRT,4,ffffff,050505,ff8100,Jessica Hamilton (BRT Draft Beers),nz,653395,silver silver silver bronze,0
 A,4,328,CANYON,2144,ffffff,ff005d,ff005d,Kristin Falck (Canyon),no,56138,gold gold gold gold,0
 A,4,328,HEINO RT,4397,ffffff,ff0000,ff3b3b,Maria Hoiriis,dk,640583,gold gold gold gold,0
-A,4,310,BRT,4,ffffff,050505,ff8100,Jessica Hamilton (BRT Draft Beers),nz,653395,silver silver silver,0
 A,5,259,Team AHDR,629,fc6955,55d4fc,ffffff,Kelly Murphy,au,414760,gold gold,1
 A,3,241,BRT,4,ffffff,050505,ff8100,Vicky Nealon (The BRaT pack),gb,1019855,gold gold bronze,0
 A,3,240,Race3R,791,000000,2bc3f4,ffffff,Charlotte Watts [R3R],gb,617677,gold silver silver,0
 A,3,239,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Diana Wilson [VVixen] ,ca,934846,gold gold,0
 A,2,156,TURBO,3973,fc671a,000000,000000,Line Heerup Madsen (Turbo),dk,927830,silver bronze,0
+A,2,152,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Heather Mayne (CRYO-GEN Vultures),gb,817160,silver,0
 A,1,82,TWonZwift,3512,ffffff,0073b7,ffffff,Rebecca Larson,us,264660,gold,0
 A,1,82,,0,00dd00,,,Kristen K,us,613856,gold,0
 A,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Rhonda Stickle &#129418;,ca,253735,gold,0
+A,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Stefanie Sydlik [VVixen],us,554792,gold,0
+A,1,82,,0,00dd00,,,Stefanie Dittmer5961,us,865612,gold,0
 A,1,79,[DRAFT],1634,ffffff,e60d2e,000000,Adele B-S,ca,1309810,silver,0
 A,1,79,,0,00dd00,,,Debbie Greig,gb,387466,silver,0
 A,1,79,HEINO RT,4397,ffffff,ff0000,ff3b3b,Louise Houbak (Heino racing team),dk,625825,silver,0
 A,1,79,,0,00dd00,,,Justyna Nawrat,pl,1416536,silver,0
+A,1,79,Race3R,791,000000,2bc3f4,ffffff,Catherine Allen,gb,281872,silver,0
 A,1,77,,0,00dd00,,,chigusa endo(team fins),jp,1188023,bronze,0
 A,1,77,HEINO RT,4397,ffffff,ff0000,ff3b3b,Vicki Whitelaw (Heino racing team),au,372588,bronze,0
 A,1,77,Rowe & King,2298,ffffff,2b5bb8,2fba4e,Rhianon Norton,au,264567,bronze,0
 A,1,75,Team Fearless,1677,001f3f,39cccc,01ff70,Lea Milleu,no,470626,,0
 A,1,75,,0,00dd00,,,Kiraly Monika,hu,1010531,,0
-A,1,73,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Heather Mayne,gb,817160,,0
 A,1,73,BRT,4,ffffff,050505,ff8100,carrie hennessy,us,947459,,0
-B,7,486,Team AHDR,629,fc6955,55d4fc,ffffff,Sophie Maenhout,be,802826,gold gold gold gold silver silver bronze,0
+B,8,489,Team AHDR,629,fc6955,55d4fc,ffffff,Sophie Maenhout,be,802826,gold gold gold gold gold silver silver bronze,0
+B,6,489,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Krista Kadatz,ca,928030,gold gold gold gold gold silver,0
 B,6,466,Team AHDR,629,fc6955,55d4fc,ffffff,Michelle Bond9178,au,378121,silver silver silver silver bronze,0
-B,5,407,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Krista Kadatz,ca,928030,gold gold gold gold silver,0
-B,6,406,ZSUN,161,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,silver,0
-B,6,394,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Deanna Solomon,ca,435347,gold,1
-B,4,315,PTz,1,ffffff,403d3a,e3680f,Siv Engmo,no,217993,gold silver silver,0
-B,4,309,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Laura Hewitt,ca,271103,gold bronze bronze,0
+B,7,414,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Deanna Solomon,ca,435347,gold,1
+B,7,412,ZSUN,161,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,silver,0
+B,5,386,Vixen,4879,ffffff,0073b7,ffffff,Siv Engmo,no,217993,gold silver silver,0
+B,5,384,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Laura Hewitt,ca,271103,gold bronze bronze,0
+B,5,347,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Alyssa Broner &#129418;,us,286553,silver bronze,0
+B,4,302,OrkneyCC,4200,de3232,0f0606,eb3636,Olga Hamilton 5394,gb-sct,937749,silver bronze,0
 B,4,294,Team Fearless,1677,001f3f,39cccc,01ff70,Ruthie Shapiro,us,23967,bronze,0
 B,4,292,ZSUN,161,ffffff,0073b7,ffffff,willemijn de Ru,ch,76435,bronze bronze,0
-B,4,288,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Alyssa Broner &#129418;,us,286553,silver bronze,0
 B,3,226,ZSUN,161,ffffff,0073b7,ffffff,Carrie Merritt ,us,456545,gold,0
-B,3,223,OrkneyCC,4200,de3232,0f0606,eb3636,Olga Hamilton 5394,gb-sct,937749,bronze,0
 B,3,221,,0,00dd00,,,Vicki Strila,gb,62234,silver bronze,0
 B,3,215,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Shelly Coker[Vixen]&#129418;,gb,338493,silver,0
 B,2,164,,0,00dd00,,,Allison Bullock,us,68591,gold gold,0
 B,3,161,Team AHDR,629,fc6955,55d4fc,ffffff,Mel Cockshutt,au,360943,gold gold silver,1
 B,2,159,Team AHDR,629,fc6955,55d4fc,ffffff,Emily Compson,au,597805,gold bronze,0
-B,2,156,S&auml;var CK,1766,ffffff,0073b7,ffffff,Mikaela Asplund,se,192975,silver bronze,0
+B,2,156,Sz,32,f3f300,0073b7,f3f300,Mikaela Asplund,se,192975,silver bronze,0
+B,2,155,,0,00dd00,,,Istrate Daniela,ro,1056287,gold,0
 B,2,151,KISS RT,36,f56600,012350,84b7ca,Anja Leuendorff,de,170027,gold,0
+B,2,150,Team CLS,1426,3d9970,ffffff,ffffff,Tanya Sturgess Team CLS,gb,242002,,0
 B,2,142,,0,00dd00,,,Teresa Lyons,us,161365,,0
 B,1,82,TBC RACING,4030,ffffff,0073b7,ffffff,Lisa Melvin,gb-sct,56485,gold,0
 B,1,82,,0,00dd00,,,Lizzy Zoom3111,gb,1074044,gold,0
-B,1,82,,0,00dd00,,,Istrate Daniela,ro,1056287,gold,0
 B,1,82,,0,00dd00,,,Sarah Ryan 5493,gb,883536,gold,0
+B,1,82,,0,00dd00,,,M J,dk,93836,gold,0
 B,1,79,ZSUN,161,ffffff,0073b7,ffffff,Sylvie Holmes ZSUN,ca,87284,silver,0
 B,1,79,ZSUN,161,ffffff,0073b7,ffffff,Wiete Lukkezen1846,de,426476,silver,0
 B,1,79,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Amanda Alkema (Cryo Gen),gb,1050800,silver,0
+B,1,79,ZSUN,161,ffffff,0073b7,ffffff,C Scott,gb-sct,340007,silver,0
 B,1,77,Vikings,90,c2c2c2,0073b7,ee6331,Anne  L&oslash;fshus [V],no,1038506,bronze,0
+B,1,77,KISS RT,36,f56600,012350,84b7ca,Debra Sluz Parker ,ca,260577,bronze,0
+B,1,77,PTz,1,ffffff,403d3a,e3680f,Karen Richardson,us,134257,bronze,0
 B,1,75,Team AHDR,629,fc6955,55d4fc,ffffff,Krystle Simpson,au,197944,,0
-B,1,75,Team CLS,1426,3d9970,ffffff,ffffff,Tanya Sturgess Team CLS,gb,242002,,0
 B,1,75,FZR,2834,0000ff,ffffff,0000ff,Heli Laurila,fi,907381,,0
 B,1,73,eLatino,4523,fe2ec8,fafafa,fe2ec8,Barbara Frisch &#127802;MomInsideTraining,ar,692263,,0
 B,1,73,,0,00dd00,,,Angel Martin,us,710117,,0
+B,1,73,,0,00dd00,,,Golden Dream,us,209458,,0
 B,1,71,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Kerri Thomas [VVixen] &#129418;,us,196575,,0
 B,1,71,BZR cycling team,35,f3f300,111111,dd4b39,Kathleen Morren (BZR),be,1349941,,0
 B,1,71,,0,00dd00,,,Trudy McGiffen,gi,433762,,0
 B,1,71,,0,00dd00,,,Kathy Williams (K2) ,ca,430518,,0
 B,1,69,,0,00dd00,,,Maren Beck,de,1194361,,0
+B,1,69,,0,00dd00,,,Hollie Dowling,gb,515639,,0
+B,1,67,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Alexa Forbes (CRYO-GEN Ravens),gb,301544,,0
 B,1,65,,0,00dd00,,,Victoria H,us,87109,,0
-C,6,486,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie,za,1235014,gold gold gold gold silver silver,0
-C,7,477,BRT,4,ffffff,050505,ff8100,Lisa Armistead,us,279546,gold gold gold silver bronze,0
-C,5,390,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,gold silver bronze bronze,0
-C,5,375,Team AHDR,629,fc6955,55d4fc,ffffff,Janine P,au,406779,silver silver,0
-C,4,288,,0,00dd00,,,Tracy Verdegan,us,1066492,,0
+B,1,65,eCKD,4713,ffffff,ff0000,000000,Trine Dongsgaard eCKD,dk,938984,,0
+C,7,489,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie (CRYO-GEN Ravens),za,1235014,gold gold gold gold gold silver silver,0
+C,8,477,BRT,4,ffffff,050505,ff8100,Lisa Armistead,us,279546,gold gold gold silver bronze,0
+C,6,469,ZSUN,161,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,gold silver silver bronze bronze,0
+C,6,454,Team AHDR,629,fc6955,55d4fc,ffffff,Janine P,au,406779,silver silver silver,0
+C,5,355,,0,00dd00,,,Tracy Verdegan,us,1066492,,0
+C,4,288,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Morgan Aldridge (CRYO-GEN Woodpeckers),us,444737,,0
 C,3,246,BRT,4,ffffff,050505,ff8100,D. Barreto BRT Hellcatz,mx,581267,gold gold gold,0
+C,3,234,ZSUN,161,ffffff,0073b7,ffffff,Iliada Bolton,au,142450,gold bronze,0
 C,4,234,ZSUN,161,ffffff,0073b7,ffffff,Emily Lewis,gb,871667,gold gold bronze,1
 C,3,233,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Sharon Longley,us,466958,silver bronze bronze,0
 C,3,233,Team AHDR,629,fc6955,55d4fc,ffffff,Susie Beretta,au,16088,silver bronze bronze,0
 C,3,232,ZSUN,161,ffffff,0073b7,ffffff,Stephenie Jackman,gb,1058573,gold bronze,0
+C,3,231,MVW,4545,fff700,000000,000000,Claire Cowell,im,792664,silver bronze,0
+C,3,229,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,silver,0
 C,3,225,Team AHDR,629,fc6955,55d4fc,ffffff,Jen Williams&#128156;,au,31704,bronze,0
-C,3,213,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Morgan Aldridge,us,444737,,0
 C,3,203,,0,00dd00,,,Maria Somvall,se,1361271,,0
-C,2,154,BRT,4,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,silver,0
-C,2,154,MVW,4545,fff700,000000,000000,Claire Cowell,im,792664,silver,0
+C,2,161,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb,344233,gold silver,0
 C,2,152,,0,00dd00,,,Tanya Appuhn,us,422242,bronze,0
-C,2,152,ZSUN,161,ffffff,0073b7,ffffff,Iliada Bolton,au,142450,bronze,0
 C,2,152,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Vivienne Powe,au,1320009,bronze,0
 C,2,142,Race3R,791,000000,2bc3f4,ffffff,Isabelle Goupil (APNG),ca,1151562,,0
 C,2,142,,0,00dd00,,,HIROYUKI KAMIO,jp,1299280,,0
 C,1,82,ZSUN,161,ffffff,0073b7,ffffff,Monica Holmes,us,71189,gold,0
-C,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jo Ganley KoS,gb,344233,gold,0
 C,1,82,,0,00dd00,,,Michaela Fuetsch,at,76171,gold,0
 C,1,82,,0,00dd00,,,Emily Hales1575,au,24515,gold,0
 C,1,82,,0,00dd00,,,Crystal Strong,us,816765,gold,0
 C,1,82,,0,00dd00,,,Allison Thomson,us,602696,gold,0
+C,1,82,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jennifer Krueger,us,80832,gold,0
 C,1,79,,0,00dd00,,,Ewa Siarka,pl,1069206,silver,0
 C,1,79,Race3R,791,000000,2bc3f4,ffffff,Valery Ramirez (APNG),ca,475208,silver,0
 C,1,79,TPH Racing,207,ffffff,0073b7,ebebeb,Lucy Jay [TPH],gb,986803,silver,0
@@ -104,25 +116,37 @@ C,1,77,Team AHDR,629,fc6955,55d4fc,ffffff,Sharon MacMaster,au,34166,bronze,0
 C,1,77,,0,00dd00,,,vanessa taylor,gb,205224,bronze,0
 C,1,77,,0,00dd00,,,Anne-Marie Fontayne,fr,1047791,bronze,0
 C,1,77,,0,00dd00,,,Nan Wang,us,505009,bronze,0
+C,1,77,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Helen Jolliffe,gb,979726,bronze,0
+C,1,77,,0,00dd00,,,Dawn Herbert,za,1311098,bronze,0
 C,1,75,,0,00dd00,,,Angie Coleman,au,1146598,,0
 C,1,75,,0,00dd00,,,Floranne van den Broek,no,1343573,,0
 C,1,75,,0,00dd00,,,Melanie Sauve8442,ca,958439,,0
 C,1,75,,0,00dd00,,,Elisabeth Poulin,ca,1406949,,0
+C,1,75,,0,00dd00,,,Jasmin Michaelsen,tr,1496863,,0
 C,1,73,,0,00dd00,,,Astrid 5020,at,1269122,,0
 C,1,73,FZR,2834,0000ff,ffffff,0000ff,Jenni Kinnunen,fi,897935,,0
 C,1,73,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Team WeimaRunner,at,1031513,,0
-C,1,73, VEGAN ,1845,ffffff,00a65a,0adb2c,Evelien Bunnik,us,1421324,,0
+C,1,73, VEGAN ,1845,ffffff,00a65a,0adb2c,Evelien Bunnik [VZT],us,1421324,,0
+C,1,73,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Kelly Waterson,gb,695539,,0
+C,1,73,BRT,4,ffffff,050505,ff8100,Rose Garner,us,387716,,0
 C,1,71,Team Fearless,1677,001f3f,39cccc,01ff70,Virginia Howard,us,122695,,0
 C,1,71,REVO,2672,fc00e3,000000,fc00e3,Sarah Aldred (Revo Cookiemonsters),gb,693219,,0
 C,1,71,,0,00dd00,,,Mariet Feltkamp,nl,565539,,0
 C,1,71,Team Fearless,1677,001f3f,39cccc,01ff70,Kirsten Lewis [FEAR&lt;] ,us,680654,,0
+C,1,71,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annemieke Sirre,nl,210676,,0
 C,1,69,,0,00dd00,,,Lena Gunhaga,se,1023514,,0
 C,1,69,Team DR,4107,08254f,ff8a00,08254f,Marwil van der Laan,nl,404827,,0
+C,1,69,BZR cycling team,35,f3f300,111111,dd4b39,Nathalie Dumoulin (BZR),be,610411,,0
 C,1,67,,0,00dd00,,,Lara Cowden SBR,us,483010,,0
+C,1,65,DBR,1986,ffffff,eb7b2a,ffffff,Hanne Nielsen,dk,1316794,,0
+C,1,63,,0,00dd00,,,Mette Gordon Vallentin,dk,1436299,,0
+C,1,61,,0,00dd00,,,Josi Kau,at,962857,,0
 D,7,492,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Cerys Willoughby,gb,30637,gold gold gold gold gold gold silver,0
-D,6,483,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,gold gold gold silver silver silver,0
-D,2,161,ZSUN,161,ffffff,0073b7,ffffff,Heidi Lehmann,dk,399588,gold silver,0
+D,7,486,ZSUN,161,ffffff,0073b7,ffffff,Steph Hub ,ca,661933,gold gold gold gold silver silver silver,0
+D,3,243,ZSUN,161,ffffff,0073b7,ffffff,Heidi Lehmann,dk,399588,gold gold silver,0
+D,2,158,,0,00dd00,,,Carol  Faid,ca,913820,silver silver,0
 D,2,156,,0,00dd00,,,Ann Walker,gb,470488,silver bronze,0
+D,2,156,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L Hom ,us,10154,silver bronze,0
 D,2,152,,0,00dd00,,,Rebecka Westerberg,se,1014011,bronze,0
 D,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Carol Ng,au,167002,gold,0
 D,1,82,,0,00dd00,,,Litta Lauth,dk,1285076,gold,0
@@ -132,11 +156,11 @@ D,1,82,,0,00dd00,,,Michelle Scott,us,1148735,gold,0
 D,1,82,Team AHDR,629,fc6955,55d4fc,ffffff,Nicole Bruce,au,768923,gold,0
 D,1,82,,0,00dd00,,,Dorothy Davis (Herd),us,1348162,gold,0
 D,1,79,,0,00dd00,,,Xuan Sheng,jp,1114981,silver,0
-D,1,79,,0,00dd00,,,Carol  Faid,ca,913820,silver,0
 D,1,79,,0,00dd00,,,Chantal Marle,nl,1238771,silver,0
-D,1,79,,0,00dd00,,,Adele Eggen,no,14169,silver,0
-D,1,77,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Leslie Arnett FRS(D),us,863921,bronze,0
-D,1,77,Vixen/Fox,1940,7409a6,f79d4b,ffffff,L Hom ,us,10154,bronze,0
+D,1,79,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Adele Eggen (CRYO-GEN Hawks),no,14169,silver,0
+D,1,77,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Leslie Arnett (CRYO-GEN Roadrunners),us,863921,bronze,0
+D,1,77,,0,00dd00,,,colleen Isdale,us,702943,bronze,0
 D,1,75,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Christina Barbieri 9159,us,119174,,0
+D,1,75,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Jessica York,us,120839,,0
 D,1,73,BIKES-FRANCE,1965,000000,f2ad00,000000,Laurensot  Cecile [BIKES-FR]  ,fr,952111,,0
 D,1,73,,0,00dd00,,,Mercedes Jetton,us,945308,,0
