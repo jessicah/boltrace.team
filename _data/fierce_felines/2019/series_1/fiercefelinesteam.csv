@@ -1,9 +1,9 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,2,90,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,1,50,629,Team AHDR,fc6955,55d4fc,ffffff
+A,1,50,4,BRT,ffffff,050505,ff8100
 B,3,133,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,2,58,36,KISS RT,f56600,012350,84b7ca
-B,1,50,4,BRT,ffffff,050505,ff8100
 B,1,40,10,TFC,111111,f3f300,111111
 B,1,40,1979,ZHR,ff0000,03228c,03228c
 B,1,28,4200,OrkneyCC,de3232,0f0606,eb3636
