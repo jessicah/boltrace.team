@@ -330,22 +330,56 @@
 	padding-left: 8px;
 	padding-right: 8px;
 	color: #d76127;
+	color: #f50;
 	text-decoration: none;
   }
 
   ul.nav-menu>li>a:hover {
 	color: #ff5500;
+	color: #f8f7f6;
 	text-decoration: underline;
   }
 
   a {
 	color: #d76127;
+	color: #f50;
+	/*color: rgb(255, 159, 64);
+	color: rgb(247, 159, 72);*/
 	text-decoration: none;
+	transition: all 0.5s ease-out;
+	border-radius: 3px;
+	font-weight: bold;
+	padding-left: 2px;
+	padding-right: 2px;
   }
 
   a:hover {
 	color: #ff5500;
 	text-decoration: underline;
+	background-color: #ff5500;
+	color: #f8f7f6;
+  }
+
+  #nav-sponsors {
+	display: flex;
+	padding: 0;
+	margin: 4px;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+  }
+  #nav-sponsors > a {
+	display: inline-block;
+	margin: 4px;
+	background-color: inherit;
+	transition: none;
+  }
+  a.image-link {
+	background-color: inherit;
+	transition: none;
+  }
+
+  a.image-link:hover {
+	  background-color: inherit;
   }
 
   input,
