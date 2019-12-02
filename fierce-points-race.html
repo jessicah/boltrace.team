@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<h2>Fierce Felines Points Race Scoring</h2>
+
+<p>This is an example of how the results of a points race is determind for scoring in the <a href='/fierce-felines'>Fierce Felines</a> events.</p>
+<p>Points are awarded for the first 6 in each lap: 10, 7, 5, 3, 2, and 1. For the final sprint, points are doubled.</p>
+<p>These points determine finish order, with ties broken by finish time. Points for the event uses the <a href='/fierce-points'>points table</a>.</p>
+<p>In the example below, Larson finishes ahead of Hamilton, therefore taking 1st place. And even though Milleu was first across the line, because
+	she didn't place as well in the intermediate sprints, did not win the race. Lap 7 was the final lap, so double points were awarded.
+</p>
+
+<style type='text/css'>
+table {
+	color: black;
+}
+tr > td {
+	text-align: left;
+}
+td > span {
+	display: inline-block;
+	width: 1em;
+	text-align: right;
+}
+</style>
+<table>
+	<thead>
+		<tr style='background-color: #d76127; color:white; background-color: #ff5500'>
+			<th rowspan='2'>Name</th><th colspan='7'>Lap Points</th><th rowspan='2'>Total Points</th><th rowspan='2'>Event Points</th>
+		</tr>
+		<tr style='background-color: #d76127; color:white; background-color: #ff5500'>
+			<th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7*</th>
+		</tr>
+	</thead>
+	<tbody>
+			<tr class='even'>
+					<td>Larson</td><td>7</td><td>7</td><td>7</td><td>10</td><td>7</td><td>3</td><td>10</td><td>51</td><td>50</td>
+			</tr>
+			<tr class='odd'>
+					<td>Hamilton</td><td>10</td><td>3</td><td>10</td><td>7</td><td>10</td><td>7</td><td>4</td><td>51</td><td>40</td>
+			</tr>
+			<tr class='even'>
+					<td>Madsen</td><td>5</td><td>5</td><td>5</td><td>5</td><td>5</td><td>10</td><td>14</td><td>49</td><td>33</td>
+			</tr>
+			<tr class='odd'>
+					<td>Milleu</td><td>3</td><td>10</td><td>3</td><td>3</td><td>3</td><td>5</td><td>20</td><td>47</td><td>28</td>
+			</tr>
+			<tr class='even'>
+					<td>Hennessy</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td><td>6</td><td>18</td><td>25</td>
+			</tr>
+	</tbody>
+</table>
