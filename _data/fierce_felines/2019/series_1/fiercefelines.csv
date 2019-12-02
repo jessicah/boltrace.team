@@ -1,15 +1,15 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,3,140,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN),au,1332978,gold gold silver,0
+A,3,100,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN),au,1332978,gold gold silver,0
 A,2,100,Team AHDR,,fc6955,55d4fc,ffffff,S  Jane (AHDRL),gb,991785,gold gold,0
 A,1,50,Rowe & King,,ffffff,2b5bb8,2fba4e,Rhianon Norton,au,264567,gold,0
 A,1,40,,,,,,Lynne Anderson,us,260680,silver,0
 A,1,40,Team CRYO-GEN,,ffffff,0073b7,ffffff,Heather Mayne (CRYO-GEN Vultures),gb,817160,silver,0
-B,2,100,Team CRYO-GEN,,ffffff,0073b7,ffffff,Krista Kadatz (Cryo Gen Vultures),ca,928030,gold gold,0
+B,2,100,Team CRYO-GEN,,ffffff,0073b7,ffffff,Krista Kadatz (CryoGen),ca,928030,gold gold,0
 B,2,83,BRT,,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,gold bronze,0
 B,2,68,Team CRYO-GEN,,ffffff,0073b7,ffffff,Karen Loomis (CRYO-GEN),us,849651,gold,0
 B,2,65,TFC,,111111,f3f300,111111,Sarah Barber,us,296530,silver,0
 B,2,55,Team CRYO-GEN,,ffffff,0073b7,ffffff,Faye Baldwin2301,gb,684120,bronze,0
-B,1,50,,,,,,EM. KIEFFER4165,fr,11831,gold,0
+B,1,50,Team CRYO-GEN,,ffffff,0073b7,ffffff,EM. KIEFFER4165,fr,11831,gold,0
 B,1,40,,,,,,JDub Williams,us,49586,silver,0
 B,1,40,,,,,,Sarah Ryan 5493,gb,883536,silver,0
 B,1,40,ZHR,,ff0000,03228c,03228c,Lisa jane  Lait &#129418;,gb,384525,silver,0
@@ -48,10 +48,11 @@ C,1,25,ZSUN,,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,,0
 C,1,22,REVO,,fc00e3,000000,fc00e3,Linda  Brocato [REVO],us,551148,,0
 C,1,22,Team CRYO-GEN,,ffffff,0073b7,ffffff,Helen Jolliffe,gb,979726,,0
 C,1,22,BRT,,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,,0
-C,1,20,Team CRYO-GEN,,ffffff,0073b7,ffffff,Lisa Cerilli (CRYO-GEN Roadrunners),us,1045929,,0
+C,1,20,,,,,,Jen Tomme,us,1010926,,0
 C,1,20,Team CRYO-GEN,,ffffff,0073b7,ffffff,Julie Goggin,us,257660,,0
+C,1,19,Team CRYO-GEN,,ffffff,0073b7,ffffff,Lisa Cerilli (CRYO-GEN Roadrunners),us,1045929,,0
 C,1,19,TNC,,ffffff,0073b7,ffffff,Willeke K,nl,1284271,,0
-C,1,18,,,,,,Josi Kau,at,962857,,0
+C,1,18,Team CRYO-GEN,,ffffff,0073b7,ffffff,Josi Kau (Cryo-Gen),at,962857,,0
 C,1,17,Team CRYO-GEN,,ffffff,0073b7,ffffff,Melanie Stevenson (CRYO-GEN C),ca,918394,,0
 C,1,16,,,,,,Lisa ulrich (Coeur),ca,1182489,,0
 D,2,100,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vivienne Powe CRYO-GEN,au,1320009,gold gold,0
@@ -61,7 +62,7 @@ D,1,50,,,,,,Kim&Lucien de Kind - Boterenbrood,nl,1014199,gold,0
 D,1,50,Vixen/Fox,,7409a6,f79d4b,ffffff,L Hom,us,10154,gold,0
 D,1,50,Team Fearless,,001f3f,39cccc,01ff70,Stefanie Held,de,536821,gold,0
 D,1,50,BRT,,ffffff,050505,ff8100,Laura Mitchell [BRT],gb,683476,gold,0
-D,1,40,,,,,,Caroline Trender 8795,ie,482811,silver,0
+D,1,40,Team CRYO-GEN,,ffffff,0073b7,ffffff,Caroline Trender (Cryo Gen),ie,482811,silver,0
 D,1,40,BRT,,ffffff,050505,ff8100,Rose Garner,us,387716,silver,0
 D,1,33,Team Fearless,,001f3f,39cccc,01ff70,Josefin Korsb&auml;ck [FEAR&lt;],se,964913,bronze,0
 D,1,33,,,,,,colleen Isdale,us,702943,bronze,0
