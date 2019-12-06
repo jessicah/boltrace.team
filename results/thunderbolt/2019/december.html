@@ -1,0 +1,62 @@
+---
+layout: default
+date: 21/10/2019
+---
+<img src='/assets/images/thunderbolt-header.png' style='width: 100%'/>
+
+<h2 id='results'>Thunder Bolt Stage Race: December 2019</h2>
+
+<h3>Welcome</h3>
+<p>
+	Welcome to the Five Day <strong>Thunder Bolt Stage Race</strong>, running from December 8th to December 13th. The stage race
+	uses a time-based General Classification, as well as having a sprinter and climber classification. The
+	sprinter and climber classifications will award the first 6 of each grade points (10, 7, 5, 3, 2, 1) for
+	all sprint and KOM segments in each race. Racers will need to complete at least four events plus the prolog to be counted
+	in the classifications.
+</p>
+
+<!--<h3>Race Schedule</h3>
+<ul>
+	<li><span class='date-data' data-date='2019-10-18-18-30' data-format='day-time'>October 18, 18:30 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-19-19-20' data-format='day-time'>October 19, 19:20 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-20-19-00' data-format='day-time'>October 20, 19:00 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-21-18-30' data-format='day-time'>October 21, 18:30 UTC</span></li>
+	<li><span class='date-data' data-date='2019-10-23-18-35' data-format='day-time'>October 23, 18:35 UTC</span></li>
+</ul>
+
+<h3>Event Links</h3>
+<ul>
+	<li>Stage 1: <a href='https://zwift.com/events/view/232208'>Zwift Events</a> | <a href='https://www.zwiftpower.com/events.php?zid=232208'>ZwiftPower</a></li>
+	<li>Stage 2: <a href='https://zwift.com/events/view/232209'>Zwift Events</a> | <a href='https://www.zwiftpower.com/events.php?zid=232209'>ZwiftPower</a></li>
+	<li>Stage 3: <a href='https://zwift.com/events/view/232213'>Zwift Events</a> | <a href='https://www.zwiftpower.com/events.php?zid=232213'>ZwiftPower</a></li>
+	<li>Stage 4: <a href='https://zwift.com/events/view/232210'>Zwift Events</a> | <a href='https://www.zwiftpower.com/events.php?zid=232210'>ZwiftPower</a></li>
+	<li>Stage 5: <a href='https://zwift.com/events/view/232211'>Zwift Events</a> | <a href='https://www.zwiftpower.com/events.php?zid=232211'>ZwiftPower</a></li>
+</ul>-->
+
+<h3>Rules</h3>
+<ul>
+	<li>Must be registered with <a href='https://www.zwiftpower.com/'>ZwiftPower</a> for official results</li>
+	<li>Heart rate monitors are required for official result placement</li>
+	<li>Powermeter or Smart Trainer required for official result placement</li>
+	<li>Riders going over category limits will be upgraded</li>
+	<li>Riders racing below their ZwiftPower category will be disqualified</li>
+	<li>Race Commissaire&rsquo;s decision will be final</li>
+</ul>
+
+<h3>Categories</h3>
+<ol style='list-style-type: upper-alpha'>
+		<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>4.0W/kg and OVER</span></li>
+		<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>3.2W/kg up to 4.0W/kg</span></li>
+		<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>2.5W/kg up to 3.2W/kg</span></li>
+		<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>UNDER 2.5W/kg</span></li>
+	</ol>
+
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+
+{% include standings.html
+	riders=site.data.thunderbolt.2019.october.individuals
+	sprints=site.data.thunderbolt.2019.october.sprints
+	climbs=site.data.thunderbolt.2019.october.climbs
+%}
+
+{% include datetime.html %}
