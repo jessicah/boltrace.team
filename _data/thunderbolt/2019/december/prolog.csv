@@ -1,64 +1,123 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,1,00:06:37.4,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
-A,1,+00:05.5,BRT,4,ffffff,050505,ff8100,Bas Seldenrijk &#128304;,nl,274131,,0
-A,1,+00:24.6,,0,00dd00,,,Stijn Laureys,be,34403,,0
-A,1,+00:30.8,BRT,4,ffffff,050505,ff8100,David Crawford,gb,679365,,0
-A,1,+00:33.2,,0,00dd00,,,Christoph Meier,de,447127,,0
-A,1,+00:36.8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ian Freeman (VFox) &#129418;,gb,218226,,0
-A,1,+00:38.6,BZR cycling team,35,f3f300,111111,dd4b39,Dennis Van Riel,be,1432591,,0
-A,1,+00:39.1,,0,00dd00,,,George Tidmarsh,gb,682974,,0
-A,1,+00:41.0,DIRT,2707,29ec34,563c0f,df6a0d,Nick Glasenapp,us,1367809,,0
-A,1,+00:52.3,,0,00dd00,,,Zee Kryder,ch,195262,,0
-A,1,+00:58.9,,0,00dd00,,,Ha Ra ,jp,511814,,0
-A,1,+01:01.4,,0,00dd00,,,etsuo ichihara,jp,148643,,0
-B,1,00:07:05.3,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
-B,1,+00:04.6,Team Italy,588,dd4b39,ffffff,00a65a,Richard Colombo,it,900098,,0
-B,1,+00:05.2,BRT,4,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
-B,1,+00:10.9,,0,00dd00,,,josh flanagan ,us,7236,,0
-B,1,+00:12.3,KLD,2163,ffffff,3cbebe,269898,Roman Pyasetskiy,ru,852006,,0
-B,1,+00:12.6,,0,00dd00,,,Barry Dickson,au,3309,,0
-B,1,+00:13.6,100miles,4185,000000,ffff00,009900,Macchoi @100miles,jp,1187875,,0
-B,1,+00:18.4,Sz,32,f3f300,0073b7,f3f300,Tonie Olsson,se,279195,,0
-B,1,+00:18.8,,0,00dd00,,,Alejandro Mallea,cl,787828,,0
-B,1,+00:19.2,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. (CRYO-GEN Vultures),us,322928,,0
-B,1,+00:21.7,BRT,4,ffffff,050505,ff8100,Francisco Arce,za,652272,,0
-B,1,+00:25.9,,0,00dd00,,,Helga Chirkova,ru,359003,,0
-B,1,+00:26.0,DBR,1986,ffffff,eb7b2a,ffffff,Henrik Hansen ,dk,113965,,0
-B,1,+00:28.7,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
-B,1,+00:30.4,,0,00dd00,,,Mike Meysner,gb,459227,,0
-B,1,+00:31.1,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN),au,1332978,,0
-B,1,+00:34.6,BRT,4,ffffff,050505,ff8100,Vin Lam&#9889;[BRT] &lt;The Sticky Bottle&gt;,gb,868022,,0
-B,1,+00:41.0,,0,00dd00,,,Rowan M,au,161528,,0
-B,1,+00:52.2,,0,00dd00,,,James Bannister,gb,154269,,0
-B,1,+00:52.8,,0,00dd00,,,Rob Nytko,us,106009,,0
-B,1,+00:55.3,,0,00dd00,,,Toby Boylan,au,667517,,0
-B,1,+01:05.8,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,DJ Johnston - Cryo Gen.,au,823571,,0
-C,1,00:07:48.7,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
-C,1,+00:11.1,,0,00dd00,,,Paul Renton,gb,210682,,0
-C,1,+00:11.3,Team Type 1,168,ffffff,0073b7,ffffff,John Cahill,au,552806,,0
-C,1,+00:12.0,Putters,5082,ffffff,070808,f74949,Tom De Ketelaere (Putter) ,be,1049143,,0
-C,1,+00:14.7,DIRT,2707,29ec34,563c0f,df6a0d,Michael Suer [DIRT],us,1314405,,0
-C,1,+00:19.5,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
-C,1,+00:22.6,BRT,4,ffffff,050505,ff8100,Ade Manning (BRT),gb-eng,77820,,0
-C,1,+00:31.0,,0,00dd00,,,Sjors Davidse,nl,1037481,,0
-C,1,+00:31.2,,0,00dd00,,,Muliadi Antaredja,id,43578,,0
-C,1,+00:37.7,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie (CRYO-GEN Ravens),za,1235014,,0
-C,1,+00:48.1,BRT,4,ffffff,050505,ff8100,Jonnie Treharne (BRT),gb-wls,1432175,,0
-C,1,+00:59.8,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
-C,1,+01:01.4,,0,00dd00,,,Suzuki Nobuaki,jp,117973,,0
-C,1,+01:02.7,,0,00dd00,,,J Bec,de,1060511,,0
-C,1,+01:13.6,,0,00dd00,,,Danila 5494 Elchin,ru,961807,,0
-C,1,+01:14.2,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,H.  Posselmann (KC) ,de,532446,,0
-C,1,+01:37.6,,0,00dd00,,,Lars Albrecht1744,de,1071509,,0
-C,1,+02:18.1,BZR cycling team,35,f3f300,111111,dd4b39,kevin van raemdonck ,be,275927,,0
-C,1,+02:18.5,TeamPL,25,ffffff,ff1800,ff0000,Robert Gluszczynski,pl,894318,,0
-C,1,+02:43.1,,0,00dd00,,,Jonathan Roberts,gb,1029841,,0
-D,1,00:08:09.5,USMES,79,ffffff,0073b7,ffffff,Xiphos Pyrriche(2454),gr,245169,,0
-D,1,+01:03.4,,0,00dd00,,,Robin Andersson,se,880343,,0
-D,1,+01:10.1,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Sunghwa Lee,kr,793522,,0
-D,1,+01:25.6,,0,00dd00,,,M H,gb-sct,701736,,0
-D,1,+01:57.3,DBR,1986,ffffff,eb7b2a,ffffff,Mads Andersen [DBR],dk,235256,,0
-D,1,+02:10.5,,0,00dd00,,,Andrei Rumiantcev,ru,1136512,,0
-D,1,+02:19.2,,0,00dd00,,,Deborah Michaliszyn,ca,861559,,0
-D,1,+02:44.9,,0,00dd00,,,BTW WTF,dk,414840,,0
-D,1,+03:42.9,BRT,4,ffffff,050505,ff8100,Paul Wadeson (BRT D) ,gb,906678,,0
+A,1,00:06:22.4,AFC,1405,ff0000,000000,cc0000,Seth G &#9729;&#65039; &#128304;,us,463284,,0
+A,1,+00:08.1,Blarney CC,4612,f5eeee,e61313,241818,Colm Sheahan,ie,1184344,,0
+A,1,+00:14.4,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
+A,1,+00:15.0,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
+A,1,+00:16.6,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
+A,1,+00:19.1,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
+A,1,+00:19.5,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
+A,1,+00:19.7,TugaZRT,2466,ffffff,ff1f00,33735b,Alberto Amaral(tugaZRT) ,pt,681280,,0
+A,1,+00:19.8,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
+A,1,+00:20.6,BRT,4,ffffff,050505,ff8100,Bas Seldenrijk &#128304;,nl,274131,,0
+A,1,+00:27.6,BRT,4,ffffff,050505,ff8100,John Bergenske &#128304;&#9889;&#65039;(BRT Draft Beers),us,180408,,0
+A,1,+00:29.9,BRT,4,ffffff,050505,ff8100,Mark Worthington,gb,71062,,0
+A,1,+00:30.5,Team AHDR,629,fc6955,55d4fc,ffffff,J&ouml;rgen Johansson,se,388931,,0
+A,1,+00:34.1,BRT,4,ffffff,050505,ff8100,Scott Bussom,us,48210,,0
+A,1,+00:38.2,TeamNL,2281,ffffff,ffa500,ffa500,Ruben Guis,nl,52559,,0
+A,1,+00:39.6,,0,00dd00,,,Stijn Laureys,be,34403,,0
+A,1,+00:39.9,Race3R,791,000000,2bc3f4,ffffff,Vincent H,ca,935824,,0
+A,1,+00:45.8,BRT,4,ffffff,050505,ff8100,David Crawford,gb,679365,,0
+A,1,+00:46.6,TFC,10,111111,f3f300,111111,Vincent O&rsquo;Leary (TFC),ie,1350525,,0
+A,1,+00:46.9,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,,0
+A,1,+00:48.2,,0,00dd00,,,Christoph Meier,de,447127,,0
+A,1,+00:51.8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Ian Freeman (VFox) &#129418;,gb,218226,,0
+A,1,+00:53.6,BZR cycling team,35,f3f300,111111,dd4b39,Dennis Van Riel,be,1432591,,0
+A,1,+00:54.1,,0,00dd00,,,George Tidmarsh,gb,682974,,0
+A,1,+00:56.0,DIRT,2707,29ec34,563c0f,df6a0d,Nick Glasenapp,us,1367809,,0
+A,1,+01:02.5,BRT,4,ffffff,050505,ff8100,Grahame Mckenzie[BRT]&#128304;,gb,77990,,0
+A,1,+01:07.3,,0,00dd00,,,Zee Kryder,ch,195262,,0
+A,1,+01:13.9,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,a.lex (KC) &#128304;,de,458147,,0
+A,1,+01:13.9,,0,00dd00,,,Ha Ra ,jp,511814,,0
+A,1,+01:16.4,,0,00dd00,,,etsuo ichihara,jp,148643,,0
+A,1,+01:29.2,TFC,10,111111,f3f300,111111,Tommy Sellars,gb,1387591,,0
+B,1,00:06:47.1,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
+B,1,+00:05.3,Groove SES,3003,ffffff,0073b7,ffffff,Kevin Selker,mx,696782,,0
+B,1,+00:05.8,DIRT,2707,29ec34,563c0f,df6a0d,Sebastian &#129302; [DIRT BC],de,784914,,0
+B,1,+00:11.5,teamWKG,1330,fa5e06,3f4c54,3f4c54,GORDON JACKSON (WKG  TORTURE )  (LB) ,gb,19671,,0
+B,1,+00:17.4,BRT,4,ffffff,050505,ff8100,Stuart Hardy &#128034; [BRT],gb,591535,,0
+B,1,+00:18.1,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
+B,1,+00:18.6,,0,00dd00,,,David Brady,gb-eng,392747,,0
+B,1,+00:20.3,ZRG,1942,1bc1f1,3d3d3d,1bc1f1,Daniel Frobeen,de,237319,,0
+B,1,+00:22.8,Team Italy,588,dd4b39,ffffff,00a65a,Richard Colombo,it,900098,,0
+B,1,+00:23.4,BRT,4,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
+B,1,+00:23.9,ZHR,1979,ff0000,03228c,03228c,kevyn Newton,gb,39508,,0
+B,1,+00:26.8,Blarney CC,4612,f5eeee,e61313,241818,Karl McCarthy (Herd of Lions),ie,549700,,0
+B,1,+00:29.1,,0,00dd00,,,josh flanagan ,us,7236,,0
+B,1,+00:29.5,BRT,4,ffffff,050505,ff8100,Stuart Leach (BRT Draft Beers),gb,322268,,0
+B,1,+00:29.6,BRT,4,ffffff,050505,ff8100,Lee  Chalk(BRT tequila chasers),gb,255651,,0
+B,1,+00:30.5,KLD,2163,ffffff,3cbebe,269898,Roman Pyasetskiy,ru,852006,,0
+B,1,+00:30.8,,0,00dd00,,,Barry Dickson,au,3309,,0
+B,1,+00:35.0,ZRG,1942,1bc1f1,3d3d3d,1bc1f1,Frank Eggert (ZRG-R-TTT),de,207016,,0
+B,1,+00:35.9,TFC,10,111111,f3f300,111111,Dean Hardie (TFC Hurricane),gb-wls,96086,,0
+B,1,+00:36.6,Sz,32,f3f300,0073b7,f3f300,Tonie Olsson,se,279195,,0
+B,1,+00:37.0,,0,00dd00,,,Alejandro Mallea,cl,787828,,0
+B,1,+00:37.4,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. (CRYO-GEN Vultures),us,322928,,0
+B,1,+00:39.9,BRT,4,ffffff,050505,ff8100,Francisco Arce,za,652272,,0
+B,1,+00:40.5,,0,00dd00,,,Sam Barker,gb,1094190,,0
+B,1,+00:44.1,,0,00dd00,,,Helga Chirkova,ru,359003,,0
+B,1,+00:44.2,DBR,1986,ffffff,eb7b2a,ffffff,Henrik Hansen ,dk,113965,,0
+B,1,+00:46.9,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
+B,1,+00:47.7,TeamNL,2281,ffffff,ffa500,ffa500,Eddy Creemers,nl,1041913,,0
+B,1,+00:48.6,,0,00dd00,,,Mike Meysner,gb,459227,,0
+B,1,+00:49.3,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN),au,1332978,,0
+B,1,+00:52.8,BRT,4,ffffff,050505,ff8100,Vin Lam&#9889;[BRT] &lt;The Sticky Bottle&gt;,gb,868022,,0
+B,1,+00:53.2,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,,0
+B,1,+00:53.8,BRT,4,ffffff,050505,ff8100,Darren Green - BRT (B) ,gb-eng,30856,,0
+B,1,+00:56.2,,0,00dd00,,,Leonie Dijkstra,nl,1016132,,0
+B,1,+00:56.4,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Baltes Cora [CRYO-GEN],ro,701096,,0
+B,1,+00:56.8,DBR,1986,ffffff,eb7b2a,ffffff,Jan Stougaard Glerup,dk,387964,,0
+B,1,+00:59.2,,0,00dd00,,,Rowan M,au,161528,,0
+B,1,+01:02.8,teamWKG,1330,fa5e06,3f4c54,3f4c54,Paul Nicholls (WKG FUN),gb,560500,,0
+B,1,+01:10.4,,0,00dd00,,,James Bannister,gb,154269,,0
+B,1,+01:11.0,,0,00dd00,,,Rob Nytko,us,106009,,0
+B,1,+01:11.2,BRT,4,ffffff,050505,ff8100,Keith Brothers (BRT Chasers),gb,233265,,0
+B,1,+01:13.5,,0,00dd00,,,Toby Boylan,au,667517,,0
+B,1,+01:18.9,,0,00dd00,,,Megan Galinat ,us,1074469,,0
+B,1,+01:24.0,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,DJ Johnston - Cryo Gen.,au,823571,,0
+B,1,+01:25.9,,0,00dd00,,,serge le goff,fr,539977,,0
+C,1,00:07:29.6,RuhrRiders,41,ff8700,000000,5cb0fc,Thomas Reinecke,de,209977,,0
+C,1,+00:07.1,,0,00dd00,,,Jared Dalichow,de,839336,,0
+C,1,+00:19.0,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
+C,1,+00:22.9,RCC,265,fc2097,d2d6de,111111,Robert Evans,us,1352742,,0
+C,1,+00:23.8,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Douglas MacRae,gb-sct,1417813,,0
+C,1,+00:29.9,,0,00dd00,,,Neal Coughlin,us,623030,,0
+C,1,+00:30.2,,0,00dd00,,,Paul Renton,gb,210682,,0
+C,1,+00:30.4,Team Type 1,168,ffffff,0073b7,ffffff,John Cahill,au,552806,,0
+C,1,+00:33.8,DIRT,2707,29ec34,563c0f,df6a0d,Michael Suer [DIRT],us,1314405,,0
+C,1,+00:38.6,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
+C,1,+00:41.0,,0,00dd00,,,Nathan Race,us,11445,,0
+C,1,+00:41.7,BRT,4,ffffff,050505,ff8100,Ade Manning (BRT),gb-eng,77820,,0
+C,1,+00:45.2,BRT,4,ffffff,050505,ff8100,ed grey(BRT Chasers),gb,444186,,0
+C,1,+00:48.9,BRT,4,ffffff,050505,ff8100,Alan Millard,gb-eng,482477,,0
+C,1,+00:49.3,,0,00dd00,,,Mikhail Trifonov8660 ,ru,815511,,0
+C,1,+00:50.1,,0,00dd00,,,Sjors Davidse,nl,1037481,,0
+C,1,+00:50.3,,0,00dd00,,,Muliadi Antaredja,id,43578,,0
+C,1,+00:56.8,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Annaleen Visagie (CRYO-GEN Ravens),za,1235014,,0
+C,1,+00:59.3,,0,00dd00,,,Luis Canosa,gb,931871,,0
+C,1,+01:07.2,BRT,4,ffffff,050505,ff8100,Jonnie Treharne (BRT),gb-wls,1432175,,0
+C,1,+01:09.2,,0,00dd00,,,Froydis Gullbra,no,578544,,0
+C,1,+01:17.2,BRT,4,ffffff,050505,ff8100,Steve Wiltshire,gb,484548,,0
+C,1,+01:18.9,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
+C,1,+01:20.5,,0,00dd00,,,Suzuki Nobuaki,jp,117973,,0
+C,1,+01:21.8,,0,00dd00,,,J Bec,de,1060511,,0
+C,1,+01:27.3,,0,00dd00,,,Kristof Novi,zw,106206,,0
+C,1,+01:28.1,,0,00dd00,,,Greg McPherson (PVC),us,1462846,,0
+C,1,+01:30.8,DIRT,2707,29ec34,563c0f,df6a0d,Eric Plantinga,us,1162198,,0
+C,1,+01:32.7,,0,00dd00,,,Danila 5494 Elchin,ru,961807,,0
+C,1,+01:33.3,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,H.  Posselmann (KC) ,de,532446,,0
+C,1,+01:48.1,,0,00dd00,,,Peter Karwowski ,us,430883,,0
+C,1,+01:56.7,,0,00dd00,,,Lars Albrecht1744,de,1071509,,0
+C,1,+02:37.1,BZR cycling team,35,f3f300,111111,dd4b39,kevin van raemdonck ,be,275927,,0
+C,1,+02:37.6,TeamPL,25,ffffff,ff1800,ff0000,Robert Gluszczynski,pl,894318,,0
+C,1,+03:02.2,,0,00dd00,,,Jonathan Roberts,gb,1029841,,0
+D,1,00:09:13.0,,0,00dd00,,,Robin Andersson,se,880343,,0
+D,1,+00:06.6,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Sunghwa Lee,kr,793522,,0
+D,1,+00:06.6,,0,00dd00,,,Curtis Linton,ca,995853,,0
+D,1,+00:22.1,,0,00dd00,,,M H,gb-sct,701736,,0
+D,1,+00:53.8,DBR,1986,ffffff,eb7b2a,ffffff,Mads Andersen [DBR],dk,235256,,0
+D,1,+01:07.0,,0,00dd00,,,Andrei Rumiantcev,ru,1136512,,0
+D,1,+01:15.8,,0,00dd00,,,Deborah Michaliszyn,ca,861559,,0
+D,1,+01:35.1,,0,00dd00,,,Nicolas VIVIER,fr,824486,,0
+D,1,+01:41.4,,0,00dd00,,,BTW WTF,dk,414840,,0
+D,1,+02:39.4,BRT,4,ffffff,050505,ff8100,Paul Wadeson (BRT D) ,gb,906678,,0
+D,1,+02:57.2,REVO,2672,fc00e3,000000,fc00e3,Sara Perrin [REVO],us,420144,,0
