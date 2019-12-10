@@ -1,0 +1,24 @@
+---
+layout: default
+date: 10/12/2019
+---
+<img src='/assets/images/thunderbolt-header.png' style='width: 100%'/>
+
+<h2 id='results'>Thunder Bolt Stage Race: December 2019</h2>
+
+<h3>Welcome</h3>
+<p>
+	Welcome to the Five Day <strong>Thunder Bolt Stage Race</strong>, running from December 8th to December 13th.
+	For the full breakdown of the event, please visit the <a href='/thunderbolt'>Thunderbolt Event Page</a>, which includes
+	links to the full race schedule, description of powerups available, and other important details.
+</p>
+
+<h3>Results: Prolog</h3>
+
+{% include standings.html
+	riders=site.data.thunderbolt.2019.december.prolog
+	teams=site.data.thunderbolt.2019.december.prolog_teams %}
+
+<h3>Women</h3>
+
+{% include standings.html riders=site.data.thunderbolt.2019.december.prolog_women %}
