@@ -1,39 +1,43 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,2,00:49:59.4,AFC,1405,ff0000,000000,cc0000,Seth G &#9729;&#65039; &#128304;,us,463284,,0
-A,2,+00:47.0,Race3R,791,000000,2bc3f4,ffffff,Vincent H,ca,935824,,0
-A,2,+02:04.8,DIRT,2707,29ec34,563c0f,df6a0d,Rex  Tan,ph,378499,,0
-A,2,+07:55.6,,,,,,Felipe Nystrom,cr,77635,,0
-B,2,00:50:04.5,,,,,,Thor BG-Man,de,471274,,0
-B,2,+00:04.2,FINESSE,2779,f7f915,0ccaff,00a8d6,JS deBoer,ca,61107,,0
-B,2,+00:04.8,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. CRYO-GEN,us,322928,,0
-B,2,+00:13.6,BRT,4,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
-B,2,+02:32.0,,,,,,Alejandro Mallea,cl,787828,,0
-B,2,+02:33.6,,,,,,Alex Turpin 3990,us,324238,,0
-B,2,+02:34.2,HPP,1528,bf0101,ffffff,bf0101,Brian White,us,244799,,0
-B,2,+02:34.8,,,,,,Ye Fan,cn,797792,,0
-B,2,+02:34.9,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Chris Lawson &#129418; [VFOX],us,944931,,0
-B,2,+02:35.1,,,,,,Bhoj Rai,us,8230,,0
-B,2,+02:35.7,DIRT,2707,29ec34,563c0f,df6a0d,B Atkins (DIRT Bags),us,830421,,0
-B,2,+02:58.8,ZESP,2146,000000,fabd00,ad1519,Felipe Telletxea,es,542352,,0
-B,2,+03:45.1,BOBR,5133,ffffff,0073b7,ffffff,MicaJon Dykes BOBR,us,1575,,0
-B,2,+05:20.1,BOBR,5133,ffffff,0073b7,ffffff,Levi Dykes BOBR,us,5649,,0
-B,2,+05:21.5,,,,,,David Pouncy,us,17707,,0
-B,2,+06:10.9,,,,,,Mike Brown TDM,au,211291,,0
-B,2,+28:59.4,,,,,,Adam Hopkins 5849,us,1338170,,0
-C,2,00:53:19.3,,,,,,Adrien Benusiglio,fr,882956,,0
-C,2,+00:16.8,RCC,265,fc2097,d2d6de,111111,Robert Evans,us,1352742,,0
-C,2,+00:33.3,,,,,,Neal Coughlin,us,623030,,0
-C,2,+03:15.6,,,,,,R. Florence ,us,2210,,0
-C,2,+03:18.5,,,,,,Merrill Smith (MoveDaddy.com)  C,us,204912,,0
-C,2,+04:32.5,,,,,,Joe Fortier,us,861534,,0
-C,2,+04:33.7,,,,,,Crystal Strong,us,816765,,0
-C,2,+05:02.8,DIRT,2707,29ec34,563c0f,df6a0d,Michael Chalfant [DIRT],us,212993,,0
-C,2,+07:17.8,,,,,,John Kreidler,us,96260,,0
-C,2,+08:11.2,,,,,,Marc ''Ketiyer''  Ethier CCC,ca,565515,,0
-C,2,+08:50.5,,,,,,Pak Ho,hk,776250,,0
-C,2,+12:02.2,,,,,,Phil Knowles,us,1165602,,0
-D,2,01:04:35.5,,,,,,Damien Bruck ,us,865286,,0
-D,2,+03:14.2,,,,,,Doug Rodenkirch,us,920227,,0
-D,2,+05:58.7,TeamPL,25,ffffff,ff1800,ff0000,Mariusz Malzenski [TeamPL],au,1233343,,0
-D,2,+09:06.1,,,,,,Curtis Linton,ca,995853,,0
-D,2,+12:34.1,REVO,2672,fc00e3,000000,fc00e3,Sara Perrin [REVO],us,420144,,0
+A,3,01:58:36.7,AFC,1405,ff0000,000000,cc0000,Seth G &#9729;&#65039; &#128304;,us,463284,,0
+A,3,+05:40.7,Race3R,791,000000,2bc3f4,ffffff,Vincent H,ca,935824,,0
+A,2,+06:58.5,DIRT,2707,29ec34,563c0f,df6a0d,Rex  Tan,ph,378499,,0
+A,2,+12:49.3,,,,,,Felipe Nystrom,cr,77635,,0
+A,2,+12:49.3,,,,,,Andrew Escandon,us,879926,,0
+B,3,01:59:20.6,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. (CRYO-GEN Vultures),us,322928,,0
+B,3,+03:20.7,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Chris Lawson &#129418; [VFOX],us,944931,,0
+B,3,+06:06.6,BRT,4,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
+B,2,+06:35.1,HPP,1528,bf0101,ffffff,bf0101,Brian White,us,244799,,0
+B,3,+09:38.9,,,,,,Thor BG-Man,de,471274,,0
+B,3,+09:43.1,FINESSE,2779,f7f915,0ccaff,00a8d6,JS deBoer,ca,61107,,0
+B,3,+09:43.1,,,,,,Alejandro Mallea,cl,787828,,0
+B,2,+12:12.5,,,,,,Alex Turpin,us,324238,,0
+B,2,+12:13.7,,,,,,Ye Fan,cn,797792,,0
+B,2,+12:14.0,,,,,,Bhoj Rai,us,8230,,0
+B,2,+12:14.6,DIRT,2707,29ec34,563c0f,df6a0d,B Atkins (DIRT Bags),us,830421,,0
+B,3,+12:37.8,ZESP,2146,000000,fabd00,ad1519,Felipe Telletxea,es,542352,,0
+B,2,+13:24.0,BOBR,5133,ffffff,0073b7,ffffff,MicaJon Dykes BOBR,us,1575,,0
+B,2,+14:59.0,BOBR,5133,ffffff,0073b7,ffffff,Levi Dykes BOBR,us,5649,,0
+B,2,+15:00.5,,,,,,David Pouncy,us,17707,,0
+B,2,+15:49.8,,,,,,Mike Brown TDM,au,211291,,0
+B,2,+32:15.2,DIRT,2707,29ec34,563c0f,df6a0d,M. LeVasseur (DIRTy Steamers),us,533959,,0
+B,2,+36:10.2,Team AHDR,629,fc6955,55d4fc,ffffff,Sam Bendigo,au,399329,,0
+B,2,+38:38.3,,,,,,Adam Hopkins 5849,us,1338170,,0
+B,2,+38:38.3, VEGAN ,1845,ffffff,00a65a,0adb2c,Lewis Worrall [VEGAN],ie,196753,,0
+C,3,02:07:44.6,,,,,,Adrien Benusiglio,fr,882956,,0
+C,3,+00:23.8,RCC,265,fc2097,d2d6de,111111,Robert Evans,us,1352742,,0
+C,3,+05:28.9,,,,,,Neal Coughlin,us,623030,,0
+C,3,+14:27.5,,,,,,Crystal Strong,us,816765,,0
+C,2,+22:16.8,,,,,,R. Florence ,us,2210,,0
+C,2,+22:19.7,,,,,,Merrill Smith (MoveDaddy.com)  C,us,204912,,0
+C,3,+23:33.8,,,,,,Joe Fortier,us,861534,,0
+C,3,+24:04.0,DIRT,2707,29ec34,563c0f,df6a0d,Michael Chalfant [DIRT],us,212993,,0
+C,2,+26:19.0,,,,,,John Kreidler,us,96260,,0
+C,2,+27:12.4,,,,,,Marc ''Ketiyer''  Ethier CCC,ca,565515,,0
+C,2,+27:51.8,,,,,,Pak Ho,hk,776250,,0
+C,2,+33:40.7,,,,,,Phil Knowles,us,1165602,,0
+D,3,02:38:25.2,,,,,,Damien Bruck ,us,865286,,0
+D,3,+27:22.0,,,,,,Doug Rodenkirch,us,920227,,0
+D,2,+30:06.5,TeamPL,25,ffffff,ff1800,ff0000,Mariusz Malzenski [TeamPL],au,1233343,,0
+D,3,+33:13.8,,,,,,Curtis Linton,ca,995853,,0
+D,3,+36:41.9,REVO,2672,fc00e3,000000,fc00e3,Sara Perrin [REVO],us,420144,,0
