@@ -1,24 +1,24 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,1,40,Innovation,975,000000,52ff33,000000,Niki H &#128304; ,ch,174313,,0
-A,2,24,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
-A,2,13,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
-A,2,10,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
-A,2,8,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
-A,2,8,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
-A,2,7,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
+A,1,40,Innovation,975,000000,52ff33,000000,Niki H &#128304; [INC],ch,174313,,0
+A,3,24,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
+A,3,13,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
+A,3,10,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
+A,3,8,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
+A,3,8,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
+A,3,7,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
 A,2,2,BRT,4,ffffff,050505,ff8100,David Crawford (BRT),gb,679365,,0
-B,2,40,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
-B,2,22,,0,00dd00,,,josh flanagan ,us,7236,,0
-B,2,20,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
-B,2,12,,0,00dd00,,,Olivier Sabourin1637,ca,1215160,,0
-B,2,9,,0,00dd00,,,David Brady,gb-eng,392747,,0
-B,2,9,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
-C,2,34,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Douglas MacRae,gb-sct,1417813,,0
-C,2,34,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
-C,2,17,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
+B,3,40,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
+B,3,22,,0,00dd00,,,josh flanagan ,us,7236,,0
+B,3,20,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
+B,2,12,Equipe JZQc,2571,ffffff,003399,ffffff,Olivier Sabourin1637,ca,1215160,,0
+B,3,9,,0,00dd00,,,David Brady,gb-eng,392747,,0
+B,3,9,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
+C,3,34,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Douglas MacRae,gb-sct,1417813,,0
+C,3,34,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
+C,3,17,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
 C,1,12,,0,00dd00,,,Vincent Galatro,us,1144548,,0
-C,2,8,BRT,4,ffffff,050505,ff8100,Alan Millard,gb-eng,482477,,0
+C,3,8,BRT,4,ffffff,050505,ff8100,Alan Millard,gb-eng,482477,,0
 C,1,7,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Chris Probst (KC),de,1248069,,0
-D,2,37,,0,00dd00,,,Robin Andersson,se,880343,,0
-D,2,31,,0,00dd00,,,Peter Karwowski ,us,430883,,0
-D,1,20,BRT,4,ffffff,050505,ff8100,Ade Owens (BRT),gb-wls,253453,,0
+D,3,37,,0,00dd00,,,Robin Andersson,se,880343,,0
+D,3,31,,0,00dd00,,,Peter Karwowski ,us,430883,,0
+D,2,20,BRT,4,ffffff,050505,ff8100,Ade Owens (BRT),gb-wls,253453,,0
