@@ -1,15 +1,15 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,10,03:22:55.9,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
-A,25,+02:20.8,4,BRT,ffffff,050505,ff8100
+A,22,+02:20.8,4,BRT,ffffff,050505,ff8100
 A,5,+06:22.4,9,Vision,ffffff,2ea9e0,000000
 A,5,+13:16.6,2281,TeamNL,ffffff,ffa500,ffa500
-A,5,+15:31.5,2570,Walsall Lads,ffffff,0073b7,ffffff
+A,4,+15:31.5,2570,Walsall Lads,ffffff,0073b7,ffffff
 A,5,+22:30.8,10,TFC,111111,f3f300,111111
 B,5,03:38:15.6,4612,Blarney CC,f5eeee,e61313,241818
 B,5,+04:14.1,629,Team AHDR,fc6955,55d4fc,ffffff
-B,20,+10:00.4,4,BRT,ffffff,050505,ff8100
-B,5,+13:35.8,41,RuhrRiders,ff8700,000000,5cb0fc
+B,17,+10:00.4,4,BRT,ffffff,050505,ff8100
+B,4,+13:35.8,41,RuhrRiders,ff8700,000000,5cb0fc
 B,5,+20:35.9,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,5,+29:04.8,2281,TeamNL,ffffff,ffa500,ffa500
-C,25,04:03:35.7,4,BRT,ffffff,050505,ff8100
+B,4,+29:04.8,2281,TeamNL,ffffff,ffa500,ffa500
+C,24,04:03:35.7,4,BRT,ffffff,050505,ff8100
 C,5,+08:43.2,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
