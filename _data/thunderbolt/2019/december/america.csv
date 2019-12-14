@@ -1,13 +1,10 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,P 3,02:37:12.4,AFC,1405,ff0000,000000,cc0000,Seth G &#9729;&#65039; &#128304;,us,463284,,0
-B,P 4,03:50:06.7,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. (CRYO-GEN Vultures),us,322928,,0
-B,P 4,+05:28.2,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Chris Lawson &#129418; [VFOX],us,944931,,0
+B,P 4,04:58:48.2,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Jeff Arnier Sr. (CRYO-GEN Vultures),us,322928,,0
+B,P 5,+05:27.8,Vixen/Fox,1940,7409a6,f79d4b,ffffff,Chris Lawson &#129418; [VFOX],us,944931,,0
 B,P 4,+08:11.1,BRT,4,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
-B,P 3,+12:41.0,ZESP,2146,000000,fabd00,ad1519,Felipe Telletxea,es,542352,,0
+B,P 4,+12:41.0,ZESP,2146,000000,fabd00,ad1519,Felipe Telletxea,es,542352,,0
 B,P 4,+17:02.7,,,,,,Alejandro Mallea,cl,787828,,0
-C,P 3,04:02:11.6,,,,,,Adrien Benusiglio,fr,882956,,0
-C,P 4,+04:47.6,RCC,265,fc2097,d2d6de,111111,Robert Evans,us,1352742,,0
-C,P 4,+10:01.7,,,,,,Neal Coughlin,us,623030,,0
-C,P 4,+26:31.6,,,,,,Crystal Strong,us,816765,,0
-D,P 3,05:06:24.9,,,,,,Damien Bruck ,us,865286,,0
-D,P 4,+32:44.8,,,,,,Curtis Linton,ca,995853,,0
+C,P 4,05:25:47.5,RCC,265,fc2097,d2d6de,111111,Robert Evans,us,1352742,,0
+C,P 5,+02:31.3,,,,,,Neal Coughlin,us,623030,,0
+C,P 5,+21:44.0,,,,,,Crystal Strong,us,816765,,0
+D,P 4,05:39:09.7,,,,,,Curtis Linton,ca,995853,,0

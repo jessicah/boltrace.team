@@ -1,54 +1,79 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,4,59,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
-A,4,21,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
+A,5,119,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
+A,5,32,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
+A,2,31,Team CLS,1426,3d9970,ffffff,ffffff,tim epping,zw,399900,,0
+A,4,27,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
+A,4,25,BRT,4,ffffff,050505,ff8100,John Bergenske &#128304;&#9889;&#65039;(BRT Draft Beers),us,180408,,0
 A,1,20,Innovation,975,000000,52ff33,000000,Niki H &#128304; [INC],ch,174313,,0
+A,5,20,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
+A,1,20,SAKARI,1187,001dff,46ff00,31b6fc,M Moehn,us,73702,,0
+A,1,19,BRT,4,ffffff,050505,ff8100,Michael Cox (The BRaT Pack) ,ie,514280,,0
 A,4,18,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
+A,1,15,IRL,3369,ffffff,32968e,e66f1a,Greg Foley (IRL),ie,1025459,,0
+A,5,14,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
 A,1,12,BRT,4,ffffff,050505,ff8100,Bas Seldenrijk &#128304;,nl,274131,,0
-A,4,12,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
 A,2,12,STW,756,ffffff,0073b7,ffffff,Jon Bayley,gb,431475,,0
 A,1,10,,0,00dd00,,,Oliver W Bates,gb,256868,,0
-A,3,8,BRT,4,ffffff,050505,ff8100,David Crawford (BRT),gb,679365,,0
+A,2,9,BRT,4,ffffff,050505,ff8100,Lexie Lightning&#9889;&#65039;&#128304;(BRT Draft Beers),nl,496345,,0
+A,4,8,BRT,4,ffffff,050505,ff8100,David Crawford (BRT),gb,679365,,0
+A,5,8,TeamNL,2281,ffffff,ffa500,ffa500,Ruben Guis,nl,52559,,0
 A,1,8,Sz,32,f3f300,0073b7,f3f300,Staffan Hopstadius [SZ] (La Bomba),se,182715,,0
-A,3,7,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
-A,4,6,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
-A,1,5,BRT,4,ffffff,050505,ff8100,Lexie Lightning&#9889;&#65039;&#128304;(BRT Draft Beers),nl,496345,,0
+A,1,7,,0,00dd00,,,JF Bourdon-Cycles Regis team Quebec,ca,184122,,0
+A,1,7,Race3R,791,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
+A,1,7,BRT,4,ffffff,050505,ff8100,Theo Miglakis &#127808; [The Mig],gr,249545,,0
 A,2,5,,0,00dd00,,,il pinguino,gb,53921,,0
+A,1,5,DIRT,2707,29ec34,563c0f,df6a0d,Jason O&#039;Neill (DIRTy AF),us,135104,,0
 A,1,3,BRT,4,ffffff,050505,ff8100,Phil Whiteley,gb,161329,,0
-A,4,3,TeamNL,2281,ffffff,ffa500,ffa500,Ruben Guis,nl,52559,,0
 A,1,3,ZTPL eRacing,4493,ffffff,ff0000,000000,Michal Jablonka (ZTPL 2),pl,44878,,0
 A,1,3,FRH,4991,480eb3,fa50d6,480eb3,Markus Sj&ouml;gren,se,812177,,0
-A,3,3,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,,0
+A,4,3,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,,0
 A,1,3,,0,00dd00,,,Nicolas Dricot,be,877291,,0
 A,1,2,BRT,4,ffffff,050505,ff8100,Will Budge &#9889;&#65039; [BRT],gb,198214,,0
-A,3,1,BRT,4,ffffff,050505,ff8100,John Bergenske &#128304;&#9889;&#65039;(BRT Draft Beers),us,180408,,0
-B,4,38,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
-B,4,34,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
+A,1,1,TFC,10,111111,f3f300,111111,Dustin Byers (TFC),us,399357,,0
+B,5,97,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
+B,5,96,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
 B,1,30,BRT,4,ffffff,050505,ff8100,Stuart Hardy &#128034; [BRT],gb,591535,,0
+B,1,30,,0,00dd00,,,Tim Wern ,us,1779,,0
+B,4,22,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,,0
+B,1,20,,0,00dd00,,,Brian Sharkey,us,430579,,0
 B,1,19,Groove SES,3003,ffffff,0073b7,ffffff,Kevin Selker,mx,696782,,0
 B,3,17,,0,00dd00,,,David Brady,gb-eng,392747,,0
+B,5,15,,0,00dd00,,,josh flanagan ,us,7236,,0
+B,5,14,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN) CG-A1,au,1332978,,0
 B,1,13,TeamPL,25,ffffff,ff1800,ff0000,Jacek Nawroj,pl,192593,,0
-B,4,10,,0,00dd00,,,josh flanagan ,us,7236,,0
+B,1,11,SQUADRA&#127464;&#127469;,3210,e0e0e0,f20b0b,1baafa,Gunpowder,es,383876,,0
+B,1,9,,0,00dd00,,,Stannie Bardie Jongen,nl,1415819,,0
 B,2,8,,0,00dd00,,,Michael Dunn,au,170329,,0
 B,1,8,BRT,4,ffffff,050505,ff8100,Dom Betteridge,gb,53000,,0
 B,1,8,,0,00dd00,,,Al Craig &#129313;,gb-sct,452545,,0
 B,1,7,teamWKG,1330,fa5e06,3f4c54,3f4c54,GORDON JACKSON (WKG  PAIN )  (LB) ,gb,19671,,0
 B,1,7,TeamPL,25,ffffff,ff1800,ff0000,Przemek Kucharski ,pl,1256567,,0
+B,5,6,BRT,4,ffffff,050505,ff8100,Stuart Leach (BRT),gb,322268,,0
 B,1,5,TeamNL,2281,ffffff,ffa500,ffa500,Gert-Jan Leerink,nl,450444,,0
+B,1,5,,0,00dd00,,,David Bolton,gb,38926,,0
+B,1,5,Team KOTW ,4225,ffffff,0073b7,000000,Graeme Lawrie,gb-sct,1110040,,0
 B,2,4,Sz,32,f3f300,0073b7,f3f300,Tonie Olsson,se,279195,,0
 B,2,4,Equipe JZQc,2571,ffffff,003399,ffffff,Olivier Sabourin1637,ca,1215160,,0
 B,3,4,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
+B,1,4,,0,00dd00,,,Steen Laursen,dk,1005173,,0
 B,1,3,Blarney CC,4612,f5eeee,e61313,241818,Karl McCarthy (Herd of Lions),ie,549700,,0
-B,4,3,BRT,4,ffffff,050505,ff8100,Stuart Leach (BRT),gb,322268,,0
 B,1,2,BRT,4,ffffff,050505,ff8100,Kevin Horsley &#128052; (BRT Chasers),gb,54406,,0
+B,1,2,DBR,1986,ffffff,eb7b2a,ffffff,Mathias  Lorenzen,dk,65830,,0
+B,5,1,,0,00dd00,,,Leonie Dijkstra,nl,1016132,,0
+C,1,72,,0,00dd00,,,Johan Bergstr&ouml;m,se,415528,,0
+C,1,70,,0,00dd00,,,Sascha R&uuml;tzenhoff,de,1478907,,0
 C,4,61,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
+C,5,60,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
 C,4,57,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Douglas MacRae,gb-sct,1417813,,0
-C,4,23,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
+C,2,26,BRT,4,ffffff,050505,ff8100,Ade Manning (BRT),gb-eng,77820,,0
+C,5,24,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
+C,5,21,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
 C,1,19,RuhrRiders,41,ff8700,000000,5cb0fc,Ingo Sch&ouml;rgenhummer (R2) ,de,61261,,0
 C,1,17,RuhrRiders,41,ff8700,000000,5cb0fc,Thomas Reinecke,de,209977,,0
 C,1,9,BRT,4,ffffff,050505,ff8100,Olly Gray,gb,167741,,0
+C,2,9,,0,00dd00,,,Jon Hume,gb,465110,,0
 C,1,8,,0,00dd00,,,kim olesen3733,dk,178570,,0
 C,1,6,,0,00dd00,,,Richard Doornbos,nl,100382,,0
-C,4,6,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
 C,1,5,,0,00dd00,,,Vincent Galatro,us,1144548,,0
 C,3,4,BRT,4,ffffff,050505,ff8100,Alan Millard,gb-eng,482477,,0
 C,1,3,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Chris Probst (KC),de,1248069,,0
@@ -56,14 +81,16 @@ C,2,2,,0,00dd00,,,Mark Bergenske,us,842497,,0
 C,1,1,,0,00dd00,,,John Helvey,us,481688,,0
 C,1,1,Team CLS,1426,3d9970,ffffff,ffffff,Rune Endresen-Graneng,no,108645,,0
 C,1,1,ZESP,2146,000000,fabd00,ad1519,toni cb,es,185907,,0
-C,4,1,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
-D,4,56,,0,00dd00,,,Robin Andersson,se,880343,,0
+D,5,111,,0,00dd00,,,Robin Andersson,se,880343,,0
+D,1,90,TeamNL,2281,ffffff,ffa500,ffa500,Bas Jansen,nl,1476387,,0
+D,1,42,,0,00dd00,,,Laurent L&eacute;v&ecirc;que[TCM] ,fr,1286128,,0
+D,1,35,,0,00dd00,,,Curtis Linton,ca,995853,,0
 D,1,21,,0,00dd00,,,The Flea,gb-sct,1460499,,0
 D,1,20,,0,00dd00,,,Dan Perren,gb,193442,,0
 D,1,20,ZRG,1942,1bc1f1,3d3d3d,1bc1f1,Arnold Tuitman,nl,636696,,0
 D,1,20,TeamZF,1469,ffffff,0073b7,ffffff,Nikolaos Prevenios ,gr,428283,,0
 D,1,15,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,chris faulds,gb-sct,230862,,0
 D,1,15,,0,00dd00,,,RT Firefly,us,291148,,0
-D,4,14,,0,00dd00,,,Peter Karwowski ,us,430883,,0
+D,5,14,,0,00dd00,,,Peter Karwowski ,us,430883,,0
 D,2,10,BRT,4,ffffff,050505,ff8100,Ade Owens (BRT),gb-wls,253453,,0
 D,1,3,,0,00dd00,,,Nicolas VIVIER,fr,824486,,0

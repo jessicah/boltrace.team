@@ -1,33 +1,26 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,P 4,03:22:55.9,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
-A,P 4,+00:36.1,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
-A,P 4,+02:20.8,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
-A,P 4,+06:22.4,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
-A,P 4,+08:08.4,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
-A,P 3,+08:43.2,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
-A,P 3,+11:34.8,BRT,4,ffffff,050505,ff8100,John Bergenske &#128304;&#9889;&#65039;(BRT Draft Beers),us,180408,,0
-A,P 4,+13:16.6,TeamNL,2281,ffffff,ffa500,ffa500,Ruben Guis,nl,52559,,0
-A,P 3,+14:08.4,BRT,4,ffffff,050505,ff8100,David Crawford (BRT),gb,679365,,0
-A,P 3,+15:31.5,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,,0
-A,P 4,+22:30.8,TFC,10,111111,f3f300,111111,Vincent O&rsquo;Leary (TFC),ie,1350525,,0
-B,P 4,03:38:15.6,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
-B,P 4,+04:14.1,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
-B,P 4,+04:27.7,,,,,,josh flanagan ,us,7236,,0
-B,P 3,+09:22.4,RuhrRiders,41,ff8700,000000,5cb0fc,Jens Reichardt (R2),de,174941,,0
-B,P 3,+09:35.1,,,,,,David Brady,gb-eng,392747,,0
-B,P 4,+10:00.4,BRT,4,ffffff,050505,ff8100,Stuart Leach (BRT),gb,322268,,0
-B,P 4,+20:35.9,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN) CG-A1,au,1332978,,0
-B,P 3,+21:46.1,BRT,4,ffffff,050505,ff8100,Ricardo Alarcon (BRT Chasers),gb,421155,,0
-B,P 4,+23:38.4,,,,,,Leonie Dijkstra,nl,1016132,,0
-B,P 3,+24:49.1,BRT,4,ffffff,050505,ff8100,Francisco Arce,za,652272,,0
-B,P 3,+24:51.3,TeamNL,2281,ffffff,ffa500,ffa500,Eddy Creemers,nl,1041913,,0
-B,P 3,+27:57.5,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,,0
-C,P 4,04:03:35.7,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
+A,P 5,04:28:12.0,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,Andre Reinlein (KC) &#128304;,de,1073380,,0
+A,P 5,+01:56.3,KIRCHMAIR e-Cycling,2991,210606,f2e80d,000103,M. Michael &#128304;,de,404187,,0
+A,P 4,+04:08.5,BRT,4,ffffff,050505,ff8100,Hywel Davies &#128304; ,gb-wls,1119043,,0
+A,P 5,+05:48.4,Vision,9,ffffff,2ea9e0,000000,Matt Brooke [VISN],gb,278678,,0
+A,P 5,+07:33.8,BRT,4,ffffff,050505,ff8100,Keith Robertson [BRT] &#9889;,gb,894741,,0
+A,P 4,+08:08.1,BRT,4,ffffff,050505,ff8100,Christian Moxon &#128304; [BRT],gb,35037,,0
+A,P 4,+10:59.8,BRT,4,ffffff,050505,ff8100,John Bergenske &#128304;&#9889;&#65039;(BRT Draft Beers),us,180408,,0
+A,P 4,+13:34.4,BRT,4,ffffff,050505,ff8100,David Crawford (BRT),gb,679365,,0
+A,P 5,+15:04.2,TeamNL,2281,ffffff,ffa500,ffa500,Ruben Guis,nl,52559,,0
+A,P 4,+16:48.1,Walsall Lads,2570,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,,0
+A,P 4,+24:18.5,TFC,10,111111,f3f300,111111,Vincent O&rsquo;Leary (TFC),ie,1350525,,0
+B,P 5,04:45:58.3,Blarney CC,4612,f5eeee,e61313,241818,Michael Considine,ie,787676,,0
+B,P 5,+04:10.3,Team AHDR,629,fc6955,55d4fc,ffffff,Daniel Wells,au,146085,,0
+B,P 5,+04:27.9,,,,,,josh flanagan ,us,7236,,0
+B,P 5,+10:10.5,BRT,4,ffffff,050505,ff8100,Stuart Leach (BRT),gb,322268,,0
+B,P 5,+25:00.9,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN) CG-A1,au,1332978,,0
+B,P 5,+28:08.1,,,,,,Leonie Dijkstra,nl,1016132,,0
+B,P 4,+30:25.7,BRT,4,ffffff,050505,ff8100,Jessica Hamilton,nz,653395,,0
+C,P 4,05:31:18.6,BRT,4,ffffff,050505,ff8100,Patch Harvey (BRT),gb,88086,,0
+C,P 5,+02:45.7,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
+C,P 5,+06:53.9,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
 C,P 4,+08:43.2,Team CRYO-GEN,2740,ffffff,0073b7,ffffff,Douglas MacRae,gb-sct,1417813,,0
-C,P 4,+11:02.2,BRT,4,ffffff,050505,ff8100,Paul Renton,gb,210682,,0
-C,P 4,+19:01.1,BRT,4,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,,0
-C,P 3,+33:27.3,BRT,4,ffffff,050505,ff8100,Alan Millard,gb-eng,482477,,0
-C,P 4,+34:31.1,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
-C,P 3,+57:21.1,,,,,,Peter Karwowski ,us,430883,,0
-C,P 3,+06:23.1,,,,,,Meinte M van der Schaaf,nl,1529259,,0
-D,P 4,04:57:17.7,,,,,,Robin Andersson,se,880343,,0
+C,P 5,+23:33.3,BRT,4,ffffff,050505,ff8100, Art Pacione [BRT],us,112213,,0
+C,P 4,+51:47.2,,,,,,Peter Karwowski ,us,430883,,0
+D,P 5,06:25:20.0,,,,,,Robin Andersson,se,880343,,0
