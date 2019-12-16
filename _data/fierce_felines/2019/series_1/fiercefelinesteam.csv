@@ -1,33 +1,34 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,5,230,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,4,180,629,Team AHDR,fc6955,55d4fc,ffffff
+A,6,260,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,5,230,629,Team AHDR,fc6955,55d4fc,ffffff
+A,1,50,2586,LaPrima,ffffff,0b1838,ff69b4
 A,1,50,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,33,2672,REVO,fc00e3,000000,fc00e3
 A,1,28,791,Race3R,000000,2bc3f4,ffffff
 A,1,28,2571,Equipe JZQc,ffffff,003399,ffffff
-B,14,379,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,7,187,2672,REVO,fc00e3,000000,fc00e3
+B,15,419,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,7,162,2672,REVO,fc00e3,000000,fc00e3
 B,3,133,4,BRT,ffffff,050505,ff8100
-B,3,70,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,3,98,36,KISS RT,f56600,012350,84b7ca
+B,3,76,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,2,65,90,Vikings,c2c2c2,0073b7,ee6331
 B,2,65,10,TFC,111111,f3f300,111111
-B,2,58,36,KISS RT,f56600,012350,84b7ca
-B,2,43,90,Vikings,c2c2c2,0073b7,ee6331
-B,1,40,1979,ZHR,ff0000,03228c,03228c
 B,2,39,629,Team AHDR,fc6955,55d4fc,ffffff
 B,1,28,4200,OrkneyCC,de3232,0f0606,eb3636
-B,1,25,2061,&#127866; UCC &#127866;,db0000,ffffff,db0000
+B,1,22,2061,&#127866; UCC &#127866;,db0000,ffffff,db0000
 B,1,18,791,Race3R,000000,2bc3f4,ffffff
 B,1,14,1677,Team Fearless,001f3f,39cccc,01ff70
-C,18,338,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,5,202,4,BRT,ffffff,050505,ff8100
+C,20,428,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,6,242,4,BRT,ffffff,050505,ff8100
 C,4,98,2672,REVO,fc00e3,000000,fc00e3
+C,1,50,4545,MVW,fff700,000000,000000
 C,1,50,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,1,50,1426,Team CLS,3d9970,ffffff,ffffff
 C,1,40,1677,Team Fearless,001f3f,39cccc,01ff70
 C,1,25,161,ZSUN,ffffff,0073b7,ffffff
 C,1,19,3938,TNC,ffffff,0073b7,ffffff
-D,11,360,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-D,3,133,1677,Team Fearless,001f3f,39cccc,01ff70
+D,14,493,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,4,173,1677,Team Fearless,001f3f,39cccc,01ff70
 D,3,111,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,2,90,4,BRT,ffffff,050505,ff8100
 D,1,33,629,Team AHDR,fc6955,55d4fc,ffffff
