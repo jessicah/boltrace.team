@@ -1,35 +1,38 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,6,260,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,5,230,629,Team AHDR,fc6955,55d4fc,ffffff
+A,7,300,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,6,280,629,Team AHDR,fc6955,55d4fc,ffffff
+A,1,50,1677,Team Fearless,001f3f,39cccc,01ff70
 A,1,50,2586,LaPrima,ffffff,0b1838,ff69b4
 A,1,50,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,33,2672,REVO,fc00e3,000000,fc00e3
 A,1,28,791,Race3R,000000,2bc3f4,ffffff
 A,1,28,2571,Equipe JZQc,ffffff,003399,ffffff
-B,15,419,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,7,162,2672,REVO,fc00e3,000000,fc00e3
+B,21,569,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,8,202,2672,REVO,fc00e3,000000,fc00e3
 B,3,133,4,BRT,ffffff,050505,ff8100
+B,4,109,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,3,98,36,KISS RT,f56600,012350,84b7ca
-B,3,76,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,2,65,90,Vikings,c2c2c2,0073b7,ee6331
 B,2,65,10,TFC,111111,f3f300,111111
+B,2,53,161,ZSUN,ffffff,0073b7,ffffff
+B,2,42,1677,Team Fearless,001f3f,39cccc,01ff70
 B,2,39,629,Team AHDR,fc6955,55d4fc,ffffff
 B,1,28,4200,OrkneyCC,de3232,0f0606,eb3636
+B,1,25,2873,Team BMTR,fcc84c,543019,543019
 B,1,22,2061,&#127866; UCC &#127866;,db0000,ffffff,db0000
 B,1,18,791,Race3R,000000,2bc3f4,ffffff
-B,1,14,1677,Team Fearless,001f3f,39cccc,01ff70
-C,20,428,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,6,242,4,BRT,ffffff,050505,ff8100
+C,25,568,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,7,282,4,BRT,ffffff,050505,ff8100
+C,3,123,1677,Team Fearless,001f3f,39cccc,01ff70
 C,4,98,2672,REVO,fc00e3,000000,fc00e3
 C,1,50,4545,MVW,fff700,000000,000000
 C,1,50,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,1,50,1426,Team CLS,3d9970,ffffff,ffffff
-C,1,40,1677,Team Fearless,001f3f,39cccc,01ff70
 C,1,25,161,ZSUN,ffffff,0073b7,ffffff
 C,1,19,3938,TNC,ffffff,0073b7,ffffff
-D,14,493,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-D,4,173,1677,Team Fearless,001f3f,39cccc,01ff70
+D,16,583,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,5,223,1677,Team Fearless,001f3f,39cccc,01ff70
 D,3,111,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,2,90,4,BRT,ffffff,050505,ff8100
+D,2,75,2931,ZHU,0073b7,ffffff,0073b7
 D,1,33,629,Team AHDR,fc6955,55d4fc,ffffff
-D,1,25,2931,ZHU,0073b7,ffffff,0073b7
