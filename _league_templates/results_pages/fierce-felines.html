@@ -1,0 +1,88 @@
+---
+layout: default
+date: 22/12/2019
+redirect_from: "/results/fiece-felines/2019/series-1"
+---
+
+<h2>Fierce Felines Racing Series</h2>
+
+<h3>Event Information</h3>
+<p>
+	The <strong>Fierce Felines Racing Series</strong> is a new series created by the <strong>BRT Hellcatz</strong>, providing hard racing for
+	women across three timezones. We believe that women need more opportunities to race against women, and that races should be as equally hard
+	as some of the top mens racing in Zwift. This series provides races that should cater to all abilities, with time trials, points races,
+	fairly flat road races, and hilly road races.
+</p>
+<p>
+	Our first series will be a shorter format, five weeks, with the grand finale tackling the mighty Alpe du Zwift. We'll start with a flat
+	time trial through the streets of London, a combination of pan flat desert and rolling lush greens in Watopia, stay in Watopia once
+	more for a fast and furious points race around the volcano, the constant rolling flats of New York's Central Park, and then finish with
+	a hill top finish up the mighty Alpe.
+</p>
+<p>
+	We will be using ZwiftPower's womens categories for all races.
+</p>
+<h3>Series Details</h3>
+<ul>
+	<li><strong>Start Date:</strong> <span class='date-data' data-date='2019-11-23-19-00'>23rd November, 2019 UTC</span></li>
+	<li><strong>End Date:</strong> <span class='date-data' data-date='2019-12-21-19-00'>21st December, 2019 UTC</span></li>
+	<li><strong>Event Day & Time:</strong>
+		<ul>
+			<li><span class='date-data' data-date='2019-11-23-05-55' data-format='day-time' data-use-upcoming='true'>Saturday 5:55am UTC</span></li>
+			<li><span class='date-data' data-date='2019-11-23-13-30' data-format='day-time' data-use-upcoming='true'>Saturday 1:30pm UTC</span></li>
+			<li><span class='date-data' data-date='2019-11-23-18-55' data-format='day-time' data-use-upcoming='true'>Saturday 6:55pm UTC</span></li>
+		</ul>
+	<li><strong>Duration:</strong> 5 weeks</li>
+	<li><strong>Categories</strong>
+		<ol style='list-style-type: upper-alpha'>
+			<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>3.7W/kg and OVER</span></li>
+			<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>3.2W/kg up to 3.7W/kg</span></li>
+			<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>2.5W/kg up to 3.2W/kg</span></li>
+			<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>UNDER 2.5W/kg</span></li>
+		</ol>
+	</li>
+</ul>
+	<h3>Race Rules</h3>
+	<ul>
+		<li>Women only. Shared accounts not eligible for official results.</li>
+		<li>Must be registered with <a href='https://www.zwiftpower.com/'>ZwiftPower</a>.</li>
+		<li>Riders exceeding 5W/kg FTP efforts will be investigated, with possibility for DQ.</li>
+		<li>zPower is not eligible for results.</li>
+		<li>Powerups will be awarded at every banner, 25% possibility of Leaf, Van, Aero and Burrito.</li>
+		<li>Race Commissaire's decision will be final.</li>
+	</ul>
+	<h3>Individual Points</h3>
+	<ul>
+		<li>Points will be allocated per category.</li>
+		<li>Points for the <a href='/fierce-points'>first 25</a> starting at 50 points.</li>
+		<li>1 point will be awarded for those outside of the top 25.</li>
+		<li>If you enter more than one event in a weekend, only your best result will count.</li>
+		<li>Your overall score for the series will be the sum of your best 6 races.</li>
+		<li>For the criterium, finish order will be determined by sprint points (10, 7, 5, 3, 2, 1), and then
+			race points determined from this finish order.
+		</li>
+	</ul>
+	<h3>Team Points</h3>
+	<ul>
+		<li>Each team will score the sum of their top 3 individual rider points of the weekend.</li>
+		<li>There will be separate podiums for teams in each category.</li>
+	</ul>
+	<h3>Mid-League Upgrades</h3>
+		<ul>
+			<li>Riders going over category limits will be automatically upgraded in the official results.</li>
+			<li>When a rider has been automatically upgraded, they are expected to race in their new
+				category for the remainder of the series.
+			</li>
+		</ul>
+
+<h2 id='results'>League Standings</h2>
+
+<h3>Current Standings</h3>
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+
+{% include standings.html
+	riders=site.data.fierce_felines.2019.series_1.fiercefelines
+	teams=site.data.fierce_felines.2019.series_1.fiercefelinesteam
+%}
+
+{% include datetime.html %}
