@@ -1,16 +1,16 @@
 ---
 layout: default
 redirect_from: "/ages"
-date: 08/12/2019
+date: 12/01/2020
 ---
 
 <h2>Ages Racing League</h2>
 
 <h3>Event Information</h3>
 <ul>
-	<li>Start Date: 25th October, 2019</li>
-	<li>End Date: 13th December, 2019</li>
-	<li>Event Day & Time: <span class='date-data' data-date='2019-04-26-18-30' data-format='day-time' data-use-upcoming='true'>Friday, 6:30pm UTC</span></li>
+	<li>Start Date: 10th January, 2020</li>
+	<li>End Date: 28th February, 2020</li>
+	<li>Event Day & Time: <span class='date-data' data-date='2020-01-10-18-30' data-format='day-time' data-use-upcoming='true'>Friday, 6:30pm UTC</span></li>
 	<li>Duration: 8 weeks</li>
 	<li>Categories<br/>
 		Based on your birth <strong>year</strong>, not your birthday:
@@ -29,7 +29,7 @@ date: 08/12/2019
 		<li>Only powermeter and smart trainer users eligible for official result placement.</li>
 		<li>All bikes permitted.</li>
 		<li>No powerups permitted.</li>
-		<li>Official results located at ZwiftPower.</li>
+		<li>Official results located at <a href='/results/current/ages-league'>https://boltrace.team/results/current/ages-league</a>.</li>
 	</ul>
 	</li>
 	<li>Points
@@ -61,5 +61,5 @@ date: 08/12/2019
 
 <h3>Current Standings</h3>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
-{% include standings.html riders=site.data.2019.series_6.ages teams=site.data.2019.series_6.agesteam %}
+{% include standings.html riders=site.data.2020.series_1.ages teams=site.data.2020.series_1.agesteam %}
 {% include datetime.html %}
