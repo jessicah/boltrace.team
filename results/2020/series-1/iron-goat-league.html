@@ -1,0 +1,13 @@
+---
+layout: default
+date: 12/01/2020
+---
+
+<h2 id='results'>Iron Goat Racing League: 2020 Series 1</h2>
+
+<p>Covers races from <strong>12th January, 2020</strong> &mdash; <strong>1st March, 2020</strong>.</p>
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+
+{% include standings.html riders=site.data.2020.series_1.irongoat teams=site.data.2020.series_1.irongoatteam %}
+
+{% include datetime.html %}
