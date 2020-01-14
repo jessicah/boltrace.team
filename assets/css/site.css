@@ -25,6 +25,30 @@
 	font-weight: bold;
 	font-style: italic;
   }
+  @font-face {
+	  font-family: "Crackvetica";
+	  src: url("/assets/webfonts/Crackvetica.woff") format("woff");
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: "Masque";
+	  src: url("/assets/webfonts/Masque.woff") format("woff");
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: "TheFrontman";
+	  src: url("/assets/webfonts/The-Frontman.woff") format("woff");
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: "NeoTech";
+	  src: url("/assets/webfonts/NeoTechStd-Regular.woff") format("woff");
+	  font-weight: normal;
+	  font-style: normal;
+  }
 
   * {
 	font-size: 16pt;
@@ -419,3 +443,35 @@
 	}
   }
   
+h2.league {
+	text-align: center;
+}
+.ages {
+	font-family: Crackvetica;
+	font-size: 48px;
+	color: rgb(255, 153, 0);
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 0.5px;
+}
+.criterium {
+	font-family: Masque;
+	font-size: 48px;
+	color: rgb(255, 153, 0);
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 0.5px;
+}
+.iron-goat {
+	font-family: TheFrontman;
+	font-size: 36px;
+	color: rgb(255, 153, 0);
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 0.5px;
+}
+.racing-league {
+	font-family: NeoTech;
+	font-size: 48px;
+	color: rgb(150,153,155);
+	-webkit-text-stroke-color: black;
+	-webkit-text-stroke-width: 0.5px;
+	text-transform: uppercase;
+}
