@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,49,,,,,,Edwin Driessen,nl,219489,gold silver,0
 A,2,49,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jason Fitchew,gb,51253,gold silver,0
 A,1,29,PTz,,ffffff,403d3a,e3680f,Andr&eacute; Resende,pt,246864,bronze,0
-A,1,27,KST,,ffffff,0073b7,ffffff,Martin Carlsen | KST,dk,175705,,0
+A,1,27,KST,,ffffff,0073b7,ffffff,Martin Carlsen | KST 3624,dk,175705,,0
 A,1,25,Innovation,,000000,52ff33,000000,Will Duffy,gb,820305,,0
 A,1,23,,,,,,Nic Wright,gb-wls,930528,,0
 A,1,21,Race3R,,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
@@ -58,7 +58,7 @@ B,2,23,,,,,,Johannes Schaafsma,nl,861077,,0
 B,1,23,,,,,,Ryan Savage,gb,850222,,0
 B,1,21,BRT,,ffffff,050505,ff8100,Paul Esson [BRT],gb,161041,,0
 B,1,21,,,,,,Kristoffer Karlsen 8182,no,569694,,0
-B,1,19,Puddefjorden PK,,ffffff,d91818,ffffff,Marius Skaar Ludvigsen,no,688955,,0
+B,1,19,Puddefjorden PK,,ffffff,d91818,000000,Marius Skaar Ludvigsen,no,688955,,0
 B,1,19,,,,,,Johan Erlandsson,se,1560074,,0
 B,1,17,,,,,,Maicon Ramos,br,1164803,,0
 B,1,17,DBR,,ffffff,eb7b2a,ffffff,Lasse Byrialsen,dk,1349931,,0
@@ -81,8 +81,8 @@ B,1,6,,,,,,Aaron Hester,au,1508625,,0
 B,2,5,,,,,,Will Blackham WDMBC,gb,600333,gold,1
 B,1,5,Vikings,,c2c2c2,0073b7,ee6331,Thomas Kristiansen [V],no,620569,,0
 B,1,4,RuhrRiders,,ff8700,000000,5cb0fc,Basti L&ouml;cken (R2),de,591300,,0
-C,2,68,BRT,,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,silver bronze,0
-C,2,65,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,gold,0
+C,2,76,BRT,,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,silver bronze,0
+C,2,73,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,gold,0
 C,1,55,,,,,,Damian Cameron,gb,1010492,silver,0
 C,1,51,,,,,,Christian Rommelsheim,de,1348251,,0
 C,1,49,Team Italy,,dd4b39,ffffff,00a65a,michele papero,it,400566,,0
@@ -96,29 +96,30 @@ C,1,33,,,,,,Antoine Trahay 1518,fr,1331365,,0
 C,1,31,,,,,,John Wichmann Christensen9259,dk,453549,,0
 C,1,29,,,,,,Fraser Pressdee,gb-eng,156479,,0
 C,1,27,BIKES-FRANCE,,000000,f2ad00,000000,Xavier Malhere,fr,876788,,0
+C,2,25,Hitchin Nomads,,ffffff,0073b7,ffffff,Mark Loosley,gb,226179,,0
 C,1,25,,,,,,joey(ROTOR RT) Jones,gb,763704,,0
+C,2,23,,,,,,Mark Shannon,gb,113795,,0
 C,1,23,,,,,,Tom Waddell,gb,737762,,0
+C,1,21,,,,,,philip cushion,gb,1062212,bronze,0
 C,1,21,,,,,,Jaap de Knegt,nl,1441005,,0
-C,2,19,Hitchin Nomads,,ffffff,0073b7,ffffff,Mark Loosley,gb,226179,,0
+C,1,19,,,,,,Nathan Miller,us,430,,0
 C,1,19,,,,,,Will Taylor,gb-eng,430173,,0
-C,2,17,,,,,,Mark Shannon,gb,113795,,0
+C,1,17,,,,,,Jag Grewal,gb,861309,,0
 C,1,17,TeamSIA,,ffffff,0073b7,ffffff,David Hird,gb,416933,,0
 C,1,15,,,,,,Rob Mosbey,us,423296,,0
-C,1,13,,,,,,philip cushion,gb,1062212,bronze,0
+C,1,13,,,,,,G ordonBarr6916,gb-sct,235732,,0
 C,1,13,BRT,,ffffff,050505,ff8100,Paul Johnson,gb,28834,,0
-C,1,11,,,,,,Nathan Miller,us,430,,0
 C,1,11,,,,,,Alain Castle,gb-eng,379728,,0
+C,1,9,,,,,,Simon Broersen (Da Vinci),nl,430595,,0
 C,1,9,,,,,,Matt Davies,gb,730072,,0
 C,1,8,,,,,,Tobias Gassmann,de,551646,,0
-C,1,7,,,,,,G ordonBarr6916,gb-sct,235732,,0
+C,1,7,,,,,,Mike K 1336,gb,14511,,0
 C,1,7,Bar(e)Cykling,,596362,f0faf3,2bac76,Hans-Henrik Flade2806,dk,1380421,,0
 C,1,6,,,,,,barry van leeuwen,nl,1521896,,0
+C,1,5,Bar(e)Cykling,,596362,f0faf3,2bac76,S&oslash;ren Kruse Sorgenfrey [BeC],dk,415867,,0
 C,1,5,,,,,,Graham Dickens,gb,482556,,0
 C,1,4,,,,,,Steve Salgo,au,1453345,,0
-C,1,3,,,,,,Simon Broersen (Da Vinci),nl,430595,,0
 C,1,3,,,,,,Joachim Jambor,de,1611467,,0
-C,1,2,,,,,,Mike K 1336,gb,14511,,0
-C,1,1,Bar(e)Cykling,,596362,f0faf3,2bac76,S&oslash;ren Kruse Sorgenfrey [BeC],dk,415867,,0
 D,2,12,,,,,,Rob Jones,gb,219258,silver bronze,0
 D,1,10,,,,,,Stig Hanssen 6339,no,946558,gold,0
 D,1,10,,,,,,Roy Hendrikx 3477,be,1468379,gold,0
