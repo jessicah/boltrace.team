@@ -1,16 +1,16 @@
-@model LeagueTables.DatabaseModels.CurrentSeries
+@using static LeagueTables.Helpers;
 ---
 layout: default
 redirect_from: "/ages"
-date: @Model.StartDate.ToString("dd/MM/yyyy")
+date: @DateTime.UtcNow.ToString("dd/MM/yyyy")
 ---
 
 <h2>Ages Racing League</h2>
 
 <h3>Event Information</h3>
 <ul>
-	<li>Start Date: @Model.StartDate.ToString("%d") @Model.StartDate.ToString("MMMM, yyyy")</li>
-	<li>End Date: @Model.EndDate.ToString("%d") @Model.EndDate.ToString("MMMM, yyyy")</li>
+	<li>Start Date: @Model.StartDate.ToString("%d")@DateSuffix(Model.StartDate) @Model.StartDate.ToString("MMMM, yyyy")</li>
+	<li>End Date: @Model.EndDate.ToString("%d")@DateSuffix(Model.EndDate) @Model.EndDate.ToString("MMMM, yyyy")</li>
 	<li>Event Day & Time: <span class='date-data' data-date='@Model.StartDate.ToString("yyyy-MM-dd-HH-mm")' data-format='day-time' data-use-upcoming='true'>@Model.StartDate.ToString("dddd, h:mmtt UTC")</span></li>
 	<li>Duration: 8 weeks</li>
 	<li>Categories<br/>
