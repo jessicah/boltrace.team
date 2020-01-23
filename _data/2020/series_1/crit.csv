@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,49,,,,,,Edwin Driessen,nl,219489,gold silver,0
 A,2,49,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jason Fitchew,gb,51253,gold silver,0
 A,1,29,PTz,,ffffff,403d3a,e3680f,Andr&eacute; Resende,pt,246864,bronze,0
-A,1,27,KST,,ffffff,0073b7,ffffff,Martin Carlsen | KST 3624,dk,175705,,0
+A,1,27,KST,,ffffff,0073b7,ffffff,Martin Carlsen | KST,dk,175705,,0
 A,1,25,Innovation,,000000,52ff33,000000,Will Duffy,gb,820305,,0
 A,1,23,,,,,,Nic Wright,gb-wls,930528,,0
 A,1,21,Race3R,,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
@@ -115,7 +115,7 @@ C,1,9,,,,,,Matt Davies,gb,730072,,0
 C,1,8,,,,,,Tobias Gassmann,de,551646,,0
 C,1,7,,,,,,Mike K 1336,gb,14511,,0
 C,1,7,Bar(e)Cykling,,596362,f0faf3,2bac76,Hans-Henrik Flade2806,dk,1380421,,0
-C,1,6,,,,,,barry van leeuwen,nl,1521896,,0
+C,1,6,TeamNL,,ffffff,ffa500,ffa500,barry van leeuwen,nl,1521896,,0
 C,1,5,Bar(e)Cykling,,596362,f0faf3,2bac76,S&oslash;ren Kruse Sorgenfrey [BeC],dk,415867,,0
 C,1,5,,,,,,Graham Dickens,gb,482556,,0
 C,1,4,,,,,,Steve Salgo,au,1453345,,0
