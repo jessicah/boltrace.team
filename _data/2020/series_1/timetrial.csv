@@ -1,6 +1,6 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,1,18,DBR,,ffffff,eb7b2a,ffffff,Martin Mortensen &#129447;&#128680;,dk,148260,gold,0
-A,1,15,TeamODZ,,ff851b,111111,3c8dbc,Marc Pensyl (RCC),us,218740,silver,0
+A,1,15,,,,,,Marc Pensyl (RCC),us,218740,silver,0
 A,1,13,NFTO,,ff0000,000000,ffffff,Jon Stroud,gb,1082182,bronze,0
 A,3,13,TFC,,111111,f3f300,111111,Tommy Sellars (TFC Typhoon),gb,1387591,bronze,0
 A,2,12,BRT,,ffffff,050505,ff8100,Steve Stellings,gb,163282,bronze,0
@@ -17,7 +17,7 @@ B,1,18,BRT,,ffffff,050505,ff8100,Steve Shrubsall (BRT Chasers),gb,822214,gold,0
 B,1,18,ZSUN,,ffffff,0073b7,ffffff,Mark Thackray ZSUN B1,gb,177871,gold,0
 B,3,17,BRT,,ffffff,050505,ff8100,Phil Scott(BRT),gb,1343262,,0
 B,1,15,BZR cycling team,,f3f300,111111,dd4b39,Wim Orban,be,130538,silver,0
-B,1,15,Team Echelon,,fffefe,ff07a3,000000,Frank Lucarelli Echelon,ca,839012,silver,0
+B,1,15,Team Echelon,,000000,07fafa,0056ff,Frank Lucarelli Echelon,ca,839012,silver,0
 B,1,13,Utrecht,,ffffff,0073b7,ffffff,Niels Zagers,nl,629779,bronze,0
 B,1,13,STW,,ffffff,0073b7,ffffff,Andrew Douglas,gb,861271,bronze,0
 B,1,13,DIRT,,29ec34,211208,df6a0d,Gibbo Gibson,gb,967298,bronze,0
