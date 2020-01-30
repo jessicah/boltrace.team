@@ -1,8 +1,9 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,4,20,10,TFC,111111,f3f300,111111
+A,5,27,10,TFC,111111,f3f300,111111
 A,1,18,1986,DBR,ffffff,eb7b2a,ffffff
 A,1,13,4399,NFTO,ff0000,000000,ffffff
 A,2,12,4,BRT,ffffff,050505,ff8100
+A,1,10,35,BZR cycling team,f3f300,111111,dd4b39
 A,1,10,3185,FUSION DEVELOPMENT,ffffff,0a1e29,ffffff
 A,1,9,32,SZ,f3f300,0073b7,f3f300
 A,1,7,1426,Team CLS,3d9970,ffffff,ffffff
@@ -17,6 +18,7 @@ B,1,13,756,STW,ffffff,0073b7,ffffff
 B,1,13,2707,DIRT,29ec34,211208,df6a0d
 B,1,11,2281,TeamNL,ffffff,ffa500,ffa500
 B,1,11,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
+B,1,10,5358,SMIP,ffffff,0073b7,ffffff
 B,1,3,2863,MOONGLU,000000,84d6ff,ffffff
-C,5,72,4,BRT,ffffff,050505,ff8100
+C,6,82,4,BRT,ffffff,050505,ff8100
 D,1,10,1845,VEGAN,ffffff,00a65a,0adb2c
