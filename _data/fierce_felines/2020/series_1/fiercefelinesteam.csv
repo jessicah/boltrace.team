@@ -1,23 +1,29 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,2,100,629,Team AHDR,fc6955,55d4fc,ffffff
-A,2,90,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,1,50,2672,REVO,fc00e3,000000,fc00e3
+A,5,230,629,Team AHDR,fc6955,55d4fc,ffffff
+A,4,173,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,3,133,2672,REVO,fc00e3,000000,fc00e3
+A,1,50,5632,RR 2020,ffffff,0073b7,ffffff
+A,1,40,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,40,161,ZSUN,ffffff,0073b7,ffffff
-B,4,180,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,6,173,2672,REVO,fc00e3,000000,fc00e3
-B,2,90,1677,Team Fearless,001f3f,39cccc,01ff70
-B,2,78,161,ZSUN,ffffff,0073b7,ffffff
+B,8,298,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,12,296,2672,REVO,fc00e3,000000,fc00e3
+B,4,163,1677,Team Fearless,001f3f,39cccc,01ff70
+B,3,98,161,ZSUN,ffffff,0073b7,ffffff
 B,1,33,1426,Team CLS,3d9970,ffffff,ffffff
+B,1,25,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 B,1,25,4,BRT,ffffff,050505,ff8100
-C,8,255,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,4,168,1677,Team Fearless,001f3f,39cccc,01ff70
-C,6,152,4,BRT,ffffff,050505,ff8100
-C,4,119,2672,REVO,fc00e3,000000,fc00e3
-C,3,108,161,ZSUN,ffffff,0073b7,ffffff
+C,12,347,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,13,242,2672,REVO,fc00e3,000000,fc00e3
+C,6,236,1677,Team Fearless,001f3f,39cccc,01ff70
+C,8,205,4,BRT,ffffff,050505,ff8100
+C,6,192,161,ZSUN,ffffff,0073b7,ffffff
+C,2,41,1426,Team CLS,3d9970,ffffff,ffffff
 C,1,33,629,Team AHDR,fc6955,55d4fc,ffffff
-C,1,22,1426,Team CLS,3d9970,ffffff,ffffff
+C,1,20,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,1,19,1845,VEGAN,ffffff,00a65a,0adb2c
-D,4,190,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-D,4,141,1677,Team Fearless,001f3f,39cccc,01ff70
+D,6,290,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,5,181,1677,Team Fearless,001f3f,39cccc,01ff70
+D,2,90,2672,REVO,fc00e3,000000,fc00e3
 D,2,90,1986,DBR,ffffff,eb7b2a,ffffff
-D,1,50,2672,REVO,fc00e3,000000,fc00e3
+D,1,50,161,ZSUN,ffffff,0073b7,ffffff
+D,1,33,4,BRT,ffffff,050505,ff8100
