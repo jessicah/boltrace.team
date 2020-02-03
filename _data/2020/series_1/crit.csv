@@ -2,49 +2,48 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,49,,,,,,Edwin Driessen,nl,219489,gold silver,0
 A,2,49,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jason Fitchew,gb,51253,gold silver,0
 A,1,29,PTz,,ffffff,403d3a,e3680f,Andr&eacute; Resende,pt,246864,bronze,0
-A,1,27,KST,,ffffff,0073b7,ffffff,Martin Carlsen | KST,dk,175705,,0
+A,1,27,BathCC,,ffffff,0073b7,ffffff,Will Duffy,gb,820305,,0
 A,1,26,BZR cycling team,,f3f300,111111,dd4b39,Gert Leus,be,7220,gold,0
+A,4,26,Hitchin Nomads,,ffffff,0073b7,ffffff,John Curtin HNCC,gb,295910,,0
 A,1,26,,,,,,J Ferrer,es,762388,gold,0
-A,4,25,Hitchin Nomads,,ffffff,0073b7,ffffff,John Curtin HNCC,gb,295910,,0
-A,1,25,BathCC,,ffffff,0073b7,ffffff,Will Duffy,gb,820305,,0
+A,1,25,,,,,,Nic Wright,gb-wls,930528,,0
 A,1,23,,,,,,Zach Calton,us,19853,silver,0
 A,1,23,Team Italy,,dd4b39,ffffff,00a65a,Markus Schneider(ITA),it,948870,silver,0
-A,1,23,,,,,,Nic Wright,gb-wls,930528,,0
+A,1,23,Race3R,,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
 A,1,21,Hitchin Nomads,,ffffff,0073b7,ffffff,Scott Horwood HNCC,gb,440567,bronze,0
 A,1,21,TCC&#9650;,,00fcde,120404,00fcde,Ben Lloyd Pro Vision RT,gb,1140592,bronze,0
-A,1,21,Race3R,,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
+A,1,21,,,,,,Tim Koo,nl,1362799,,0
 A,1,19,SCC,,ffffff,0073b7,ffffff,Darren Dowling,us,17988,,0
 A,1,19,/// PCA &#128165;,,ffffff,000000,ff0000,Muki Mouse,au,199397,,0
-A,1,19,,,,,,Tim Koo,nl,1362799,,0
+A,1,19,Sandane SK,,ffffff,0073b7,ffffff,Per Erik Eimhjellen,no,164263,,0
 A,1,17,VEGAN,,ffffff,00a65a,0adb2c,Bartosz Nowaczek,ie,358286,,0
 A,1,17,,,,,,Timothy Dawson,za,1006134,,0
-A,1,17,Sandane SK,,ffffff,0073b7,ffffff,Per Erik Eimhjellen,no,164263,,0
+A,1,17,FUSION DEVELOPMENT,,ffffff,0a1e29,ffffff,Jens Frede Rasmussen (FUSION DEV A),dk,42327,,0
 A,1,15,,,,,,Simon Deakin,gb-eng,352229,,0
 A,1,15,,,,,,Jonathan Walford,gb,69521,,0
-A,1,15,FUSION DEVELOPMENT,,ffffff,0a1e29,ffffff,Jens Frede Rasmussen (FUSION DEV A),dk,42327,,0
+A,1,15,,,,,,Michal  KO,pl,975082,,0
 A,1,13,,,,,,Kazuhiro Oshima,jp,230525,,0
 A,1,13,Team CRYO-GEN,,ffffff,0073b7,ffffff,Matthew Wales,gb-eng,465473,,0
 A,1,13,,,,,,Zac Walker,im,1146755,bronze,0
-A,1,13,,,,,,Michal  KO,pl,975082,,0
+A,1,13,,,,,,Jack Ramsbottom [Caffi Gruff],gb-wls,1407870,,0
 A,1,11,RCC,,fc2097,d2d6de,111111,Marc Pensyl (RCC),us,218740,,0
 A,1,11,BRT,,ffffff,050505,ff8100,Francois Vuadens,ch,19220,,0
 A,1,11,Cycles Regis-360,,ffffff,0073b7,ffffff,N. DIDTSCH [CYCLES R&Eacute;GIS],ca,1231836,,0
-A,1,11,,,,,,Jack Ramsbottom [Caffi Gruff],gb-wls,1407870,,0
+A,1,11,FINESSE ECT,,f7f915,0ccaff,000000,Mac Potter YYC (FINESSE),ca,459631,,0
 A,1,9,Vikings,,c2c2c2,0073b7,ee6331,Hans Petter  H&oslash;ydal,no,400699,,0
 A,1,9,,,,,,Jelmer Slob,nl,1231575,,0
-A,1,9,FINESSE ECT,,f7f915,0ccaff,000000,Mac Potter YYC (FINESSE),ca,459631,,0
+A,1,9,,,,,,Ralf Anacker  1244,de,414421,,0
 A,1,7,BOC,,ffffff,0073b7,ffffff,Lars-Christian Unger,no,186417,,0
 A,1,7,Erdinger,,ffffff,0073b7,ffffff,Andrew Diplock,gb,480981,,0
-A,1,7,,,,,,Ralf Anacker  1244,de,414421,,0
-A,1,6,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vincent Davis,us,87402,,0
+A,1,7,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vincent Davis,us,87402,,0
+A,1,6,PTz,,ffffff,403d3a,e3680f,Pedro Barroso,pt,24638,,0
 A,1,5,MDCC,,ffffff,0073b7,ffffff,Harry Loader (Team Bottrill - Vanguard),gb-eng,179409,,0
 A,1,5,,,,,,Daniel Lipinski,pl,1479390,,0
-A,1,5,PTz,,ffffff,403d3a,e3680f,Pedro Barroso,pt,24638,,0
 A,1,4,,,,,,Paul Speed,gb,17288,,0
 A,1,4,,,,,,Jan Ve&#269;e&#345;a9548,cz,1321992,,0
+A,1,4,DBR,,ffffff,eb7b2a,ffffff,Anton Nordstj&aelig;rne Larsen (U17),dk,821266,,0
 A,1,3,DBR,,ffffff,eb7b2a,ffffff,Martin Larsen [DBR],dk,854658,,0
 A,3,3,Hitchin Nomads,,ffffff,0073b7,ffffff,Romans Nearly.Guru,gb,242648,,2
-A,1,3,DBR,,ffffff,eb7b2a,ffffff,Anton Nordstj&aelig;rne Larsen (U17),dk,821266,,0
 B,4,124,BRT,,ffffff,050505,ff8100,Barry Davis,gb-eng,397176,,0
 B,2,102,BRT,,ffffff,050505,ff8100,Karl Atkinson NCC,gb,311166,bronze,0
 B,3,81,DBR,,ffffff,eb7b2a,ffffff,Kasper Lincke [DBR],dk,1241004,,0
@@ -179,7 +178,7 @@ C,1,13,BRT,,ffffff,050505,ff8100,Paul Johnson,gb,28834,,0
 C,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,George Beodeker(Cryo-Gen),us,1537576,,0
 C,1,11,,,,,,Alain Castle,gb-eng,379728,,0
 C,1,10,BRT,,ffffff,050505,ff8100,David Claydon (BRT),gb-eng,850893,,0
-C,1,9,,,,,,H Te B   menni,nl,1584763,,0
+C,1,9,,,,,,menni  menni 6223,nl,1584763,,0
 C,1,9,,,,,,Simon Broersen (Da Vinci),nl,430595,,0
 C,1,9,,,,,,Matt Davies,gb,730072,,0
 C,1,8,,,,,,Sergio Sanchez,es,198505,,0
