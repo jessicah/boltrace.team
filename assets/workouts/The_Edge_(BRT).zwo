@@ -37,7 +37,7 @@
         <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.3545" pace="1128505344">
             <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
             <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
-            <textevent timeoffset="240" message="Now time for some pizza and cake but if your losing weight make sure it's virtual!"/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if you're losing weight make sure it's virtual!"/>
             <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
         </Cooldown>
     </workout>

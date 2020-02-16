@@ -28,7 +28,7 @@
         <IntervalsT Repeat="4" OnDuration="30" OffDuration="30" OnPower="1.2045" OffPower="0.50449997" pace="1128505344"/>
         <IntervalsT Repeat="4" OnDuration="30" OffDuration="30" OnPower="1.2045" OffPower="0.50449997" pace="1128505344"/>
         <SteadyState Duration="240" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Nice, you made it past the first set , now shake out any tension and bring that HR back down."/>
+            <textevent timeoffset="30" message="Nice, you made it past the first set, now shake out any tension and bring that HR back down."/>
             <textevent timeoffset="120" message="Make sure you replenish those fluids and keep the thirst at bay."/>
             <textevent timeoffset="210" message="Next set on its way at 120% ftp, it's going to get tougher but you CAN handle it."/>
         </SteadyState>

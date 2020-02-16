@@ -1,0 +1,46 @@
+<workout_file>
+    <author>Bolt Race Team</author>
+    <name>The Rapids (BRT)</name>
+    <description>The Rapids has been designed to improve sprinting capabilities. It is advised to hit these using a high cadence (100+ rpm).
+
+**Workout Breakdown**
+- 8 minute warmup.
+- 10x sprints @ 165% ftp with 40 second rests.
+- 5 minutes @ rest
+- 6x sprints @ 225% ftp with 60 second rests.
+- 5 minutes @ rest
+- 4x sprints @ 280% ftp with 90 second rests.
+- 8 minute cooldown.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40000001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE RAPIDS!!!"/>
+            <textevent timeoffset="120" message="Let&apos;s start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="Let's get those legs in top sprinting form with the 1st set, 10x sprints at 165% ftp"/>
+        </Warmup>
+        <IntervalsT Repeat="10" OnDuration="30" OffDuration="40" OnPower="1.6544999" OffPower="0.6045" pace="1128505344"/>
+        <SteadyState Duration="260" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Well done, you took out the 1st set with ease!"/>
+            <textevent timeoffset="140" message="Make sure you replenish those fluids and keep the thirst at bay."/>
+            <textevent timeoffset="230" message="2nd sprint set on the way, going to hurt a little more, 6x sprints at 225% ftp, LET'S DO THIS!"/>
+        </SteadyState>
+        <IntervalsT Repeat="6" OnDuration="30" OffDuration="60" OnPower="2.25" OffPower="0.6045" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Excellent, keep those legs spinning and your form tight."/>
+            <textevent timeoffset="140" message="Water in the hole!!"/>
+            <textevent timeoffset="210" message="Last sprint set incoming, through the barrier you must! 4x sprints at 280% ftp, GO GET IT!"/>
+        </SteadyState>
+        <IntervalsT Repeat="4" OnDuration="30" OffDuration="90" OnPower="2.8045001" OffPower="0.6045" pace="1128505344"/>
+        <Cooldown Duration="360" PowerLow="0.6045" PowerHigh="0.40000001" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you&apos;ll be powering the toaster in no time!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="220" message="Now time for some pizza and cake but if you're losing weight make sure it&apos;s virtual!"/>
+            <textevent timeoffset="300" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,62 @@
+<workout_file>
+    <author>Bolt Race Team</author>
+    <name>The Gate (BRT)</name>
+    <description>The Gate has been designed to work on a rider's threshold power.
+
+**Workout Breakdown**
+- 8 minute warmup.
+- 2x 4 minute blocks @ 95% ftp split with a 20 second sprint @ 130% ftp.
+- 3 minutes @ rest.
+- 2x 4 minute blocks @ 95% ftp split with a 20 second sprint @ 130% ftp.
+- 3 minutes @ rest.
+- 2x 4 minute blocks @ 95% ftp split with a 20 second sprint @ 130% ftp.
+- 3 minutes @ rest
+- 2x 4 minute blocks @ 95% ftp split with a 20 second spring @ 130% ftp.
+- 8 minute cooldown.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40000001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE GATE!!!"/>
+            <textevent timeoffset="120" message="Let's start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="The first set is incoming with 2x blocks at 95% ftp split with a sprint, keep your concentration and form in check."/>
+        </Warmup>
+        <SteadyState Duration="240" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.3045" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Nice, you made it past the first set, now shake out any tension and bring that HR back down."/>
+            <textevent timeoffset="90" message="Make sure you replenish those fluids and keep the thirst at bay."/>
+            <textevent timeoffset="150" message="Next set at 95% with a sneaky sprint on it's way, it's going to get tougher but you CAN handle it."/>
+        </SteadyState>
+        <SteadyState Duration="240" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.3" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Good job on that set, take it easy for 4 minutes, treat yourself to some r&amp;r."/>
+            <textevent timeoffset="90" message="Don't leave that drinks bottle all by itself, time to replenish."/>
+            <textevent timeoffset="150" message="Third set inbound at 95% ftp plus the usual sprint... you know the drill, time to let this workout know who's boss and unleash beast mode."/>
+        </SteadyState>
+        <SteadyState Duration="240" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.3" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94999999" pace="1128505344"/>
+        <SteadyState Duration="180" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Excellent effort, spin those legs and remove any tension in the shoulders and arms"/>
+            <textevent timeoffset="90" message="Bottle, Mouth, Replenish!"/>
+            <textevent timeoffset="150" message="Here we go then the last set at 95% ftp plus MR RED! Beast mode deactivated, TIME TO GO DARK AND DIG DEEEEP!"/>
+        </SteadyState>
+        <SteadyState Duration="240" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="20" Power="1.3" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.94999999" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.40450001" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if you're losing weight make sure it's virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>

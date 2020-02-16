@@ -1,0 +1,62 @@
+<workout_file>
+    <author>Bolt Race Team</author>
+    <name>The Alternator (BRT)</name>
+    <description>The Alternator has been designed to target over and unders with a leg snapper at the end of each set
+
+**Workout Breakdown**
+- 8 minute warmup.
+- 1st set = 2x 2 mins @ 95% ftp, 2x 2 mins @ 105% ftp, 1x 1 min @ 90%  and 1x 30 seconds @ 170% ftp.
+- 5 minutes @ rest.
+- 2nd set = 2x 2 mins @ 95% ftp, 2x 2 mins @ 105% ftp, 1x 1min @ 90% and 1x 30 seconds @ 170% ftp.
+- 5 minutes @ rest
+- 3rd set = 2x 2 mins @ 95% ftp, 2x 2 mins @ 105% ftp, 1x 1 min @ 90% ftp and 1x 30 seconds @ 170% ftp.
+- 8 minute cooldown.
+ </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40450001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE ALTERNATOR!!!"/>
+            <textevent timeoffset="120" message="Let&apos;s start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="Lets get those legs working with some over and unders at 95% &amp; 105% ftp, rounding off with the leg snapper!"/>
+        </Warmup>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.90449995" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.7" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Good job, get some rest and release the tension"/>
+            <textevent timeoffset="150" message="Get those fluids in, you're going to need them."/>
+            <textevent timeoffset="270" message="Ding Ding! Round two on it&apos;s way, over and unders at 95% &amp; 105% ftp, finishing with a 170% ftp effort"/>
+        </SteadyState>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.90449995" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.7" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Excellent, keep those legs spinning and your form tight."/>
+            <textevent timeoffset="150" message="Water in the hole!!"/>
+            <textevent timeoffset="270" message="Last set incoming, you know the drill, time to show the leg snapper you can&apos;t be broken, GO GET IT!"/>
+        </SteadyState>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="120" Power="0.95449996" pace="1128505344"/>
+        <SteadyState Duration="120" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="60" Power="0.90449995" pace="1128505344"/>
+        <SteadyState Duration="30" Power="1.7" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.40450001" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, no legs snapped today, just a bit wobbly!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if you're losing weight make sure it&apos;s virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>
