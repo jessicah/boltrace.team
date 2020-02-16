@@ -1,0 +1,46 @@
+<workout_file>
+    <author>Bolt Race Team (BRT)</author>
+    <name>The Power Hour (BRT)</name>
+    <description>The Power Hour workout has been designed to focus on pushing a riders limits within an approximate 60 min window.
+
+**Workout Breakdown**
+- 8 min warm up
+- 10 min @ 90-110% ftp
+- 5 min @ rest
+- 10 min @ 105% ftp
+- 5 min @ rest
+- 10 min @ 90-110% ftp
+- 8 min cool down</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40450001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE POWER HOUR!!!"/>
+            <textevent timeoffset="120" message="Let's start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="The first block is incoming at 90% ftp rising to 110% ftp for 10 minutes, keep your concentration and form in check."/>
+        </Warmup>
+        <Ramp Duration="600" PowerLow="0.90449995" PowerHigh="1.1044999" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Nice, you made it past the first set, now shake out any tension and bring that HR back down."/>
+            <textevent timeoffset="150" message="Make sure you replenish those fluids and keep the thirst at bay."/>
+            <textevent timeoffset="270" message="Next block on it's way at 105% ftp for 10 minutes, it's going to get tougher but you CAN handle it."/>
+        </SteadyState>
+        <SteadyState Duration="600" Power="1.0545" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Excellent so far, shake out any tension and spin those legs."/>
+            <textevent timeoffset="150" message="Slurp Slurp... get that throat wet."/>
+            <textevent timeoffset="270" message="Last block incoming at 90% ftp rising to 110% for 10 minutes. Let's destroy big red!"/>
+        </SteadyState>
+        <Ramp Duration="600" PowerLow="0.90449995" PowerHigh="1.1044999" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.3545" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if your losing weight make sure it's virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>

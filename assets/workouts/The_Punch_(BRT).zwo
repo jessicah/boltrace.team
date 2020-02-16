@@ -1,0 +1,61 @@
+<workout_file>
+    <author>Bolt Race Team ⚡[BRT]⚡</author>
+    <name>The Punch (BRT)</name>
+    <description>The Punch has been designed to get you race ready for Zwift races. The focus is on sustained 4 minute and 1 minute power surges with an FTP drop off to allow you to settle back into the pack or over the top of a climb.
+
+**Workout Breakdown**
+- 8 min warm up
+- 4x 4 min @ 125% ftp 
+- 30 sec @ 100% ftp
+- 4 min @ rest after each block
+- 3x 1 min @ 150% ftp
+- 30 sec @ 100% ftp
+- 2:30 min @ rest after each block
+- Finishing with an 8 min cool down
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.2545" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE PUNCH!!!"/>
+            <textevent timeoffset="120" message="Let's start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="The first set is incoming at 120% ftp, followed by a 150% ftp punch! Keep your concentration and form in check."/>
+        </Warmup>
+        <SteadyState Duration="240.00002" Power="1.2045" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.5044999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="60" message="Nice, you made it past the first set, now shake out any tension and bring that HR back down."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="60.000004" Power="1.5044999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="60" message="Good job on that set, get plenty of fluids on board, you're going to need it!"/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="240.00002" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="60" Power="1.5044999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <SteadyState Duration="150" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="60" message="Very Nice! One last hit to take, time to let this workout know who's boss and unleash beast mode."/>
+        </SteadyState>
+        <SteadyState Duration="240.00002" Power="1.2544999" pace="1128505344"/>
+        <SteadyState Duration="30.000002" Power="1.0044999" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.2545" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if your losing weight make sure it's virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>

@@ -1,0 +1,48 @@
+<workout_file>
+    <author>Bolt Race Team (BRT)</author>
+    <name>The Goat (BRT)</name>
+    <description>The Goat workout has been designed to focus on hill training within an approximate 60 min window.
+
+**Workout Breakdown**
+- 8 min warm up
+- 8x 1:30 mins @ 140% ftp with 7x @ rest
+- 8 min cool down</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40450001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE GOAT!!!"/>
+            <textevent timeoffset="120" message="Let's start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="The first half is incoming at 140% ftp, keep your concentration and form in check."/>
+        </Warmup>
+        <SteadyState Duration="90" Power="1.4044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="1128505344"/>
+        <SteadyState Duration="240" Power="0.6045" pace="0">
+            <textevent timeoffset="30" message="Good job on that first batch, now halfway through, keep pushing you CAN do it!"/>
+            <textevent timeoffset="120" message="Don't leave that drinks bottle all by itself, time to replenish."/>
+            <textevent timeoffset="210" message="Here we go then, second half incoming, time to let this workout know who's boss and unleash beast mode."/>
+        </SteadyState>
+        <SteadyState Duration="90" Power="1.4044999" pace="0"/>
+        <SteadyState Duration="240" Power="0.6045" pace="0"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="0"/>
+        <SteadyState Duration="240" Power="0.6045" pace="0"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="0"/>
+        <SteadyState Duration="240" Power="0.6045" pace="0"/>
+        <SteadyState Duration="90" Power="1.4044999" pace="0"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.3545" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if your losing weight make sure it's virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>
