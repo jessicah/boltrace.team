@@ -25,10 +25,9 @@
         <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>
         <Ramp Duration="600" PowerLow="0.90449995" PowerHigh="0.95449996" pace="1128505344"/>
         <SteadyState Duration="300" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Good job on that set, halfway marker point reached, take it easy for 5 minutes, treat yourself to some r&r."/>
+            <textevent timeoffset="30" message="Good job on that set, halfway marker point reached, take it easy for 5 minutes, treat yourself to some r&amp;r."/>
             <textevent timeoffset="150" message="Don't leave that drinks bottle all by itself, time to replenish."/>
 			<textevent timeoffset="270" message="Here we go then the last blocks are incoming at 90-95% ftp for 10 minutes and 100% ftp for 5 minutes, time to let this workout know who's boss and unleash beast mode."/>
-        </SteadyState>
         </SteadyState>
         <Ramp Duration="600" PowerLow="0.90449995" PowerHigh="0.95449996" pace="1128505344"/>
         <SteadyState Duration="240" Power="0.6045" pace="1128505344"/>

@@ -34,7 +34,7 @@
         </SteadyState>
         <IntervalsT Repeat="6" OnDuration="60" OffDuration="30" OnPower="0.90449995" OffPower="0.6045" pace="1128505344"/>
         <SteadyState Duration="240" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Good job on that set, take it easy for 4 minutes, treat yourself to some r&r."/>
+            <textevent timeoffset="30" message="Good job on that set, take it easy for 4 minutes, treat yourself to some r&amp;r."/>
             <textevent timeoffset="120" message="Don't leave that drinks bottle all by itself, time to replenish."/>
             <textevent timeoffset="210" message="Second set incoming but only 45 second blocks at 90% ftp"/>
         </SteadyState>

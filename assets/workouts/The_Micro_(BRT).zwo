@@ -31,7 +31,7 @@
         </SteadyState>
         <IntervalsT Repeat="14" OnDuration="15" OffDuration="30" OnPower="1.5044999" OffPower="0.50449997" pace="1128505344"/>
         <SteadyState Duration="240" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Good job on that set, take it easy for 4 minutes, treat yourself to some r&r."/>
+            <textevent timeoffset="30" message="Good job on that set, take it easy for 4 minutes, treat yourself to some r&amp;r."/>
             <textevent timeoffset="120" message="Don't leave that drinks bottle all by itself, time to replenish."/>
             <textevent timeoffset="210" message="Here we go then the last set at 150% ftp, time to let this workout know who's boss and unleash beast mode."/>
         </SteadyState>

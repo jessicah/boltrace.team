@@ -29,7 +29,7 @@
         </SteadyState>
         <Ramp Duration="600" PowerLow="0.95449996" PowerHigh="1.0545" pace="1128505344"/>
         <SteadyState Duration="300" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Good job on that block, take it easy for 5 minutes, treat yourself to some r&r."/>
+            <textevent timeoffset="30" message="Good job on that block, take it easy for 5 minutes, treat yourself to some r&amp;r."/>
             <textevent timeoffset="150" message="Don't leave that drinks bottle all by itself, time to replenish."/>
 			<textevent timeoffset="270" message="Here we go then, the last block at 95% ftp rising to 105% ftp, time to let this workout know who's boss and unleash beast mode."/>
         </SteadyState>

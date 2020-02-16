@@ -41,7 +41,7 @@
         <SteadyState Duration="60" Power="0.6045" pace="1128505344"/>
         <SteadyState Duration="300" Power="0.94999999" pace="1128505344"/>
         <SteadyState Duration="300" Power="0.6045" pace="1128505344">
-            <textevent timeoffset="30" message="Good job on that set, take it easy for 5 minutes, treat yourself to some r&r."/>
+            <textevent timeoffset="30" message="Good job on that set, take it easy for 5 minutes, treat yourself to some r&amp;r."/>
             <textevent timeoffset="150" message="Don't leave that drinks bottle all by itself, time to replenish."/>
 			<textevent timeoffset="270" message="Here we go then the last set at 95% ftp but this time each block decreases by 1 minute, time to let this workout know who's boss and unleash beast mode."/>
         </SteadyState>
