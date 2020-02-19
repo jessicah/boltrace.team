@@ -1,16 +1,16 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,6,189,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN Ospreys),au,1332978,gold silver bronze bronze bronze,0
 A,3,150,REVO,,fc00e3,000000,fc00e3,Daniela Istrate [REVO],ro,1056287,gold gold gold,0
 A,3,150,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vi Nguyen (CRYO-GEN EAGLES),vn,1435196,gold gold gold,0
-A,5,139,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela MacRae (CRYO-GEN Ospreys),au,1332978,silver bronze bronze bronze,0
+A,3,150,Team AHDR,,fc6955,55d4fc,ffffff,Sarah Alexander,gb,991785,gold gold gold,0
 A,3,125,REVO,,fc00e3,000000,fc00e3,Catrina Weiss [REVO],us,4727,gold gold,0
-A,2,100,Team AHDR,,fc6955,55d4fc,ffffff,Sarah Alexander,gb,991785,gold gold,0
+A,3,80,ZSUN,,ffffff,0073b7,ffffff,Iva  Gotz [ZSUN],cz,525104,silver silver silver,1
 A,2,73,BRT,,ffffff,050505,ff8100,Nicole Smith [BRT],au,835950,silver bronze,0
 A,2,70,RR 2020,,ffffff,0073b7,ffffff,Tiina Kajan [RR 2020],fi,1104935,gold,0
 A,2,59,REVO,,fc00e3,000000,fc00e3,JamieLee Wright [REVO],gg,324947,silver,0
 A,2,58,REVO,,fc00e3,000000,fc00e3,Tina Grobler [REVO],gb,472879,bronze,0
 A,1,50,,,,,,Kristen K,us,613856,gold,0
 A,1,40,CANYON,,ffffff,ff005d,ff005d,Kristin Falck (Canyon),no,56138,silver,0
-A,2,40,ZSUN,,ffffff,0073b7,ffffff,Iva  Gotz [ZSUN],cz,525104,silver silver,1
 A,1,40,,,,,,Karin Forsberg,se,1716163,silver,0
 A,1,40,Team Fearless,,001f3f,39cccc,01ff70,Catherine Connell [Fear <],gb,1273440,silver,0
 A,2,40,Team AHDR,,fc6955,55d4fc,ffffff,Fran Bambust (AHDR | Purple Armada),be,427114,silver silver,0
@@ -25,20 +25,21 @@ A,1,22,,,,,,Jane Counsell,gb,82624,,0
 A,1,18,,,,,,Sarah Ryan,gb,883536,,0
 A,1,17,Team CRYO-GEN,,ffffff,0073b7,ffffff,Leonie Dijkstra [CRYO-GEN],nl,1016132,,0
 A,1,16,,,,,,Courtney Parker,ca,1317589,,0
+B,5,220,REVO,,fc00e3,000000,fc00e3,Suzanne Bessette [REVO],us,569518,gold gold silver silver silver,0
+B,5,206,Team Fearless,,001f3f,39cccc,01ff70,Hilde Rong,no,649286,gold gold silver bronze bronze,0
 B,4,180,Team CRYO-GEN,,ffffff,0073b7,ffffff,Kerry Paul (CRYO-GEN),gb,115323,gold gold silver silver,0
-B,4,170,REVO,,fc00e3,000000,fc00e3,Suzanne Bessette [REVO],us,569518,gold silver silver silver,0
-B,4,156,Team Fearless,,001f3f,39cccc,01ff70,Hilde Rong,no,649286,gold silver bronze bronze,0
+B,5,176,Team CRYO-GEN,,ffffff,0073b7,ffffff,Milena Bruns CRYO-GEN,nl,330485,gold silver bronze,0
 B,3,140,Team CRYO-GEN,,ffffff,0073b7,ffffff,Cora Baltes (CRYO-GEN Ospreys),ro,701096,gold gold silver,0
-B,4,126,Team CRYO-GEN,,ffffff,0073b7,ffffff,Milena Bruns CRYO-GEN,nl,330485,silver bronze,0
 B,5,113,REVO,,fc00e3,000000,fc00e3,Maria Victoria Vazquez &#127856;(REVOlocas),es,360262,bronze bronze,0
+B,4,108,Team CRYO-GEN,,ffffff,0073b7,ffffff,Heather Mayne CRYO-GEN,gb,817160,silver,0
 B,4,103,REVO,,fc00e3,000000,fc00e3,Katherine Salvatierra (REVOcakecrushers),ca,56846,,0
 B,2,100,REVO,,fc00e3,000000,fc00e3,Anna Rogers [REVO],ca,265859,gold gold,0
 B,3,100,REVO,,fc00e3,000000,fc00e3,Allison Foley (REVOcakecrushers),us,421245,gold,0
 B,2,83,Team CRYO-GEN,,ffffff,0073b7,ffffff,Kim Schaff (CRYO-GEN Buzzards),us,1053714,gold bronze,0
 B,3,80,REVO,,fc00e3,000000,fc00e3,Melanie Solmon [REVO],ca,292182,bronze,0
+B,3,76,ZSUN,,ffffff,0073b7,ffffff,Hilde Asperheim,no,288940,silver,1
 B,2,68,REVO,,fc00e3,000000,fc00e3,Heather Downie [REVO],ca,887716,silver,0
-B,3,68,Team CRYO-GEN,,ffffff,0073b7,ffffff,Heather Mayne CRYO-GEN,gb,817160,,0
-B,2,56,ZSUN,,ffffff,0073b7,ffffff,Hilde Asperheim,no,288940,,0
+B,5,60,Team CLS,,3d9970,ffffff,ffffff,Tanya Sturgess Team CLS,gb,242002,bronze,4
 B,2,53,Team Fearless,,001f3f,39cccc,01ff70,Carrie Tolentino,us,16819,bronze,0
 B,2,53,Vixen/Fox,,7409a6,f79d4b,ffffff,Siv Engmo &#129418;,no,217993,,0
 B,2,52,REVO,,fc00e3,000000,fc00e3,Karen Russell [REVO],us,12799,bronze,0
@@ -47,6 +48,7 @@ B,1,50,ZSUN,,ffffff,0073b7,ffffff,C Scott,gb-sct,340007,gold,0
 B,2,47,REVO,,fc00e3,000000,fc00e3,Karen Bestwick (REVOlocas),gb,44557,,0
 B,1,40,,,,,,Andrea Miller,us,51583,silver,0
 B,1,40,,,,,,Caleigh Bold '03,us,977742,silver,0
+B,1,40,,,,,,Annelotte Dijkman,nl,1572775,silver,0
 B,2,37,ZSUN,,ffffff,0073b7,ffffff,Deb Zelisko ZSUN,ca,535263,,0
 B,2,36,Team CRYO-GEN,,ffffff,0073b7,ffffff,Alexa Forbes (CRYO-GEN Kestrels),gb,301544,,0
 B,1,33,,,,,,sharon styles,ca,330172,bronze,0
@@ -62,40 +64,42 @@ B,1,19,,,,,,Claire Laflamme,ca,48778,,0
 B,2,18,Team Fearless,,001f3f,39cccc,01ff70,Martha Kuntz,us,448610,,1
 B,1,18,Team CRYO-GEN,,ffffff,0073b7,ffffff,Kristin Allyne (CRYO),us,1486231,,0
 B,1,17,REVO,,fc00e3,000000,fc00e3,Stacey Larkin (REVOlocas),gb,464549,,0
-C,4,151,Team Fearless,,001f3f,39cccc,01ff70,Wendy Gallagher,nz,330899,gold silver bronze,0
-C,3,140,Team CRYO-GEN,,ffffff,0073b7,ffffff,Morgan Aldridge (CRYO-GEN Roadrunners),us,444737,gold gold silver,0
-C,4,136,Team Fearless,,001f3f,39cccc,01ff70,Ms Sakushi,us,179751,gold silver,0
+C,4,190,Team CRYO-GEN,,ffffff,0073b7,ffffff,Morgan Aldridge (CRYO-GEN Roadrunners),us,444737,gold gold gold silver,0
+C,5,186,Team Fearless,,001f3f,39cccc,01ff70,Ms Sakushi,us,179751,gold gold silver,0
+C,5,179,Team Fearless,,001f3f,39cccc,01ff70,Wendy Gallagher,nz,330899,gold silver bronze,0
+C,5,143,BRT,,ffffff,050505,ff8100,Lisa Armistead,us,279546,silver bronze,0
+C,4,138,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela Cigana (CRYO-GEN Hawks),au,147816,silver silver bronze,0
 C,3,133,REVO,,fc00e3,000000,fc00e3,Emma BRINKLEY&#129464;&zwj;&#9792;&#65039; [REVO],gb,470705,gold gold bronze,0
-C,4,110,BRT,,ffffff,050505,ff8100,Lisa Armistead,us,279546,silver,0
-C,3,98,Team CRYO-GEN,,ffffff,0073b7,ffffff,Angela Cigana (CRYO-GEN Hawks),au,147816,silver bronze,0
-C,3,95,REVO,,fc00e3,000000,fc00e3,Jo StPz (REVOlocas),nl,63611,silver bronze,0
-C,4,78,Team CLS,,3d9970,ffffff,ffffff,Tanya Sturgess Team CLS,gb,242002,,0
+C,4,117,REVO,,fc00e3,000000,fc00e3,Jo StPz (REVOlocas),nl,63611,silver bronze,0
+C,3,96,ZSUN,,ffffff,0073b7,ffffff,Stephenie Jackman,gb,1058573,silver,0
+C,3,94,REVO,,fc00e3,000000,fc00e3,Jennifer Baker (REVO),us,271150,gold,0
+C,3,93,BRT,,ffffff,050505,ff8100,Arja Lemmettyl&auml;,fi,506268,silver,0
+C,3,88,BRT,,ffffff,050505,ff8100,D. Barreto,mx,581267,bronze bronze,0
 C,2,69,REVO,,fc00e3,000000,fc00e3,Heidi Gabriel,dk,385102,gold,0
 C,3,68,ZSUN,,ffffff,0073b7,ffffff,A ZSUN Goat,ch,346294,,0
-C,2,65,BRT,,ffffff,050505,ff8100,Arja Lemmettyl&auml;,fi,506268,silver,0
 C,2,62,Team CRYO-GEN,,ffffff,0073b7,ffffff,Zara Burn CRYO-GEN,gb,1370906,silver,0
 C,2,56,REVO,,fc00e3,000000,fc00e3,Miranda Hughes (REVOcakecrushers),ca,54572,silver,0
-C,2,56,ZSUN,,ffffff,0073b7,ffffff,Stephenie Jackman,gb,1058573,,0
-C,2,55,BRT,,ffffff,050505,ff8100,D. Barreto,mx,581267,bronze,0
 C,2,53,REVO,,fc00e3,000000,fc00e3,Christine Shiu (REVOcakecrushers),us,198561,,0
 C,2,52,REVO,,fc00e3,000000,fc00e3,Shaz Bat [REVO],zw,825824,bronze,0
 C,1,50,PTz,,ffffff,403d3a,e3680f,Sonia Whiteman,gb,132012,gold,0
 C,2,50,REVO,,fc00e3,000000,fc00e3,Christine Culver&#128165; [REVO],us,370756,gold silver,0
 C,1,50,REVO,,fc00e3,000000,fc00e3,Natasha Williams (REVOCookiemonsters),au,1297,gold,0
+C,2,50,Team CRYO-GEN,,ffffff,0073b7,ffffff,Erin Gerber (Cryo-Gen),us,966334,,0
 C,1,50,,,,,,Anna Ronkainen,fi,1430132,gold,0
 C,1,50,Team CRYO-GEN,,ffffff,0073b7,ffffff,Elis Bluebird 4362,nl,1385360,gold,0
 C,2,47,REVO,,fc00e3,000000,fc00e3,Gunhild Westergaard [REVO],no,1120212,,0
 C,2,46,,,,,,jennifer lansdowne,ca,1439800,,0
-C,2,44,REVO,,fc00e3,000000,fc00e3,Jennifer Baker (REVO),us,271150,,0
 C,1,40,REVO,,fc00e3,000000,fc00e3,Hannah Baumeister [REVO],de,1184252,silver,0
 C,2,34,REVO,,fc00e3,000000,fc00e3,Bobbi Davo [REVO],us,877451,,0
 C,1,33,Team 63.8N,,ffffff,9a0606,000000,Olivia Sandberg  63.8N,se,1612057,bronze,0
 C,1,33,Team Fearless,,001f3f,39cccc,01ff70,anouk. Vv,mq,455272,bronze,0
 C,1,33,REVO,,fc00e3,000000,fc00e3,Lindy Gray (REVOcookiemonsters),gb,57518,bronze,0
+C,1,33,Team AHDR,,fc6955,55d4fc,ffffff,Susie Beretta,au,16088,bronze,0
 C,1,25,,,,,,Gabby Scott,gb,805787,,0
-C,1,25,Team CRYO-GEN,,ffffff,0073b7,ffffff,Erin Gerber (Cryo-Gen),us,966334,,0
+C,1,25,BRT,,ffffff,050505,ff8100,Giovanna Fantucchio,gb,399625,,0
 C,1,22,Team Fearless,,001f3f,39cccc,01ff70,Lorena  Sandoval,ca,328805,,0
 C,1,22,NSMI Racing,,ffffff,0073b7,ffffff,Dori Buckethal,us,93986,,0
+C,1,22,Team CRYO-GEN,,ffffff,0073b7,ffffff,Erin Mac (CRYO-GEN Roadrunners),ca,839037,,0
 C,1,20,REVO,,fc00e3,000000,fc00e3,Sarah Strange (REVOLocas),us,131165,,0
 C,1,20,REVO,,fc00e3,000000,fc00e3,Jude Williams &#128029; [REVO],gb-wls,93210,,0
 C,1,20,Vixen/Fox,,7409a6,f79d4b,ffffff,Kate Mroz [VVixen],us,1582746,,0
@@ -110,23 +114,25 @@ C,1,15,,,,,,joy connelly 9470,us,1568483,,0
 C,1,14,,,,,,Alison Andrews5556,us,214733,,0
 C,1,14,REVO,,fc00e3,000000,fc00e3,Jennifer McDowell(Revo),us,1456961,,0
 C,1,13,Team Fearless,,001f3f,39cccc,01ff70,Mirsada Gudic,us,260237,,0
-D,4,200,Team CRYO-GEN,,ffffff,0073b7,ffffff,Roxanne Timmins (CRYO-GEN),gb,82951,gold gold gold gold,0
-D,4,160,Team Fearless,,001f3f,39cccc,01ff70,Stefanie Held,de,536821,silver silver silver silver,0
-D,3,150,Team CRYO-GEN,,ffffff,0073b7,ffffff,Leslie Arnett (CRYO-GEN Roadrunners),us,863921,gold gold gold,0
+D,5,250,Team CRYO-GEN,,ffffff,0073b7,ffffff,Roxanne Timmins (CRYO-GEN),gb,82951,gold gold gold gold gold,0
+D,4,200,Team CRYO-GEN,,ffffff,0073b7,ffffff,Leslie Arnett (CRYO-GEN Roadrunners),us,863921,gold gold gold gold,0
+D,5,193,Team Fearless,,001f3f,39cccc,01ff70,Stefanie Held,de,536821,silver silver silver silver bronze,0
 D,2,100,REVO,,fc00e3,000000,fc00e3,Rhonda Vedder [REVO] D,us,386881,gold gold,0
 D,2,90,ZSUN,,ffffff,0073b7,ffffff,Steph Hub,ca,661933,gold silver,0
+D,2,90,DBR,,ffffff,eb7b2a,ffffff,Heidi Lehmann (DBR),dk,399588,gold silver,0
 D,2,73,BRT,,ffffff,050505,ff8100,Kim Cognato (BRT HellcatZ D),us,598020,silver bronze,0
+D,2,68,Team Fearless,,001f3f,39cccc,01ff70,Camille King,us,182188,silver,0
+D,2,66,,,,,,Kelly Graham,ca,452543,bronze bronze,0
 D,2,61,REVO,,fc00e3,000000,fc00e3,Kate Hassey [REVO],ie,948019,bronze,0
-D,1,50,DBR,,ffffff,eb7b2a,ffffff,Heidi Lehmann (DBR),dk,399588,gold,0
+D,1,50,REVO,,fc00e3,000000,fc00e3,Sara Perrin (REVOroadrunners),us,420144,gold,0
 D,1,40,KISS RT,,f56600,012350,84b7ca,Sarah  Smallman,nz,66585,silver,0
 D,1,40,Team Fearless,,001f3f,39cccc,01ff70,Tina Whitfield,us,342650,silver,0
 D,1,40,REVO,,fc00e3,000000,fc00e3,Britt Bachtel-Browning 3717,us,290112,silver,0
 D,1,40,,,,,,Bego&ntilde;a Abad,es,1161584,silver,0
-D,1,40,Team Fearless,,001f3f,39cccc,01ff70,Camille King,us,182188,silver,0
+D,1,40,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vivienne Powe CRYO-GEN,au,1320009,silver,0
 D,1,33,REVO,,fc00e3,000000,fc00e3,HB Williams [REVO],gb-wls,481521,bronze,0
 D,1,33,,,,,,Sam Ritson,gb,24614,bronze,0
 D,1,33,,,,,,Dorthe Wendt Thomasen,dk,1436426,bronze,0
-D,1,33,,,,,,Kelly Graham,ca,452543,bronze,0
 D,1,28,Team Fearless,,001f3f,39cccc,01ff70,Melanie Beets,za,362519,,0
 D,1,28,REVO,,fc00e3,000000,fc00e3,Mary Franklin [Revo ],us,158975,,0
 D,1,25,,,,,,Rozanne  Puleo,us,1427755,,0

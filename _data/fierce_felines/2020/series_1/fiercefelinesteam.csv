@@ -1,35 +1,37 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,9,373,2672,REVO,fc00e3,000000,fc00e3
-A,8,317,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,4,180,629,Team AHDR,fc6955,55d4fc,ffffff
+A,9,367,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,5,230,629,Team AHDR,fc6955,55d4fc,ffffff
 A,3,101,4,BRT,ffffff,050505,ff8100
+A,2,80,161,ZSUN,ffffff,0073b7,ffffff
 A,2,73,1677,Team Fearless,001f3f,39cccc,01ff70
 A,2,70,5632,RR 2020,ffffff,0073b7,ffffff
 A,1,40,2144,CANYON,ffffff,ff005d,ff005d
-A,1,40,161,ZSUN,ffffff,0073b7,ffffff
 A,1,40,2298,Rowe & King,ffffff,2b5bb8,2fba4e
-B,12,504,2672,REVO,fc00e3,000000,fc00e3
-B,11,471,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,7,227,1677,Team Fearless,001f3f,39cccc,01ff70
+B,13,561,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,13,554,2672,REVO,fc00e3,000000,fc00e3
+B,8,277,1677,Team Fearless,001f3f,39cccc,01ff70
 B,7,205,161,ZSUN,ffffff,0073b7,ffffff
 B,3,78,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+B,1,33,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,25,4,BRT,ffffff,050505,ff8100
-C,11,443,2672,REVO,fc00e3,000000,fc00e3
-C,10,359,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,10,342,1677,Team Fearless,001f3f,39cccc,01ff70
-C,8,230,4,BRT,ffffff,050505,ff8100
-C,5,124,161,ZSUN,ffffff,0073b7,ffffff
+C,13,515,2672,REVO,fc00e3,000000,fc00e3
+C,13,474,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,12,420,1677,Team Fearless,001f3f,39cccc,01ff70
+C,11,324,4,BRT,ffffff,050505,ff8100
+C,7,204,161,ZSUN,ffffff,0073b7,ffffff
 C,4,78,1426,Team CLS,3d9970,ffffff,ffffff
 C,1,50,1,PTz,ffffff,403d3a,e3680f
 C,1,33,2936,Team 63.8N,ffffff,9a0606,000000
+C,1,33,629,Team AHDR,fc6955,55d4fc,ffffff
 C,1,22,2024,NSMI Racing,ffffff,0073b7,ffffff
 C,1,20,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 C,1,19,1845,VEGAN,ffffff,00a65a,0adb2c
-D,8,375,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-D,7,268,1677,Team Fearless,001f3f,39cccc,01ff70
-D,7,262,2672,REVO,fc00e3,000000,fc00e3
+D,11,515,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,9,329,1677,Team Fearless,001f3f,39cccc,01ff70
+D,8,312,2672,REVO,fc00e3,000000,fc00e3
 D,2,90,161,ZSUN,ffffff,0073b7,ffffff
+D,2,90,1986,DBR,ffffff,eb7b2a,ffffff
 D,2,73,4,BRT,ffffff,050505,ff8100
-D,1,50,1986,DBR,ffffff,eb7b2a,ffffff
 D,1,40,36,KISS RT,f56600,012350,84b7ca
 D,1,22,5749,T.G.,ffffff,0073b7,ffffff
