@@ -1,0 +1,66 @@
+<workout_file>
+    <author>Bolt Race Team (BRT)</author>
+    <name>The Onslaught (BRT)</name>
+    <description>The Onslaught workout has been designed to focus on Zwift racing preparation within an approximate 60 min window.
+
+**Workout Breakdown**
+- 8 min warmup.
+- (5x) 30 seconds @ 200% ftp, 3 minutes @ 100-105% ftp and 15 seconds @ 250% ftp
+- (4x) 5 minutes @ rest inbetween each set.
+- 8 min cooldown.
+</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="BRT"/>
+    </tags>
+    <workout>
+        <Warmup Duration="480" PowerLow="0.40450001" PowerHigh="0.75449997" pace="1128505344">
+            <textevent timeoffset="30" message="Welcome to THE ONSLAUGHT!!!"/>
+            <textevent timeoffset="120" message="Let's start things off with a nice and easy 8 minute warmup."/>
+            <textevent timeoffset="240" message="Always remember if a set/block gets too tough then adjust your ftp bias or skip a set/block."/>
+            <textevent timeoffset="450" message="The first set is incoming with 30 seconds at 200% ftp, 3 minutes at 100-105% ftp and 15 seconds at 250% ftp, keep your concentration and form in check."/>
+        </Warmup>
+        <SteadyState Duration="30" Power="2.0044999" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="1.0044999" PowerHigh="1.0545" pace="1128505344"/>
+        <SteadyState Duration="15" Power="2.5044999" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Nice, you made it past the first set, now shake out any tension and bring that HR back down."/>
+            <textevent timeoffset="150" message="Make sure you replenish those fluids and keep the thirst at bay."/>
+            <textevent timeoffset="270" message="Next set 30 seconds at 200% ftp, 3 minutes at 100-105% ftp and 15 seconds at 250% ftp on it's way, it's going to get tougher but you CAN handle it."/>
+        </SteadyState>
+        <SteadyState Duration="30" Power="2.0044999" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="1.0044999" PowerHigh="1.0545" pace="1128505344"/>
+        <SteadyState Duration="15" Power="2.5044999" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Good job on that set, take it easy for 5 minutes, treat yourself to some r&amp;r."/>
+            <textevent timeoffset="150" message="Don't leave that drinks bottle all by itself, time to replenish."/>
+            <textevent timeoffset="270" message="Next set 30 seconds at 200% ftp, 3 minutes at 100-105% ftp and 15 seconds at 250% ftp on it's way, time to let this workout know who's boss."/>
+        </SteadyState>
+        <SteadyState Duration="30" Power="2.0044999" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="1.0044999" PowerHigh="1.0545" pace="1128505344"/>
+        <SteadyState Duration="15" Power="2.5044999" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Excellent effort, spin those legs and remove any tension in the shoulders and arms"/>
+            <textevent timeoffset="150" message="Bottle, Mouth, Replenish!"/>
+            <textevent timeoffset="270" message="Here we go second to last set 30 seconds at 200% ftp, 3 minutes at 100-105% ftp and 15 seconds at 250% ftp on it's way, beast mode deactivated, TIME TO GO DARK AND DIG DEEEEP!"/>
+        </SteadyState>
+        <SteadyState Duration="30" Power="2.0044999" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="1.0044999" PowerHigh="1.0545" pace="1128505344"/>
+        <SteadyState Duration="15" Power="2.5044999" pace="1128505344"/>
+        <SteadyState Duration="300" Power="0.6045" pace="1128505344">
+            <textevent timeoffset="30" message="Brilliant... you almost broke the Matrix with that effort! Unplug for 5 minutes"/>
+            <textevent timeoffset="150" message="Bottle, Mouth, Replenish!"/>
+            <textevent timeoffset="270" message="Time for the last set 30 seconds at 200% ftp, 3 minutes at 100-105% ftp and 15 seconds at 250% ftp on it's way, down the rabbit hole we go!"/>
+        </SteadyState>
+        <SteadyState Duration="30" Power="2.0044999" pace="1128505344"/>
+        <Ramp Duration="180" PowerLow="1.0044999" PowerHigh="1.0545" pace="1128505344"/>
+        <SteadyState Duration="15" Power="2.5044999" pace="1128505344"/>
+        <Cooldown Duration="480" PowerLow="0.6045" PowerHigh="0.40450001" pace="1128505344">
+            <textevent timeoffset="30" message="Awesome effort today, you kicked that workout into touch, well done!"/>
+            <textevent timeoffset="120" message="Get some fluids down you to replenish any lost sweat."/>
+            <textevent timeoffset="240" message="Now time for some pizza and cake but if you're losing weight make sure it's virtual!"/>
+            <textevent timeoffset="360" message="Feel free to join the Bolt Race Team, https://join.boltrace.team, or check out our other team work outs."/>
+        </Cooldown>
+    </workout>
+</workout_file>
