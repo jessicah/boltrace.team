@@ -32,7 +32,7 @@ B,2,116,975,Innovation,000000,52ff33,000000
 B,2,81,9,Vision,ffffff,2ea9e0,000000
 B,4,80,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,74,36,KISS RT,f56600,012350,84b7ca
-B,2,72,2841,Protech-velo,dedecd,612424,260808
+B,2,72,2841,Protech-velo,f7e7e7,ff0000,260808
 B,2,72,3185,FUSION DEVELOPMENT,ffffff,0a1e29,ffffff
 B,3,70,2722,Hitchin Nomads,ffffff,0073b7,ffffff
 B,1,65,2488,Stages SuperCube,ffffff,0073b7,ffffff
@@ -41,6 +41,7 @@ B,2,56,3741,EBR,ffffff,0073b7,ffffff
 B,1,42,4338,Contact RT,ffffff,120a0a,fafafa
 B,1,41,2639,HERD,383c3d,fc6719,383c3d
 B,1,37,35,BZR cycling team,f3f300,111111,dd4b39
+B,2,34,588,Team Italy,dd4b39,ffffff,00a65a
 B,1,33,1965,BIKES-FRANCE,000000,f2ad00,000000
 B,1,33,3973,TURBO,fc671a,000000,000000
 B,2,32,5219,BAB,000000,fc0000,000000
@@ -54,7 +55,6 @@ B,1,15,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
 B,1,15,2952,LFCC,000000,00ff4e,000000
 B,2,14,5621,FIASCO,ff0303,fcfcfc,636363
 B,1,13,2,Team X,f5f7f6,111111,00a65a
-B,1,11,588,Team Italy,dd4b39,ffffff,00a65a
 B,1,10,5474,Sthlmrand,ffffff,0035ff,cfcf25
 B,1,8,199,CORNOGRANDE,ffffff,0073b7,ffffff
 B,1,7,2233,Utrecht,ffffff,0073b7,ffffff
@@ -73,7 +73,7 @@ C,1,45,2863,MOONGLU,000000,84d6ff,ffffff
 C,1,43,1986,DBR,ffffff,eb7b2a,ffffff
 C,3,39,2281,TeamNL,ffffff,ffa500,ffa500
 C,1,37,90,Vikings,c2c2c2,0073b7,ee6331
-C,1,31,2900,Wolfpack,130404,a09d9d,130d0d
+C,1,31,116,Hisingens CK,ffffff,0073b7,ffffff
 C,1,27,1965,BIKES-FRANCE,000000,f2ad00,000000
 C,1,23,189,Physio Racing,ffffff,0073b7,ffffff
 C,1,21,2401,Myerscough,eb0931,deff17,64f00f

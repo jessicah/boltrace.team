@@ -25,7 +25,7 @@ A,1,18,Utrecht,,ffffff,0073b7,ffffff,Eelco Keuvelaar,nl,547077,gold,0
 A,1,17,BZR cycling team,,f3f300,111111,dd4b39,Stijn Lycke (tri) 436522 5364,be,436522,,0
 A,1,17,VEGAN,,ffffff,00a65a,0adb2c,Bartosz Nowaczek,ie,358286,,0
 A,1,17,,,,,,Timothy Dawson,za,1006134,,0
-A,1,17,FUSION DEVELOPMENT,,ffffff,0a1e29,ffffff,Jens Frede Rasmussen (FUSION DEV A),dk,42327,,0
+A,1,17,FUSION DEVELOPMENT,,ffffff,0a1e29,ffffff,Jens Frede Rasmussen,dk,42327,,0
 A,1,15,Team CRYO-GEN,,ffffff,0073b7,ffffff,Simon Merritt,gb,38493,,0
 A,1,15,,,,,,Stevan Klisuric,zw,1707013,silver,0
 A,1,15,,,,,,Simon Deakin,gb-eng,352229,,0
@@ -63,7 +63,7 @@ B,6,184,BRT,,ffffff,050505,ff8100,Barry Davis,gb-eng,397176,bronze,0
 B,2,102,BRT,,ffffff,050505,ff8100,Karl Atkinson NCC,gb,311166,bronze,0
 B,3,81,DBR,,ffffff,eb7b2a,ffffff,Kasper Lincke [DBR],dk,1241004,,0
 B,1,74,KISS RT,,f56600,012350,84b7ca,TCaplen - Toby McTobeface,gb,14123,gold,0
-B,2,72,Protech-velo,,dedecd,612424,260808,Colin Humphrey,gb-eng,606826,bronze,0
+B,2,72,Protech-velo,,f7e7e7,ff0000,260808,Colin Humphrey,gb-eng,606826,bronze,0
 B,1,71,Innovation,,000000,52ff33,000000,Nick Kalson,gb,218063,silver,0
 B,2,70,BRT,,ffffff,050505,ff8100,Joel Hender,gb-wls,123642,silver silver,0
 B,2,69,,,,,,Jonathan  Davey,gb,1474,gold,0
@@ -109,7 +109,7 @@ B,1,25,,,,,,&Agrave;lex Forn&eacute;s,es,1370444,,0
 B,1,25,Team Brasil,,ffffff,0073b7,ffffff,Douglas A Goergen,br,836684,,0
 B,1,25,EBR,,ffffff,0073b7,ffffff,Paul Saunders,gb,184127,,0
 B,1,25,BRT,,ffffff,050505,ff8100,R az (BRT Draft Beers),gb,1094935,,0
-B,1,23,,,,,,roberto arisci 8108,it,1028259,,0
+B,1,23,Team Italy,,dd4b39,ffffff,00a65a,roberto arisci 8108,it,1028259,,0
 B,1,23,,,,,,Balazs Lipka,hu,1120461,,0
 B,2,23,,,,,,Will Vickers [ARCC],gb,1315138,,0
 B,1,23,,,,,,Ian  Wilson,gb,846711,,0
@@ -195,7 +195,7 @@ C,1,35,,,,,,Peter Crick,be,264143,,0
 C,1,35,,,,,,Paul Jones,gb-wls,349158,,0
 C,1,34,,,,,,Jez Webster7748,gb,1698772,gold,0
 C,1,33,,,,,,Antoine Trahay,fr,1331365,,0
-C,1,31,Wolfpack,,130404,a09d9d,130d0d,Magnus Johansson,se,168295,silver,0
+C,1,31,Hisingens CK,,ffffff,0073b7,ffffff,Magnus Johansson,se,168295,silver,0
 C,1,31,Hitchin Nomads,,ffffff,0073b7,ffffff,Mark Bowden HNCC,gb,357760,,0
 C,1,31,,,,,,John Wichmann Christensen9259,dk,453549,,0
 C,2,29,BRT,,ffffff,050505,ff8100,David Claydon (BRT),gb-eng,850893,,0
@@ -212,7 +212,7 @@ C,1,23,Physio Racing,,ffffff,0073b7,ffffff,Adam Tanvas,us,2834,,0
 C,1,23,,,,,,Lars Bertelsen,dk,1495326,,0
 C,1,23,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,,0
 C,1,21,,,,,,Lee Barnfield 9648,gb,929484,bronze,0
-C,1,21,,,,,,Octave Lapize,gb,300499,,0
+C,1,21,,,,,,Josh Beattie,gb,300499,,0
 C,1,21,Myerscough,,eb0931,deff17,64f00f,Stuart Davidson,gb,197270,,0
 C,1,21,,,,,,philip cushion,gb,1062212,bronze,0
 C,1,21,,,,,,Jaap de Knegt,nl,1441005,,0
