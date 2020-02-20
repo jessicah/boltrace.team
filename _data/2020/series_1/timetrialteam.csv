@@ -15,11 +15,12 @@ A,1,9,32,SZ,f3f300,0073b7,f3f300
 A,1,7,3439,F6B2,ff0000,000000,000000
 A,1,7,1426,Team CLS,3d9970,ffffff,ffffff
 A,1,1,5493,HvtN,ffffff,0073b7,ffffff
-B,10,69,4,BRT,ffffff,050505,ff8100
+B,10,73,4,BRT,ffffff,050505,ff8100
 B,1,18,161,ZSUN,ffffff,0073b7,ffffff
 B,1,15,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,15,35,BZR cycling team,f3f300,111111,dd4b39
 B,1,15,3518,Team Echelon,000000,00ffea,00d1ff
+B,1,13,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
 B,1,13,2233,Utrecht,ffffff,0073b7,ffffff
 B,1,13,756,STW,ffffff,0073b7,ffffff
 B,1,13,2707,DIRT,29ec34,211208,df6a0d
@@ -30,15 +31,14 @@ B,1,10,5358,SMIP,ffffff,0073b7,ffffff
 B,1,9,4095,All,ffffff,0073b7,ffffff
 B,1,3,2863,MOONGLU,000000,84d6ff,ffffff
 B,1,1,2888,VC10,ffffff,ff0000,ffffff
-C,10,123,4,BRT,ffffff,050505,ff8100
+C,10,143,4,BRT,ffffff,050505,ff8100
+C,1,26,5522,RAFCA,e81d1d,ffffff,0073b7
+C,2,22,5530,FRS,ffffff,0073b7,ffffff
 C,1,19,5706,NLEC,ffffff,0073b7,ffffff
-C,1,18,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
-C,1,15,5522,RAFCA,e81d1d,ffffff,0073b7
-C,2,12,5530,FRS,ffffff,0073b7,ffffff
+C,1,15,1348,SAS CYCLE CLUB,ffffff,2c6597,2c6597
+C,1,13,3209,[MiriquidiBikeClub],000000,0073b7,f70808
 C,1,7,588,Team Italy,dd4b39,ffffff,00a65a
-C,1,5,1348,SAS CYCLE CLUB,ffffff,2c6597,2c6597
 C,1,5,25,ZTPL.CC,ffffff,ff1800,ff0000
-C,1,3,3209,[MiriquidiBikeClub],000000,0073b7,f70808
 D,1,10,3369,IRL,ffffff,32968e,e66f1a
 D,1,10,1845,VEGAN,ffffff,00a65a,0adb2c
-D,1,2,4460,GCA,000000,f50000,401414
+D,1,7,4460,GCA,000000,f50000,401414
