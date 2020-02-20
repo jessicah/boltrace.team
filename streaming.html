@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+<h2>Live Streaming with OBS</h2>
+
+<p>
+	With <abbr title="Open Broadcasting System">OBS Studio</abbr>, we have a branded template for use in
+	live streams. This will include sponsorship details, and use BRT fonts, themes, and colours. The
+	template will include BRT Orange and Hellcatz Purple specific variations, as well as a variation
+	to include a web camera feed.
+</p>
+
+<h3>Required Tools</h3>
+
+<ul>
+	<li><a href='https://obsproject.com/'>OBS Studio</a></li>
+	<li><a href='https://github.com/nleseul/obs-shaderfilter/releases'>OBS Shader Filter Plugin</a></li>
+	<li><a href='https://boltrace.team/assets/OBS.zip'>OBS Template for BRT</a></li>
+</ul>
+
+<h3>Recommended Streaming Platforms</h3>
+
+<ul>
+	<li><a href='https://restream.io/'>Restream.io</a></li>
+	<li><a href='https://mixer.com/'>Mixer.com</a></li>
+	<li><a href='https://www.twitch.tv/'>Twitch.tv</a></li>
+	<li><a href='https://youtube.com/'>YouTube</a></li>
+</ul>
+
+<p>Restream.io will forward your stream to multiple platforms, and generally provides better quality forwarding
+	your stream to YouTube than streaming directly to YouTube.
+</p>
+
+<h3>Using The Template</h3>
+
+<p>After installing OBS Studio, install the plugin above by copying the files into the OBS installation directory,
+	directions available in their <a href='https://github.com/nleseul/obs-shaderfilter'>README</a>. The plugin
+	is what will provide the borders with rounded corners. Also install the provided fonts in the template package.
+</p>
+
+<ol>
+	<li>Unzip the OBS.zip file you downloaded to somewhere useful, such as your Documents folder.</li>
+	<li>Install the fonts under <strong>"OBS\Sources"</strong>.</li>
+	<li>Import the OBS scene collection: Scene Collection > Import, choose <strong>"OBS\BRT Scenes - OBS.json"</strong>.</li>
+	<li>Under Scenes, pick either <strong>"Zwifting Hellcatz Purple"</strong> or
+		<strong>"Zwifting BRT Orange"</strong> as scene to use.</li>
+	<li>Under Sources, update BRT Text, Powered By, BRT Logo, and Background Bolts to point to image
+		files under <strong>"OBS\Sources"</strong>.</li>
+	<li>Add your audio sources (optional, recommended to at least have Zwift sounds).</li>
+	<li>If using a webcam, update the source, use Alt+drag to crop the source to trim the view, so it's
+		not too big; otherwise delete the webcam source.
+	</li>
+	<li>Choose method of game capture from available sources: Game Capture/Display Capture/Window Capture; the
+		others can be removed.
+	</li>
+	<li>Double-click the <strong>"Name Text"</strong> source and update with your name.</li>
+</ol>
