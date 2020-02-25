@@ -52,37 +52,40 @@ A,1,1,,,,,,Steve Hough,gb,934211,,0
 A,1,1,,,,,,jonathan brown,gb,56543,,0
 B,3,46,,,,,,Art M.,ie,366502,gold,0
 B,1,34,Vikings,,c2c2c2,0073b7,ee6331,Kjell Aage Kristoffersen[V] (Fenrir),no,512219,gold,0
+B,2,31,CTWT,,ffffff,0073b7,ffffff,Harm Verhoeven,nl,76649,gold bronze,0
 B,1,31,Cannondale/4iiii,,0d0d0d,eef2f5,f27a0b,Alain Cadorette Cannondale Echelon 4iiii,ca,67119,silver,0
+B,3,29,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
 B,1,29,NYU,,ffffff,0073b7,ffffff,Eugene Kanshin,ca,433669,bronze,0
 B,1,27,KISS RT,,f56600,012350,84b7ca,Benjamin Sigbj&oslash;rnsen,no,176875,,0
 B,1,25,Holmenkollen CK,,111e6c,f8dae5,111e6c,Trond G. Amundsen,no,412981,,0
-B,2,23,CTWT,,ffffff,0073b7,ffffff,Harm Verhoeven,nl,76649,gold bronze,0
 B,1,23,NLEC,,ffffff,0073b7,ffffff,Andreas Phillipsen,dk,151939,,0
-B,3,21,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
 B,1,19,Koers/CS010,,ffffff,000000,00a65a,Tom Smulders,nl,476232,,0
+B,2,18,,,,,,Matt Emborsky,us,19027,,0
 B,1,18,HIK,,ffffff,0073b7,ffffff,Thijs Diepenmaat,nl,313582,gold,0
 B,1,18,TeamNL,,ffffff,ffa500,ffa500,Bernard Jukema,nl,1453133,gold,0
 B,1,18,1D,,faf8f8,7a4988,000000,Jeroen Blondeel,be,381944,gold,0
+B,2,17,Team CRYO-GEN,,ffffff,0073b7,ffffff,Simon Lyons,au,748454,silver,0
 B,1,17,,,,,,Doug DeWeese,us,766500,,0
 B,1,15,ART,,ffffff,2e2c2c,e33131,Roman Sarvas (ART),sk,421668,,0
 B,1,15,,,,,,Leo Smith,us,424413,silver,0
 B,1,15,,,,,,Dewi hughes2536,gb-wls,970561,silver,0
-B,2,13,,,,,,Matt Emborsky,us,19027,silver,1
 B,3,13,BZR cycling team,,f3f300,111111,dd4b39,Hauwaert Damien,be,398525,,0
 B,1,13,,,,,,Alonso  Cruz,us,1060068,bronze,0
 B,1,13,,,,,,Anson Michael Brooks,us,155766,bronze,0
 B,1,13,,,,,,Pete Pedrotty,us,7478,bronze,0
+B,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,Daniel Lewis,au,916152,,0
 B,1,11,,,,,,Shane Matias,ph,47311,,0
 B,1,11,MDCC,,ffffff,0073b7,ffffff,Richard da Silva,gb,121927,,0
 B,1,11,,,,,,J oost B,nl,1632870,,0
 B,1,11,Vikings,,c2c2c2,0073b7,ee6331,Thomas Byberg,no,210530,,0
 B,1,11,DIRT,,29ec34,211208,df6a0d,Jarrid De Weerdt,be,1105098,,0
 B,1,10,,,,,,Troy  Delfs - Momentum Cycling,ca,191754,gold,0
-B,2,9,Team CRYO-GEN,,ffffff,0073b7,ffffff,Simon Lyons,au,748454,silver,0
+B,1,9,DIRT,,29ec34,211208,df6a0d,Sean Rice,us,517983,,0
 B,1,9,,,,,,Marcin Wierzejewski,hr,1530304,,0
 B,1,9,,,,,,Anton Arvidsson (CK SunTrip),se,1593117,,0
 B,1,9,&Oslash;VB,,ffffff,0073b7,ffffff,Albert Jordana,gb,395909,,0
 B,1,9,Team CRYO-GEN,,ffffff,0073b7,ffffff,Chris Reynolds[Cryo-Gen],hk,107226,,0
+B,1,7,,,,,,Velofitbrasil Treinamento Esportivo & Bike Fit,br,1306350,,0
 B,1,7,KISS RT,,f56600,012350,84b7ca,Joe Cadwallader,gb,68231,silver,0
 B,1,7,,,,,,Tim Gilbert,gb,703963,,0
 B,1,7,CORNOGRANDE,,ffffff,0073b7,ffffff,Hatakeyama Kazuoki,jp,121044,,0
@@ -93,30 +96,27 @@ B,1,5,,,,,,Mark Alderman,us,174683,,0
 B,1,5,BZR cycling team,,f3f300,111111,dd4b39,Jean-Pierre Pauly,be,969066,bronze,0
 B,1,5,,,,,,Richard Gibson,gb-nir,1333887,,0
 B,1,4,ZTPL.CC,,ffffff,ff1800,ff0000,Krzysztof Lemiecha,pl,1430045,,0
-B,1,3,Team CRYO-GEN,,ffffff,0073b7,ffffff,Daniel Lewis,au,916152,,0
 B,1,3,,,,,,Niels Hubers l QddS,nl,498652,,0
 B,1,3,TFC,,111111,f3f300,111111,Garry Twiss,gb,12110,,0
 B,1,2,,,,,,Mejdin Melhani,al,967091,,0
-B,1,1,DIRT,,29ec34,211208,df6a0d,Sean Rice,us,517983,,0
 B,1,1,,,,,,Kevin Beres,us,1286375,,0
 B,1,1,,,,,,Dorian Spencer,us,11498,,0
 C,4,42,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,gold gold silver silver,0
-C,7,36,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,silver bronze,0
+C,7,40,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,silver silver bronze,0
 C,2,23,DBR,,ffffff,eb7b2a,ffffff,Jan Gregersen,dk,93404,gold bronze,0
 C,1,18,Race3R,,000000,2bc3f4,ffffff,Thomas Stocker,de,241181,gold,0
 C,1,15,TFC,,111111,f3f300,111111,Jon Sadler (TFC),gb,84104,silver,0
 C,1,13,,,,,,Brian Ross (Phat Basturds) 2477,ca,864248,bronze,0
 C,1,13,BRT,,ffffff,050505,ff8100,mike catania,us,29674,bronze,0
+C,2,12,,,,,,Eric N,us,1656334,bronze,0
 C,1,11,,,,,,Mike Pekrul,us,930562,,0
 C,1,11,,,,,,Joost Eizema,nl,1385352,,0
-C,1,10,,,,,,Velofitbrasil Treinamento Esportivo & Bike Fit,br,1306350,gold,0
+C,1,10,DBR,,ffffff,eb7b2a,ffffff,Jacob Kjaer,dk,1412562,gold,0
 C,1,10,,,,,,Wynn Legon,ca,560232,gold,0
 C,1,10,,,,,,Tim Heikkinen,se,1138799,gold,0
-C,2,8,,,,,,Eric N,us,1656334,,0
 C,1,7,,,,,,Joshua Jones 6638,ca,289310,,0
 C,1,7,Equipe JZQc,,ffffff,003399,ffffff,Martin Cote,ca,868828,silver,0
 C,1,7,PSOF,,000000,ffff00,000000,Neil Strenge,gb,207177,silver,0
-C,1,5,DBR,,ffffff,eb7b2a,ffffff,Jacob Kjaer,dk,1412562,bronze,0
 C,1,5,TFC,,111111,f3f300,111111,Christian Pi&ntilde;eiro - TFC,us,447744,,0
 C,1,5,,,,,,Greg McPherson  PVC,us,1462846,bronze,0
 C,1,5,,,,,,Derek Rosner5149,us,1255335,,0
