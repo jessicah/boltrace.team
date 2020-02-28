@@ -10,7 +10,7 @@ A,1,21,Team CRYO-GEN,,ffffff,0073b7,ffffff,John Osguthorpe [CRYO-GEN],us,1522338
 A,1,18,,,,,,liam haslam,gb,70198,gold,0
 A,1,18,,,,,,Ian Witkowski,us,510503,gold,0
 A,1,17,DIRT,,29ec34,211208,df6a0d,Ken Vida,us,25854,,0
-A,1,15,,,,,,Carl Baravelli 9562,au,83733,,0
+A,1,15,&Aring;CK,,ffffff,228b22,000000,Carl Baravelli 9562,au,83733,,0
 A,1,15,ZTPL.CC eRacing,,ffffff,ff0000,000000,Klaudiusz Debski (ZTPL),pl,58823,silver,0
 A,1,15,ZRG,,1bc1f1,3d3d3d,1bc1f1,Carsten K&uuml;nsken,de,72967,silver,0
 A,1,13,,,,,,Jack Stacy,us,1675914,,0
@@ -19,10 +19,10 @@ A,1,13,TOP-FIT,,ffffff,000000,ff0000,Uros Komac,si,521892,bronze,0
 A,1,11,Ski City,,ffffff,0073b7,ffffff,Kenneth Morris (R3R WestLife),,72989,,0
 A,1,11,,,,,,J&eacute;r&ocirc;me Comtois-Urbain,ca,809417,,0
 A,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,Roy Miles,gb,312259,,0
-A,1,10,FUSION ECT,,ffffff,000000,ffffff,Jesper Attermann &#128304;,dk,67632,gold,0
+A,1,10,FUSION ECT,,ffffff,000000,ffffff,Jesper Attermann &#128304; (FUSION DEV A),dk,67632,gold,0
 A,1,10,KISS RT,,f56600,012350,84b7ca,Rob Britt,us,307476,gold,0
 A,1,10,,,,,,Seb Kleb,de,299246,gold,0
-A,1,10,Foudre &#9889;&#65039;,,ffffff,81b9e8,ffffff,2011 Nicolas Dricot,be,877291,gold,0
+A,1,10,Foudre &#9889;&#65039;,,ffffff,81b9e8,ffffff,Nicolas Dricot (Foudre E),be,877291,gold,0
 A,1,9,DigDeepCoaching,,ffffff,e60606,140303,Jono Hornblow (Leisure Lakes &#65533;Trek),gb,265633,,0
 A,1,9,Race3R,,000000,2bc3f4,ffffff,Danino Y race3R,il,423872,,0
 A,1,9,TeamNL,,ffffff,ffa500,ffa500,Lennart Zwart,nl,431582,,0
@@ -51,7 +51,7 @@ A,1,2,,,,,,Josh Murphy,us,1143304,,0
 A,1,1,,,,,,Steve Hough,gb,934211,,0
 A,1,1,,,,,,jonathan brown,gb,56543,,0
 B,3,46,,,,,,Art M.,ie,366502,gold,0
-B,1,34,Vikings,,c2c2c2,0073b7,ee6331,Kjell Aage Kristoffersen[V] (Fenrir),no,512219,gold,0
+B,1,34,Vikings,,c2c2c2,0073b7,ee6331,Kjell Aage Kristoffersen[V],no,512219,gold,0
 B,2,31,CTWT,,ffffff,0073b7,ffffff,Harm Verhoeven,nl,76649,gold bronze,0
 B,1,31,Cannondale/4iiii,,0d0d0d,eef2f5,f27a0b,Alain Cadorette Cannondale Echelon 4iiii,ca,67119,silver,0
 B,3,29,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
@@ -59,7 +59,7 @@ B,1,29,NYU,,ffffff,0073b7,ffffff,Eugene Kanshin,ca,433669,bronze,0
 B,1,27,KISS RT,,f56600,012350,84b7ca,Benjamin Sigbj&oslash;rnsen,no,176875,,0
 B,1,25,Holmenkollen CK,,111e6c,f8dae5,111e6c,Trond G. Amundsen,no,412981,,0
 B,1,23,NLEC,,ffffff,0073b7,ffffff,Andreas Phillipsen,dk,151939,,0
-B,1,19,Koers/CS010,,ffffff,000000,00a65a,Tom Smulders,nl,476232,,0
+B,1,19,CS010/Koers,,ffffff,000000,00a65a,Tom Smulders,nl,476232,,0
 B,2,18,,,,,,Matt Emborsky,us,19027,,0
 B,1,18,HIK,,ffffff,0073b7,ffffff,Thijs Diepenmaat,nl,313582,gold,0
 B,1,18,TeamNL,,ffffff,ffa500,ffa500,Bernard Jukema,nl,1453133,gold,0
@@ -131,4 +131,4 @@ C,1,1,ZTPL.CC,,ffffff,ff1800,ff0000,Pawe&#322;  Sawicki,pl,1439207,,0
 D,1,10,,,,,,Michael  (Rudy) Steele,us,1616546,gold,0
 D,1,10,,,,,,Massimo Santoni,it,1437540,gold,0
 D,1,10,TTT,,ffffff,0073b7,ffffff,Andy Rutledge (TTT),gb,112758,gold,0
-D,1,7,Team CRYO-GEN,,ffffff,0073b7,ffffff,Lisa Cerilli (Cryo-Gen),us,1045929,silver,0
+D,1,7,Team CRYO-GEN,,ffffff,0073b7,ffffff,Lisa Cerilli (Cryo-Gen Roadrunners),us,1045929,silver,0
