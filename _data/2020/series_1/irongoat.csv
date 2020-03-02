@@ -1,25 +1,29 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,1,34,Race3R,,000000,2bc3f4,ffffff,Jero Nefkens,nl,78992,gold,0
+A,5,33,Vikings,,c2c2c2,0073b7,ee6331,Anders Kolderup,no,836504,,0
 A,1,31,Team CRYO-GEN,,ffffff,0073b7,ffffff,Cam Candelaria (CRYO-GEN Vultures),us,162661,silver,0
 A,1,29,BathCC,,ffffff,0073b7,ffffff,Will Duffy,gb,820305,bronze,0
-A,4,28,Vikings,,c2c2c2,0073b7,ee6331,Anders Kolderup,no,836504,,0
+A,2,28,Team CRYO-GEN,,ffffff,0073b7,ffffff,John Osguthorpe [CRYO-GEN],us,1522338,,0
 A,1,27,Team CRYO-GEN,,ffffff,0073b7,ffffff,Vincent Davis,us,87402,,0
 A,1,25,ZTPL.CC eRacing,,ffffff,ff0000,000000,LUKASZ GRABARCZYK,pl,506082,,0
 A,1,23,ATP Racing,,e0ffff,008b8b,00008b,Michael Scaffardi (ATP Racing1),us,418452,,0
-A,1,21,Team CRYO-GEN,,ffffff,0073b7,ffffff,John Osguthorpe [CRYO-GEN],us,1522338,,0
+A,2,20,,,,,,J&eacute;r&ocirc;me Comtois-Urbain,ca,809417,,0
+A,1,18,FUSION ECT,,ffffff,000000,ffffff,Birk Hansen &#128304;,dk,550613,gold,0
 A,1,18,,,,,,liam haslam,gb,70198,gold,0
 A,1,18,,,,,,Ian Witkowski,us,510503,gold,0
 A,1,17,DIRT,,29ec34,211208,df6a0d,Ken Vida,us,25854,,0
+A,1,15,CLAN KNOX,,ffffff,000000,000000,JPV,ca,50835,silver,0
 A,1,15,&Aring;CK,,ffffff,228b22,000000,Carl Baravelli 9562,au,83733,,0
 A,1,15,ZTPL.CC eRacing,,ffffff,ff0000,000000,Klaudiusz Debski (ZTPL),pl,58823,silver,0
 A,1,15,ZRG,,1bc1f1,3d3d3d,1bc1f1,Carsten K&uuml;nsken,de,72967,silver,0
-A,1,13,,,,,,Jack Stacy,us,1675914,,0
+A,1,13,,,,,,Edwin Driessen,nl,219489,bronze,0
+A,1,13,,,,,,Jack Stacy5359,us,1675914,,0
 A,1,13,,,,,,.    NeonBird,ro,1055039,bronze,0
 A,1,13,TOP-FIT,,ffffff,000000,ff0000,Uros Komac,si,521892,bronze,0
+A,1,11,,,,,,Wade Cruser | AP Racing,us,415296,,0
 A,1,11,Ski City,,ffffff,0073b7,ffffff,Kenneth Morris (R3R WestLife),,72989,,0
-A,1,11,,,,,,J&eacute;r&ocirc;me Comtois-Urbain,ca,809417,,0
 A,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,Roy Miles,gb,312259,,0
-A,1,10,FUSION ECT,,ffffff,000000,ffffff,Jesper Attermann &#128304; (FUSION DEV A),dk,67632,gold,0
+A,1,10,FUSION ECT,,ffffff,000000,ffffff,Jesper Attermann &#128304;,dk,67632,gold,0
 A,1,10,KISS RT,,f56600,012350,84b7ca,Rob Britt,us,307476,gold,0
 A,1,10,,,,,,Seb Kleb,de,299246,gold,0
 A,1,10,Foudre &#9889;&#65039;,,ffffff,81b9e8,ffffff,Nicolas Dricot (Foudre E),be,877291,gold,0
@@ -50,7 +54,7 @@ A,1,3,Race3R,,000000,2bc3f4,ffffff,Roman T &#10026;,de,21486,,0
 A,1,2,,,,,,Josh Murphy,us,1143304,,0
 A,1,1,,,,,,Steve Hough,gb,934211,,0
 A,1,1,,,,,,jonathan brown,gb,56543,,0
-B,3,46,,,,,,Art M.,ie,366502,gold,0
+B,4,56,,,,,,Art M.,ie,366502,gold gold,0
 B,1,34,Vikings,,c2c2c2,0073b7,ee6331,Kjell Aage Kristoffersen[V],no,512219,gold,0
 B,2,31,CTWT,,ffffff,0073b7,ffffff,Harm Verhoeven,nl,76649,gold bronze,0
 B,1,31,Cannondale/4iiii,,0d0d0d,eef2f5,f27a0b,Alain Cadorette Cannondale Echelon 4iiii,ca,67119,silver,0
@@ -85,6 +89,8 @@ B,1,9,,,,,,Marcin Wierzejewski,hr,1530304,,0
 B,1,9,,,,,,Anton Arvidsson (CK SunTrip),se,1593117,,0
 B,1,9,&Oslash;VB,,ffffff,0073b7,ffffff,Albert Jordana,gb,395909,,0
 B,1,9,Team CRYO-GEN,,ffffff,0073b7,ffffff,Chris Reynolds[Cryo-Gen],hk,107226,,0
+B,2,8,,,,,,Niels Hubers l QddS,nl,498652,bronze,0
+B,1,7,,,,,,Pierre Jackson,gb,44590,silver,0
 B,1,7,,,,,,Velofitbrasil Treinamento Esportivo & Bike Fit,br,1306350,,0
 B,1,7,KISS RT,,f56600,012350,84b7ca,Joe Cadwallader,gb,68231,silver,0
 B,1,7,,,,,,Tim Gilbert,gb,703963,,0
@@ -96,19 +102,20 @@ B,1,5,,,,,,Mark Alderman,us,174683,,0
 B,1,5,BZR cycling team,,f3f300,111111,dd4b39,Jean-Pierre Pauly,be,969066,bronze,0
 B,1,5,,,,,,Richard Gibson,gb-nir,1333887,,0
 B,1,4,ZTPL.CC,,ffffff,ff1800,ff0000,Krzysztof Lemiecha,pl,1430045,,0
-B,1,3,,,,,,Niels Hubers l QddS,nl,498652,,0
+B,1,3,INDUSTRI,,ffffff,0073b7,ffffff,Mikael Eklund 1809,se,862371,,0
 B,1,3,TFC,,111111,f3f300,111111,Garry Twiss,gb,12110,,0
 B,1,2,,,,,,Mejdin Melhani,al,967091,,0
 B,1,1,,,,,,Kevin Beres,us,1286375,,0
 B,1,1,,,,,,Dorian Spencer,us,11498,,0
+C,8,44,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,silver silver silver bronze,0
 C,4,42,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,gold gold silver silver,0
-C,7,40,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,silver silver bronze,0
 C,2,23,DBR,,ffffff,eb7b2a,ffffff,Jan Gregersen,dk,93404,gold bronze,0
 C,1,18,Race3R,,000000,2bc3f4,ffffff,Thomas Stocker,de,241181,gold,0
 C,1,15,TFC,,111111,f3f300,111111,Jon Sadler (TFC),gb,84104,silver,0
 C,1,13,,,,,,Brian Ross (Phat Basturds) 2477,ca,864248,bronze,0
 C,1,13,BRT,,ffffff,050505,ff8100,mike catania,us,29674,bronze,0
 C,2,12,,,,,,Eric N,us,1656334,bronze,0
+C,2,11,,,,,,Eddie Wall,ie,1065264,gold,0
 C,1,11,,,,,,Mike Pekrul,us,930562,,0
 C,1,11,,,,,,Joost Eizema,nl,1385352,,0
 C,1,10,DBR,,ffffff,eb7b2a,ffffff,Jacob Kjaer,dk,1412562,gold,0
@@ -126,7 +133,6 @@ C,1,3,,,,,,Nick Calame1588,ca,787345,,0
 C,1,3,DIRT,,29ec34,211208,df6a0d,Will &quot;Roadie&quot; Rohde (C),us,175154,,0
 C,1,2,TeamZL,,ffffff,000000,e34b4b,Johan de Niet,nl,1290402,,0
 C,1,2,,,,,,Simon Derry,gb,1191093,,0
-C,1,1,,,,,,Eddie Wall,ie,1065264,,0
 C,1,1,ZTPL.CC,,ffffff,ff1800,ff0000,Pawe&#322;  Sawicki,pl,1439207,,0
 D,1,10,,,,,,Michael  (Rudy) Steele,us,1616546,gold,0
 D,1,10,,,,,,Massimo Santoni,it,1437540,gold,0
