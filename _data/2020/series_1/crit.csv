@@ -1,6 +1,6 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,3,88,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jason Fitchew,gb,51253,gold silver,0
-A,3,87,BRT,,ffffff,050505,ff8100,Gerrie Scholtes &#128304;,nl,22315,silver bronze,0
+A,3,87,BRT,,ffffff,050505,ff8100,Gerrie Scholtes,nl,22315,silver bronze,0
 A,2,76,RuhrRiders,,ff8700,000000,5cb0fc,Matthias Bl&uuml;mel [R2],de,855399,gold gold,0
 A,2,49,,,,,,Edwin Driessen,nl,219489,gold silver,0
 A,1,47,Team MVE,,fff500,2a3691,ffffff,Fredrik Engen (Team MVE),no,159283,silver,0
@@ -85,7 +85,7 @@ A,1,6,PTz,,ffffff,403d3a,e3680f,Pedro Barroso,pt,24638,,0
 A,1,5,&#9889;&#65039;SCC&#9889;&#65039;,,ffffff,000000,edbbbb,Ben Schooling,gb-sct,1075856,,0
 A,1,5,,,,,,R Beattie,au,726926,,0
 A,1,5,,,,,,Daniel Lipinski,pl,1479390,,0
-A,1,4,Team Italy,,dd4b39,ffffff,00a65a,Matteo Casadei,it,199374,,0
+A,1,4,Team Italy,,dd4b39,ffffff,00a65a,14002 Matteo Casadei [ITA],it,199374,,0
 A,1,4,,,,,,Paul Speed,gb,17288,,0
 A,1,4,DBR,,ffffff,eb7b2a,ffffff,Martin Larsen [DBR],dk,854658,,0
 A,1,4,DCU,,ffffff,0073b7,ffffff,Anton Nordstj&aelig;rne Larsen (U17),dk,821266,,0
@@ -356,7 +356,7 @@ C,1,7,Team CLS,,3d9970,ffffff,ffffff,tony riley 3244,gb,499049,,0
 C,1,7,OCF,,ffffff,0073b7,913939,Adrien De Santis,lu,655528,,0
 C,1,6,,,,,,Jack Sadler,gb,681111,,0
 C,1,6,,,,,,James Cox6980,gb,495673,,0
-C,1,6,HERD,,383c3d,fc6719,383c3d,Ernst Lekies (Herd) (LG-C),de,1065409,,0
+C,1,6,HERD,,383c3d,fc6719,383c3d,Ernst Lekies (Herd of Sharks) (LG-C),de,1065409,,0
 C,1,6,TeamNL,,ffffff,ffa500,ffa500,Erik van Leijenhorst,nl,1012484,,0
 C,1,6,TeamNL,,ffffff,ffa500,ffa500,barry van leeuwen,nl,1521896,,0
 C,1,5,,,,,,Garvin Riensche,de,1568576,,0
