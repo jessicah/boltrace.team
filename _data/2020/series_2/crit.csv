@@ -6,7 +6,7 @@ A,1,37,TFC,,111111,f3f300,111111,Glenn Utteridge [TFC],gb,1480606,bronze,0
 A,1,35,,,,,,_ Smithy&#129322;,gb-wls,70787,,0
 A,1,34,Vikings,,c2c2c2,0073b7,ee6331,Eivind Botten [V]&#129413;,no,825773,gold,0
 A,1,31,,,,,,Roel Verhoeven,nl,419839,silver,0
-A,1,31,2RR reserve,,ffffff,0073b7,ffffff,Stephane Wins4754,be,1608892,,0
+A,1,31,ARRODA,,ffffff,0073b7,ffffff,Stephane Wins [Arroda],be,1608892,,0
 A,1,29,SJBC,,ffffff,0073b7,ffffff,Richard Jones,us,116805,bronze,0
 A,1,29,BRT,,ffffff,050505,ff8100,Hywel Davies (BRT),gb-wls,1119043,,0
 A,1,27,,,,,,Joe Rees,gb-wls,1722048,,0
@@ -44,8 +44,8 @@ A,1,3,,,,,,Bret  Hoag,us,984531,,0
 A,3,2,,,,,,Matt Thom (BCC),gb,1700485,,2
 A,2,2,,,,,,Darryl Tidd,gb,335076,,1
 A,1,1,SJBC,,ffffff,0073b7,ffffff,Giles Douglas,gb,100505,,0
-B,3,133,BRT,,ffffff,050505,ff8100,Peter Campbell (BRT Chasers),gb-eng,40108,bronze bronze,0
-B,3,127,BRT,,ffffff,050505,ff8100,Barry Davis,gb-eng,397176,bronze,0
+B,3,133,BRT,,ffffff,050505,ff8100,Peter Campbell,gb-eng,40108,bronze bronze,0
+B,3,127,BRT,,ffffff,050505,ff8100,Barry Davis BCC,gb-eng,397176,bronze,0
 B,3,97,,,,,,Will Vickers [ARCC],gb,1315138,,0
 B,2,72,BRT,,ffffff,050505,ff8100,lee saunders (BRT Chasers),gb,177623,,0
 B,1,66,Groove SES,,ffffff,0073b7,ffffff,Chuck Coyle,us,388544,gold,0
@@ -82,7 +82,7 @@ B,1,27,Hvalstad,,ffffff,14ac14,ffffff,Audun Kjemperud,no,430497,,0
 B,1,27,,,,,,Jonathan  Davey,gb,1474,,0
 B,1,27,,,,,,Daniel M&oslash;ller Buus,dk,1024575,,0
 B,1,25,BRT,,ffffff,050505,ff8100,James Ayton (BRT Craft Beers),gb,164395,,0
-B,2,23,,,,,,Sam Lancia,gb,87778,,0
+B,2,23,,,,,,Sam Lancia (BCC),gb,87778,,0
 B,1,23,PTz,,ffffff,403d3a,e3680f,Stuart Lynne,ca,78201,,0
 B,1,23,#3cycles,,ffffff,0073b7,ffffff,Jeremy Gauthiez 5959,fr,954795,,0
 B,1,21,,,,,,Jes Winther2189,dk,1477449,,0
@@ -93,13 +93,13 @@ B,1,19,,,,,,Tom Adams (Ilkeston CC),gb,305605,,0
 B,1,17,,,,,,Christian Staalby (AMATORI CC) 7875,dk,71673,,0
 B,1,17,,,,,,U Quentin,de,1592970,,0
 B,1,17,TFC,,111111,f3f300,111111,Oz Peleton,gb,1571269,,0
-B,1,15,STAY CHINGON,,ffffff,0073b7,ffffff,Dennis  Noyes ACL REHAB,es,1242614,,0
+B,1,15,STAY CHINGON,,ffffff,0073b7,ffffff,Dennis Noyes,es,1242614,,0
 B,1,15,NYNNYM,,f7c24f,32a852,f7c24f,Adam Fitzmaurice,gb,1358321,,0
 B,1,15,PCV,,f7f700,03eb1e,ffffff,16001 Beno&icirc;t Gomanne,fr,1082700,,0
 B,1,14,BRT,,ffffff,050505,ff8100,Scott Sherrer (BRT Chasers),us,466577,,0
 B,1,13,TeamNL,,ffffff,ffa500,ffa500,Walter Uijlenbroek,nl,1403735,,0
 B,1,12,,,,,,Matthew Heath WVCC,gb,1396493,,0
-B,1,12,,,,,,Andr&eacute; Esteves 8711,pt,105829,,0
+B,1,12,TugaZ,,ffffff,21610b,ff0000,Andr&eacute; Esteves 8711,pt,105829,,0
 B,3,11,,,,,,Daniel O Brien BCC,ie,273506,,2
 B,1,11,MCC,,3a474d,ffd900,ffd900,Scott Huish,gb,5599,,0
 B,1,11,,,,,,Chris Cavacuiti (MGCC),ca,262534,,0
@@ -108,7 +108,7 @@ B,1,9,,,,,,N Purnell bcc,gb,190890,,0
 B,1,9,,,,,,Wim Schillebeekx (#4BikesWesterlo),be,422315,,0
 B,1,8,,,,,,Christian Tan5755,ca,624673,,0
 B,1,8,DIRT,,29ec34,211208,df6a0d,Daron Letch [DIRT],au,424788,,0
-B,3,7,,,,,,Mike K 1336,gb,14511,,2
+B,3,7,,,,,,Mike K,gb,14511,,2
 B,1,7,Team AHDR,,fc6955,55d4fc,ffffff,Julie Debock [AHDR],be,716342,,0
 B,1,6,,,,,,Paul White,gb-wls,627598,,0
 B,1,5,,,,,,Matthew Slinger (WBR C 7977),gb,863237,,0
@@ -170,7 +170,7 @@ C,1,7,,,,,,Matthias Kunz6851,de,1021428,,0
 C,1,6,,,,,,Ty Dunker.7680,us,240147,,0
 C,1,6,,,,,,Anders Elg,se,852881,,0
 C,1,6,,,,,,F F,fr,1607904,,0
-C,1,5,,,,,,Thomas Langan,ie,458219,,0
+C,1,5,,,,,,Tom Langan BCC,ie,458219,,0
 C,1,5,,,,,,A Cyclopath,us,1583148,,0
 C,1,5,,,,,,Benoit Cesar 1629,be,64033,,0
 C,1,4,,,,,,Data Vader,de,1576625,,0
@@ -181,7 +181,7 @@ C,1,3,ZESP,,000000,fabd00,ad1519,Julito77,es,1101137,,0
 C,1,2,Hitchin Nomads,,ffffff,0073b7,ffffff,Mark Loosley,gb,226179,,0
 C,1,2,BRT,,ffffff,050505,ff8100,Ade Owens (BRT),gb-wls,253453,,0
 C,1,1,,,,,,Simon Hogg,ch,806998,,0
-D,2,24,,,,,,David Morton,gb,1462571,silver,0
+D,2,24,,,,,,David Morton BCC,gb,1462571,silver,0
 D,3,21,Hitchin Nomads,,ffffff,0073b7,ffffff,Matthew Jones (Team MGS),gb,60730,bronze,0
 D,1,18,,,,,,DAVID  SCOTT  SCCC,gb-sct,259728,gold,0
 D,1,18,,,,,,Robert Whynott,ca,1714579,gold,0
