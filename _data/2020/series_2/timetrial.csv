@@ -1,10 +1,11 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,3,26,BRT,,ffffff,050505,ff8100,Andrea Gobbetti,it,840561,gold bronze,0
+A,4,36,BRT,,ffffff,050505,ff8100,Andrea Gobbetti,it,840561,gold gold bronze,0
 A,1,18,Vision,,ffffff,2ea9e0,000000,Tommi Martikainen (Vision),fi,286100,gold,0
 A,1,15,BRT,,ffffff,050505,ff8100,Luke Williams - PNECC [BRT],gb,175271,silver,0
 A,1,13,Woolwich CC,,ffffff,0073b7,ffffff,Alex Pearson WCC,gb,1336817,bronze,0
 A,1,10,BRT,,ffffff,050505,ff8100,Adam Machan,gb,219813,gold,0
 A,1,9,CK Master,,ffffff,0073b7,ffffff,Marcus Svensson M&ouml;lndal,se,1001043,,0
+A,1,7,ZRG,,1bc1f1,3d3d3d,1bc1f1,Rolf Lautenbacher (KTeV),de,470505,silver,0
 A,1,7,,,,,,Nickolas Zukowsky,ca,316262,silver,0
 A,1,7,,,,,,Jack Reed,gg,468393,,0
 A,1,5,ZRG,,1bc1f1,3d3d3d,1bc1f1,Nico Dinho,de,1637376,,0
@@ -12,36 +13,45 @@ B,1,18,,,,,,Jurgen Zijlstra,nl,280339,gold,0
 B,1,15,BRT,,ffffff,050505,ff8100,Dom Betteridge,gb,53000,silver,0
 B,1,13,BRT,,ffffff,050505,ff8100,Phil Scott [BRT],gb,1343262,bronze,0
 B,1,11,MLARC,,ffffff,0073b7,e60000,Gabe Winkler ZHR (C),us,490923,,0
+B,1,10,,,,,,Leo Clarkson,fr,1401535,gold,0
 B,1,10,BRT,,ffffff,050505,ff8100,James McCormick,gb,171442,gold,0
 B,1,10,FSD,,ffffff,0073b7,ffffff,Jeff Edes&#9996;&#65039;,us,162646,gold,0
 B,1,9,,,,,,Gerald-Friedrich Uckerz,de,917529,,0
 B,2,8,,,,,,Dave Bennett - CC Giro3828,gb,734436,bronze,0
-B,1,7,BRT,,ffffff,050505,ff8100,Francisco Arce,za,652272,silver,0
+B,1,7,eCKD,,ffffff,ff0000,000000,Michael Roesdahl (eCKD),dk,882256,silver,0
+B,1,7,BRT,,ffffff,050505,ff8100,Francisco Arce (NHRC),za,652272,silver,0
 B,1,7,RR 2020,,ffffff,0073b7,ffffff,Tiina Kajan [RR 2020],fi,1104935,silver,0
 B,1,7,,,,,,Idar Smedsrud,no,1057661,,0
+B,1,5,SZR,,ffffff,0073b7,ffffff,Tom Light,se,1333771,bronze,0
 B,1,5,,,,,,Steve Dewis 6146,gb,252595,,0
+B,1,3,,,,,,J Greenwood,gb,336134,,0
 B,1,2,,,,,,Sami Dannoune,ma,466203,,0
+B,1,1,teamWKG,,fa5e06,3f4c54,3f4c54,Dave Harmsworth,gb,278488,,0
 B,1,1,,,,,,Chris Wheeler,gb-nir,1471021,,0
 C,3,38,BRT,,ffffff,050505,ff8100,Andrew Tapley (BRT chasers),gb,145450,gold silver bronze,0
-C,1,18,BRT,,ffffff,050505,ff8100,Vin Lam&#9889;[BRT]  (BRT Chasers),au,868022,gold,0
-C,1,18,ZTPL.CC,,ffffff,ff1800,ff0000,Andy Andy,pl,966916,gold,0
+C,2,21,BRT,,ffffff,050505,ff8100,Jonnie Treharne (BRT),gb-wls,1432175,gold,0
+C,1,18,BRT,,ffffff,050505,ff8100,Vin Lam&#9889;[BRT]  (BRT Chasers),gb,868022,gold,0
+C,1,18,ZTPL.CC,,ffffff,ff1800,ff0000,A. Oczos,pl,966916,gold,0
 C,1,15,RAFCA,,e81d1d,ffffff,0073b7,Ian Swinscoe,gb,200075,silver,0
 C,1,13,BRT,,ffffff,050505,ff8100,Andy Newsom,us,1292414,bronze,0
-C,1,11,BRT,,ffffff,050505,ff8100,Jonnie Treharne (BRT),gb-wls,1432175,,0
 C,1,11,,,,,,Andrew Lea,gb,1307275,,0
 C,1,9,,,,,,H&aring;kan Andolsen,se,339054,,0
 C,1,9,Vikings,,c2c2c2,0073b7,ee6331,Espen Hofoss [V],no,199857,,0
+C,1,7,,,,,,Cliff Beldon,gb,133064,silver,0
 C,1,7,EWCC,,000000,ffff33,e47200,Jude Anthonisz (EWCC),gb,157769,,0
 C,1,7,,,,,,Dan Almasan,ro,1309945,silver,0
 C,1,7,FRS,,ffffff,0073b7,ffffff,M Parnell,ca,11260,,0
+C,1,5,,,,,,JENS PETER,de,102614,bronze,0
 C,1,5,,,,,,J Oldakowski,us,132771,,0
 C,1,5,,,,,,Jason Sexton NLC,us,538232,bronze,0
 C,1,5,,,,,,Neil Hughes-Hutchings,gb,509541,,0
+C,1,3,,,,,,Stefano Scroglieri7336,it,538490,,0
 C,1,3,,,,,,Becky Gill,gb,1445767,,0
 C,1,3,,,,,,Alexandr Hegegy9091,cz,1343514,,0
 C,1,3,,,,,,Maciej Sz . forTRI7 (C),pl,101244,,0
 C,1,2,,,,,,Lars Kristiansen,dk,1540865,,0
 C,1,1,,,,,,Benedikt Blaser,de,1546496,,0
+D,1,10,BRT,,ffffff,050505,ff8100,Julian Hudson,ca,92276,gold,0
 D,1,10,,,,,,Jesus Sanchez,es,1487399,gold,0
 D,1,10,,,,,,Paul Baldwin,gb,739151,gold,0
 D,1,10,,,,,,John Allaire,zw,360847,gold,0
