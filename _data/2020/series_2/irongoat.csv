@@ -1,10 +1,10 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,1,18,IndoorSpecialist,,ffffff,239bd3,fc6719,Dan Fleeman (DigDeepCoaching.Com),gb,49551,gold,0
 A,1,18,SZ,,f3f300,0073b7,f3f300,Alexander Wetterhall [SZ],se,1415037,gold,0
-A,1,15,TFC,,111111,f3f300,111111,Tommy Sellars (TFC Typhoon),gb,1387591,silver,0
+A,1,15,TFC,,111111,f3f300,111111,Tommy Sellars (TFC Raptor),gb,1387591,silver,0
 A,1,15,,,,,,Vincent Hogan &#9752;&#65039;,ca,935824,silver,0
 A,1,13,,,,,,Edwin Driessen,nl,219489,bronze,0
-A,1,13,DIRT,,29ec34,211208,df6a0d,George Henry (DIRTy Rascals),us,258182,bronze,0
+A,1,13,DIRT,,29ec34,211208,df6a0d,George Henry (DIRTy Rascals Force),us,258182,bronze,0
 A,1,11,Rodeo,,ffffff,0073b7,ffffff,patrick charles,us,16462,,0
 A,1,11,VOST,,ffffff,ff1b1b,ffffff,Johann Breytenbach,za,715015,,0
 A,1,10,Team High Rollers,,c90101,7dc8e0,4b418c,1 Cycle Jockey,us,159182,gold,0
@@ -30,7 +30,7 @@ B,1,15,,,,,,Philipp Lenger,at,225640,,0
 B,1,13,ZTPL.CC,,ffffff,ff1800,ff0000,Rafal  Rafalnwl,pl,1020556,bronze,0
 B,1,13,,,,,,Stuart Foster,gb,570256,,0
 B,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,I&ntilde;igo Izeta,tt,1264718,,0
-B,1,11,ZESP,,000000,fabd00,ad1519,SanchezGonzalez,es,1247451,,0
+B,1,11,ZESP,,000000,fabd00,ad1519,SanchezGonzalez (Zesp 2),es,1247451,,0
 B,1,10,HERD,,383c3d,fc6719,383c3d,Michael Considine,ie,787676,gold,0
 B,1,9,BZR cycling team,,f3f300,111111,dd4b39,Hauwaert Damien,be,398525,,0
 B,1,9,,,,,,Daniel Gassmann,de,57897,,0
