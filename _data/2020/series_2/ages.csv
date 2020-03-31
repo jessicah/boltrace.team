@@ -1,44 +1,59 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,1,10,,,,,,Guilherme Mota,pt,531395,gold,0
 A,1,10,DBR,,ffffff,eb7b2a,ffffff,Jesper Nielsen [DBR]-RA,dk,550860,gold,0
 A,1,10,BZR cycling team,,f3f300,111111,dd4b39,Koen Van Geyt,be,115080,gold,0
 A,1,10,BZR cycling team,,f3f300,111111,dd4b39,Stefan Van Aelst,be,228559,gold,0
+A,1,7,,,,,,Pablo Li&eacute;bana,es,926617,silver,0
 A,1,7,,,,,,Andrew Phelps,au,145006,silver,0
 A,1,7,ZTPL.CC eRacing,,ffffff,ff0000,000000,Piotr Truszczy&#324;ski [ZTPL],pl,175948,silver,0
 A,1,7,,,,,,Koen Theys,be,412401,silver,0
+A,1,5,,,,,,Chi Chi  Pappa,jp,139059,bronze,0
 A,1,5,,,,,,MASSIMO DIANIN,zw,1812927,bronze,0
 A,1,5,Team Bergziegen,,ffffff,000000,ff0000,R&uuml;diger Grosch,de,14064,bronze,0
 A,1,5,,,,,,Tom Maes,be,1524079,bronze,0
+A,1,3,,,,,,doke de Jong,nl,254273,,0
 A,1,3,,,,,,Joren Hendrikx [BZR],be,1519610,,0
-A,1,1,Team CRYO-GEN,,ffffff,0073b7,ffffff,Morgan Aldridge (CRYO-GEN Penguins),us,444737,,0
+A,1,1,,,,,,Moshe Cattan (RCC),us,156042,,0
+A,1,1,Team CRYO-GEN,,ffffff,0073b7,ffffff,Morgan Aldridge (CRYO-GEN) ABC,us,444737,,0
 B,1,18,DIRT,,29ec34,211208,df6a0d,Andy Hadfield (DIRT Diggler),gb,309897,gold,0
 B,1,15,BRT,,ffffff,050505,ff8100,Stuart Leach (BRT),gb,322268,silver,0
 B,1,13,,,,,,Bregt Vanbilsen,be,228675,bronze,0
 B,1,11,,,,,,Jostein Erlandsen,no,777543,,0
+B,1,10,Vikings,,c2c2c2,0073b7,ee6331,Gaute Vik&oslash;ren,no,115865,gold,0
 B,1,10,DBR,,ffffff,eb7b2a,ffffff,Jacob Kjaer,dk,1412562,gold,0
 B,1,10,,,,,,kenneth skoglund,no,174307,gold,0
 B,1,9,BZR cycling team,,f3f300,111111,dd4b39,Sven De Schryver,be,177491,,0
+B,1,7,VEGAN,,ffffff,00a65a,0adb2c,Ant Rosevear,gb,472414,silver,0
 B,1,7,BRT,,ffffff,050505,ff8100,Harvey Mafla [BRT] D,co,388046,,0
-C,2,25,BRT,,ffffff,050505,ff8100,Marcus Illingworth,gb,96834,gold silver,0
+B,1,5,United Eagles C.T.,,000000,e80c0c,ffffff,Greg Gacek UECT,pl,1410292,bronze,0
+C,3,32,BRT,,ffffff,050505,ff8100,Marcus Illingworth,gb,96834,gold silver silver,0
 C,1,15,TeamODZ,,ff851b,111111,3c8dbc,Vitor Mateus (Tacx Neo Bike),pt,29973,silver,0
 C,1,13,IRL,,ffffff,32968e,e66f1a,Steve McCamley,ie,1452134,bronze,0
 C,1,11,,,,,,Peter Sladek,sk,202103,,0
+C,1,10,,,,,,Lloyd Billingham,gb,1103814,gold,0
 C,1,10,WTRL,,f5f3f3,8f8f8f,010000,Jean-luc crouzilles (EU-TTT),fr,691984,gold,0
 C,1,10,,,,,,rene van til,nl,281350,gold,0
 C,1,9,Team CRYO-GEN,,ffffff,0073b7,ffffff,Nic Laughton,gb,1038438,,0
 C,1,7,,,,,,Tobias Gassmann,de,551646,silver,0
 C,1,7,,,,,,james livingston,gb,81797,,0
+C,1,5,,,,,,Patrick Chamberland,ca,1096525,bronze,0
 C,1,5,Fitlab,,ffffff,0073b7,ffffff,Scott McDonnell,nz,149897,bronze,0
 C,1,5,,,,,,Sasa Ladavac,hr,271339,,0
+C,1,3,,,,,,Bob Maulucci,us,70326,,0
 C,1,3,,,,,,Heiko Witt,de,325159,,0
 C,1,1,,,,,,K2 Anderson,us,1609884,,0
-D,3,37,DBR,,ffffff,eb7b2a,ffffff,Kim Villarino Hejnesen,dk,1096870,silver silver silver,0
-D,3,29,Walsall Lads,,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,bronze bronze,0
+D,4,55,DBR,,ffffff,eb7b2a,ffffff,Kim Villarino Hejnesen,dk,1096870,gold silver silver silver,0
+D,4,44,Walsall Lads,,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,silver bronze bronze,0
 D,2,28,IBTC,,ffffff,0073b7,ffffff,David Bailey,us,16390,gold gold,0
+D,3,25,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
 D,1,18,Equipe JZQc,,ffffff,003399,ffffff,Stephan Martel-JZQC,ca,123919,gold,0
 D,1,13,,,,,,Samuel. SlaterZHR (H)6957,us,107049,bronze,0
-D,2,12,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,,0
+D,1,11,Innovation,,000000,52ff33,000000,Stephen Whiston,gb,482702,,0
 D,1,11,BRT,,ffffff,050505,ff8100,Nigel Holmes,gb,456445,,0
+D,1,9,,,,,,Tony Thorne,gb,660861,,0
 D,1,9,,,,,,K  arn Avore,ca,66199,,0
+D,1,7,,,,,,Brian MacLeod Isle of Mull,gb-sct,183103,,0
 D,1,7,HAAMBA,,ffffff,0073b7,ffffff,B Stewart ZHR (G),us,983461,,0
 D,1,7,BRT,,ffffff,050505,ff8100,Andrew Tapley (BRT chasers),gb,145450,,0
+D,1,5,,,,,,LORENZO MECIANI 6737,it,1813848,,0
 D,1,5,,,,,,Outlaw Hobbs,gb,1421279,,0
