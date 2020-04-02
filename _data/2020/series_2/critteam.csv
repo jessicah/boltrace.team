@@ -80,9 +80,9 @@ B,1,5,5770,HEL CX,33ccff,ffffff,33ccff
 B,1,5,756,STW,ffffff,0073b7,ffffff
 B,1,4,6205,GORILLA,ffffff,0073b7,ffffff
 B,1,3,5524,UKAFC,ffffff,4f213b,4f213b
-C,16,495,4,BRT,ffffff,050505,ff8100
+C,16,488,4,BRT,ffffff,050505,ff8100
 C,2,83,5820,IMOK,ffffff,0073b7,ffffff
-C,1,45,1986,DBR,ffffff,eb7b2a,ffffff
+C,1,43,1986,DBR,ffffff,eb7b2a,ffffff
 C,1,39,10,TFC,111111,f3f300,111111
 C,1,37,6129,SAS,ff0000,000000,000000
 C,1,35,1944,Track Mob Berlin,ffff00,ff88bb,008080
@@ -91,12 +91,13 @@ C,1,27,2707,DIRT,29ec34,211208,df6a0d
 C,1,23,1330,teamWKG,fa5e06,3f4c54,3f4c54
 C,2,17,2722,Hitchin Nomads,ffffff,0073b7,ffffff
 C,1,13,25,ZTPL.CC,ffffff,ff1800,ff0000
-C,1,11,5701,IDF,ffffff,0073b7,ffffff
 C,1,11,4672,Ultimo,ffffff,0073b7,ffffff
-C,1,9,2639,HERD,383c3d,fc6719,383c3d
+C,1,10,5701,IDF,ffffff,0073b7,ffffff
 C,1,9,3004,VSPRINT,ffffff,0073b7,ffffff
-C,1,8,6189,PACTri,ffffff,0073b7,ffffff
+C,1,8,2639,HERD,383c3d,fc6719,383c3d
 C,1,8,1075,Online OCE,ffffff,0073b7,ffffff
+C,1,7,6189,PACTri,ffffff,0073b7,ffffff
+C,1,5,1965,BIKES-FRANCE,000000,f2ad00,000000
 C,1,3,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,1,3,2146,ZESP,000000,fabd00,ad1519
 D,3,21,2722,Hitchin Nomads,ffffff,0073b7,ffffff
