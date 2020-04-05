@@ -1,13 +1,14 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,2,23,32,SZ,ffe516,285697,ffd700
+A,2,25,975,Innovation,000000,52ff33,000000
+A,2,23,32,SZ,ffffff,285697,ffd700
 A,2,20,761,Rodeo,ffffff,0073b7,ffffff
-A,1,18,975,Innovation,000000,52ff33,000000
 A,1,18,3964,IndoorSpecialist,ffffff,239bd3,fc6719
 A,1,15,10,TFC,111111,f3f300,111111
 A,1,13,5782,Van Rysel,ffffff,000000,ffffff
 A,1,13,2707,DIRT,29ec34,211208,df6a0d
 A,1,11,2,Team X,f5f7f6,111111,00a65a
 A,1,11,3030,VOST,ffffff,ff1b1b,ffffff
+A,1,10,2734,PLCC,ffffff,00ff00,000000
 A,1,10,4230,Team High Rollers,c90101,7dc8e0,4b418c
 A,1,9,3052,KST,ffffff,030000,7d7474
 A,1,7,791,Race3R,000000,2bc3f4,ffffff
@@ -35,4 +36,5 @@ C,1,7,4481,NAMZ,ffffff,0073b7,ffffff
 C,2,4,3936,BASE,000000,ff0000,000000
 C,1,2,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
 D,3,22,3936,BASE,000000,ff0000,000000
+D,1,10,2707,DIRT,29ec34,211208,df6a0d
 D,1,10,1330,teamWKG,fa5e06,3f4c54,3f4c54
