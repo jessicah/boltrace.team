@@ -2,17 +2,16 @@ category,events,points,tid,tname,tc,tbc,tbd
 A,2,25,975,Innovation,000000,52ff33,000000
 A,2,23,32,SZ,ffffff,285697,ffd700
 A,2,20,761,Rodeo,ffffff,0073b7,ffffff
+A,2,20,2707,DIRT,29ec34,211208,df6a0d
 A,1,18,3964,IndoorSpecialist,ffffff,239bd3,fc6719
 A,1,15,10,TFC,111111,f3f300,111111
 A,1,13,5782,Van Rysel,ffffff,000000,ffffff
-A,1,13,2707,DIRT,29ec34,211208,df6a0d
 A,1,11,2,Team X,f5f7f6,111111,00a65a
 A,1,11,3030,VOST,ffffff,ff1b1b,ffffff
 A,1,10,2734,PLCC,ffffff,00ff00,000000
 A,1,10,4230,Team High Rollers,c90101,7dc8e0,4b418c
 A,1,9,3052,KST,ffffff,030000,7d7474
 A,1,7,791,Race3R,000000,2bc3f4,ffffff
-A,1,7,1845,VEGAN,ffffff,00a65a,0adb2c
 A,1,3,3486,Team Bergziegen,ffffff,000000,ff0000
 A,1,3,843,MDCC,ffffff,0073b7,ffffff
 B,1,26,90,Vikings,c2c2c2,0073b7,ee6331
@@ -20,6 +19,7 @@ B,3,25,1845,VEGAN,ffffff,00a65a,0adb2c
 B,1,23,10,TFC,111111,f3f300,111111
 B,1,19,3219,Crankalicious,090114,0e9ef0,7ffa1d
 B,1,18,5853,Blueseventy,ffffff,0073b7,ffffff
+B,1,17,5023,TCC,ffffff,274b62,824b4b
 B,1,13,25,ZTPL.CC,ffffff,ff1800,ff0000
 B,1,11,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,1,11,2146,ZESP,000000,fabd00,ad1519
@@ -31,6 +31,7 @@ B,1,7,189,Physio Racing,ffffff,0073b7,ffffff
 B,1,4,3315,Team BikePro,ffffff,000000,ffffff
 C,1,18,791,Race3R,000000,2bc3f4,ffffff
 C,1,13,2281,TeamNL,ffffff,ffa500,ffa500
+C,1,11,4733,SST,4bde27,b01bc9,ffffff
 C,1,10,5853,Blueseventy,ffffff,0073b7,ffffff
 C,1,7,4481,NAMZ,ffffff,0073b7,ffffff
 C,2,4,3936,BASE,000000,ff0000,000000
