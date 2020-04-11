@@ -1,27 +1,33 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,2,20,35,BZR cycling team,f3f300,111111,dd4b39
+A,1,10,3282,POAUTO,004080,89cff0,f2740b
 A,1,10,7061,Peloton205,ffffff,0073b7,ffffff
 A,1,10,1986,DBR,ffffff,eb7b2a,ffffff
 A,1,7,4493,ZTPL.CC eRacing,ffffff,ff0000,000000
+A,1,5,2306,Fell Swoop,ffa500,000000,000000
 A,1,5,2059,TURN TAKERS,ffffff,16a1fa,ffffff
 A,1,5,3486,Team Bergziegen,ffffff,000000,ff0000
 A,1,1,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,2,22,4,BRT,ffffff,050505,ff8100
 B,1,18,2707,DIRT,29ec34,211208,df6a0d
+B,1,10,8114,CCP,ffffff,0073b7,ffffff
 B,1,10,6701,PEPLINK,fcfcfc,000000,de1414
 B,1,10,1986,DBR,ffffff,eb7b2a,ffffff
 B,1,9,35,BZR cycling team,f3f300,111111,dd4b39
-B,1,3,6393,United Eagles C.T.,000000,e80c0c,ffffff
-C,4,47,4,BRT,ffffff,050505,ff8100
+B,1,7,588,Team Italy,dd4b39,ffffff,00a65a
+B,1,3,6393,United Eagles C.T.,000000,ff0000,000000
+C,5,65,4,BRT,ffffff,050505,ff8100
+C,2,25,4201,WTRL,f5f3f3,8f8f8f,010000
 C,1,15,7,TeamODZ,ff851b,111111,3c8dbc
 C,1,13,3369,IRL,ffffff,32968e,e66f1a
-C,1,10,4201,WTRL,f5f3f3,8f8f8f,010000
 C,1,9,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,1,5,2868,Fitlab,ffffff,0073b7,ffffff
+D,6,72,2570,Walsall Lads,ffffff,0073b7,ffffff
 D,5,70,1986,DBR,ffffff,eb7b2a,ffffff
-D,5,53,2570,Walsall Lads,ffffff,0073b7,ffffff
-D,5,43,4,BRT,ffffff,050505,ff8100
+D,7,62,4,BRT,ffffff,050505,ff8100
 D,2,28,2013,IBTC,ffffff,0073b7,ffffff
+D,1,26,2147,Freddie Fu,ffffff,0073b7,ffffff
+D,1,23,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 D,1,18,1979,ZHR,ff0000,03228c,03228c
 D,1,18,2571,Equipe JZQc,ffffff,003399,ffffff
 D,1,13,3957,No. 22 CX Team,ffffff,000000,ffffff
