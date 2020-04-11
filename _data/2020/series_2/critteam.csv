@@ -1,6 +1,7 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,7,164,4,BRT,ffffff,050505,ff8100
 A,4,84,1576,&Oslash;VB,ffffff,0073b7,ffffff
+A,2,57,6431,CIZL,ffffff,0073b7,ffffff
 A,2,50,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,2,46,2105,Cannondale/4iiii,0d0d0d,eef2f5,f27a0b
 A,2,42,588,Team Italy,dd4b39,ffffff,00a65a
@@ -10,7 +11,6 @@ A,1,39,1835,V.C SPUTNIK,ffffff,0073b7,ffffff
 A,3,36,3029,SJBC,ffffff,0073b7,ffffff
 A,1,35,3282,POAUTO,004080,89cff0,f2740b
 A,2,34,3751,Dutch Racing,121212,fc6719,121212
-A,1,34,6431,CIZL,ffffff,0073b7,ffffff
 A,1,34,5303,ReC1910,ffffff,0073b7,ffffff
 A,1,34,90,Vikings,c2c2c2,0073b7,ee6331
 A,1,33,6750,PHNX,ffffff,0073b7,ffffff
@@ -23,7 +23,6 @@ A,1,27,5235,VCK,ffffff,000000,ffffff
 A,1,25,5983,Relentless,e5eb0f,080808,9e39c7
 A,1,25,2191,EVO,ff8329,6c47ff,ffffff
 A,2,24,41,RuhrRiders,ff8700,000000,5cb0fc
-A,1,23,6732,MVRL,ffffff,0073b7,ffffff
 A,1,23,2281,TeamNL,ffffff,ffa500,ffa500
 A,1,21,5459,KWCC,f01f1f,101112,ffffff
 A,1,21,3667,026,ffffff,0073b7,ffffff
@@ -104,9 +103,9 @@ B,1,5,3819,SCCZRT,f71414,ffffff,153deb
 B,1,5,5770,HEL CX,33ccff,ffffff,33ccff
 B,1,5,756,STW,ffffff,0073b7,ffffff
 B,1,4,6205,GORILLA,ffffff,0073b7,ffffff
-B,1,3,5524,UKAFC,ffffff,4f213b,4f213b
+B,1,3,6509,ZiS,ffffff,0073b7,190101
 C,14,434,4,BRT,ffffff,050505,ff8100
-C,19,380,7266,BCC-A,ffffff,0073b7,ffffff
+C,19,408,7266,BCC-A,ffffff,0073b7,ffffff
 C,2,83,5820,IMOK,ffffff,0073b7,ffffff
 C,2,64,1944,Track Mob Berlin,ffff00,ff88bb,008080
 C,2,54,23,WPTAZ,ffffff,0073b7,ffffff
@@ -122,18 +121,18 @@ C,1,11,4672,Ultimo,ffffff,0073b7,ffffff
 C,1,9,3004,VSPRINT,ffffff,0073b7,ffffff
 C,1,8,2639,HERD,383c3d,fc6719,383c3d
 C,1,8,1075,Online OCE,ffffff,0073b7,ffffff
+C,1,7,5578,Poole Wheelers,e7ff00,ff0000,000000
 C,1,7,6189,PACTri,ffffff,0073b7,ffffff
 C,1,6,4481,NAMZ,ffffff,0073b7,ffffff
+C,1,5,4127,LondonDynamo,ffffff,0073b7,000000
 C,1,5,1965,BIKES-FRANCE,000000,f2ad00,000000
 C,1,3,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,1,3,2146,ZESP,000000,fabd00,ad1519
-C,1,2,5578,Poole Wheelers,e7ff00,ff0000,000000
-C,1,1,4127,LondonDynamo,ffffff,0073b7,000000
 D,3,21,2722,Hitchin Nomads,ffffff,0073b7,ffffff
 D,2,16,588,Team Italy,dd4b39,ffffff,00a65a
-D,2,14,4,BRT,ffffff,050505,ff8100
-D,1,13,7927,Ble,ffffff,0073b7,ffffff
 D,1,13,2281,TeamNL,ffffff,ffa500,ffa500
+D,2,12,4,BRT,ffffff,050505,ff8100
+D,1,11,7927,Ble CC GR,ffffff,0073b7,ffffff
 D,1,9,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 D,1,7,1986,DBR,ffffff,eb7b2a,ffffff
 D,1,7,25,ZTPL.CC,ffffff,ff1800,ff0000
