@@ -6,13 +6,13 @@ A,1,18,Innovation,,000000,52ff33,000000,Will Foster,gb,540907,gold,0
 A,1,18,IndoorSpecialist,,ffffff,239bd3,fc6719,Dan Fleeman (DigDeepCoaching.Com),gb,49551,gold,0
 A,1,18,SZ,,ffffff,285697,ffd700,Alexander Wetterhall [SZ],se,1415037,gold,0
 A,1,15,,,,,,Anthony Minickiello7965,us,1812980,silver,0
-A,1,15,,,,,,Vincent Hogan &#9752;&#65039;,ca,935824,silver,0
+A,1,15,FINESSE,,f7f915,0ccaff,00a8d6,Vincent Hogan &#9752;&#65039;,ca,935824,silver,0
 A,1,13,ZJRT,,ac1d88,0073b7,cdac1f,Tsutomu Iwabuchi(ZJRT),jp,115126,bronze,0
 A,1,13,Van Rysel,,ffffff,000000,ffffff,Nicolas Urbain,be,1474131,bronze,0
 A,1,13,,,,,,Edwin Driessen,nl,219489,bronze,0
 A,1,13,DIRT,,29ec34,211208,df6a0d,George Henry (DIRTy Rascals Riot),us,258182,bronze,0
 A,1,11,Palmares,,ffffff,0073b7,ffffff,Tommy Brown,us,254808,,0
-A,1,11,Team X,,f5f7f6,111111,00a65a,Casey Schumm (ATP Racing1),us,1412,,0
+A,1,11,Team X,,f5f7f6,111111,00a65a,Casey Schumm,us,1412,,0
 A,1,11,V&Oslash;ST RT,,ffffff,ff1b1b,ffffff,Johann Breytenbach (VOST RT),za,715015,,0
 A,1,10,PLCC,,ffffff,00ff00,000000,Jacob Wilson,au,576668,gold,0
 A,1,10,Team High Rollers,,c90101,7dc8e0,4b418c,1 Cycle Jockey,us,159182,gold,0
@@ -65,7 +65,7 @@ B,1,13,,,,,,Stuart Foster,gb,570256,,0
 B,2,11,,,,,,Brian MacLeod Isle of Mull,gb,183103,gold,1
 B,1,11,VEGAN,,ffffff,00a65a,0adb2c,Joel Farber &#9419; (VZT S),ca,53773,,0
 B,1,11,Team CRYO-GEN,,ffffff,0073b7,ffffff,I&ntilde;igo Izeta,tt,1264718,,0
-B,1,11,ZESP,,000000,fabd00,ad1519,SanchezGonzalez (Zesp 1),es,1247451,,0
+B,1,11,ZESP,,000000,fabd00,ad1519,SanchezGonzalez,es,1247451,,0
 B,1,10,HERD,,383c3d,fc6719,383c3d,Michael Considine,ie,787676,gold,0
 B,1,9,ART,,ffffff,2e2c2c,e33131,Giles Aldridge [ART],gb,1490752,,0
 B,1,9,BZR cycling team,,f3f300,111111,dd4b39,Hauwaert Damien,be,398525,,0
@@ -92,7 +92,7 @@ C,1,15,,,,,,F. Eigner (DIRT),,1573429,silver,0
 C,1,13,ZTPL.CC,,ffffff,ff1800,ff0000,Marcin &#321;awacz,pl,935344,bronze,0
 C,1,13,,,,,,Tristan Schutz2939,fr,1076090,bronze,0
 C,1,13,TeamNL,,ffffff,ffa500,ffa500,Merijn van Aartrijk,nl,170841,bronze,0
-C,1,11,,,,,,Carl Stein,de,1343678,,0
+C,1,11,,,,,,Carl Stein3037,de,1343678,,0
 C,1,11,SST,,4bde27,b01bc9,ffffff,Riky Rizzi [SST],it,1075667,,0
 C,1,11,[DV],,ffffff,0073b7,ffffff,Clash City Womble (DV),gb,157774,,0
 C,1,10,,,,,,Dave Markham2220,ca,362670,gold,0
@@ -101,7 +101,7 @@ C,1,9,,,,,,Jonathan Lippert,us,1679033,,0
 C,1,9,,,,,,Gladys Janette,pr,1267308,,0
 C,1,7,,,,,,Eric Lavoie,ca,383365,,0
 C,1,7,,,,,,Jeppe Majgaard,dk,985129,silver,0
-C,1,7,NAMZ,,ffffff,0073b7,ffffff,Lennard Pretorius,na,903866,silver,0
+C,1,7,NAMZ,,ffffff,0073b7,ffffff,Lennard Pretorius,ca,903866,silver,0
 C,1,7,,,,,,Ryan Bailey9645,us,1173612,silver,0
 C,1,7,,,,,,Darren Stanley,gb,930886,,0
 C,1,7,,,,,,Mads Pauli,dk,1641717,,0
@@ -118,16 +118,17 @@ C,1,3,,,,,,Ben Westlake,gb,119135,,0
 C,1,2,,,,,,Matthew Knoedler,us,85051,,0
 C,1,2,KIRCHMAIR e-Cycling,,210606,f2e80d,000103,Klaus L. (KC),de,1122057,,0
 C,1,1,BASE,,000000,ff0000,000000,. DanBrousseau(BASE)(C),ca,7411,,0
-D,1,10,BIKES-FRANCE,,000000,f2ad00,000000,ben cense (bikes-fr),fr,1413666,gold,0
+D,1,10,,,,,,Alan Lam (SLC) 8410,us,497014,gold,0
 D,1,10,DIRT,,29ec34,211208,df6a0d,Christopher Kaiser,us,650813,gold,0
 D,1,10,BASE,,000000,ff0000,000000,Matt Grenier(BASE),us,1358494,gold,0
 D,1,10,,,,,,Jean-fran&ccedil;ois Rocheleau,ca,929760,gold,0
 D,1,10,BRT,,ffffff,050505,ff8100,Carlos Alvarez,es,858443,gold,0
-D,1,7,,,,,,Doug Bean,us,1516382,silver,0
+D,1,7,BIKES-FRANCE,,000000,f2ad00,000000,ben cense (bikes-fr),fr,1413666,silver,0
 D,1,7,,,,,,Keith Austin,gb,21407,silver,0
 D,1,7,BASE,,000000,ff0000,000000,kim kroeger-weeks (BASE) 4854,us,1079474,silver,0
 D,1,7,,,,,,Niels Knubbel,de,1201774,silver,0
 D,1,7,,,,,,Chris Stanhope,ie,1192288,silver,0
+D,1,5,,,,,,Doug Bean,us,1516382,bronze,0
 D,1,5,BASE,,000000,ff0000,000000,Ay-Ay-Ron Davis (BASE),us,1524133,bronze,0
 D,1,5,,,,,,Nicolas Martello,gb,1603561,bronze,0
 D,1,3,,,,,,stu inflipflops,zw,1437038,,0
