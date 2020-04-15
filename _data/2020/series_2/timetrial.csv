@@ -7,11 +7,12 @@ A,1,15,BRT,,ffffff,050505,ff8100,Luke Williams - PNECC [BRT],gb,175271,silver,0
 A,1,13,,,,,,Snurri sturlusson,ch,1584589,bronze,0
 A,1,13,Wildcats,,ffffff,a61d1d,ffffff,Alex Pearson WCC/BCSE,gb,1336817,bronze,0
 A,1,11,,,,,,Euan Freeman,gb-sct,1186805,,0
-A,1,10,,,,,,Tonino Schurter,es,1813664,gold,0
+A,1,10,,,,,,Erik Levinsohn,us,547742,gold,0
+A,1,10,,,,,,Tonino Schurter,ad,1813664,gold,0
 A,1,10,BRT,,ffffff,050505,ff8100,Adam Machan,gb,219813,gold,0
 A,1,9,BRT,,ffffff,050505,ff8100,Andrew Ashwin [BRT] (BRT Craft Beers),gb,1394430,,0
 A,1,9,CK Master,,ffffff,0073b7,ffffff,Marcus Svensson M&ouml;lndal,se,1001043,,0
-A,1,7,,,,,,Aaron Strong Supercoach,nz,376722,silver,0
+A,1,7,SteelSprings,,ffffff,0073b7,ffffff,Aaron Strong Supercoach,nz,376722,silver,0
 A,1,7,,,,,,Kyle @ Mackay Cycles,au,350576,,0
 A,1,7,ZRG,,1bc1f1,3d3d3d,1bc1f1,Rolf Lautenbacher (KTeV),de,470505,silver,0
 A,1,7,,,,,,Nickolas Zukowsky,ca,316262,silver,0
@@ -19,8 +20,10 @@ A,1,7,,,,,,Jack Reed,gg,468393,,0
 A,1,5,Equipe JZQc,,ffffff,003399,ffffff,Man Boudreau JZQc3778,ca,986663,bronze,0
 A,1,5,ZRG,,1bc1f1,3d3d3d,1bc1f1,Nico Dinho,de,1637376,,0
 B,1,18,,,,,,Jurgen Zijlstra,nl,280339,gold,0
+B,2,15,BRT,,ffffff,050505,ff8100,Roby Rippinger,lu,95269,gold bronze,0
 B,1,15,BRT,,ffffff,050505,ff8100,Dom Betteridge,gb,53000,silver,0
 B,1,13,BRT,,ffffff,050505,ff8100,Phil Scott [BRT],gb,1343262,bronze,0
+B,2,12,,,,,,Morten Moth,dk,1354763,silver bronze,0
 B,1,11,MLARC,,ffffff,0073b7,e60000,Gabe Winkler ZHR (C),us,490923,,0
 B,1,10,,,,,,Wayne Beynon,zw,1476959,gold,0
 B,1,10,ZRG,,1bc1f1,3d3d3d,1bc1f1,Rainer Pahl,de,1440918,gold,0
@@ -35,8 +38,6 @@ B,1,7,eCKD,,ffffff,ff0000,000000,Michael Roesdahl (eCKD),dk,882256,silver,0
 B,1,7,BRT,,ffffff,050505,ff8100,Francisco Arce (NHRC),za,652272,silver,0
 B,1,7,RR 2020,,ffffff,0073b7,ffffff,Tiina Kajan [RR 2020],fi,1104935,silver,0
 B,1,7,,,,,,Idar Smedsrud,no,1057661,,0
-B,1,5,BRT,,ffffff,050505,ff8100,Roby Rippinger,lu,95269,bronze,0
-B,1,5,,,,,,Morten Moth,dk,1354763,bronze,0
 B,1,5,SZR,,ffffff,0073b7,ffffff,Tom Light,se,1333771,bronze,0
 B,1,5,,,,,,Steve Dewis 6146,gb,252595,,0
 B,1,3,ETC athletics,,ffffff,339933,006633,8031 Thomas Lallement,fr,282304,,0
@@ -57,10 +58,12 @@ C,1,15,RAFCA,,e81d1d,ffffff,0073b7,Ian Swinscoe [RAFCA],gb,200075,silver,0
 C,1,13,BRT,,ffffff,050505,ff8100,Andy Newsom,us,1292414,bronze,0
 C,1,11,,,,,,James Barnes 3711,gb,821516,,0
 C,1,11,,,,,,Andrew Lea,gb,1307275,,0
+C,1,10,,,,,,Bryan Hawkey,ca,1933375,gold,0
 C,1,10,teamWKG,,fa5e06,3f4c54,3f4c54,2) KW (WKG GH),gb,392756,gold,0
 C,1,9,,,,,,Lee Cozens,gb,411226,,0
 C,1,9,,,,,,H&aring;kan Andolsen,se,339054,,0
 C,1,9,Vikings,,c2c2c2,0073b7,ee6331,Espen Hofoss [V],no,199857,,0
+C,1,7,,,,,,Sean Toonen,nl,116935,silver,0
 C,1,7,,,,,,Darren Stanley,gb,930886,silver,0
 C,1,7,,,,,,Gael Bousquet,fr,1624316,,0
 C,1,7,,,,,,Cliff Beldon,gb,133064,silver,0
@@ -79,6 +82,7 @@ C,1,3,,,,,,Alexandr Hegegy9091,cz,1343514,,0
 C,1,3,,,,,,Maciej Sz . forTRI7 (C),pl,101244,,0
 C,1,2,,,,,,Lars Kristiansen,dk,1540865,,0
 C,1,1,,,,,,Benedikt Blaser,de,1546496,,0
+D,1,10,,,,,,Johnny  Vandenbergh WTC SAS4,be,780481,gold,0
 D,1,10,,,,,,Simon Marrollo,au,947168,gold,0
 D,1,10,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jim Weisert,ca,1585175,gold,0
 D,1,10,BRT,,ffffff,050505,ff8100,Julian Hudson,ca,92276,gold,0
