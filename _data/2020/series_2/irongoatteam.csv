@@ -20,21 +20,23 @@ A,1,10,4230,Team High Rollers,c90101,7dc8e0,4b418c
 A,1,9,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,1,9,3052,KST,ffffff,030000,7d7474
 A,1,7,2659,Team MBBC Racing,ffffff,0073b7,ff091e
+A,1,7,8714,APEX,ffffff,0073b7,ffffff
 A,1,7,7945,NVOKE,ffffff,14284d,3392e1
 A,1,7,791,Race3R,000000,2bc3f4,ffffff
 A,1,7,1845,VEGAN,ffffff,00a65a,0adb2c
+A,1,5,9226,MSC,ffffff,e67e22,ffffff
 A,1,3,3029,SJBC,ffffff,0073b7,ffffff
 A,1,3,3265,1D,faf8f8,7a4988,000000
 A,1,3,3486,Team Bergziegen,ffffff,000000,ff0000
 A,1,3,843,MDCC,ffffff,0073b7,ffffff
 A,1,2,9131,Pearl Izumi/Pivot Cycles,ffffff,0073b7,ffffff
-B,4,62,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,4,60,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,2,59,1330,teamWKG,fa5e06,3f4c54,3f4c54
 B,2,42,1986,DBR,ffffff,eb7b2a,ffffff
 B,2,40,7509,MTZT,ffffff,0073b7,ffffff
 B,1,26,90,Vikings,c2c2c2,0073b7,ee6331
 B,3,25,1845,VEGAN,ffffff,00a65a,0adb2c
-B,2,25,5853,Blueseventy,ffffff,0073b7,ffffff
+B,2,23,5853,Blueseventy,ffffff,0073b7,ffffff
 B,1,23,10,TFC,111111,f3f300,111111
 B,1,19,3219,Crankalicious,090114,0e9ef0,7ffa1d
 B,1,17,4,BRT,ffffff,050505,ff8100
@@ -62,6 +64,7 @@ C,1,7,4481,NAMZ,ffffff,0073b7,ffffff
 C,2,4,3936,BASE,000000,ff0000,000000
 C,1,3,2707,DIRT,29ec34,211208,df6a0d
 C,1,2,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
+C,1,1,5096,OSI,ffffff,0073b7,ffff00
 D,3,22,3936,BASE,000000,ff0000,000000
 D,1,10,2707,DIRT,29ec34,211208,df6a0d
 D,1,10,4,BRT,ffffff,050505,ff8100
