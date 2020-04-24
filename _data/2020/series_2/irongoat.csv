@@ -1,12 +1,12 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,30,TFC,,111111,f3f300,111111,Tommy Sellars (TFC Typhoon),gb,1387591,silver silver,0
-A,3,25,Gainz,,ffffff,0073b7,ffffff,patrick charles,us,16462,,0
+A,3,25,Gainz,,ffffff,0073b7,ffffff,patrick charles (usac #396603),us,16462,,0
 A,1,18,CICLI STEFANELLI,,dea2a2,06060a,ffffff,Federico Caretta (Stefanelli Hulk),it,1963303,gold,0
 A,1,18,,,,,,Marcos Gra&ntilde;a,es,909093,gold,0
-A,1,18,Innovation,,000000,52ff33,000000,Will Foster,gb,540907,gold,0
+A,1,18,Innovation,,000000,52ff33,000000,Will Foster (INC Esp),gb,540907,gold,0
 A,1,18,IndoorSpecialist,,ffffff,239bd3,fc6719,Dan Fleeman (DigDeepCoaching.Com),gb,49551,gold,0
 A,1,18,SZ,,ffffff,285697,ffd700,Alexander Wetterhall [SZ],se,1415037,gold,0
-A,1,15,2RR,,ffffff,1010de,ff0000,1014 Simon Collard,be,4231,silver,0
+A,1,15,KISS RT,,f56600,012350,84b7ca,Simon Collard (KISS Racing Team),be,4231,silver,0
 A,1,15,,,,,,Anthony Minickiello7965,us,1812980,silver,0
 A,1,15,FINESSE,,f7f915,0ccaff,00a8d6,Vincent Hogan &#9752;&#65039;,ca,935824,silver,0
 A,1,13,,,,,,&#129421; King Kong &#129421;,ca,954257,bronze,0
@@ -25,7 +25,7 @@ A,1,9,Team CRYO-GEN,,ffffff,0073b7,ffffff,drjoj r,ca,455480,,0
 A,1,9,KST,,ffffff,030000,7d7474,Soren Aronoff-Jensen | KST,dk,39800,,0
 A,1,9,,,,,,Rune Halvorsen,no,78046,,0
 A,1,7,Team MBBC Racing,,ffffff,0073b7,ff091e,Brandon Benham,us,605982,,0
-A,1,7,APEX,,ffffff,0073b7,ffffff,Alex Turpin,us,324238,,0
+A,1,7,apex racing,,ffffff,0073b7,ffffff,Alex Turpin,us,324238,,0
 A,1,7,NVOKE,,ffffff,14284d,3392e1,Mark Shaw | NVOKE | INC,nz,70690,silver,0
 A,1,7,,,,,,Ciar&aacute;n O&#039;Rourke,us,1033955,,0
 A,1,7,Race3R,,000000,2bc3f4,ffffff,Jero Nefkens,nl,78992,silver,0
@@ -36,7 +36,7 @@ A,1,5,,,,,,justin george,us,161784,bronze,0
 A,1,5,,,,,,Evan Morris,us,286611,bronze,0
 A,1,5,SZ,,ffffff,285697,ffd700,M&aring;rten H&aring;rd [SZ],se,1290734,,0
 A,1,5,,,,,,Pim @Airolubemtbteam,nl,1145706,,0
-A,1,3,SJBC,,ffffff,0073b7,ffffff,Stephan Hofmann,,510769,,0
+A,1,3,SJBC,,ffffff,0073b7,ffffff,Stephan Hofmann | SJBC | 534275,,510769,,0
 A,1,3,1D,,faf8f8,7a4988,000000,Jeroen Blondeel,be,381944,,0
 A,1,3,,,,,,Dave King - Cadence Cycling,au,223433,,0
 A,1,3,,,,,,shawn g,us,1427729,,0
@@ -122,7 +122,7 @@ C,1,7,,,,,,Ryan Bailey,us,1173612,silver,0
 C,1,7,,,,,,Darren Stanley,gb,930886,,0
 C,1,7,,,,,,Mads Pauli,dk,1641717,,0
 C,1,5,,,,,,Eric Lavoie,ca,383365,,0
-C,1,5,,,,,,Spencer Black 553061,us,804049,bronze,0
+C,1,5,,,,,,Spencer Black (USAC #553061),us,804049,bronze,0
 C,1,5,,,,,,Jimmy V,us,210266,bronze,0
 C,1,5,,,,,,Helder Maximino,pt,1430292,,0
 C,1,5,,,,,,Tobias Gassmann,de,551646,,0
