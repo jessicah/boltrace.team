@@ -1,15 +1,18 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,3,71,BRT,,ffffff,050505,ff8100,Joel Hender,gb-wls,123642,,0
+A,4,102,BRT,,ffffff,050505,ff8100,Joel Hender,gb-wls,123642,,0
+A,3,79,,,,,,Rick Hawker,gb,65112,,0
+A,7,70,BCC - Bees,,000000,fcfc01,000000,Matt Thom (BCC-B),gb,1700485,,2
 A,3,65,&Oslash;VB,,ffffff,0073b7,ffffff,Duncan Slator OVB,gb,964997,,0
-A,2,46,,,,,,Rick Hawker,gb,65112,,0
+A,1,42,SZ,,ffffff,285697,ffd700,Johan Wigforss [SZ],se,252993,gold,0
 A,1,42,TugaZ,,ffffff,ff1f00,33735b,Diogo Cal&ccedil;ada,pt,289461,gold,0
 A,1,42,BRT,,ffffff,050505,ff8100,Phil Whiteley,gb,161329,gold,0
 A,2,40,,,,,,Tom Wensink,nl,180288,,0
+A,1,39,,,,,,Michael  Jenich  (MKE),us,244830,silver,0
 A,1,39,,,,,,FREDDY PETT,gb,869774,silver,0
 A,1,39,V.C SPUTNIK,,ffffff,0073b7,ffffff,Saburo Taniguti,jp,1438282,silver,0
+A,1,37,,,,,,Mark &quot;Dallas&quot; Henry,il,332807,bronze,0
 A,1,37,,,,,,Donny Pascale,au,754981,bronze,0
 A,1,37,TFC,,111111,f3f300,111111,Glenn Utteridge [TFC],gb,1480606,bronze,0
-A,6,35,,,,,,Matt Thom (BCC-B),gb,1700485,,2
 A,1,35,POAUTO,,004080,89cff0,f2740b,Martin Hammer Larsen (TEAM POAUTO),dk,83405,,0
 A,1,35,,,,,,_ Smithy&#129322;,gb-wls,70787,,0
 A,1,34,CIZL,,ffffff,0073b7,ffffff,Richard Maybin,gb-nir,56935,gold,0
@@ -17,68 +20,80 @@ A,2,34,Dutch Racing,,121212,fc6719,121212,Freddy van der Ploeg &#128163;,nl,9545
 A,1,34,ReC1910,,ffffff,0073b7,ffffff,Jacques Stilling [ReC1910],dk,1711968,gold,0
 A,1,34,Vikings,,c2c2c2,0073b7,ee6331,Eivind Botten [V]&#129413;,no,825773,gold,0
 A,1,33,PHNX,,ffffff,0073b7,ffffff,Nick Lowe,au,155500,,0
-A,1,31,Innovation,,000000,52ff33,000000,Lucas Byam,tt,631761,silver,0
+A,1,31,,,,,,Lucas Byam,tt,631761,silver,0
 A,1,31,FINESSE,,f7f915,0ccaff,00a8d6,Vincent Hogan &#9752;&#65039;,ca,935824,silver,0
 A,1,31,Nopinz Symec,,ffffff,d6428e,000000,Harry Johnson (NOPINZ SYMEC RT),gb,986454,,0
 A,1,31,KMC,,ffffff,0073b7,ffffff,Roel Verhoeven [KMC],nl,419839,silver,0
 A,1,31,ARRODA,,ffffff,0073b7,ffffff,21012 Stephane Wins [Arroda],be,1608892,,0
+A,1,29,DIRT,,29ec34,211208,df6a0d,David van Dijk,nl,425376,,0
 A,1,29,Cannondale/4iiii,,0d0d0d,eef2f5,f27a0b,Olivier Hebert Cannondale Echelon 4IIII,ca,939073,bronze,0
 A,1,29,Team Italy,,dd4b39,ffffff,00a65a,Alessio Caggiula [ITLY],it,523906,bronze,0
 A,1,29,SJBC,,ffffff,0073b7,ffffff,Richard Jones,us,116805,bronze,0
 A,1,29,BRT,,ffffff,050505,ff8100,Hywel Davies (BRT),gb-wls,1119043,,0
+A,1,27,,,,,,yuki kudo,jp,25942,,0
 A,1,27,,,,,,JF Bourdon-Cycles Regis team Quebec,ca,184122,,0
 A,1,27,1D,,faf8f8,7a4988,000000,Dario Frigo,be,74948,,0
-A,1,27,Rowe & King,,ffffff,2b5bb8,2fba4e,Joe Rees,gb-wls,1722048,,0
+A,1,27,Rowe & King,,ffffff,2b5bb8,2fba4e,Joe Rees (Rowe & King),gb-wls,1722048,,0
 A,1,27,VCK,,ffffff,000000,ffffff,Sune Guldbrand Hansen (Vejle CK),dk,644293,,0
 A,1,26,,,,,,JF Modolo,be,116357,gold,0
+A,1,25,BMCC,,ffffff,0073b7,ffffff,Marek Shafer (TVS CC),gb,333411,,0
 A,1,25,Relentless,,e5eb0f,080808,9e39c7,Jason O&#039;Neill (RELENTLESS),us,135104,,0
 A,1,25,EVO,,ff8329,6c47ff,ffffff,Tom Ford,gb,19682,,0
 A,2,24,TFC,,111111,f3f300,111111,Seth Stingley,us,942020,,0
 A,2,24,RuhrRiders,,ff8700,000000,5cb0fc,Matthias Bl&uuml;mel [R2],de,855399,silver,0
+A,1,23,,,,,,Michael Stott,gb,225855,,0
 A,1,23,BNB &#128059;,,ffffff,228b22,654321,Nate Freed [BNB],,1158798,silver,0
-A,1,23,Rowe & King,,ffffff,2b5bb8,2fba4e,Joshua Tarling[R&K],gb,1124087,,0
+A,1,23,Rowe & King,,ffffff,2b5bb8,2fba4e,Joshua Tarling[Ystwyth],gb,1124087,,0
 A,1,23,MVRL,,ffffff,0073b7,ffffff,Patrick Cobra Clarke,ie,5187,,0
 A,1,23,TeamNL,,ffffff,ffa500,ffa500,Gudo Hartog,nl,187304,,0
 A,1,23,,,,,,Jules Rau,de,954528,,0
 A,2,22,BRT,,ffffff,050505,ff8100,Leon Bond (BRT Craft Beers),gb,266642,,0
+A,1,21,,,,,,Giles Harvey 1076,gb,144706,,0
 A,1,21,PLCC,,ffffff,00ff00,000000,Jacob Wilson,au,576668,bronze,0
 A,1,21,,,,,,James Carey,us,7552,,0
 A,1,21,,,,,,Louis Champion,ca,876588,,0
 A,1,21,KWCC,,f01f1f,101112,ffffff,Tricky Tarmac KWCC,gb,309498,,0
 A,1,21,,,,,,Alexander Bojsen,dk,131584,,0
 A,1,21,026,,ffffff,0073b7,ffffff,Steef Burghouts,nl,173986,,0
+A,5,20,BCC - Bees,,000000,fcfc01,000000,Alexis Brown (BCC-B),gb,277949,,2
+A,1,19,,,,,,Mikkel Redder,dk,1802221,,0
+A,3,19,BCC-A,,ffffff,0073b7,ffffff,Lisa S BCC - A,gb-wls,182995,,0
 A,1,19,TBR Racing,,ffffff,0073b7,ffffff,Linton Burns (TBR),au,811067,,0
 A,1,19,BW Cycling,,ffffff,0073b7,ffffff,Oli Beck6688,gb,739341,,0
 A,1,19,&Oslash;VB,,ffffff,0073b7,ffffff,TJ KEY - HUNT BIKE WHEELS,gb,502554,,0
 A,1,19,VRM,,0000ff,ff00e9,000000,George Olive &#9419; RTRT,gb,80614,,0
 A,1,18,,,,,,Matt Zenovich,nz,384578,gold,0
+A,1,17,,,,,,David GuttenplanCoaching!,us,321821,,0
 A,1,17,,,,,,Marc-Andre Faucher,ca,1625161,,0
 A,1,17,,,,,,James Saunders,gb,281614,,0
 A,1,17,Cannondale/4iiii,,0d0d0d,eef2f5,f27a0b,Karim Jarjoura Cannondale Echelon 4iiii,ca,503251,,0
 A,1,17,,,,,,Steve Munday,gb,45176,,0
 A,1,17,Equipe JZQc,,ffffff,003399,ffffff,Francis Gagn&eacute;,ca,52448,,0
+A,1,15,,,,,,Simon Dixey,gb,690815,,0
 A,1,15,,,,,,Geoff Burford,gb,843809,,0
 A,1,15,Team 63.8N,,ffffff,9a0606,000000,Anders Broberg (63.8N),se,407765,,0
 A,1,15,Team DBC,,000000,ff820c,14c5c2,Brian Bandle,us,41370,,0
 A,1,15,DBR,,ffffff,eb7b2a,ffffff,S&oslash;ren Kruse Pedersen,dk,1044086,,0
 A,1,15,Team CRYO-GEN,,ffffff,0073b7,ffffff,Jason Fitchew RTRT,gb,51253,,0
-A,4,14,,,,,,Alexis Brown (BCC-B),gb,277949,,2
+A,1,13,BJW,,ffffff,041b3d,cf0634,Carl Silver,gb,64557,,0
 A,1,13,Holmenkollen CK,,111e6c,f8dae5,111e6c,Morten Austestad,no,59075,,0
 A,1,13,Team Italy,,dd4b39,ffffff,00a65a,ORRINI PIETRO,it,64022,,0
 A,1,13,ZWZR,,ffffff,7d2248,ce0058,Tom Williams4618,gb,397241,,0
 A,3,13,Hitchin Nomads,,ffffff,0073b7,ffffff,John Curtin HNCC/CCA,gb,295910,,0
 A,1,13,Alton CC,,453d3d,a3e5f5,fa1313,Jonathan Grassi,zw,1412351,bronze,0
 A,1,13,V&Oslash;ST RT,,ffffff,ff1b1b,ffffff,Johann Breytenbach (VOST),za,715015,,0
-A,2,12,BCC-A,,ffffff,0073b7,ffffff,Lisa S BCC - A,gb-wls,182995,,0
+A,6,11,,,,,,Sam Lancia (BCC-A),gb,87778,bronze,5
 A,1,11,DIRT,,29ec34,211208,df6a0d,Eryn Smith,us,62346,,0
 A,1,11,Vel&oacute;Elite,,ffffff,589c25,000000,Jack Patmore,gb,682096,,0
 A,1,11,,,,,,Kit Buchanan,gb,847440,,0
 A,1,11,,,,,,Patrick Kos,nl,1625240,,0
 A,1,11,EH*,,ffffff,0073b7,ffffff,Luke Bates,gb-sct,178198,,0
+A,1,9,BCC-A,,ffffff,0073b7,ffffff,Angus Stoneham BCC-A,gb,1130340,,0
 A,1,9,ZCT.IRL,,ffffff,000000,00b84a,Al Vansk 4546,ie,759250,,0
 A,1,9,TRICT,,ffffff,0073b7,ffffff,Marco Alcaraz - [TRICT],es,1611542,,0
 A,1,9,DIRT,,29ec34,211208,df6a0d,Neil McC(DIRT),gb-sct,617195,,0
 A,1,9,CTCR,,ffffff,0073b7,ffffff,Petter Sorensen [CK TORP],no,19827,,0
+A,1,8,,,,,,Rusty Beall,us,1568495,,0
 A,1,8,HEINO RT,,ffffff,ff0000,ff3b3b,Vicky Nealon [HEIN],gb,1019855,,0
 A,1,7,,,,,,c.  Jopling Stage 1,us,104170,,0
 A,1,7,,,,,,Michael Mulloy // MoVelo.cc,us,1077087,,0
@@ -89,21 +104,25 @@ A,1,7,,,,,,Mizmushi Pedal,jp,545587,,0
 A,1,6,,,,,,Conor O Sullivan,ie,821928,,0
 A,1,6,,,,,,Lukasz Sosnowski 7173,pl,547325,,0
 A,1,6,SJBC,,ffffff,0073b7,ffffff,David Van Everen | SJBC | NCNCA | 554659,us,594427,,0
+A,1,5,,,,,,Piotr Szafraniec9011,pl,1110050,,0
 A,1,5,,,,,,Nick Albrow,gb,472527,,0
 A,1,5,,,,,,James Trewin,gb,1147801,,0
 A,1,5,KIRCHMAIR e-Cycling,,210606,f2e80d,000103,Tobias Nagel (KC) &#128304;,de,510351,,0
 A,1,5,V&Oslash;ST RT,,ffffff,ff1b1b,ffffff,Paul Turner (VOST),gb-sct,433387,,0
+A,1,4,,,,,,Mark Dury BCC-A,gb,986964,,0
 A,1,4,CIZL,,ffffff,0073b7,ffffff,Ciaran O&rsquo;Connell,zw,976872,,0
 A,1,3,,,,,,Bret  Hoag,us,984531,,0
 A,1,1,SJBC,,ffffff,0073b7,ffffff,Giles Douglas (USAC 302576),gb,100505,,0
 B,6,291,BRT,,ffffff,050505,ff8100,Peter Campbell (BRT Craft Beers),gb-eng,40108,gold bronze bronze bronze,0
-B,6,262,BCC - Bs,,000000,fcfc01,ffffff,Barry Davis BCC - B,gb-eng,397176,bronze,0
-B,7,228,albaRosa CC,,ffffff,0073b7,ffffff,Will Vickers [ARCC],gb,1315138,,0
-B,5,158,,,,,,Sam Lancia (BCC-A),gb,87778,bronze,0
-B,3,122,,,,,,Xavier Nanterre,fr,1066018,gold bronze,0
-B,6,112,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,2
+B,7,274,BCC - Bees,,000000,fcfc01,000000,Barry Davis BCC - B,gb-eng,397176,bronze,0
+B,8,238,albaRosa CC,,ffffff,0073b7,ffffff,Will Vickers [ARCC],gb,1315138,,0
+B,4,163,,,,,,Xavier Nanterre,fr,1066018,gold bronze,0
+B,7,122,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,2
+B,2,99,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,gold,0
 B,6,90,,,,,,Marc Walker,gb,1387784,gold silver,2
+B,3,89,,,,,,Rob Daynes,ch,1915014,,0
 B,2,72,BRT,,ffffff,050505,ff8100,lee saunders (BRT Draft Beers),gb,177623,,0
+B,3,71,BCC - Bees,,000000,fcfc01,000000,M attySivBCC,gb-eng,20744,,0
 B,3,69,BCC-A,,ffffff,0073b7,ffffff,Neil Campbell (BCC-A),ie,25596,,0
 B,1,66,Groove SES,,ffffff,0073b7,ffffff,Chuck Coyle (USAC # 102604),us,388544,gold,0
 B,2,64,ATHY WHEELERS,,ffffff,0000ff,ff55b4,Martin Cahill,ie,472871,,0
@@ -113,8 +132,7 @@ B,1,59,TNC,,ffffff,0073b7,ffffff,pieter-Jan Fioole,nl,1023947,,0
 B,1,58,Team CRYO-GEN,,ffffff,0073b7,ffffff,Christy Tabrett,gb-eng,23917,gold,0
 B,1,57,,,,,,Bryan Petro (USAC 571307),us,1288598,,0
 B,1,57,,,,,,St&eacute;phane Gaering ZHR (44),fr,616007,,0
-B,2,56,,,,,,Rob Daynes,ch,1915014,,0
-B,1,55,,,,,,Finlay Tarling5982,gb-wls,1124102,silver,0
+B,1,55,WORX,,ffffff,0073b7,ffffff,Finlay Tarling5982,gb-wls,1124102,silver,0
 B,1,55,TC15,,ea1010,000000,e81212,44006 nicolas roques (TC15),fr,1076495,silver,0
 B,1,55,Audi,,ffffff,0073b7,ffffff,George Fordham (AUDI),gb-eng,10911,,0
 B,1,53,BCC-A,,ffffff,0073b7,ffffff,Will Blackham BCC-A,gb,600333,,0
@@ -122,21 +140,24 @@ B,1,51,,,,,,The Worth,gb,905604,,0
 B,1,51,,,,,,Bjorn .CC,nl,1675724,,0
 B,1,51,,,,,,Max Grass 5927,at,696450,,0
 B,1,50,,,,,,Bobby Coleman,ie,192981,gold,0
-B,1,49,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,,0
 B,1,49,,,,,,Neil Feakins,gb,114753,,0
 B,1,49,,,,,,Jason Osunkoya,gb,1367055,,0
 B,1,49,MLMK,,ffffff,0073b7,ffffff,Mark Dunleavy7706,ie,635608,,0
-B,2,48,BCC - Bs,,000000,fcfc01,ffffff,M attySivBCC,gb-eng,20744,,0
+B,1,47,,,,,,Max Noda,us,135020,silver,0
 B,1,47,CIZL,,ffffff,0073b7,ffffff,David Guerin,ie,192274,silver,0
-B,1,47,,,,,,Michael Tarling2056,gb-wls,852674,,0
+B,1,47,WORX,,ffffff,0073b7,ffffff,Michael Tarling2056,gb-wls,852674,,0
 B,1,47,,,,,,Andr&eacute; Henning,de,1035089,,0
 B,1,47,UC Chamoy,,ffffff,0051b7,3f2828,3018 Charlelie Baudoux [UCC],fr,1588591,,0
+B,1,45,Team CRYO-GEN,,ffffff,0073b7,ffffff,Tom Mansfield,gb-wls,108895,bronze,0
 B,1,45,TFC,,111111,f3f300,111111,Nick Keat (TFC),gb,462221,,0
+B,1,43,VCRT,,fccb5a,2d009e,f521f5,Lee Spiers Army/Beacon Rcc 4753,gb,987358,,0
 B,1,43,,,,,,Frederic Dion,ca,108148,,0
 B,1,43,DIRT,,29ec34,211208,df6a0d,Jarrid De Weerdt [DIRT],be,1105098,,0
 B,1,41,,,,,,Narayan Mahon,us,76239,,0
 B,1,41,CIZL,,ffffff,0073b7,ffffff,Colly Murray,ie,10731,,0
 B,1,41,Hitchin Nomads,,ffffff,0073b7,ffffff,James McPherson,gb,306533,,0
+B,1,39,,,,,,David Harrit 7624,us,1340421,,0
+B,5,39,BCC - Bees,,000000,fcfc01,000000,Richard Hall [BCC],gb,1420715,,2
 B,1,39,,,,,,LUI MOLTES3529,mq,2030680,,0
 B,1,39,BAB,,000000,fc0000,000000,Tor-Atle Fuglerud,no,155688,,0
 B,1,37,,,,,,gabriel montesi,ca,118491,,0
@@ -144,8 +165,9 @@ B,1,37,RDM,,ff0000,0073b7,ffffff,Axel Rouvin,fr,1511052,,0
 B,1,37,** La Grange **,,ffffff,0073b7,ff0000,Monty Zuniga,us,3338,,0
 B,1,37,TOR 2000,,ffffff,0073b7,ffffff,Josh Croxton,gb,926007,,0
 B,1,37,HSIL,,f3f6f7,1763bf,0f18e8,Henrik Andlem Borresen,no,653639,,0
+B,1,35,CCT,,0d0c0c,ff3d3d,ededed,Mike KINGer,us,1494738,,0
 B,1,35,,,,,,Bmad Utah,us,8499,,0
-B,5,35,BCC - Bs,,000000,fcfc01,ffffff,Mike K (BCC-B),gb-eng,14511,,2
+B,5,35,BCC - Bees,,000000,fcfc01,000000,Mike K (BCC-B),gb-eng,14511,,2
 B,1,35,,,,,,simon willoughby9216,zw,198543,,0
 B,1,35,,,,,,Irfaan K (BCC),gb,1153660,,0
 B,1,35,,,,,,Nikolay Yugay,ru,1212441,,0
@@ -154,15 +176,17 @@ B,1,34,DBR,,ffffff,eb7b2a,ffffff,Simon &Oslash;. Andreasen,dk,538070,gold,0
 B,1,33,,,,,,Gary Empson 2985,gb,421525,,0
 B,1,33,SZ,,ffffff,285697,ffd700,Johan Ferm [SZ],se,1445747,,0
 B,1,33,BMTR,,ffffff,0073b7,ffffff,Lawrence Cox BVC/WVCC (BMTR C),gb,1280474,,0
+B,1,31,MOR,,ffffff,0073b7,ffffff,Sebastian Mai,de,1037888,,0
 B,1,31,BZR cycling team,,f3f300,111111,dd4b39,Thomas Van Hecke,be,1046567,,0
-B,4,31,BCC - Bs,,000000,fcfc01,ffffff,Richard Hall [BCC],gb,1420715,,2
-B,1,31,,,,,,Kevin Smith BSR,us,1187,,0
+B,1,31,,,,,,Kevin Smith #PAC,us,1187,,0
 B,1,31,Team MVE,,fff500,2a3691,ffffff,Kim Even Dagsvik &#129412; (Team MVE),no,164763,,0
 B,1,31,,,,,,Tunali Murat(Ahoy),nl,969494,silver,0
 B,1,31,SBC,,ffffff,2d3f54,54980b,Murdo Fish,gb-sct,193020,,0
+B,1,29,,,,,,Steve Lynn,gb,1740510,,0
 B,1,29,,,,,,Alex Ryback,ca,494435,,0
 B,1,29,,,,,,Ed Watson,gb,452208,,0
 B,1,29,,,,,,Julien Faucon,fr,1243300,,0
+B,1,27,JSC,,ffffff,0073b7,ffffff,Matt Beeber (Johnny Sprockets Cycling),us,1969288,,0
 B,1,27,,,,,,Fred Doucette,us,248424,,0
 B,1,27,Protech-velo,,f7e7e7,ff0000,260808,Dave loynes,gb-eng,412345,,0
 B,1,27,Hvalstad,,ffffff,14ac14,ffffff,Audun Kjemperud (Hvalstad),no,430497,,0
@@ -177,32 +201,38 @@ B,1,23,CIZL,,ffffff,0073b7,ffffff,John O&#039;Brien4007,ie,837302,,0
 B,1,23,NDCA,,ffffff,ffa500,000000,Alan Whitley NSP,gb,1546982,,0
 B,1,23,PTz,,ffffff,f28312,121110,Stuart Lynne,ca,78201,,0
 B,1,23,3 Cycles [3CY],,ffffff,0073b7,ffffff,12011 Jeremy Gauthiez [3cy],fr,954795,,0
+B,1,21,MVRL,,ffffff,0073b7,ffffff,johnny Kelly,ie,2234387,,0
 B,1,21,,,,,,Michael Ribagnac,fr,1106980,bronze,0
 B,1,21,,,,,,Oliver Mende (Zoot EU 2020)   5140,de,480954,,0
 B,1,21,TAIK,,ffffff,0073b7,ffffff,Emma Nilsson TeamTavelsj&ouml;,se,674783,,0
 B,1,21,,,,,,Jes Winther2189,dk,1477449,,0
 B,1,21,Didcot Phoenix CC,,fad905,4593ff,f2760a,Martin Stanley DPCC,gb,78485,,0
 B,2,20,BRT,,ffffff,050505,ff8100,Joe Reynolds,gb,273556,,0
+B,1,19,,,,,,Bregt Vanbilsen,be,228675,,0
 B,1,19,EVASO,,ffffff,1d81a3,d46363,J. Stayte [EVASO],gb,301390,,0
 B,1,19,RMLCH,,ffffff,572364,ffffff,Sim&oacute;n Venslauskas,co,2089207,,0
 B,1,19,PRCC,,ffffff,ff0000,000000,Adam Tempest [PRCC],gb,1095116,,0
 B,1,19,,,,,,D. M&uuml;ller,de,611137,,0
 B,1,19,,,,,,Tom Adams (Ilkeston CC),gb,305605,,0
+B,1,17,,,,,,Mickey Varns,gb,980122,,0
 B,1,17,Zone5 Racing,,ffffff,0073b7,ffffff,Nate Furman,us,217448,,0
 B,1,17,,,,,,Roel De Geyter,be,1693526,,0
 B,1,17,Violet Crown,,ffffff,942eb5,f56600,Brian Faure VCCA-TX,us,874621,,0
 B,1,17,,,,,,Christian Staalby (AMATORI CC),dk,71673,,0
 B,1,17,,,,,,U Quentin,de,1592970,,0
 B,1,17,TFC,,111111,f3f300,111111,Oz Peleton,gb,1571269,,0
+B,4,16,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,,1
+B,1,15,,,,,,H Roark,us,703982,,0
 B,1,15,,,,,,Adrian Bates,gb,535871,,0
 B,1,15,Vikings,,c2c2c2,0073b7,ee6331,Jan &Oslash;ivind Holgersen [V],no,877932,,0
 B,1,15,STAY CHINGON,,ffffff,e81717,030303,Dennis Noyes,es,1242614,,0
 B,1,15,NYNNYM,,f7c24f,32a852,f7c24f,Adam Fitzmaurice,gb,1358321,,0
 B,1,15,PCV,,f7f700,03eb1e,ffffff,16001 Beno&icirc;t Gomanne,fr,1082700,,0
-B,3,14,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,,1
+B,3,14,,,,,,Rich Hindley (BCC-A),gb,2011359,,0
 B,2,14,BCC-A,,ffffff,0073b7,ffffff,phil rokerBCC,gb-eng,1613398,,0
-B,1,14,Malmok,,ffffff,0073b7,ffffff,SrSotomonte,es,1309363,,0
-B,1,14,BRT,,ffffff,050505,ff8100,Scott Sherrer,us,466577,,0
+B,1,14,MLMK,,ffffff,0073b7,ffffff,SrSotomonte,es,1309363,,0
+B,1,14,BRT,,ffffff,050505,ff8100,Scott Sherrer (BRT Tequila Chasers),us,466577,,0
+B,4,13,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,silver,3
 B,1,13,,,,,,cameron jones,nz,292055,,0
 B,1,13,ZTF,,ffffff,0073b7,ffffff,Richard Boomkamp,nl,350732,,0
 B,1,13,CCR,,db9999,757070,000000,James Smee (CCR/BCSE),gb,567505,,0
@@ -210,14 +240,15 @@ B,1,13,TeamNL,,ffffff,ffa500,ffa500,Walter Uijlenbroek,nl,1403735,,0
 B,1,12,,,,,,Mark OSullivan,ie,837124,,0
 B,1,12,WTN,,ffffff,000000,ff0000,Walter Reimann,no,711895,,0
 B,1,12,,,,,,Matt Heath (LSDT Racing),gb,1396493,,0
-B,1,12,TugaZ,,ffffff,ff1f00,33735b,Andr&eacute; Esteves 8711,pt,105829,,0
+B,1,12,TugaZ,,ffffff,ff1f00,33735b,Andr&eacute; Esteves,pt,105829,,0
+B,1,11,CK Hymer,,007f00,ffffff,bd3535,Clas  Rydergren,se,168656,,0
 B,1,11,,,,,,Luiz Carvalho,br,1211545,,0
-B,2,11,,,,,,Rich Hindley (BCC-A),gb,2011359,,0
 B,1,11,SAS,,ff0000,000000,000000,Tom Bass (Salt & Sham CC),gb,457241,,0
 B,1,11,MCC,,3a474d,ffd900,ffd900,Scott Huish,gb,5599,,0
 B,1,11,,,,,,Chris Cavacuiti (MGCC),ca,262534,,0
 B,1,10,RMLCH,,ffffff,572364,ffffff,Daniel Calderon,co,412678,,0
 B,1,10,SST,,4bde27,b01bc9,ffffff,Riky Rizzi [SST],it,1075667,,0
+B,1,9,,,,,,Leonard Vuong,de,957552,,0
 B,1,9,FULGAS,,000000,eda2d1,ffffff,Lance Huber(Fulgas),ca,333327,,0
 B,1,9,BZR cycling team,,f3f300,111111,dd4b39,tobias boddez,be,1417374,,0
 B,1,9,A1GLASS|DONE&DUSTED,,ffffff,4f4feb,ffffff,Ben Sutton (A1D&D),au,406067,,0
@@ -229,16 +260,20 @@ B,1,8,,,,,,Dougs  (RCCK),gb,933589,,0
 B,1,8,,,,,,Martin Wales (BCC),gb,1835995,,0
 B,1,8,,,,,,Christian Tan,ph,624673,,0
 B,1,8,DIRT,,29ec34,211208,df6a0d,Daron Letch (DIRTy Steamers Too),au,424788,,0
+B,1,7,TFC,,111111,f3f300,111111,Richard Beeston (TFC Hornet),gb,684504,,0
 B,1,7,,,,,,edward trenchard,gb,1452545,,0
-B,1,7,Team AHDR,,fc6955,55d4fc,ffffff,Julie Debock [AHDR],be,716342,,0
+B,1,7,Team AHDR,,fc6955,55d4fc,ffffff,41001 Julie Debock [AHDR],be,716342,,0
+B,2,6,BCC-A,,ffffff,0073b7,ffffff,Alister Beveridge BCC-A,gb-sct,1773158,,1
 B,1,6,KWCC,,f01f1f,101112,ffffff,Daniel Fleming (KWCC),gb,914583,,0
 B,1,6,BRT,,ffffff,050505,ff8100,Andrew Ashwin [BRT],gb,1394430,,0
 B,1,6,,,,,,Paul White,gb-wls,627598,,0
+B,1,5,,,,,,Chris Arnold TS2Coaching.com,us,1639649,,0
 B,1,5,,,,,,Miguel Villamarin,es,1843694,,0
 B,1,5,SCCZRT,,f71414,ffffff,153deb,Adrian Byrne BMTR(C) 6197,gb,1818532,,0
 B,1,5,,,,,,Matthew Slinger (WBR C 7977),ie,863237,,0
 B,1,5,HEL CX,,33ccff,ffffff,33ccff,Miika Kainu,fi,1418784,,0
 B,1,5,STW,,ffffff,0073b7,ffffff,Andrew Douglas,gb,861271,,0
+B,1,4,BRT,,ffffff,050505,ff8100,ed grey(BRT Frappe),gb-nir,444186,,0
 B,1,4,,,,,,eric ragot,hr,195137,,0
 B,1,4,GORILLA,,ffffff,0073b7,ffffff,Andrea Tore,it,845880,,0
 B,1,4,,,,,,Ross Surtees,gb,1819366,,0
@@ -247,93 +282,114 @@ B,1,4,,,,,,Loic Boisteaux,fr,899208,,0
 B,1,3,GF 973,,ffffff,0073b7,ffffff,Warren De Nays Candau (GF973),gf,1920818,,0
 B,1,3,UKAFC,,ffffff,4f213b,4f213b,Pete Attrill (RAFCA)(ZiS),gb,1422650,,0
 B,1,2,,,,,,Chris Raubenheimer,de,1386149,,0
+B,1,1,LKHC,,ffffff,228b22,ffffff,Walter Wang,us,991867,,0
 B,1,1,ZCT.IRL,,ffffff,000000,00b84a,Thomas B,ie,241675,,0
-C,6,144,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC-A,gb,113795,silver,0
-C,3,123,BRT,,ffffff,050505,ff8100,Craig Christie  BRT,gb-sct,130703,silver,0
+C,7,164,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC-A,gb,113795,silver,0
 C,3,100,BCC-A,,ffffff,0073b7,ffffff,GordonBarr (BCC-A),gb-sct,235732,gold,0
+C,2,89,BRT,,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,gold silver,0
 C,2,83,IMOK,,ffffff,0073b7,ffffff,Kasper Andersen,dk,1548644,gold,0
-C,2,78,BRT,,ffffff,050505,ff8100,David Claydon (BRT Tequila Chasers),gb,850893,silver,0
+C,2,78,BRT,,ffffff,050505,ff8100,David Claydon (BRT Tequilla Chasers),gb,850893,silver,0
+C,4,70,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC-A,ie,174454,,0
 C,2,64,Track Mob Berlin,,ffff00,ff88bb,008080,Tim Rollmobs,de,550834,bronze,0
 C,2,54,WPTAZ,,ffffff,0073b7,ffffff,Greg Carpenter [WPTAZ],au,135801,,0
+C,1,50,,,,,,Callum Smith9696,gb,845015,gold,0
 C,1,50,,,,,,Carl Jones,gb-wls,698020,gold,0
 C,2,50,BRT,,ffffff,050505,ff8100,Jim Connally [BRT],us,251879,,0
+C,1,45,,,,,,Phillip Rawlings,gb,1718477,bronze,0
 C,1,45,,,,,,Ron Patrissi,us,666584,bronze,0
 C,1,45,,,,,,Gaetan Duperron (MSCC),ca,513196,bronze,0
 C,2,44,,,,,,Jon Brough,gb,1444563,,0
 C,2,44,BRT,,ffffff,050505,ff8100,Art Pacione [BRT],us,112213,,0
-C,3,43,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC-A,ie,174454,,0
+C,1,43,SAS CYCLE CLUB,,ffffff,2c6597,2c6597,Tim Shig7718,us,401480,,0
 C,1,43,DBR,,ffffff,eb7b2a,ffffff,Jan  Bladt [DBR],dk,885080,,0
 C,1,43,BRT,,ffffff,050505,ff8100,Vin Lam [BRT]  (Serpentine),gb,868022,,0
-C,1,42,BRT,,ffffff,050505,ff8100,David Swan [BRT],gb-wls,246094,gold,0
+C,1,41,,,,,,Jorge Garc&iacute;a-Maldonado,cl,1209863,,0
 C,1,41,CERtified,,ffff23,197ef2,000000,David Rylah,au,1160223,,0
-C,1,39,TFC,,111111,f3f300,111111,Akram H (TFC Spitfire),gb,585048,silver,0
-C,1,37,SAS,,ff0000,000000,000000,Ed Pitt (Salt & Sham CC),gb,1446505,bronze,0
+C,1,39,,,,,,Laurie Thompson,gb,163942,,0
+C,1,39,TFC,,111111,f3f300,111111,Akram H (TFC Jaguar),gb,585048,silver,0
+C,1,37,,,,,,A. Boittelle  (OCVO)  1710,fr,182470,,0
+C,1,37,SAS,,ff0000,000000,000000,Ed Pitt (B) Salt & Sham CC,gb,1446505,bronze,0
 C,1,37,,,,,,Peer Lausen,dk,1405187,,0
 C,1,37,,,,,,Gino Mordocco,us,1114503,bronze,0
 C,1,35,,,,,,Ross Byrne,ie,962879,,0
 C,2,34,,,,,,Tom Langan BCC,ie,458219,,0
+C,1,33,DIRT,,29ec34,211208,df6a0d,Steven Cameron,gb-sct,475956,,0
 C,1,33,,,,,,Andre H,de,1143634,,0
 C,3,32,,,,,,Theodore hugonabike,gb,930528,,0
+C,1,31,Vikings,,c2c2c2,0073b7,ee6331,Eirik Eidissen,no,595123,,0
 C,1,31,,,,,,James Redmond,us,1161680,silver,0
 C,1,31,BRT,,ffffff,050505,ff8100,David Watson,us,204112,,0
+C,1,29,,,,,,Pavol Choma,zw,2284039,,0
 C,1,29,,,,,,Philipp Schwaning,de,833123,,0
 C,1,27,,,,,,Tom Denley,gb,70228,,0
 C,1,27,DIRT,,29ec34,211208,df6a0d,Jon McCarthy (DIRT),gb,1477,,0
 C,1,27,,,,,,Andy Glawe,gb,1607972,,0
 C,1,26,,,,,,Stuart  Lee,gb,554716,gold,0
+C,1,25,,,,,,Martin M&uuml;ller8259,de,459120,,0
 C,1,25,,,,,,James Beran,gb,210118,,0
 C,1,25,,,,,,Martin Levers (RCC),gb,946069,,0
 C,1,25,,,,,,Brad Gutting,us,119175,,0
 C,1,25,,,,,,Danny Kosman,nl,1144561,,0
 C,1,25,BRCG,,ffffff,0073b7,ffffff,Jasper Hermsen,nl,172302,,0
+C,1,23,,,,,,Andrea Cavandoli,it,1901339,,0
 C,1,23,TEAM BMTR,,bbbbbb,000000,aaaaaa,Ronnie Poplar,us,15696,silver,0
 C,1,23,teamWKG,,fa5e06,3f4c54,3f4c54,Steve Yates,au,907,,0
+C,1,21,,,,,,Chris Scott,us,288543,,0
 C,1,21,,,,,,CHEN YEN PIN 4460,tw,394833,bronze,0
 C,1,21,,,,,,Adam Bowser,gb,1533198,,0
 C,1,21,,,,,,Jasper Kreeft,nl,49553,,0
+C,1,19,EVOQ.BIKE,,000000,ffffff,000000,Patrick Mahoney,us,615284,,0
 C,1,19,Team England,,ffffff,f40000,daa520,Ryan Massey,gb-eng,821560,,0
 C,1,19,,,,,,John Drennan,ie,1768091,,0
 C,1,19,,,,,,B Schouten,nl,617913,,0
 C,1,19,,,,,,Norman Macleod,gb-sct,204805,,0
 C,1,19,,,,,,Ian Fraser,gb,43762,,0
 C,1,18,,,,,,mike shinebox,us,1287266,gold,0
+C,1,17,ZOSS VOG,,ffffff,000000,ffffff,Francisco Machado (PTG) (ZOSS VOG team),pt,1581656,,0
 C,1,17,,,,,,Michael Schwartz SUNSR,us,1265723,,0
 C,1,17,,,,,,Jose Hernandez9712,us,1377922,,0
 C,1,17,,,,,,Nuno Abreu,pt,145074,,0
 C,1,17,,,,,,Kenny Morton 4968,gb-sct,859419,,0
 C,1,17,,,,,,Lee Barnfield 9648,gb,929484,,0
+C,1,15,,,,,,Mark Colman,gb,1325588,,0
+C,3,15,BCC - Bees,,000000,fcfc01,000000,Anthony Eckersley (BCC - B),gb,240105,,1
 C,1,15,JourneyMulti,,000000,bc13fe,39ff14,Scott McMichael JourneyMultisport,us,8294,,0
 C,1,15,,,,,,Fred Tebbs,gb,412881,,0
-C,1,15,Apres Velo CC,,ffffff,0191c9,ffffff,Thibaut Pinot Noir,gb-wls,1831903,,0
+C,1,15,Apres Velo CC,,ffffff,0191c9,ffffff,Thibaut Pinot Noir #apresvelo,gb-wls,1831903,,0
 C,1,15,Hitchin Nomads,,ffffff,0073b7,ffffff,Jamie Fox,gb,454725,,0
 C,1,15,,,,,,Markus Ruppert,de,1713831,,0
+C,5,14,BCC - Bees,,000000,fcfc01,000000,David Morton BCC,gb,1462571,silver,3
+C,1,13,,,,,,Ben Taylor 1297,gb,2053440,,0
 C,1,13,R1V,,ffffff,4e7c9c,ffffff,Chris McGill(R1V),us,1396497,,0
 C,1,13,,,,,,Neil Browne,us,18590,bronze,0
-C,1,13,BCC-A,,ffffff,0073b7,ffffff,Alister Beveridge BCC-A,zw,1773158,,0
 C,1,13,,,,,,Lenny van der Schoot,nl,1537959,,0
 C,1,13,,,,,,keith lawson,gb,1310826,,0
 C,1,13,ZTPL.CC,,ffffff,ff1800,ff0000,Grzegorz Bakiewicz,pl,1528486,,0
+C,2,12,BCC - Bees,,000000,fcfc01,000000,Marcus Stoneham BCC,gb,1142755,,0
 C,1,11,,,,,,Ryan Smith,us,1431006,,0
 C,1,11,,,,,,Mark Robinson9767,gb-wls,1442860,,0
 C,1,11,,,,,,Reynaldo Hinojosa,us,1125460,,0
 C,1,11,,,,,,Tim Humbert NATI,us,1542589,,0
 C,1,11,Ultimo,,ffffff,0073b7,ffffff,Erik Niemeijer,nl,155163,,0
 C,1,10,,,,,,Fabrice Fabrice,fr,1404983,,0
+C,1,9,,,,,,Tamsin BCC-A Booth,gb,663741,,0
 C,1,9,,,,,,Yen-Tsang Chen,fr,385783,,0
 C,1,9,BCC-A,,ffffff,0073b7,ffffff,Myles Johnson BCC-A,gb,1350552,,0
-C,4,9,BCC - Bs,,000000,fcfc01,ffffff,David Morton BCC,gb,1462571,silver,3
 C,1,9,,,,,,Even Sylta,no,428227,,0
 C,1,9,VSPRINT,,ffffff,0073b7,ffffff,Jackie Fowler (V sprint),gb-wls,1016444,,0
 C,1,9,,,,,,Herbert Schwendinger9429,at,886433,,0
-C,1,8,4REME,,ffffff,0073b7,ffffff,Daniel Moseley (Herd),gb,241657,,0
+C,1,8,,,,,,Joel Gross,us,1586178,,0
+C,1,8,4REME,,ffffff,0073b7,ffffff,Daniel Moseley (4REME),gb,241657,,0
 C,1,8,,,,,,Julien Creton,fr,1460799,,0
 C,1,8,Online OCE,,ffffff,0073b7,ffffff,Joris Andringa,nl,21339,,0
 C,1,8,,,,,,Pascal lanjouw,nl,199707,,0
+C,1,7,HERD,,383c3d,fc6719,383c3d,jane williams (Herd of Lemurs),gb,678447,,0
 C,1,7,LONESTAR,,ffffff,f20808,000000,Patrick Manson,nz,687301,,0
 C,1,7,,,,,,Graeme Crane,gb-sct,419720,,0
 C,1,7,PACTri,,ffffff,0073b7,ffffff,Anthony Dauncey (PACtri),gb-eng,179151,,0
 C,1,7,,,,,,Fraser ras S (Stirling BC),gb-sct,414935,,0
 C,1,7,,,,,,Matthias Kunz6851,de,1021428,,0
+C,2,6,BMTR,,ffffff,0073b7,ffffff,Ray Douglas BMTR F,gb,302289,silver,1
 C,1,6,NAMZ,,ffffff,0073b7,ffffff,Patricia Hoeksema [NAMZ],na,1543109,,0
 C,2,6,,,,,,Mark Littlewood (BCC),gb,265496,,0
 C,1,6,,,,,,Ryan Fowler,us,494234,,0
@@ -344,8 +400,8 @@ C,1,5,,,,,,Aaron Rabinowitz,us,334141,,0
 C,1,5,BIKES-FRANCE,,000000,f2ad00,000000,sebastien rubany8116,fr,1847360,,0
 C,1,5,,,,,,A Cyclopath,us,1583148,,0
 C,1,5,,,,,,Benoit Cesar 1629,be,64033,,0
+C,1,4,,,,,,Joseph Lycett,gb,1275818,,0
 C,1,4,,,,,,Jacob Frazier7718,us,1332547,,0
-C,2,4,,,,,,Anthony Eckersley (BCC - B),gb,240105,,1
 C,1,4,,,,,,Tim Buckley AVC 3624,gb,804661,,0
 C,1,4,,,,,,Data Vader,de,1576625,,0
 C,1,4,,,,,,Liam Pegram,gb,1735570,,0
@@ -356,37 +412,43 @@ C,1,3,,,,,,Brad Tuck (DeSotoSportFan),us,195951,,0
 C,1,3,Team CRYO-GEN,,ffffff,0073b7,ffffff,Phil Swift,gb,84232,,0
 C,1,3,ZESP,,000000,fabd00,ad1519,Julito77,es,1101137,,0
 C,1,2,ZESP,,000000,fabd00,ad1519,Neroncete,es,1146297,,0
-C,1,2,BCC - Bs,,000000,fcfc01,ffffff,Marcus Stoneham BCC,gb,1142755,,0
 C,1,2,Hitchin Nomads,,ffffff,0073b7,ffffff,Mark Loosley,gb,226179,,0
 C,1,2,BRT,,ffffff,050505,ff8100,Ade Owens (BRT),gb-wls,253453,,0
 C,1,1,,,,,,Gillian Winter,gb,859818,,0
 C,1,1,LondonDynamo,,ffffff,0073b7,000000,Tam Tanwir,gb,55648,,0
 C,1,1,,,,,,Simon Hogg,ch,806998,,0
-D,2,28,,,,,,David Brown,gb,1028,gold gold,0
+D,3,54,,,,,,David Brown,gb,1028,gold gold gold,0
+D,2,30,BCC - Bees,,000000,fcfc01,000000,Albert May - BCC B,gb,62938,bronze,0
+D,3,25,BCC - Bees,,000000,fcfc01,000000,Andrew Telford - BCC,gb,1743146,,0
+D,1,23,,,,,,Peter Verhage,nl,209648,silver,0
+D,1,21,,,,,,Alex Steinker 5153,us,249956,bronze,0
 D,3,21,Hitchin Nomads,,ffffff,0073b7,ffffff,Matthew Jones (Team MGS),gb,60730,bronze,0
+D,1,19,,,,,,jahan bob,gb,1113408,,0
 D,1,18,,,,,,"Nate Carter (Lehi, UT)",us,1157136,gold,0
 D,1,18,,,,,,DAVID  SCOTT  SCCC,gb-sct,259728,gold,0
 D,1,18,,,,,,Robert Whynott,ca,1714579,gold,0
+D,3,16,BRT,,ffffff,050505,ff8100,Julian Hudson,ca,92276,,0
+D,1,15,,,,,,Richard Lay BCC,gb-wls,535835,,0
 D,1,15,,,,,,Francois Lemarbre1025,ca,230376,silver,0
 D,1,15,,,,,,Gary Pattison,gb,811305,silver,0
 D,1,15,,,,,,K QUAD,us,1084602,silver,0
-D,2,14,BCC - Bs,,000000,fcfc01,ffffff,Andrew Telford - BCC,gb,1743146,,0
-D,1,13,BCC - Bs,,000000,fcfc01,ffffff,Albert May - BCC &#128029;,gb,62938,bronze,0
+D,1,13,,,,,,Chris Ambrose,us,1095729,,0
 D,1,13,Team Italy,,dd4b39,ffffff,00a65a,Pasquale De stefano[ITA],gb,1701080,bronze,0
 D,1,13,,,,,,Adam Adams - Captain Slow,au,1774350,bronze,0
 D,1,13,TeamNL,,ffffff,ffa500,ffa500,Patrick Ansems,nl,438781,bronze,0
-D,2,12,BRT,,ffffff,050505,ff8100,Julian Hudson,ca,92276,,0
 D,1,11,Ble CC GR,,ffffff,0073b7,ffffff,Danny Der,gr,2053191,,0
 D,1,11,,,,,,Theodore Kirkbride,us,1688962,,0
 D,1,10,,,,,,Christopher Smith,au,1255768,gold,0
 D,1,10,,,,,,Johnny  Vandenbergh WTC SAS4,be,780481,gold,0
+D,1,9,,,,,,Stephen Versey 4880,nz,772853,,0
 D,1,9,,,,,,Quentin Paquot,be,1686096,,0
 D,1,9,ZRG,,1bc1f1,3d3d3d,1bc1f1,Herbert Mauracher,at,1001625,,0
-D,1,7,BMTR,,ffffff,0073b7,ffffff,Ray Douglas BMTR F,gb,302289,silver,0
+D,1,7,,,,,,Daniil Finch5315,si,1628551,,0
 D,1,7,DBR,,ffffff,eb7b2a,ffffff,Arne Boye-M&oslash;ller,dk,67150,silver,0
 D,2,7,,,,,,Chris Brooks BCC,gb,226323,bronze,0
 D,1,7,BZR cycling team,,f3f300,111111,dd4b39,Sven  Vermeyen (BZR/PACK),be,748284,,0
 D,1,7,ZTPL.CC,,ffffff,ff1800,ff0000,Adam Ardel,pl,1032716,silver,0
+D,1,5,,,,,,Carmel Lord_2141,za,362152,,0
 D,1,5,Team zTAH,,ffffff,ff0000,0ec7be,40005 Nick Seiwert &#127477;&#127467; [zTAH],pf,1345844,bronze,0
 D,1,5,,,,,,Grayson Smith,us,1070327,,0
 D,1,3,J0URNEY,,ffffff,0073b7,ffffff,Jonathan Moorhead,us,796685,,0
