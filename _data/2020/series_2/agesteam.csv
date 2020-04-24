@@ -1,7 +1,7 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,3,68,4222,2RR,ffffff,1010de,ff0000
+A,4,83,4222,2RR,ffffff,1010de,ff0000
+A,6,50,8954,Team Ali,ffffff,000000,ff0000
 A,2,20,5056,Tout Roanne Zwift,ffffff,0073b7,ffffff
-A,3,18,8954,Team Ali,ffffff,000000,ff0000
 A,1,15,6457,GES,ffffff,b74200,ffffff
 A,1,11,3266,Triathlon Sannois Franconville,0073b7,ffffff,e81a1a
 A,1,10,3282,POAUTO,004080,89cff0,f2740b
@@ -9,18 +9,24 @@ A,1,10,7061,Peloton205,ffffff,0073b7,ffffff
 A,1,10,1986,DBR,ffffff,eb7b2a,ffffff
 A,1,10,35,BZR cycling team,f3f300,111111,dd4b39
 A,1,9,3559,ETC athletics,ffffff,339933,006633
+A,1,7,5648,KWCC,011e41,ffffff,00bed6
 A,1,7,4493,ZTPL.CC eRacing,ffffff,ff0000,000000
+A,1,5,1426,Team CLS,3d9970,ffffff,ffffff
 A,1,5,6165,BDO,fffafa,120000,fff4f4
 A,1,5,2306,Fell Swoop,ffa500,000000,000000
 A,1,5,2059,TURN TAKERS,ffffff,16a1fa,ffffff
 A,1,5,3486,Team Bergziegen,ffffff,000000,ff0000
+A,1,2,7192,GOBIK,ffffff,2b0505,ffffff
+A,1,1,9291,FuckCancerTeam,ffffff,000000,ffffff
 A,1,1,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,2,55,6701,PEPLINK,fcfcfc,000000,de1414
 B,2,53,1986,DBR,ffffff,eb7b2a,ffffff
 B,1,47,5548,ARRODA,ffffff,0073b7,ffffff
+B,3,43,4,BRT,ffffff,050505,ff8100
 B,2,42,7637,NCT,ffffff,ff4545,fdff45
 B,2,42,5032,VCRT,fccb5a,2d009e,f521f5
 B,1,41,2898,Foudre &#9889;&#65039;,ffffff,81b9e8,ffffff
+B,1,37,7362,HCK,ffffff,28a802,000000
 B,1,33,6067,F25,c95858,000000,e3e3e3
 B,2,31,2707,DIRT,29ec34,211208,df6a0d
 B,1,31,4558,GF 973,ffffff,0073b7,ffffff
@@ -28,52 +34,61 @@ B,1,29,6502,BOA cc,ffffff,162141,ff97ff
 B,1,27,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,2,25,3559,ETC athletics,ffffff,339933,006633
 B,1,23,3128,3 Cycles [3CY],ffffff,0073b7,ffffff
-B,2,22,4,BRT,ffffff,050505,ff8100
 B,2,19,8114,CCP,ffffff,0073b7,ffffff
+B,1,19,2894,KendalCCRacing,aed6f1,21618c,c0392b
 B,1,19,6225,NOAQ,c43737,ffffff,c43737
-B,2,12,35,BZR cycling team,f3f300,111111,dd4b39
+B,3,17,35,BZR cycling team,f3f300,111111,dd4b39
+B,1,15,4630,TugaZ,ffffff,ff1f00,33735b
 B,1,11,8392,CYBERVELO.COM,ffffff,0073b7,ffffff
+B,1,9,9291,FuckCancerTeam,ffffff,000000,ffffff
 B,1,8,629,Team AHDR,fc6955,55d4fc,ffffff
+B,1,7,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 B,1,7,588,Team Italy,dd4b39,ffffff,00a65a
 B,1,6,6381,OTAKAM,ffffff,000000,fff400
 B,1,3,6393,United Eagles C.T.,ffffff,ff0000,000000
-C,6,92,4,BRT,ffffff,050505,ff8100
-C,2,51,5151,USM Villeparisis,ffffff,eb0e0e,535cc9
+C,7,105,4,BRT,ffffff,050505,ff8100
+C,3,62,5151,USM Villeparisis,ffffff,eb0e0e,535cc9
+C,2,47,5351,2RR reserve,000000,f0e200,f29913
 C,3,37,3559,ETC athletics,ffffff,339933,006633
-C,1,29,5351,2RR reserve,000000,f0e200,f29913
 C,2,27,3128,3 Cycles [3CY],ffffff,0073b7,ffffff
 C,2,25,4201,WTRL,f5f3f3,8f8f8f,010000
+C,2,20,2394,YKR,ffff00,0094ff,01b7a8
 C,1,19,25,ZTPL.CC,ffffff,ff1800,ff0000
 C,1,15,7,TeamODZ,ff851b,111111,3c8dbc
 C,1,13,90,Vikings,c2c2c2,0073b7,ee6331
-C,1,13,8963,Castlereagh,ffffff,0073b7,6df720
-C,1,11,2394,YKR,ffff00,0094ff,01b7a8
+C,1,13,3369,ZCT.IRL,ffffff,000000,00b84a
 C,1,10,161,ZSUNR,ffd808,1c1300,ffffff
 C,1,9,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,7,2231,V I E T V E L O,ff0000,ffe600,ff0000
 C,1,5,2868,Fitlab,ffffff,0073b7,ffffff
-D,11,143,4,BRT,ffffff,050505,ff8100
-D,6,125,1986,DBR,ffffff,eb7b2a,ffffff
-D,7,121,2570,Walsall Lads,ffffff,0073b7,ffffff
-D,2,64,3957,No. 22 CX Team,ffffff,000000,ffffff
+D,15,211,4,BRT,ffffff,050505,ff8100
+D,7,172,1986,DBR,ffffff,eb7b2a,ffffff
+D,8,156,2570,Walsall Lads,ffffff,0073b7,ffffff
+D,2,108,1634,[DRAFT],ffffff,e60d2e,000000
+D,3,107,3957,No. 22 CX Team,ffffff,000000,ffffff
+D,3,82,2147,Freddie Fu,ffffff,0073b7,ffffff
+D,2,66,1965,BIKES-FRANCE,000000,f2ad00,000000
+D,3,65,2013,IBTC,ffffff,0073b7,ffffff
 D,2,62,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
-D,1,58,1634,[DRAFT],ffffff,e60d2e,000000
-D,2,57,2147,Freddie Fu,ffffff,0073b7,ffffff
 D,1,53,5151,USM Villeparisis,ffffff,eb0e0e,535cc9
+D,2,50,7423,Team England,ffffff,f40000,daa520
+D,3,47,975,Innovation,000000,52ff33,000000
 D,1,47,2179,BikeSurgeon,f6fa45,0a0a0a,f72508
+D,1,45,2707,DIRT,29ec34,211208,df6a0d
 D,1,45,3128,3 Cycles [3CY],ffffff,0073b7,ffffff
-D,1,41,1965,BIKES-FRANCE,000000,f2ad00,000000
-D,1,37,7423,Team England,ffffff,f40000,daa520
-D,2,32,975,Innovation,000000,52ff33,000000
-D,2,28,2013,IBTC,ffffff,0073b7,ffffff
-D,1,27,7179,LeeVelo,ffffff,ff0000,ff69b4
-D,1,25,90,Vikings,c2c2c2,0073b7,ee6331
-D,1,18,1979,ZHR,ff0000,03228c,03228c
+D,1,41,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,1,39,4201,WTRL,f5f3f3,8f8f8f,010000
+D,1,31,7119,NDCA,ffffff,ffa500,000000
+D,1,25,7179,LeeVelo,ffffff,ff0000,ff69b4
+D,1,23,90,Vikings,c2c2c2,0073b7,ee6331
 D,1,18,2571,Equipe JZQc,ffffff,003399,ffffff
-D,1,15,3559,ETC athletics,ffffff,339933,006633
-D,1,12,5548,ARRODA,ffffff,0073b7,ffffff
+D,1,13,3559,ETC athletics,ffffff,339933,006633
+D,1,11,4095,All,ffffff,0073b7,ffffff
+D,1,11,5548,ARRODA,ffffff,0073b7,ffffff
 D,1,11,2508,NSCC,ffffff,d66975,000000
-D,1,10,3339,Cyclonauts,190000,cfcf29,000000
+D,1,9,3339,Cyclonauts,190000,cfcf29,000000
+D,1,8,1979,ZHR,ff0000,03228c,03228c
 D,1,7,4104,PAA,ffffff,0073b7,06f5d8
 D,1,7,5935,HAAMBA,ffffff,0073b7,ffffff
-D,1,5,6381,OTAKAM,ffffff,000000,fff400
+D,1,4,6381,OTAKAM,ffffff,000000,fff400
 D,1,3,2738,WATTBIKE,ffffff,000000,ff3535
