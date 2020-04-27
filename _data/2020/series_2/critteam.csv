@@ -4,11 +4,11 @@ A,8,90,9186,BCC - Bees,000000,fcfc01,000000
 A,4,84,1576,&Oslash;VB,ffffff,0073b7,ffffff
 A,3,61,10,TFC,111111,f3f300,111111
 A,2,50,2298,Rowe & King,ffffff,2b5bb8,2fba4e
-A,3,49,2707,DIRT,29ec34,211208,df6a0d
 A,2,46,2105,Cannondale/4iiii,0d0d0d,eef2f5,f27a0b
 A,2,42,588,Team Italy,dd4b39,ffffff,00a65a
 A,1,42,32,SZ,ffffff,285697,ffd700
 A,1,42,4630,TugaZ,ffffff,ff1f00,33735b
+A,2,40,2707,DIRT,29ec34,211208,df6a0d
 A,1,39,1835,V.C SPUTNIK,ffffff,0073b7,ffffff
 A,2,38,6431,CIZL,ffffff,0073b7,ffffff
 A,3,36,3029,SJBC,ffffff,0073b7,ffffff
@@ -38,6 +38,7 @@ A,1,19,60,TBR Racing,ffffff,0073b7,ffffff
 A,1,19,4645,BW Cycling,ffffff,0073b7,ffffff
 A,1,19,5825,VRM,0000ff,ff00e9,000000
 A,2,18,3030,V&Oslash;ST RT,ffffff,ff1b1b,ffffff
+A,1,17,9554,SCSGutt,ffffff,5f85bd,ffffff
 A,1,17,2571,Equipe JZQc,ffffff,003399,ffffff
 A,1,15,2936,Team 63.8N,ffffff,9a0606,000000
 A,1,15,3563,Team DBC,000000,ff820c,14c5c2
@@ -52,13 +53,14 @@ A,1,11,3901,Vel&oacute;Elite,ffffff,589c25,000000
 A,1,11,1887,EH*,ffffff,0073b7,ffffff
 A,1,9,3369,ZCT.IRL,ffffff,000000,00b84a
 A,1,9,6185,TRICT,ffffff,0073b7,ffffff
+A,1,9,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 A,1,9,6446,CTCR,ffffff,0073b7,ffffff
 A,1,8,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,2,7,5578,Poole Wheelers,e7ff00,ff0000,000000
 A,1,7,4811,Every Man Jack,ffffff,0073b7,ffffff
 A,1,5,2991,KIRCHMAIR e-Cycling,210606,f2e80d,000103
 B,21,627,4,BRT,ffffff,050505,ff8100
-B,17,448,9186,BCC - Bees,000000,fcfc01,000000
+B,18,454,9186,BCC - Bees,000000,fcfc01,000000
 B,13,273,7266,BCC-A,ffffff,0073b7,ffffff
 B,8,266,112,albaRosa CC,ffffff,0073b7,ffffff
 B,3,111,6431,CIZL,ffffff,0073b7,ffffff
@@ -96,6 +98,7 @@ B,1,27,2841,Protech-velo,f7e7e7,ff0000,260808
 B,1,27,5802,Hvalstad,ffffff,14ac14,ffffff
 B,1,26,5449,Team G&aring;ping,ffffff,249af7,2c3628
 B,1,25,6883,PNECC,ffffff,0073b7,ffffff
+B,1,23,7980,Tri-L&ouml;wen Bremen,140c0c,fa1111,ffffff
 B,1,23,7119,NDCA,ffffff,ffa500,000000
 B,1,23,1,PTz,ffffff,f28312,121110
 B,1,23,3128,3 Cycles [3CY],ffffff,0073b7,ffffff
@@ -172,6 +175,7 @@ C,1,3,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,1,2,5578,Poole Wheelers,e7ff00,ff0000,000000
 C,1,1,4127,LondonDynamo,ffffff,0073b7,000000
 D,8,84,9186,BCC - Bees,000000,fcfc01,000000
+D,3,54,975,Innovation,000000,52ff33,000000
 D,3,21,2722,Hitchin Nomads,ffffff,0073b7,ffffff
 D,3,16,4,BRT,ffffff,050505,ff8100
 D,2,16,588,Team Italy,dd4b39,ffffff,00a65a
