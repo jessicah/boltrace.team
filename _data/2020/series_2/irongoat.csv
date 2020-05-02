@@ -2,10 +2,10 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,30,TFC,,111111,f3f300,111111,Tommy Sellars (TFC Typhoon),gb,1387591,silver silver,0
 A,2,25,Team High Rollers,,c90101,7dc8e0,4b418c,1 Cycle Jockey,us,159182,gold silver,0
 A,3,25,Gainz,,ffffff,0073b7,ffffff,patrick charles,us,16462,,0
-A,1,18,,,,,,SCOTTIE WEISS 93133,us,745,gold,0
+A,1,18,,,,,,SCOTTIE WEISS USAC93133,us,745,gold,0
 A,1,18,CICLI STEFANELLI,,dea2a2,06060a,ffffff,Federico Caretta (Stefanelli Black Panther),it,1963303,gold,0
 A,1,18,,,,,,Marcos Gra&ntilde;a,es,909093,gold,0
-A,1,18,Innovation,,000000,52ff33,000000,Will Foster (INC Esp),gb,540907,gold,0
+A,1,18,Innovation,,000000,52ff33,000000,Will Foster (INC Alien Invaders),gb,540907,gold,0
 A,1,18,IndoorSpecialist,,ffffff,239bd3,fc6719,Dan Fleeman (Dig Deep Coaching),gb,49551,gold,0
 A,1,18,SZ,,ffffff,285697,ffd700,Alexander Wetterhall [SZ],se,1415037,gold,0
 A,1,15,KISS RT,,f56600,012350,84b7ca,Simon Collard (KISS Racing Team),be,4231,silver,0
@@ -17,7 +17,7 @@ A,1,13,ZJRT,,ac1d88,0073b7,cdac1f,Tsutomu Iwabuchi(ZJRT),jp,115126,bronze,0
 A,1,13,Van Rysel,,ffffff,000000,ffffff,Nicolas Urbain,be,1474131,bronze,0
 A,1,13,,,,,,Edwin Driessen,nl,219489,bronze,0
 A,1,13,DIRT,,29ec34,211208,df6a0d,George Henry (DIRTy Rascals Riot),us,258182,bronze,0
-A,1,11,BRT,,ffffff,050505,ff8100,Aaron Barry&#9889;&#65039;  (BRT Craft Beers),gb,743592,,0
+A,1,11,BRT,,ffffff,050505,ff8100,Aaron Barry&#9889;&#65039;  (BRT Draft Beers),gb,743592,,0
 A,1,11,Jamison - Cannondale,,ffffff,0073b7,ffffff,Steve Jamison,us,362232,,0
 A,1,11,Palmares,,ffffff,0073b7,ffffff,Tommy Brown,us,254808,,0
 A,1,11,Team X,,f5f7f6,111111,00a65a,Casey Schumm,us,1412,,0
@@ -42,7 +42,7 @@ A,1,5,,,,,,justin george,us,161784,bronze,0
 A,1,5,,,,,,Evan Morris,us,286611,bronze,0
 A,1,5,SZ,,ffffff,285697,ffd700,M&aring;rten H&aring;rd [SZ],se,1290734,,0
 A,1,5,,,,,,Pim @Airolubemtbteam,nl,1145706,,0
-A,1,3,OTAKAM,,ffffff,000000,fff400,Ryan Mc Cullough [OTK],us,2121198,,0
+A,1,3,OTAKAM,,ffffff,000000,fff400,23078 Ryan Mc Cullough [OTK],us,2121198,,0
 A,1,3,SJBC,,ffffff,0073b7,ffffff,Stephan Hofmann | SJBC | 534275,,510769,,0
 A,1,3,1D,,faf8f8,7a4988,000000,Jeroen Blondeel,be,381944,,0
 A,1,3,,,,,,Dave King - Cadence Cycling,au,223433,,0
@@ -53,7 +53,7 @@ A,1,2,Pearl Izumi/Pivot Cycles,,ffffff,0073b7,ffffff,Jen Toops,us,224884,,0
 A,1,2,,,,,,Jason Vail,us,1173813,,0
 A,1,1,,,,,,Leandro Forne,ve,2073724,,0
 B,3,55,MTZT,,ffffff,0073b7,ffffff,Stephane Hubert [MTZT],fr,567456,bronze,0
-B,1,34,teamWKG,,fa5e06,3f4c54,3f4c54,Paul Waddington (A3-WAY),gb,247818,gold,0
+B,1,34,teamWKG,,fa5e06,3f4c54,3f4c54,Paul Waddington (WKG VOMIT),gb,247818,gold,0
 B,1,31,Team CRYO-GEN,,ffffff,0073b7,ffffff,Simon Lyons,au,748454,silver,0
 B,1,29,,,,,,Jeff Phillips,us,66752,bronze,0
 B,1,26,PFL,,ffffff,0073b7,ffffff,Ollie Murphy,gb,574635,gold,0
