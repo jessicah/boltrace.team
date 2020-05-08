@@ -1,38 +1,52 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,7,70,4,BRT,ffffff,050505,ff8100
+A,8,83,4,BRT,ffffff,050505,ff8100
 A,1,18,4354,SSS Express Team,ffffff,000000,de2020
 A,1,18,9,Vision,ffffff,2ea9e0,000000
+A,1,15,7145,Islington CC,ffffff,32cd32,a9a9a9
 A,1,15,975,Innovation,000000,52ff33,000000
 A,1,13,4058,Wildcats,ffffff,a61d1d,ffffff
 A,2,12,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
+A,1,11,2961,EWCC,000000,ffff33,e47200
 A,1,10,8241,SteelSprings,ffffff,0073b7,ffffff
+A,1,9,32,SZ,ffffff,285697,ffd700
 A,1,9,5894,CK Master,ffffff,0073b7,ffffff
+A,1,7,8273,#geniesdutri,ffffff,0073b7,ffffff
 A,1,7,2571,Equipe JZQc,ffffff,003399,ffffff
 A,1,7,7984,CARTEL,ffffff,0073b7,ffffff
-B,6,60,4,BRT,ffffff,050505,ff8100
+A,1,3,1348,SAS CYCLE CLUB,ffffff,2c6597,2c6597
+B,7,73,4,BRT,ffffff,050505,ff8100
+B,1,18,8976,MLMK,ffffff,0073b7,ffffff
+B,1,15,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,2,14,4585,TeamFRL,ffffff,ff0000,318ce7
 B,1,11,3393,MLARC,ffffff,0073b7,e60000
 B,1,10,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
-B,1,10,4334,FSD,ffffff,0073b7,ffffff
-B,1,7,4585,TeamFRL,ffffff,ff0000,318ce7
 B,1,7,4713,eCKD,ffffff,ff0000,000000
 B,1,7,5632,RR 2020,ffffff,0073b7,ffffff
 B,1,5,111,SZR,ffffff,0073b7,ffffff
+B,1,3,9476,FURTIVO,ffffff,0f0f0f,ffffff
 B,1,3,3559,ETC athletics,ffffff,339933,006633
 B,1,3,2146,ZESP,000000,fabd00,ad1519
-B,1,3,7053,BMTR,ffffff,0073b7,ffffff
+B,1,3,4219,FPCC,ffffff,dc4747,050404
+B,1,2,4460,GCA,000000,f50000,401414
 B,1,1,1845,VEGAN,ffffff,00a65a,0adb2c
 B,1,1,1330,teamWKG,fa5e06,3f4c54,3f4c54
 B,1,1,6431,CIZL,ffffff,0073b7,ffffff
-C,8,103,4,BRT,ffffff,050505,ff8100
+C,9,108,4,BRT,ffffff,050505,ff8100
+C,2,27,1330,teamWKG,fa5e06,3f4c54,3f4c54
+C,2,26,10,TFC,111111,f3f300,111111
+C,1,26,6049,Scott ITA eRacing,ffec00,000000,ffec00
+C,1,19,8491,GPMATRIX,ffffff,0073b7,ffffff
 C,1,18,4630,TugaZ,ffffff,ff1f00,33735b
 C,1,18,25,ZTPL.CC,ffffff,ff1800,ff0000
 C,1,15,5524,UK Armed Forces,ffffff,4f213b,4f213b
-C,1,10,1330,teamWKG,fa5e06,3f4c54,3f4c54
+C,1,13,7893,TRIATLON VILAGARCIA,ffffff,0073b7,9e6767
+C,1,9,7192,GOBIK,ffffff,2b0505,ffffff
 C,1,9,90,Vikings,c2c2c2,0073b7,ee6331
+C,1,7,3514,RMACC,ffffff,0073b7,ffffff
 C,1,7,7637,NCT,ffffff,ff4545,fdff45
 C,1,7,2961,EWCC,000000,ffff33,e47200
 C,1,7,5530,FRS,ffffff,0073b7,ffffff
 C,1,3,4509,MinusCT,ffffff,0073b7,000000
 C,1,3,7875,VESP,ffffff,0073b7,ffffff
-D,1,10,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,3,30,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 D,1,10,4,BRT,ffffff,050505,ff8100
