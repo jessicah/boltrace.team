@@ -1,73 +1,85 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,20,831,2672,REVO,fc00e3,000000,fc00e3
-A,11,453,4,BRT,ffffff,050505,ff8100
-A,13,405,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,5,141,7301,LiveByCycling,ffffff,e10667,ffffff
+A,26,1074,2672,REVO,fc00e3,000000,fc00e3
+A,15,592,4,BRT,ffffff,050505,ff8100
+A,14,421,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,6,174,7301,LiveByCycling,ffffff,e10667,ffffff
 A,3,95,629,Team AHDR,fc6955,55d4fc,ffffff
+A,2,80,161,ZSUNR,ffd808,1c1300,ffffff
+A,3,76,5632,RR 2020,ffffff,0073b7,ffffff
 A,2,68,6049,Scott ITA eRacing,ffec00,000000,ffec00
 A,1,50,2894,KendalCCRacing,aed6f1,21618c,c0392b
 A,1,50,4485,TCP,000000,ffffff,a9a9a9
 A,1,50,1330,teamWKG,fa5e06,3f4c54,3f4c54
+A,2,47,1677,Team Fearless,001f3f,00dacc,00ff00
+A,1,40,9159,A E R O,ffffff,0000ff,ffffff
 A,1,40,2739,Cramp Champs,000000,ffffff,000000
-A,1,40,161,ZSUNR,ffd808,1c1300,ffffff
+A,1,33,7796,Team Tutute,000000,ccff00,000000
 A,1,33,4692,EVOQ.BIKE,000000,ffffff,000000
-A,1,33,5632,RR 2020,ffffff,0073b7,ffffff
 A,1,33,8390,VCMM,ffffff,0073b7,ffffff
+A,1,28,3094,#EFDV,4d4149,ff68c6,060004
 A,1,28,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,1,28,1826,BOC,ffffff,0073b7,ffffff
-A,1,28,1677,Team Fearless,001f3f,00dacc,00ff00
 A,1,25,7948,SDBC,ffffff,ec1d25,231f20
 A,1,25,975,Innovation,000000,52ff33,000000
 A,1,25,7,TeamODZ,ff851b,111111,3c8dbc
 A,1,25,7055,TRINX TEAM,ffffff,0073b7,ffffff
+A,1,22,36,KISS RT,f56600,012350,84b7ca
 A,1,22,8634,THB,800080,008000,ffffff
 A,1,22,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,1,20,391,Team SUI,ffffff,ff0017,ffffff
+A,1,20,2834,FZR,0000ff,ffffff,0000ff
 A,1,19,1845,VEGAN,ffffff,00a65a,0adb2c
 A,1,19,2586,LaPrima,ffffff,0b1838,ff69b4
 A,1,16,1634,[DRAFT],ffffff,e60d2e,000000
-B,21,858,2672,REVO,fc00e3,000000,fc00e3
-B,19,668,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,8,255,4,BRT,ffffff,050505,ff8100
-B,7,220,7301,LiveByCycling,ffffff,e10667,ffffff
-B,7,205,90,Vikings,c2c2c2,0073b7,ee6331
+B,27,1131,2672,REVO,fc00e3,000000,fc00e3
+B,25,865,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,10,335,4,BRT,ffffff,050505,ff8100
+B,10,309,7301,LiveByCycling,ffffff,e10667,ffffff
+B,8,245,90,Vikings,c2c2c2,0073b7,ee6331
+B,5,195,629,Team AHDR,fc6955,55d4fc,ffffff
 B,4,144,2834,FZR,0000ff,ffffff,0000ff
-B,3,128,629,Team AHDR,fc6955,55d4fc,ffffff
+B,6,123,161,ZSUNR,ffd808,1c1300,ffffff
 B,4,103,10,TFC,111111,f3f300,111111
 B,4,99,168,Team Type 1,ffffff,0073b7,ffffff
-B,4,91,161,ZSUNR,ffd808,1c1300,ffffff
+B,3,83,1677,Team Fearless,001f3f,00dacc,00ff00
 B,2,72,7948,SDBC,ffffff,ec1d25,231f20
+B,2,56,2649,Dutch Diesel Cycling,ffffff,ef7124,23398f
 B,1,50,4327,CCBR,ff0000,f5f5f5,000000
 B,3,35,4485,TCP,000000,ffffff,a9a9a9
+B,1,33,9565,VeloClub,daa520,000000,daa520
 B,1,33,7514,BCR,ffffff,ee5835,151515
+B,1,33,4178,[ATP],e0ffff,008b8b,00008b
 B,1,28,8772,KRV,ffffff,0073b7,ffffff
 B,1,25,9829,VVRC,ffffff,0073b7,ffffff
 B,1,25,7402,NGCA,000000,d42828,000000
 B,1,22,1,PTz-eRacingTeam,ffffff,f28312,121110
 B,1,20,4200,OrkneyCC,de3232,0f0606,eb3636
+B,1,19,4982,CCNS,190404,ffff00,190000
 B,1,19,8148,FLT,ffffff,2500b7,f70505
 B,1,19,1845,VEGAN,ffffff,00a65a,0adb2c
 B,1,18,8449,VESELKA,ffffff,19bd72,ffffff
 B,1,18,3978,GND-MI,290b0b,ede41a,000000
-B,1,18,1677,Team Fearless,001f3f,00dacc,00ff00
 B,1,17,5637,PCC &#128693;,ffffff,0073b7,ffffff
 B,1,17,588,Team Italy,dd4b39,ffffff,00a65a
-B,1,17,7077,TMK,ffffff,0073b7,ffffff
-C,21,993,2672,REVO,fc00e3,000000,fc00e3
-C,15,390,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,12,350,4,BRT,ffffff,050505,ff8100
-C,3,94,7301,LiveByCycling,ffffff,e10667,ffffff
+B,1,12,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
+C,27,1239,2672,REVO,fc00e3,000000,fc00e3
+C,19,565,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,16,465,4,BRT,ffffff,050505,ff8100
+C,7,216,7301,LiveByCycling,ffffff,e10667,ffffff
 C,4,92,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+C,2,65,1426,Team CLS,3d9970,ffffff,ffffff
 C,2,62,4327,CCBR,ff0000,f5f5f5,000000
+C,3,58,161,ZSUNR,ffd808,1c1300,ffffff
 C,1,50,7264,TMCG,ffffff,0073b7,ffffff
 C,1,50,2834,FZR,0000ff,ffffff,0000ff
-C,3,49,7778,Bikesplus - Kamikaze,ffffff,0073b7,ffffff
-C,1,40,1426,Team CLS,3d9970,ffffff,ffffff
+C,3,45,7778,Bikesplus - Kamikaze,ffffff,0073b7,ffffff
 C,1,40,2689,PainCave,ffffff,0073b7,ffffff
 C,1,40,4024,Killer B,ffffff,0073b7,ffffff
 C,1,40,5726,Kings and Queens,ffffff,000203,fc1010
 C,3,37,4485,TCP,000000,ffffff,a9a9a9
+C,2,33,1677,Team Fearless,001f3f,00dacc,00ff00
 C,1,33,5637,PCC &#128693;,ffffff,0073b7,ffffff
+C,2,30,4982,CCNS,190404,ffff00,190000
 C,1,28,6178,BRC,ffffff,0073b7,ffffff
 C,1,28,6487,&Ouml;CK,080000,fa0404,ffffff
 C,1,28,8680,Bekker Steel,ffffff,0073b7,ffffff
@@ -76,27 +88,30 @@ C,1,25,7049,VeloAmici,211a1a,fce7e7,5f53ad
 C,1,25,5212,HPT,ffffff,000000,ffffff
 C,1,25,2571,Equipe JZQc,ffffff,003399,ffffff
 C,1,25,7896,Hopey,000000,ffe600,190000
+C,1,22,60,TBR Racing,ffffff,0073b7,ffffff
 C,2,21,7,TeamODZ,ff851b,111111,3c8dbc
 C,1,19,6921,226,ffffff,0073b7,ffffff
+C,1,19,10095,TZR,ffffff,0073b7,ffffff
+C,1,18,10449,KQC,f9e824,000000,000000
 C,1,18,142,FK Team,ffffff,0073b7,ffffff
 C,1,18,588,Team Italy,dd4b39,ffffff,00a65a
 C,1,17,6451,KGB Racing,ffffff,0073b7,ffffff
 C,1,17,6431,CIZL,ffffff,0073b7,ffffff
-C,1,16,161,ZSUNR,ffd808,1c1300,ffffff
+C,1,15,9677,3Sixty,ffffff,0073b7,ffffff
 C,1,14,8712,WoTT,ffffff,0073b7,ffffff
 C,1,12,9829,VVRC,ffffff,0073b7,ffffff
-C,1,10,4982,CCNS,190404,ffff00,190000
-D,21,946,2672,REVO,fc00e3,000000,fc00e3
-D,13,571,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-D,6,190,36,KISS RT,f56600,012350,84b7ca
+D,25,1126,2672,REVO,fc00e3,000000,fc00e3
+D,17,751,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,7,230,36,KISS RT,f56600,012350,84b7ca
 D,4,128,4,BRT,ffffff,050505,ff8100
-D,2,50,161,ZSUNR,ffd808,1c1300,ffffff
-D,2,47,2639,HERD,383c3d,fc6719,383c3d
+D,3,94,1677,Team Fearless,001f3f,00dacc,00ff00
+D,3,72,2639,HERD,383c3d,fc6719,383c3d
 D,2,47,5637,PCC &#128693;,ffffff,0073b7,ffffff
 D,2,45,7,TeamODZ,ff851b,111111,3c8dbc
 D,2,42,7778,Bikesplus - Kamikaze,ffffff,0073b7,ffffff
 D,1,33,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,1,28,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
+D,1,25,161,ZSUNR,ffd808,1c1300,ffffff
 D,1,25,4355,Arg Team,ffffff,79bbec,000000
 D,1,20,629,Team AHDR,fc6955,55d4fc,ffffff
 D,1,18,2579,StGeorgeCycling,ffffff,ff0000,ffffff
