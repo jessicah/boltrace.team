@@ -1,0 +1,27 @@
+category,events,points,tid,tname,tc,tbc,tbd
+A,2,90,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,2,73,4,BRT,ffffff,050505,ff8100
+A,1,50,7301,LiveByCycling,ffffff,e10667,ffffff
+A,1,50,2144,CANYON,ffffff,ff005d,ff005d
+A,1,33,5632,RR 2020,ffffff,0073b7,ffffff
+B,3,111,7301,LiveByCycling,ffffff,e10667,ffffff
+B,2,83,4,BRT,ffffff,050505,ff8100
+B,2,72,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,1,40,168,Team Type 1,ffffff,0073b7,ffffff
+B,1,40,2672,REVO,fc00e3,000000,fc00e3
+B,1,40,7119,NDCA,ffffff,ffa500,000000
+B,1,33,2834,FZR,0000ff,ffffff,0000ff
+B,1,28,10038,PBC,ffffff,000000,ffffff
+B,1,25,629,Team AHDR,fc6955,55d4fc,ffffff
+C,3,123,7301,LiveByCycling,ffffff,e10667,ffffff
+C,3,123,4,BRT,ffffff,050505,ff8100
+C,3,88,2672,REVO,fc00e3,000000,fc00e3
+C,1,25,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,19,90,Vikings,c2c2c2,0073b7,ee6331
+C,1,17,2944,TTU,ffffff,0073b7,ffffff
+D,3,108,4,BRT,ffffff,050505,ff8100
+D,3,106,7301,LiveByCycling,ffffff,e10667,ffffff
+D,2,73,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+D,1,50,2672,REVO,fc00e3,000000,fc00e3
+D,1,40,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+D,1,40,1384,[EXN],ee1d22,ffffff,ee1d22
