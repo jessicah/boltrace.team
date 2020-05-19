@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,25,2RR,,ffffff,1010de,ff0000,1021 Jean-Baptiste MESSANT,fr,45954,gold silver,0
 A,1,18,Team Ali,,ffffff,000000,ff0000,Stefan Van Aelst,be,228559,gold,0
 A,1,18,TeamZF,,f5f5f5,0623a9,cf3a42,Rodolfo   Gervasio Niels,mx,957455,gold,0
-A,1,15,tugaCAKES,,ff0000,2fff2b,ff0000,C&eacute;sar Martingil (PTG),pt,1856430,silver,0
+A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil (PTG),pt,1856430,silver,0
 A,1,13,Team Ali,,ffffff,000000,ff0000,Tom Maes,be,1524079,bronze,0
 A,1,13,Innovation,,000000,52ff33,000000,Will Foster (INNOVATION),gb,540907,bronze,0
 A,1,11,PTz,,ffffff,f28312,121110,Francesco Van Meeuwen,be,187760,,0
@@ -18,7 +18,7 @@ A,1,5,Sea2Sky,,ffffff,0073b7,ffffff,Patrick Tunnicliffe,ca,13835,,0
 B,2,30,,,,,,Geert Lombaert,be,232712,silver silver,0
 B,2,28,,,,,,Bret  Hoag,us,984531,gold gold,0
 B,1,18,,,,,,Chris Smudger Smith,gb-eng,856854,gold,0
-B,1,13,53onze,,ffffff,ff0000,000000,Pedro Barroso (53onze),pt,24638,bronze,0
+B,1,13,53onze,,ffffff,ff0000,000000,Pedro Barroso,pt,24638,bronze,0
 B,1,13,teamWKG,,fa5e06,3f4c54,3f4c54,Jamie Woodward (WKG),gb,685302,bronze,0
 B,1,11,BRT,,ffffff,050505,ff8100,Andrew Ashwin (BRT),gb,1394430,,0
 B,1,11,Pilu Racing,,ffffff,0073b7,ffffff,Steffan North6684,gb,300768,,0
@@ -54,7 +54,7 @@ C,1,4,,,,,,Rod Cavallaro5219,us,554839,,0
 D,3,83,No. 22 CX Team,,ffffff,000000,ffffff,Bill Pjontek,us,1111096,gold gold silver,0
 D,3,73,,,,,,Matt Varey,ca,580973,silver silver,0
 D,3,69,Walsall Lads,,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,bronze bronze,0
-D,2,34,Team England,,ffffff,f40000,daa520,Terry Flynn,gb-eng,397987,,0
+D,2,34,Team England,,ffffff,d24848,3b3b6b,Terry Flynn,gb-eng,397987,,0
 D,1,34,IBTC,,ffffff,0073b7,ffffff,David Bailey,us,16390,gold,0
 D,2,32,,,,,,Robert Yog Ashwell,gb,1001853,,0
 D,1,29,WTRL,,d4af37,000000,d4af37,John van Rullen (Amsterdam),nl,903663,bronze,0
