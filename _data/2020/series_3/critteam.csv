@@ -17,7 +17,7 @@ A,1,23,6750,PHNX,ffffff,0073b7,ffffff
 A,1,19,2707,DIRT,29ec34,211208,df6a0d
 A,1,17,7888,Army Cycling,ffffff,0073b7,ffffff
 A,1,17,60,TBR Racing,ffffff,0073b7,ffffff
-A,1,17,7423,Team England,ffffff,f40000,daa520
+A,1,17,7423,Team England,ffffff,d24848,3b3b6b
 A,3,16,7266,BCC-A,ffffff,0073b7,ffffff
 A,1,15,4,BRT,ffffff,050505,ff8100
 A,1,13,3800,CCR,db9999,757070,000000
@@ -92,8 +92,9 @@ D,4,75,4,BRT,ffffff,050505,ff8100
 D,1,29,7266,BCC-A,ffffff,0073b7,ffffff
 D,1,21,7053,BMTR,ffffff,0073b7,ffffff
 D,1,13,391,Team SUI,ffffff,ff0017,ffffff
-D,1,11,2707,DIRT,29ec34,211208,df6a0d
 D,1,11,9186,BCC - Bees,000000,fcfc01,000000
-D,1,9,35,BZR cycling team,f3f300,111111,dd4b39
+D,1,9,2707,DIRT,29ec34,211208,df6a0d
+D,1,7,35,BZR cycling team,f3f300,111111,dd4b39
+D,1,7,25,ZTPL.CC,ffffff,ff1800,ff0000
 D,1,5,6138,CMCC,ff0000,ffffff,000000
 D,1,3,588,Team Italy,dd4b39,ffffff,00a65a
