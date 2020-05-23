@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,3,26,BRT,,ffffff,050505,ff8100,Sean Casson (BRT Craft Beers),gb,161615,gold silver,0
 A,1,18,2RR reserve,,000000,f0e200,f29913,Vincent Kerdraon,fr,183116,gold,0
 A,1,15,S/ Dublin Port,,ffffff,b0d6fa,ffffff,Paul Kennedy (S/Dublinport),ie,406799,silver,0
-A,1,13,,,,,,Jake Rytlewski (E-Stellas),us,5328,bronze,0
+A,1,13,,,,,,Jake Rytlewski (E-Stallas),us,5328,bronze,0
 A,1,11,,,,,,C. McNay4111,ie,430512,,0
 A,1,10,,,,,,Mircea Puiulet,us,7672,gold,0
 A,1,10,WTRL,,d4af37,000000,d4af37,P. Schaefer (R3R Westlife),de,1125195,gold,0
@@ -17,7 +17,7 @@ A,1,3,TRIATLON CANOE,,106ff7,f7f711,106ff7,Diego Arg&uuml;ello Ron,es,1807446,,0
 B,1,34,TFC,,111111,f3f300,111111,Vincent O&rsquo;Leary (TFC),ie,1350525,gold,0
 B,1,31,Chain,,0f0d0d,2989bf,ffffff,Allen Stanfield- TEAM MPI,us,7062,silver,0
 B,1,29,IRL,,ffffff,000000,00b84a,Oran Kane (IRL Bonnets),ie,1139660,bronze,0
-B,1,27,IRL,,ffffff,000000,00b84a,Marko Horvat (IRL Birds Eyes),hr,203502,,0
+B,1,27,CIZL,,ffffff,0073b7,ffffff,Marko Horvat,hr,203502,,0
 B,2,26,BRT,,ffffff,050505,ff8100,Roby Rippinger,lu,95269,bronze,0
 B,1,25,IRL,,ffffff,000000,00b84a,Mike O Shea(IRL BIRDS EYES),ie,542013,,0
 B,1,23,,,,,,Fergus Craddock (DWCC),ie,394820,,0
@@ -33,7 +33,7 @@ B,1,13,,,,,,Shane O'Connor,ie,1697983,,0
 B,1,13,KIRCHMAIR e-Cycling,,210606,f2e80d,000103,Thomas Holzbein (KC),de,1348717,bronze,0
 B,1,11,BRT,,ffffff,050505,ff8100,Paul Esson [BRT],gb,161041,,0
 B,1,11,Pembs Velo,,2703bd,d910d9,2703bd,Jon Pickford,gb,1379285,,0
-B,1,11,IRL,,ffffff,000000,00b84a,Mark Thompson (IRL Jalapenos),gb,819539,,0
+B,1,11,Tri Ireland,,ffffff,0073b7,ffffff,Mark Thompson (IRL Jalapenos),gb,819539,,0
 B,1,10,FUCM,,ffffff,37d96e,ffffff,Henrik Gielstrup,dk,304227,gold,0
 B,1,9,,,,,,Joao Babo Silva,pt,2076310,,0
 B,1,9,VCRT,,fccb5a,2d009e,f521f5,Michael Tarabokia,ca,1596813,,0
