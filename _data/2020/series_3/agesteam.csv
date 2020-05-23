@@ -1,7 +1,7 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,3,36,8954,Team Ali,ffffff,000000,ff0000
 A,2,25,4222,2RR,ffffff,1010de,ff0000
-A,1,18,1469,TeamZF,f5f5f5,0623a9,cf3a42
+A,1,18,5411,Team Mexico,ffffff,f20000,ffffff
 A,1,15,10625,PTzPro eRacing,b75c07,00ff00,000000
 A,2,14,9913,Sea2Sky,ffffff,0073b7,ffffff
 A,1,13,975,Innovation,000000,52ff33,000000
@@ -9,13 +9,17 @@ A,1,11,1,PTz,ffffff,f28312,121110
 A,1,11,9604,T Laureles,000000,a5cbfa,00ff00
 A,1,7,3919,CONE!D,ffffff,37474d,fb7689
 A,1,7,8282,53onze,ffffff,ff0000,000000
+B,1,26,4523,e-Latino,fe2ec8,fafafa,fe2ec8
+B,1,21,5604,ART,ffffff,2e2c2c,e33131
+B,1,19,7457,VLV,ffffff,0073b7,ffffff
 B,2,16,4,BRT,ffffff,050505,ff8100
 B,1,13,8282,53onze,ffffff,ff0000,000000
 B,1,13,1330,teamWKG,fa5e06,3f4c54,3f4c54
 B,1,11,272,Pilu Racing,ffffff,0073b7,ffffff
 B,1,9,6951,M530,ff0000,ffffff,ffffff
 B,1,7,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
-C,5,74,5151,USM Villeparisis,ffffff,eb0e0e,535cc9
+B,1,5,1677,Team Fearless,001f3f,00dacc,00ff00
+C,8,96,5151,USM Villeparisis,ffffff,eb0e0e,535cc9
 C,2,36,5351,2RR reserve,000000,f0e200,f29913
 C,1,26,4354,SSS Express Team,ffffff,000000,de2020
 C,1,18,7,TeamODZ,ff851b,111111,3c8dbc
@@ -27,18 +31,20 @@ C,1,9,4,BRT,ffffff,050505,ff8100
 C,1,9,7069,Grenland Zwift Riders,ffffff,0073b7,ffffff
 C,1,7,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,7,2571,Equipe JZQc,ffffff,003399,ffffff
-D,3,83,3957,No. 22 CX Team,ffffff,000000,ffffff
-D,3,69,2570,Walsall Lads,ffffff,0073b7,ffffff
-D,8,68,4,BRT,ffffff,050505,ff8100
+D,13,147,4,BRT,ffffff,050505,ff8100
+D,4,117,3957,No. 22 CX Team,ffffff,000000,ffffff
+D,4,96,2570,Walsall Lads,ffffff,0073b7,ffffff
+D,2,56,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 D,2,34,7423,Team England,ffffff,d24848,3b3b6b
 D,1,34,2013,IBTC,ffffff,0073b7,ffffff
 D,1,29,4201,WTRL,d4af37,000000,d4af37
-D,1,25,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 D,1,25,1965,BIKES-FRANCE,000000,f2ad00,000000
 D,1,23,8582,ShirksM,ffffff,0073b7,ffffff
 D,1,19,1740,FinishStrong,ffffff,0073b7,ffffff
 D,1,9,2934,Zwift Scotland,ffffff,0073b7,000000
+D,1,7,2707,DIRT,29ec34,211208,df6a0d
 D,1,7,1330,teamWKG,fa5e06,3f4c54,3f4c54
 D,1,6,8934,TRIPLAY,ffffff,0073b7,ffffff
+D,1,4,3369,IRL,ffffff,000000,00b84a
 D,1,4,1887,EH*,ffffff,0073b7,ffffff
 D,1,3,8176,Korrridas,ffffff,0073b7,ffffff
