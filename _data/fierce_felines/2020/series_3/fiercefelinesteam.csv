@@ -1,27 +1,38 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,2,90,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-A,2,73,4,BRT,ffffff,050505,ff8100
-A,1,50,7301,LiveByCycling,ffffff,e10667,ffffff
+A,3,140,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,3,113,4,BRT,ffffff,050505,ff8100
+A,2,100,7301,LiveByCycling,ffffff,e10667,ffffff
+A,2,80,791,Race3R,000000,2bc3f4,ffffff
 A,1,50,2144,CANYON,ffffff,ff005d,ff005d
 A,1,33,5632,RR 2020,ffffff,0073b7,ffffff
-B,3,111,7301,LiveByCycling,ffffff,e10667,ffffff
-B,2,83,4,BRT,ffffff,050505,ff8100
-B,2,72,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-B,1,40,168,Team Type 1,ffffff,0073b7,ffffff
+A,1,33,6213,BSCC,ff0000,ffff00,000000
+A,1,25,161,ZSUN,ffffff,0073b7,ffffff
+B,6,241,7301,LiveByCycling,ffffff,e10667,ffffff
+B,3,122,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,3,111,4,BRT,ffffff,050505,ff8100
+B,2,83,2834,FZR,0000ff,ffffff,0000ff
+B,2,73,168,Team Type 1,ffffff,0073b7,ffffff
+B,2,47,10257,WTRL&#9792;&#9752;,d4af37,000000,d4af37
 B,1,40,2672,REVO,fc00e3,000000,fc00e3
 B,1,40,7119,NDCA,ffffff,ffa500,000000
-B,1,33,2834,FZR,0000ff,ffffff,0000ff
+B,1,40,161,ZSUN,ffffff,0073b7,ffffff
 B,1,28,10038,PBC,ffffff,000000,ffffff
+B,1,28,4127,LondonDynamo,ffffff,0073b7,000000
 B,1,25,629,Team AHDR,fc6955,55d4fc,ffffff
-C,3,123,7301,LiveByCycling,ffffff,e10667,ffffff
-C,3,123,4,BRT,ffffff,050505,ff8100
-C,3,88,2672,REVO,fc00e3,000000,fc00e3
+B,1,25,10,TFC,111111,f3f300,111111
+C,6,216,4,BRT,ffffff,050505,ff8100
+C,5,213,7301,LiveByCycling,ffffff,e10667,ffffff
+C,4,121,2672,REVO,fc00e3,000000,fc00e3
+C,1,50,8928,SCI,ffffff,0073b7,ffffff
+C,1,50,10257,WTRL&#9792;&#9752;,d4af37,000000,d4af37
 C,1,25,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,20,265,RCC,fc2097,d2d6de,111111
 C,1,19,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,17,2944,TTU,ffffff,0073b7,ffffff
-D,3,108,4,BRT,ffffff,050505,ff8100
+D,5,203,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+D,4,141,4,BRT,ffffff,050505,ff8100
 D,3,106,7301,LiveByCycling,ffffff,e10667,ffffff
-D,2,73,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-D,1,50,2672,REVO,fc00e3,000000,fc00e3
+D,2,100,2672,REVO,fc00e3,000000,fc00e3
 D,1,40,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 D,1,40,1384,[EXN],ee1d22,ffffff,ee1d22
+D,1,28,7,TeamODZ,ff851b,111111,3c8dbc
