@@ -1,8 +1,8 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,25,2RR,,ffffff,1010de,ff0000,1021 Jean-Baptiste MESSANT,fr,45954,gold silver,0
 A,1,18,Team Ali,,ffffff,000000,ff0000,Stefan Van Aelst,be,228559,gold,0
-A,1,18,Team Mexico,,ffffff,f20000,ffffff,Rodolfo Gio Gervasio Niels,mx,957455,gold,0
-A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil (PTG),pt,1856430,silver,0
+A,1,18,TeamZF,,f5f5f5,0623a9,cf3a42,Rodolfo Gio Gervasio Niels,mx,957455,gold,0
+A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil [PTzPro],pt,1856430,silver,0
 A,1,13,Team Ali,,ffffff,000000,ff0000,Tom Maes,be,1524079,bronze,0
 A,1,13,Innovation,,000000,52ff33,000000,Will Foster (INNOVATION),gb,540907,bronze,0
 A,1,11,PTz,,ffffff,f28312,121110,Francesco Van Meeuwen,be,187760,,0
@@ -68,7 +68,7 @@ D,2,56,EVOLUTION,,ff09ff,2e1c1c,ff09ff,Douglas Darling [EVO],us,90667,silver,0
 D,3,47,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,,0
 D,4,44,BRT,,ffffff,050505,ff8100,Tee Allen,us,683793,,0
 D,2,34,,,,,,Mel. Blackford(BMTR D),gb,1862589,,0
-D,2,34,Team England,,ffffff,d24848,3b3b6b,Terry Flynn,gb-eng,397987,,0
+D,2,34,England CC,,ffffff,d24848,3b3b6b,Terry Flynn,gb-eng,397987,,0
 D,1,34,IBTC,,ffffff,0073b7,ffffff,David Bailey,us,16390,gold,0
 D,2,32,,,,,,Robert Yog Ashwell,gb,1001853,,0
 D,1,29,WTRL,,d4af37,000000,d4af37,John van Rullen (Amsterdam),nl,903663,bronze,0
