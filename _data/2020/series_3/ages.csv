@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,25,2RR,,ffffff,1010de,ff0000,1021 Jean-Baptiste MESSANT,fr,45954,gold silver,0
 A,1,18,Team Ali,,ffffff,000000,ff0000,Stefan Van Aelst,be,228559,gold,0
 A,1,18,TeamZF,,f5f5f5,0623a9,cf3a42,Rodolfo Gio Gervasio Niels,mx,957455,gold,0
-A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil [PTzPro],pt,1856430,silver,0
+A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil [PTz],pt,1856430,silver,0
 A,1,13,Team Ali,,ffffff,000000,ff0000,Tom Maes,be,1524079,bronze,0
 A,1,13,Innovation,,000000,52ff33,000000,Will Foster (INNOVATION),gb,540907,bronze,0
 A,1,11,PTz,,ffffff,f28312,121110,Francesco Van Meeuwen,be,187760,,0
@@ -19,7 +19,7 @@ B,3,45,,,,,,Geert Lombaert,be,232712,silver silver,0
 B,2,28,,,,,,Bret  Hoag,us,984531,gold gold,0
 B,1,26,e-Latino,,fe2ec8,fafafa,fe2ec8,Pablo Perruchoud[TeamZF Elatino],ar,750156,gold,0
 B,1,23,,,,,,Rich Uliana,us,474995,silver,0
-B,2,21,ART,,ffffff,2e2c2c,e33131,Farrell Kilbane (ART),ie,275412,bronze,1
+B,2,21,BRT,,ffffff,050505,ff8100,Farrell Kilbane,ie,275412,bronze,1
 B,1,19,VLV,,ffffff,0073b7,ffffff,Muller Van Dross,vg,1731874,,0
 B,1,18,,,,,,Chris Smudger Smith,gb-eng,856854,gold,0
 B,1,17,,,,,,I T,gb,109067,,0
@@ -37,7 +37,7 @@ B,1,7,ZRG,,1bc1f1,3d3d3d,1bc1f1,Fabian D&ouml;ring Paracyclist,de,639271,,0
 B,1,7,,,,,,Alexander Weijmer,se,205283,silver,0
 B,1,7,,,,,,Dann Cushing,ca,1587412,,0
 B,1,5,Team Fearless,,001f3f,00dacc,00ff00,Sonia Whiteman (FEAR&lt;) VCV,cz,132012,,0
-B,1,5,BRT,,ffffff,050505,ff8100,Sten Johansen (BRT Chasers),no,182316,,0
+B,1,5,BRT,,ffffff,050505,ff8100,Sten Johansen (BRT Macchiato),no,182316,,0
 B,1,5,,,,,,Bruno Ramos (Tridot),pt,1394982,bronze,0
 C,4,58,USM Villeparisis,,ffffff,eb0e0e,535cc9,5003 MATHIEU St&eacute;phane,fr,1477257,gold gold,0
 C,2,36,2RR reserve,,000000,f0e200,f29913,G&eacute;rald Labbe Guidon Macarien 1961,fr,1878006,silver bronze,0
