@@ -1,21 +1,21 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,5,230,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,5,240,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,4,173,7301,LiveByCycling,ffffff,e10667,ffffff
 A,3,113,4,BRT,ffffff,050505,ff8100
 A,2,80,791,Race3R,000000,2bc3f4,ffffff
 A,1,50,2144,CANYON,ffffff,ff005d,ff005d
 A,1,50,2672,REVO,fc00e3,000000,fc00e3
-A,1,50,4397,HEINO RT,ffffff,ff0000,ff3b3b
+A,1,40,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,1,33,5632,RR 2020,ffffff,0073b7,ffffff
 A,1,33,6213,BSCC,ff0000,ffff00,000000
 A,1,25,161,ZSUN,ffffff,0073b7,ffffff
 B,9,357,7301,LiveByCycling,ffffff,e10667,ffffff
-B,6,204,4,BRT,ffffff,050505,ff8100
-B,4,162,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,6,213,4,BRT,ffffff,050505,ff8100
+B,4,150,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,3,133,2834,FZR,0000ff,ffffff,0000ff
 B,3,123,168,Team Type 1,ffffff,0073b7,ffffff
-B,3,108,2834,FZR,0000ff,ffffff,0000ff
-B,3,90,2672,REVO,fc00e3,000000,fc00e3
-B,2,65,629,Team AHDR,fc6955,55d4fc,ffffff
+B,3,93,2672,REVO,fc00e3,000000,fc00e3
+B,2,53,629,Team AHDR,fc6955,55d4fc,ffffff
 B,2,47,10257,WTRL&#9792;&#9752;,d4af37,000000,d4af37
 B,1,40,7119,NDCA,ffffff,ffa500,000000
 B,1,40,161,ZSUN,ffffff,0073b7,ffffff
@@ -23,19 +23,19 @@ B,1,28,10038,PBC,ffffff,000000,ffffff
 B,1,28,4127,LondonDynamo,ffffff,0073b7,000000
 B,1,25,10,TFC,111111,f3f300,111111
 C,8,336,7301,LiveByCycling,ffffff,e10667,ffffff
-C,8,278,4,BRT,ffffff,050505,ff8100
+C,8,288,4,BRT,ffffff,050505,ff8100
 C,4,121,2672,REVO,fc00e3,000000,fc00e3
 C,2,100,8928,SCI,ffffff,0073b7,ffffff
 C,2,50,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,1,50,10257,WTRL&#9792;&#9752;,d4af37,000000,d4af37
-C,1,50,4982,CCNS,190404,ffff00,190000
-C,1,33,10607,ZiMA,ffffff,056e8c,ffffff
+C,1,40,10607,ZiMA,ffffff,056e8c,ffffff
+C,1,40,4982,CCNS,190404,ffff00,190000
 C,1,20,265,RCC,fc2097,d2d6de,111111
 C,1,19,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,17,2944,TTU,ffffff,0073b7,ffffff
 D,7,271,1940,Vixen/Fox,7409a6,f79d4b,ffffff
-D,4,200,2672,REVO,fc00e3,000000,fc00e3
-D,5,174,4,BRT,ffffff,050505,ff8100
+D,5,191,4,BRT,ffffff,050505,ff8100
+D,4,183,2672,REVO,fc00e3,000000,fc00e3
 D,3,106,7301,LiveByCycling,ffffff,e10667,ffffff
 D,1,40,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 D,1,40,1384,[EXN],ee1d22,ffffff,ee1d22
