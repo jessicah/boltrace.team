@@ -57,20 +57,20 @@ A,1,9,KST,,ffffff,030000,7d7474,Rune Elnegaard Jensen | KST,dk,1112164,,0
 A,1,8,,,,,,Benoit Lamare (PessacTri),fr,2180393,,0
 A,1,7,ACCC,,ffffff,0073b7,ffffff,Andrew Dale,gb,477415,,0
 A,1,7,TEAM QATAR,,ffffff,0073b7,ffffff,Fadhel Alkhater5019,qa,714695,,0
-A,1,7,Team Type 1,,ffffff,0073b7,ffffff,Ben Lambert TT1D (TT1 CGMs),gb,1566081,,0
+A,1,7,Team Type 1,,ffffff,0073b7,ffffff,Ben Lambert TT1D - TT1 LOOPED,gb,1566081,,0
 A,1,7,University of Manchester CC GBR,,ffff00,7200ff,7200ff,Matthew Barnard,gb,558891,,0
 A,1,6,FiBr,,ffffff,0073b7,ffffff,Bart McCarthy,ie,1800994,,0
 A,1,5,SWCC,,ffffff,ff0000,ffffff,Alistair B,gb,1360308,,0
 A,1,5,,,,,,Ruudy J.,nl,668506,,0
 A,1,5,BCC-A,,ffffff,0073b7,ffffff,L isa S BCC,gb-wls,182995,,0
 A,1,4,MVRL,,ffffff,0073b7,ffffff,Shaun Mc Laughlin (Covey Wheelers 1 MVRL),ie,1813446,,0
-A,1,4,DBS,,120202,97c7e8,080000,Amber Jayne (DBS Rungirls),gb,1976585,,0
+A,1,4,DBS,,120202,97c7e8,080000,Amber Jayne (DBS 2),gb,1976585,,0
 A,1,4,Orbea Mexico,,ffffff,0073b7,ffffff,Chiqui Rivera1898,mx,384416,,0
 A,1,3,C.N.Metropole,,ebd300,ad0a1a,edc70f,Avelino Santos (CN Metropole),es,1878970,,0
 A,1,3,,,,,,Peter Tuck,nz,783876,,0
 A,1,3,ZTPL.CC,,ffffff,ff1800,ff0000,Jaroslaw Oworuszko,pl,188969,,0
 A,1,2,BCC - Bees,,000000,fcfc01,000000,Alexis Brown (BCC-B),gb,277949,,0
-B,3,129,BCC - Bees,,000000,fcfc01,000000,Barry Davis BCC - B,gb-eng,397176,silver,0
+B,3,129,BCC - Bees,,000000,fcfc01,000000,Barry Davis Neutral,gb-eng,397176,silver,0
 B,2,98,,,,,,Xavier Nanterre,fr,1066018,bronze,0
 B,4,88,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,0
 B,2,78,BCC-A,,ffffff,0073b7,ffffff,Will Blackham BCC-A,gb,600333,bronze,0
@@ -85,7 +85,7 @@ B,1,51,,,ffffff,ffffff,ffffff,Nando &#127755;,br,360750,,0
 B,2,50,,,,,,Adam BikeWorks,gb,1458357,,0
 B,1,50,,,,,,Michael Ribagnac,fr,1106980,gold,0
 B,1,50,Vikings,,c2c2c2,0073b7,ee6331,&Oslash;yvind Johansen [V],no,810905,gold,0
-B,1,49,BRT,,ffffff,050505,ff8100,Peter Campbell (BRT Draft Beers),gb-eng,40108,,0
+B,1,49,BRT,,ffffff,050505,ff8100,Peter Campbell (VCLE/BCEM),gb-eng,40108,,0
 B,3,48,,,,,,Rich Hindley (BCC),gb,2011359,,0
 B,1,47,CChasers,,ffffff,0073b7,27bf27,Giles Corner [CChasers/BCSE] (Zwiftly Come Dancing),gb,701785,silver,0
 B,1,47,,,,,,Graham Turner,gb,896248,silver,0
@@ -96,7 +96,7 @@ B,1,45,,,,,,Phil Hendon,gb,249730,,0
 B,1,43,VEGAN,,ffffff,00a65a,0adb2c,Stu Gardiner &#9445; (VZT V),gb,446939,,0
 B,1,42,Vikings,,c2c2c2,0073b7,ee6331,Espen Solvin,no,183605,gold,0
 B,2,42,,,,,,Kent McInney,au,760349,,0
-B,1,41,,,,,,Richard Jones4091,gb,1354813,,0
+B,1,41,England CC,,ffffff,d24848,3b3b6b,Richard Jones4091,gb,1354813,,0
 B,1,41,TCK,,ffffff,004b74,ffffff,Nikolas Jansen,no,181619,,0
 B,1,39,,,,,,Pete Donovan 59,gb,852766,,0
 B,1,37,TURN TAKERS,,ffffff,16a1fa,ffffff,Danny Mohama (TURN TAKERS) 8205,us,1666424,,0
@@ -122,7 +122,7 @@ B,1,25,Team Fearless,,001f3f,00dacc,00ff00,tracy moore [FEAR&lt;],ca,654026,,0
 B,1,25,,,,,,Antonio Piras,it,39813,,0
 B,2,24,,,,,,raspin raspin,gb,879744,,0
 B,1,23,,,,,,Sean Rogers,us,460843,,0
-B,1,23,BRT,,ffffff,050505,ff8100,K Wise &#127793;,us,1322759,silver,0
+B,1,23,BRT,,ffffff,050505,ff8100,Kevin Wise &#127793;,us,1322759,silver,0
 B,1,23,,,,,,Dale Munro,nz,1898143,,0
 B,1,21,Team CLS,,3d9970,ffffff,ffffff,Terry Smith  Team (CLS C),gb-eng,994693,,0
 B,1,21,Tri Ireland,,ffffff,0073b7,ffffff,Paul Mc Dermott,ie,827207,bronze,0
