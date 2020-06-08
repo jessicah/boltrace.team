@@ -4,7 +4,7 @@ A,2,23,,,,,,Luis Andrade [Z-Cycling-A],pt,60851,gold bronze,0
 A,1,18,&#129333;Team Ali,,ffffff,000000,ff0000,Stefan Van Aelst,be,228559,gold,0
 A,1,18,TeamZF,,f5f5f5,0623a9,cf3a42,Rodolfo Gio Gervasio Niels,mx,957455,gold,0
 A,1,15,Team CRYO-GEN,,ffffff,0073b7,ffffff,Darren Reddick,gb,843142,silver,0
-A,1,15,PTzPro eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil [PTz],pt,1856430,silver,0
+A,1,15,PTz eRacing,,b75c07,00ff00,000000,C&eacute;sar Martingil [PTz],pt,1856430,silver,0
 A,1,13,KISS RT,,f56600,012350,84b7ca,Christian Leitner,at,1019912,bronze,0
 A,1,13,&#129333;Team Ali,,ffffff,000000,ff0000,Tom Maes,be,1524079,bronze,0
 A,1,13,Innovation,,000000,52ff33,000000,Will Foster (INNOVATION),gb,540907,bronze,0
@@ -18,9 +18,9 @@ A,1,9,Sea2Sky,,ffffff,0073b7,ffffff,Huwj Ones [Sea2Sky],ca,1398565,,0
 A,1,7,,,,,,Evgeniy Tsoy,ru,177579,,0
 A,1,7,Innovation,,000000,52ff33,000000,Andrew Kirby,gb,933861,silver,0
 A,1,7,,,,,,M Crawford [24],ca,1612857,,0
-A,1,7,CONE!D,,ffffff,37474d,fb7689,Frederik Hammer,dk,1420368,silver,0
+A,1,7,POAUTO,,004080,89cff0,f2740b,Frederik Hammer,dk,1420368,silver,0
 A,1,7,53onze,,ffffff,ff0000,000000,Pedro Almeida[ LA ],pt,379704,,0
-A,1,5,&#129333;Team Ali,,ffffff,000000,ff0000,Joren Hendrikx [BZR],be,1519610,,0
+A,1,5,&#129333;Team Ali,,ffffff,000000,ff0000,Joren Hendrikx,be,1519610,,0
 A,1,5,,,,,,Mateusz Winnik,pl,1411480,bronze,0
 A,1,5,Sea2Sky,,ffffff,0073b7,ffffff,Patrick Tunnicliffe,ca,13835,,0
 A,1,3,,,,,,Siena Hayes [CURCT],gb,2154563,,0
@@ -43,7 +43,7 @@ B,1,11,,,,,,Andrew Williams,gb-wls,1126767,,0
 B,1,11,BRT,,ffffff,050505,ff8100,Andrew Ashwin (BRT),gb,1394430,,0
 B,1,11,Pilu Racing,,ffffff,0073b7,ffffff,Steffan North6684,gb,300768,,0
 B,1,9,,,,,,Mathias Bulka,pl,1435829,,0
-B,1,9,,,,,,James King 8918 Team Zoot &#127468;&#127463;,gb,50543,,0
+B,1,9,ZOOT,,ffffff,000000,dbff00,James King 8918 Team Zoot &#127468;&#127463;,gb,50543,,0
 B,1,9,M530,,ff0000,ffffff,ffffff,Pablo  VALES,uy,1260357,,0
 B,1,7,,,,,,David Parkinson,gb,41799,silver,0
 B,1,7,,,,,,Matthew Aston,gb,1271976,,0
@@ -120,20 +120,21 @@ D,1,11,BRT,,ffffff,050505,ff8100,Mark Bergenske,us,842497,,0
 D,2,11,IRL,,ffffff,000000,00b84a,Eric Parsons(IRL Serranos,gb,305055,,0
 D,1,11,,,,,,Tom Harvey ICC,gb,1660339,,0
 D,1,9,,,,,,marvin loh,zw,230290,,0
-D,1,9,,,,,,Patrick Hermans,be,1019310,,0
+D,1,9,,,,,,Patrick Hermans7534,be,1019310,,0
 D,1,9,JWCC,,ffffff,0073b7,ffffff,Robert Shennan,,30309,,0
 D,1,7,,,,,,Sten Linde,se,1008093,,0
 D,1,7,DIRT,,29ec34,211208,df6a0d,Ralf Berckhan [DIRT],de,1180738,,0
 D,1,7,,,,,,Erik Nijland,bo,1164703,,0
 D,1,7,teamWKG,,fa5e06,3f4c54,3f4c54,Tor Arne Martinussen (WKG GH),no,234061,,0
-D,1,6,,,,,,Marc MMM,ad,1812771,,0
+D,1,6,,,,,,R. Rodriquez,es,947740,,0
 D,2,6,BRT,,ffffff,050505,ff8100,Matt Tapping,gb,206023,,0
 D,1,6,TRIPLAY,,ffffff,0073b7,ffffff,[W515] Paloma Dorvil (TRIPLAY PRAT),es,2334540,,0
 D,1,6,,,,,,Kathryn Caine,us,147703,,0
-D,1,5,,,,,,Robbie Barber,ie,2526304,,0
-D,1,4,,,,,,Don Culp,us,636022,,0
+D,1,5,,,,,,Marc MMM,ad,1812771,,0
+D,1,4,,,,,,Robbie Barber,ie,2526304,,0
 D,1,4,IRL,,ffffff,000000,00b84a,Jack Finlay,gb-nir,496030,,0
 D,1,4,EH*,,ffffff,0073b7,ffffff,Bob Brown,gb-sct,1794817,,0
+D,1,3,,,,,,Don Culp,us,636022,,0
 D,1,3,,,,,,Graham Macey,gb-eng,1898934,,0
 D,1,3,Korrridas,,ffffff,0073b7,ffffff,Rui Vieira (PTG),pt,117823,,0
 D,1,2,,,,,,Hans Heshusius1852,nl,1593387,,0
