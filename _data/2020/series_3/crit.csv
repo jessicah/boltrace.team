@@ -58,7 +58,7 @@ A,1,13,CCR,,db9999,757070,000000,Clinton more CCR/BSCE,gb,275943,,0
 A,1,13,SUF,,ffffff,eb1919,000000,Colin Sweeney,ie,597696,,0
 A,1,13,KWCC,,f01f1f,101112,ffffff,Tricky Tarmac (KWCC),gb,309498,,0
 A,2,12,BCC-A,,ffffff,0073b7,ffffff,L isa S BCC,gb-wls,182995,,0
-A,1,11,iracelikeagirlQT2,,ffffff,0073b7,ffffff,Angela NAETH (Team SISU) (XRS) W,ca,109275,,0
+A,1,11,iracelikeagirlQT2,,ffffff,0073b7,ffffff,Angela NAETH,ca,109275,,0
 A,1,11,BZR cycling team,,f3f300,111111,dd4b39,Lenny Vanhoorn,be,188296,,0
 A,1,11,CK Master,,ffffff,0073b7,ffffff,Alexander Witt,se,287812,,0
 A,1,11,,,,,,Anton Mikhailov,nz,2437795,,0
@@ -170,7 +170,7 @@ B,2,24,,,,,,raspin raspin,gb-eng,879744,,0
 B,1,23,,,,,,Jamie Davies 5981,gb-wls,788268,,0
 B,1,23,,,,,,Sean Rogers,us,460843,,0
 B,1,23,,,,,,Dale Munro,nz,1898143,,0
-B,1,21,Team CLS,,3d9970,ffffff,ffffff,Terry Smith  Team (CLS CycLoneS),gb-eng,994693,,0
+B,1,21,Team CLS,,3d9970,ffffff,ffffff,Terry Smith  Team (CLS CYCLONES),gb-eng,994693,,0
 B,1,21,Tri Ireland,,ffffff,0073b7,ffffff,Paul Mc Dermott,ie,827207,bronze,0
 B,1,21,AFTER 8,,205208,d5cad9,205208,&#128029; BART &#128029;,fr,280368,,0
 B,1,21,,,,,,Martin Wales (BCC),gb,1835995,,0
@@ -309,7 +309,7 @@ C,2,17,BCC - Bees,,000000,fcfc01,000000,David Morton BCC,gb,1462571,,0
 C,1,17,,,,,,Scott Drochelman,us,1460978,,0
 C,1,17,LHCC,,004770,1279f5,004770,M De Battenberg [LHCC],es,1913332,,0
 C,1,17,,,,,,Javier Garc&iacute;a Mor&oacute;n,es,2377717,,0
-C,5,15,BRT,,ffffff,050505,ff8100,Matt Tapping,gb,206023,gold gold gold silver,4
+C,5,15,BRT,,ffffff,050505,ff8100,Matt Tapping [BRT-C],gb,206023,gold gold gold silver,4
 C,1,15,,,,,,Adam Wilkinson,gb,1429406,,0
 C,1,15,Westbury Wheelers,,ffffff,0073b7,fffe40,Phil Barthram,gb,1450582,,0
 C,1,15,,,,,,Maik Jansen6847,nl,1376313,,0
@@ -329,13 +329,13 @@ C,2,9,IRL,,ffffff,000000,00b84a,Rock  Ireland,ie,263867,,0
 C,1,9,ZTPL.CC,,ffffff,ff1800,ff0000,Chris Philip,pl,841012,,0
 C,1,8,,,,,,David Ayre,,2061712,,0
 C,1,8,,,,,,Augey Bill,us,1321124,,0
-C,1,7,BRT,,ffffff,050505,ff8100,Angharad Chandler,gb-wls,2242329,,0
+C,1,7,BRT,,ffffff,050505,ff8100,Angharad Chandler (BRT),gb-wls,2242329,,0
 C,1,7,,,,,,Jose L&aacute;tigo [ZESP],es,2270235,,0
 C,1,7,,,,,,R Hicks,us,13036,,0
 C,1,7,,,,,,Martin Butler,ca,121735,,0
 C,1,7,CatZ,,ed1414,04215c,de1616,Narcis Sisu,no,947659,,0
 C,1,7,BCC - Bees,,000000,fcfc01,000000,Anthony Eckersley (BCC - B),gb,240105,,0
-C,3,6,,,,,,Albert Jankowiak,us,2049583,bronze,2
+C,3,6,,,,,,Albert Jankowiak3434,us,2049583,bronze,2
 C,1,6,TFC,,111111,f3f300,111111,Lar Hayden TFC,ie,763657,,0
 C,2,6,BZR cycling team,,f3f300,111111,dd4b39,Philippe Scheinok (BZR),be,373052,,1
 C,1,5,,,,,,Denis Florida,ca,2156112,,0
@@ -346,7 +346,7 @@ C,1,4,,,ffffff,32cd32,000000,Peter Jordansson,se,903336,,0
 C,1,4,,,,,,Keegs 75,gb,1460306,,0
 C,1,4,,,,,,Neil Cross,gb,2346027,,0
 C,1,3,BRT,,ffffff,050505,ff8100,Michael Cruz [BRT],us,13789,,0
-C,1,2,,,,,,Thomas Little,za,2464637,,0
+C,1,2,BRT,,ffffff,050505,ff8100,Thomas Little,za,2464637,,0
 C,1,2,Team CLS,,3d9970,ffffff,ffffff,M Daubney (CLS),ca,1024489,,0
 C,1,1,DIRT,,29ec34,211208,df6a0d,Loree McKinney (DIRT),us,1164957,,0
 C,1,1,,,,,,Graeme Findlay8338,gb,531422,,0
