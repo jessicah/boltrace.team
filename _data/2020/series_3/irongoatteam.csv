@@ -24,6 +24,7 @@ A,1,13,3711,&#9888;&#65039; Dropouts,fa0009,ffff0b,aaaaff
 A,1,13,9009,Gainz,ffffff,0073b7,ffffff
 A,1,11,10221,SWABO,ffffff,0073b7,ffffff
 A,1,11,9226,MSC,ffffff,e67e22,ffffff
+A,1,10,3964,Saris + The Pros Closet,ffffff,00c653,ffcd00
 A,1,9,2707,DIRT,29ec34,211208,df6a0d
 A,1,6,5706,NLEC,ffffff,0073b7,668f66
 A,1,5,6620,Workfor.ce,ffffff,000000,ff0000
@@ -35,21 +36,21 @@ A,1,1,3938,TNC,ffffff,0073b7,ffffff
 A,1,1,10981,FORZA NITRO,ffffff,ff0000,ffffff
 A,1,1,6870,Sportsolid,ffffff,0073b7,ffffff
 B,3,54,3559,ETC athletics,ffffff,339933,006633
-B,1,26,1845,VEGAN,ffffff,00a65a,0adb2c
+B,2,35,1845,VEGAN,ffffff,00a65a,0adb2c
+B,2,32,9,Vision,ffffff,2ea9e0,000000
 B,1,23,5673,Didcot Phoenix CC,fad905,4593ff,f2760a
 B,1,21,791,Race3R,000000,2bc3f4,ffffff
 B,1,19,161,ZSUNR,ffd808,1c1300,ffffff
 B,1,17,7449,CTLR,fc800d,fffafc,2180d6
-B,1,17,9,Vision,ffffff,2ea9e0,000000
 B,1,15,10912,Team Tibasosa,ffffff,0073b7,ffffff
 B,1,15,4,BRT,ffffff,050505,ff8100
 B,1,15,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,11,9923,BWKCC,ffffff,0073b7,ffffff
 B,1,11,322,Audi,ffffff,0073b7,ffffff
 B,1,9,4313,PCG,39ff14,0073b7,39ff14
-B,1,7,2707,DIRT,29ec34,211208,df6a0d
 B,1,7,8137,PRT,ffffff,0073b7,ffffff
 B,1,7,588,Team Italy,dd4b39,ffffff,00a65a
+B,1,5,2707,DIRT,29ec34,211208,df6a0d
 B,1,5,8549,VXM,ffffff,407189,000000
 B,1,5,3369,IRL,ffffff,000000,00b84a
 B,1,4,5701,IDF,ffffff,0073b7,ffffff
@@ -61,11 +62,14 @@ C,1,23,1,PTz,ffffff,f28312,121110
 C,1,21,8750,TriTGA,000000,006400,7fff00
 C,1,11,2707,DIRT,29ec34,211208,df6a0d
 C,1,11,5555,PRZ,ffffff,0080ff,ff0000
+C,1,10,5386,midtown,000000,fefe66,ffffff
 C,1,10,5626,TOG,ffffff,ff7b33,000000
 C,1,9,605,Team Brasil,ffffff,0073b7,ffffff
+C,1,5,632,CTWT,ffffff,0073b7,ffffff
 C,1,5,3431,CCC,ffffff,0073b7,ffffff
 C,1,5,10451,Thunder,fa0000,ffff00,3d2424
 C,1,4,1677,Team Fearless,001f3f,00dacc,00ff00
+C,1,3,4509,MinusCT,ffffff,0073b7,000000
 C,1,3,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,1,2128,Team RO,ed0000,fcf316,086afc
 D,4,40,4,BRT,ffffff,050505,ff8100
