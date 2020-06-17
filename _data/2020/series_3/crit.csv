@@ -156,7 +156,7 @@ B,1,29,HIK,,ffffff,0073b7,ffffff,Jelle Roest,nl,899300,,0
 B,1,29,CIZL,,ffffff,0073b7,ffffff,Damien Phillips,ie,280445,,0
 B,5,28,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC-A,gb,113795,gold,1
 B,1,27,STW,,ffffff,0073b7,ffffff,Steve Clowes (STW),gb,588304,,0
-B,1,27,,,,,,Andres Sauma (M),cl,651806,,0
+B,1,27,,,,,,Andres Sauma (Mauna Endurance),cl,651806,,0
 B,1,27,,,,,,Daniel Suozzo,us,879216,,0
 B,1,27,Team CRYO-GEN,,ffffff,0073b7,ffffff,Gary Scott,gb-sct,108004,,0
 B,1,27,DIRT,,29ec34,211208,df6a0d,Gibbo Gibson,gb,967298,,0
@@ -186,7 +186,7 @@ B,1,16,,,,,,Larry Steinberg,us,1276567,,0
 B,1,15,,,,,,Nick O'Hara,gb,1276449,,0
 B,1,15,ATHY WHEELERS,,ffffff,0000ff,ff55b4,Martin Cahill,ie,472871,,0
 B,1,15,,,,,,Mark Haigh,gb,268979,,0
-B,1,15,VEGAN,,ffffff,00a65a,0adb2c,Daniel Dugal V (VZT ),ca,460142,,0
+B,1,15,VEGAN,,ffffff,00a65a,0adb2c,Daniel Dugal V (Team Vegan ),ca,460142,,0
 B,1,15,,,,,,Paul Noble,gb,2021658,,0
 B,1,15,,,,,,Mike Eblin1437,us,1366507,,0
 B,1,14,BlackEDGE,,ff0000,000000,ffffff,Nathan Ruks (HVR),au,2096480,,0
@@ -236,7 +236,7 @@ B,1,3,,,,,,Andrew Smith,gb,1666326,,0
 B,1,3,,,,,,Trevor Kirkwood,im,1408099,,0
 B,1,3,,,,,,Martyn Douglas [GLPT],gb,1342195,,0
 B,1,2,,,,,,Mark Robinson9767,gb-wls,1442860,,0
-B,1,2,,,,,,Erin Ayala USAC 528252,us,897185,,0
+B,1,2,REVO,,fc00e3,000000,fc00e3,Erin Ayala [REVO] USAC 528252,us,897185,,0
 C,5,114,BCC - Bees,,000000,fcfc01,000000,Marcus Stoneham BCC,gb,1142755,bronze,0
 C,7,103,BRT,,ffffff,050505,ff8100,Keiko Flores (USAC# 407712),jp,7422,silver,2
 C,2,76,,,,,,Gwydion ab Ifan (Ystwyth),gb-wls,618191,,0
@@ -329,7 +329,7 @@ C,2,9,IRL,,ffffff,000000,00b84a,Rock  Ireland,ie,263867,,0
 C,1,9,ZTPL.CC,,ffffff,ff1800,ff0000,Chris Philip,pl,841012,,0
 C,1,8,,,,,,David Ayre,,2061712,,0
 C,1,8,,,,,,Augey Bill,us,1321124,,0
-C,1,7,BRT,,ffffff,050505,ff8100,Angharad Chandler (BRT),gb-wls,2242329,,0
+C,1,7,BRT,,ffffff,050505,ff8100,Angharad Chandler (BRT Hellcatz),gb-wls,2242329,,0
 C,1,7,,,,,,Jose L&aacute;tigo [ZESP],es,2270235,,0
 C,1,7,,,,,,R Hicks,us,13036,,0
 C,1,7,,,,,,Martin Butler,ca,121735,,0
@@ -340,7 +340,7 @@ C,1,6,TFC,,111111,f3f300,111111,Lar Hayden TFC,ie,763657,,0
 C,2,6,BZR cycling team,,f3f300,111111,dd4b39,Philippe Scheinok (BZR),be,373052,,1
 C,1,5,,,,,,Denis Florida,ca,2156112,,0
 C,1,5,,,,,,Josh McDonnell,au,436575,,0
-C,1,5,,,,,,Andrew Nisbet,gb,2450887,,0
+C,1,5,,,,,,Andrew Nisbet (Edinburgh#3 Triathlon),gb,2450887,,0
 C,1,5,Race3R,,000000,2bc3f4,ffffff,Etape Novice,gb-sct,204803,,0
 C,1,4,,,ffffff,32cd32,000000,Peter Jordansson,se,903336,,0
 C,1,4,,,,,,Keegs 75,gb,1460306,,0
@@ -383,6 +383,6 @@ D,1,3,,,,,,Glenn Northcotte (BMEF),ca,1418437,,0
 D,1,3,Cyclonauts,,190000,cfcf29,000000,Gabi Yarosh,ca,903015,,0
 D,1,3,,,,,,Damian Wakefield (VC10),gb-eng,60761,,0
 D,1,3,Team Italy,,dd4b39,ffffff,00a65a,Giuseppe Mormile [ITA],it,1870121,,0
-D,1,2,,,,,,Francesco Gagliardi,it,2578511,,0
+D,1,2,Team Italy,,dd4b39,ffffff,00a65a,Francesco Gagliardi,it,2578511,,0
 D,1,2,,,,,,Greg Ha,pl,1141969,,0
 D,1,1,,,,,,Katharina Filipsky,at,1638539,,0
