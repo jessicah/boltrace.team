@@ -9,7 +9,7 @@ A,2,42,BCC - Bees,,000000,fcfc01,000000,Matt Thom (BCC-B),gb,1700485,,0
 A,1,39,BathCC,,ffffff,0073b7,ffffff,Daniel Colman (Bath CC Lansdown),gb-wls,915207,silver,0
 A,2,38,GWADA,,ffffff,0073b7,ffffff,Teddy C[GWADA],gp,509215,,0
 A,1,37,VBZEASTS,,140b0b,fa9191,6b6868,TommyIngVBZ,au,137630,bronze,0
-A,1,37,,,,,,Pol Flesch S,lu,1585591,bronze,0
+A,1,37,,,,,,Pol Flesch,lu,1585591,bronze,0
 A,1,35,,,,,,Jack Mills,gb,227242,,0
 A,1,35,Team CRYO-GEN,,ffffff,0073b7,ffffff,Todd Arnold4824,us,179681,,0
 A,3,34,BCC-A,,ffffff,0073b7,ffffff,Angus Stoneham BCC-A,gb,1130340,,0
@@ -50,7 +50,7 @@ A,1,19,WORX,,ffffff,0073b7,ffffff,Michael Tarling2056,gb-wls,852674,,0
 A,1,19,,,,,,stephen geraghty,ie,350308,,0
 A,1,19,,,,,,Hope Factory Racing Phil Pearce (Breaking Bikes),gb,372578,,0
 A,1,18,WTRL,,d4af37,000000,d4af37,Davy De Dobbeleer (Skylab),be,821867,gold,0
-A,1,17,Innovation,,000000,52ff33,000000,Justin Freitag,au,740396,,0
+A,1,17,TBR Racing,,ffffff,0073b7,ffffff,Justin Freitag,au,740396,,0
 A,1,17,CIZL,,ffffff,0073b7,ffffff,Mark Heather Clontarf CC,ie,1272972,,0
 A,1,17,CIZL,,ffffff,0073b7,ffffff,LIAM O BRIEN,ie,1181596,,0
 A,1,17,Army Cycling,,ffffff,0073b7,ffffff,Dai  Jones [Army Cycling],gb,121756,,0
@@ -70,7 +70,7 @@ A,1,13,CCR,,db9999,757070,000000,Clinton more CCR/BSCE,gb,275943,,0
 A,1,13,SUF,,ffffff,eb1919,000000,Colin Sweeney,ie,597696,,0
 A,1,13,KWCC,,f01f1f,101112,ffffff,Tricky Tarmac (KWCC),gb,309498,,0
 A,1,11,,,,,,Arthur Connell4111 (TTT),gb-wls,1272827,,0
-A,1,11,Vision,,ffffff,2ea9e0,000000,Angela NAETH (VISN) (Team SISU) [IRLAG]),ca,109275,,0
+A,1,11,Vision,,ffffff,2ea9e0,000000,Angela NAETH (VISION) [SISU],ca,109275,,0
 A,1,11,BZR cycling team,,f3f300,111111,dd4b39,Lenny Vanhoorn,be,188296,,0
 A,1,11,CK Master,,ffffff,0073b7,ffffff,Alexander Witt,se,287812,,0
 A,1,11,,,,,,Anton Mikhailov,nz,2437795,,0
@@ -89,7 +89,7 @@ A,1,7,TEAM QATAR,,ffffff,0073b7,ffffff,Fadhel Alkhater5019,qa,714695,,0
 A,1,7,Team Type 1,,ffffff,0073b7,ffffff,Ben Lambert (TT1 CGMs),gb,1566081,,0
 A,1,7,University of Manchester CC GBR,,ffff00,7200ff,7200ff,Matthew Barnard,gb,558891,,0
 A,2,6,BCC - Bees,,000000,fcfc01,000000,Katie Dury BCC-B,gb,2261354,,1
-A,1,6,iracelikeagirlQT2,,ffffff,0073b7,ffffff,Lenny Ramsey [QT2IRLAG],nl,947381,,0
+A,1,6,SISU,,ffffff,0073b7,ffffff,Lenny Ramsey [QT2IRLAG],nl,947381,,0
 A,1,6,FiBr,,ffffff,0073b7,ffffff,Bart McCarthy,ie,1800994,,0
 A,1,5,,,,,,Wolfgang Bachmaier,de,1456160,,0
 A,1,5,SRC,,ffffff,0073b7,ffffff,M. Smith [TSC],gb,1936713,,0
@@ -156,7 +156,7 @@ B,1,39,,,,,,Pete Donovan 59,gb,852766,,0
 B,1,37,ZOOT,,ffffff,000000,dbff00,James King 8918 Team Zoot &#127468;&#127463;,gb,50543,,0
 B,1,37,TURN TAKERS,,ffffff,16a1fa,ffffff,Danny Mohama (TURN TAKERS) 8205,us,1666424,,0
 B,1,37,PCG,,39ff14,0073b7,39ff14,Leandro MARTINEZ (PCG),br,735226,,0
-B,1,35,,,,,,M oarPowerPlz,us,296577,,0
+B,1,35,DIRT,,29ec34,211208,df6a0d,M oarPowerPlz,us,296577,,0
 B,1,35,,,,,,marius lid,no,156499,,0
 B,1,35,Team LU,,ffffff,e81e1e,05131c,35025 David EDET [Team LU],fr,1867943,,0
 B,1,35,IRIS-Bob Cyclo,,ffffff,0073b7,ffffff,Albert-Philippe Forest,ca,910273,,0
