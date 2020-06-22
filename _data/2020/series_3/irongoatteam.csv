@@ -2,12 +2,12 @@ category,events,points,tid,tname,tc,tbc,tbd
 A,6,129,9749,ZORROS,ffffff,0073b7,ffffff
 A,2,80,1469,TeamZF,f5f5f5,0623a9,cf3a42
 A,1,79,6790,PPJ,ffffff,0073b7,ffffff
+A,2,75,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,1,69,10146,Crisa - Seei,ffffff,048ee0,ffffff
 A,1,67,25,ZTPL.CC,ffffff,ff1800,ff0000
 A,1,63,10100,FOURNIER,,0073b7,b3a785
 A,1,61,4523,e-Latino,fe2ec8,fafafa,fe2ec8
 A,2,60,7423,England CC,ffffff,d24848,3b3b6b
-A,1,57,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,5,54,5411,Team Mexico,ffffff,f20000,ffffff
 A,2,46,6277,Abel&acute;s Racing,ffffff,0073b7,ffffff
 A,1,41,10,TFC,111111,f3f300,111111
@@ -17,15 +17,17 @@ A,1,18,32,SZ,ffffff,285697,ffd700
 A,1,18,10003,JETT,ff00ff,ffff00,00ff00
 A,2,17,8893,RDGZ&#127474;&#127485;,ffffff,b70000,ffffff
 A,1,17,9496,NICK LOPEZ cycling Team,ffffff,0073b7,ffffff
-A,1,15,10625,PTz eRacing,b75c07,00ff00,000000
+A,1,15,3265,1D,faf8f8,7a4988,000000
+A,1,15,10625,PTz e-Racing,b75c07,00ff00,000000
 A,1,15,4,BRT,ffffff,050505,ff8100
 A,3,14,6588,Holdmybeer,ffffff,0073b7,ffffff
+A,2,14,2707,DIRT,29ec34,211208,df6a0d
+A,1,13,7945,NVOKE,ffffff,14284d,3392e1
 A,1,13,3711,&#9888;&#65039; Dropouts,fa0009,ffff0b,aaaaff
 A,1,13,9009,Gainz,ffffff,0073b7,ffffff
 A,1,11,10221,SWABO,ffffff,0073b7,ffffff
 A,1,11,9226,MSC,ffffff,e67e22,ffffff
 A,1,10,3964,Saris + The Pros Closet,ffffff,00c653,ffcd00
-A,1,9,2707,DIRT,29ec34,211208,df6a0d
 A,1,6,5706,NLEC,ffffff,0073b7,668f66
 A,1,5,6620,Workfor.ce,ffffff,000000,ff0000
 A,1,4,4785,RUTA 56,a80000,ff7500,960000
@@ -35,16 +37,19 @@ A,1,1,3029,SJBC,ffffff,0073b7,ffffff
 A,1,1,3938,TNC,ffffff,0073b7,ffffff
 A,1,1,10981,FORZA NITRO,ffffff,ff0000,ffffff
 A,1,1,6870,Sportsolid,ffffff,0073b7,ffffff
+B,5,62,1845,VEGAN,ffffff,00a65a,0adb2c
 B,3,54,3559,ETC athletics,ffffff,339933,006633
-B,2,35,1845,VEGAN,ffffff,00a65a,0adb2c
 B,2,32,9,Vision,ffffff,2ea9e0,000000
 B,1,23,5673,Didcot Phoenix CC,fad905,4593ff,f2760a
 B,1,21,791,Race3R,000000,2bc3f4,ffffff
+B,1,19,10336,iJohnnys,ffffff,0073b7,ffffff
 B,1,19,161,ZSUNR,ffd808,1c1300,ffffff
+B,1,17,975,Innovation,000000,52ff33,000000
 B,1,17,7449,CTLR,fc800d,fffafc,2180d6
 B,1,15,10912,Team Tibasosa,ffffff,0073b7,ffffff
 B,1,15,4,BRT,ffffff,050505,ff8100
 B,1,15,90,Vikings,c2c2c2,0073b7,ee6331
+B,1,13,1426,Team CLS,3d9970,ffffff,ffffff
 B,1,11,9923,BWKCC,ffffff,0073b7,ffffff
 B,1,11,322,Audi,ffffff,0073b7,ffffff
 B,1,9,4313,PCG,39ff14,0073b7,39ff14
@@ -65,12 +70,15 @@ C,1,11,5555,PRZ,ffffff,0080ff,ff0000
 C,1,10,5386,midtown,000000,fefe66,ffffff
 C,1,10,5626,TOG,ffffff,ff7b33,000000
 C,1,9,605,Team Brasil,ffffff,0073b7,ffffff
+C,1,7,1426,Team CLS,3d9970,ffffff,ffffff
+C,1,5,1845,VEGAN,ffffff,00a65a,0adb2c
 C,1,5,632,CTWT,ffffff,0073b7,ffffff
 C,1,5,3431,CCC,ffffff,0073b7,ffffff
 C,1,5,10451,Thunder,fa0000,ffff00,3d2424
 C,1,4,1677,Team Fearless,001f3f,00dacc,00ff00
 C,1,3,4509,MinusCT,ffffff,0073b7,000000
 C,1,3,90,Vikings,c2c2c2,0073b7,ee6331
+C,1,1,120,MTCT,040312,9cb2e8,d4e60d
 C,1,1,2128,Team RO,ed0000,fcf316,086afc
 D,4,40,4,BRT,ffffff,050505,ff8100
 D,1,5,79,USMES,ffffff,0073b7,ffffff
