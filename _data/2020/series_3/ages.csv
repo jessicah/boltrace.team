@@ -33,7 +33,7 @@ A,1,1,,,,,,Karl Stubelis4316,lv,318,,0
 B,7,82,,,,,,Geert Lombaert,be,232712,gold gold silver silver bronze,0
 B,3,31,BRT,,ffffff,050505,ff8100,Richard Jones [BRT],kn,2409422,silver,0
 B,2,28,,,,,,Bret  Hoag,us,984531,gold gold,0
-B,1,18,TFC,,111111,f3f300,111111,Alistair Siebert (TFC),gb,771036,gold,0
+B,1,18,TFC,,111111,f3f300,111111,Alistair Siebert (TFC snakebite),gb,771036,gold,0
 B,1,18,BRT,,ffffff,050505,ff8100,Haydn Maughan,gb,486179,gold,0
 B,1,18,,,,,,Rich Uliana,us,474995,gold,0
 B,1,18,,,,,,Chris Smudger Smith,gb-eng,856854,gold,0
@@ -116,16 +116,16 @@ C,1,1,PTz,,ffffff,f28312,121110,Gustavo Figueiredo (Cebo),br,78843,,0
 D,7,190,No. 22 CX Team,,ffffff,000000,ffffff,Bill Pjontek,us,1111096,gold gold gold gold gold silver silver,0
 D,8,166,,,,,,Matt Varey,ca,580973,silver silver silver silver bronze bronze,0
 D,8,156,Walsall Lads,,ffffff,0073b7,ffffff,David Whitehouse (WRCC),gb,550451,bronze bronze bronze bronze,0
-D,6,106,,,,,,Robert Yog Ashwell,gb,1001853,silver,0
-D,6,98,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,,0
+D,6,104,,,,,,Robert Yog Ashwell,gb,1001853,silver,0
+D,6,96,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,,0
 D,3,73,,,,,,Noz  | Blumilk,gb-eng,2174379,,0
 D,8,70,BRT,,ffffff,050505,ff8100,Tee Allen,us,683793,,0
-D,4,58,England CC,,ffffff,d24848,3b3b6b,Terry Flynn [ENG],gb-eng,397987,,0
+D,4,56,England CC,,ffffff,d24848,3b3b6b,Terry Flynn [ENG],gb-eng,397987,,0
 D,2,56,EVOLUTION,,ff09ff,2e1c1c,ff09ff,Douglas Darling [EVO],us,90667,silver,0
 D,2,52,DBR,,ffffff,eb7b2a,ffffff,Kim Villarino (DBR2),dk,1096870,gold gold,0
 D,4,50,BRT,,ffffff,050505,ff8100,Andrew Tapley (BRT Session beers),gb,145450,,0
 D,2,48,FinishStrong,,ffffff,0073b7,ffffff,Robby Parker,us,66794,bronze,0
-D,3,43,,,,,,Mel. Blackford BMTR  D,gb,1862589,,0
+D,3,41,,,,,,Mel. Blackford BMTR  D,gb,1862589,,0
 D,2,38,,,,,,e Harris,us,1090582,,0
 D,1,34,IBTC,,ffffff,0073b7,ffffff,David Bailey,us,16390,gold,0
 D,2,30,WECC,,ffffff,fa01ff,2102fe,huw Williams,gb-wls,350605,,0
@@ -144,6 +144,7 @@ D,1,15,,,,,,Phil Watson,gb,1919113,,0
 D,1,15,BRT,,ffffff,050505,ff8100,Jim Connally (BRT Cosmos) 2,us,251879,,0
 D,1,13,,,,,,Andrew Conradi 6862,gb-eng,841657,,0
 D,1,13,,,,,,H Plourde,ca,510854,,0
+D,1,11,,,,,,The Dahminator(PRW),ca,1410022,,0
 D,1,11,Innovation,,000000,52ff33,000000,Stephen Whiston,gb,482702,,0
 D,1,11,BRT,,ffffff,050505,ff8100,Mark Bergenske,us,842497,,0
 D,2,11,IRL,,ffffff,000000,00b84a,Eric Parsons(IRL Serranos,gb,305055,,0
@@ -167,5 +168,5 @@ D,1,4,EH Star,,ffffff,0073b7,ffffff,Bob Brown,gb-sct,1794817,,0
 D,1,3,,,,,,Don Culp,us,636022,,0
 D,1,3,,,,,,Graham Macey,gb-eng,1898934,,0
 D,1,3,Korrridas,,ffffff,0073b7,ffffff,Rui Vieira (PTG),pt,117823,,0
-D,1,2,,,,,,Robert Goulding Vcc,gb,979926,,0
 D,1,2,,,,,,Hans Heshusius1852,nl,1593387,,0
+D,1,1,,,,,,Robert Goulding Vcc,gb,979926,,0
