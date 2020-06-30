@@ -1,6 +1,6 @@
 category,events,points,tid,tname,tc,tbc,tbd
 A,14,178,7266,BCC-A,ffffff,0073b7,ffffff
-A,2,68,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,2,68,2740,Team CRYO-GEN,ffffff,009fe3,0c1e4f
 A,3,67,4393,EVASO eRT,ffffff,1d81a3,d46363
 A,2,65,10156,TeamCannon,f5eaea,5d759c,ffffff
 A,2,60,4201,WTRL,d4af37,000000,d4af37
@@ -67,13 +67,13 @@ B,26,487,7266,BCC-A,ffffff,0073b7,ffffff
 B,15,470,9186,BCC - Bees,000000,fcfc01,000000
 B,7,219,4,BRT,ffffff,050505,ff8100
 B,4,152,112,albaRosa CC,ffffff,0073b7,ffffff
-B,3,125,2707,DIRT,29ec34,211208,df6a0d
+B,4,138,2707,DIRT,29ec34,211208,df6a0d
 B,3,109,4446,Race Hub,ffffff,eb1c1c,030000
 B,3,107,6431,CIZL,ffffff,0073b7,ffffff
 B,2,95,1986,DBR,ffffff,eb7b2a,ffffff
 B,2,94,4100,YORK,ffffff,0073b7,ffff00
 B,2,92,90,Vikings,c2c2c2,0073b7,ee6331
-B,2,72,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,2,72,2740,Team CRYO-GEN,ffffff,009fe3,0c1e4f
 B,3,71,3369,IRL,ffffff,000000,00b84a
 B,2,66,4313,PCG,39ff14,0073b7,39ff14
 B,1,63,3890,kiwamina,ffffff,0073b7,ffffff
@@ -111,7 +111,7 @@ B,1,12,2639,HERD,383c3d,fc6719,383c3d
 B,1,11,5459,KWCC,f01f1f,101112,ffffff
 B,1,11,10557,DHC,ffffff,0073b7,ffffff
 B,1,11,5449,Team G&aring;ping,ffffff,249af7,2c3628
-B,1,11,265,RCC,fc2097,d2d6de,111111
+B,1,11,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 B,1,10,6183,PCC,ffffff,111111,de2727
 B,1,9,10302,ehubtriteam,ffffff,0073b7,ffffff
 B,1,8,7979,TricentralUk,140c0c,f9ff73,8c4747
@@ -121,8 +121,8 @@ B,1,5,4498,UoA,ffffff,0073b7,f5cb42
 B,1,4,6629,HCC,0a0101,dceb33,f70732
 B,1,2,2672,REVO,fc00e3,000000,fc00e3
 B,1,1,9081,ZW-ESP CRE,ffffff,de173d,71dd00
+C,16,302,4,BRT,ffffff,050505,ff8100
 C,17,288,9186,BCC - Bees,000000,fcfc01,000000
-C,15,279,4,BRT,ffffff,050505,ff8100
 C,15,249,7266,BCC-A,ffffff,0073b7,ffffff
 C,3,68,2707,DIRT,29ec34,211208,df6a0d
 C,3,65,25,ZTPL.CC,ffffff,ff1800,ff0000
