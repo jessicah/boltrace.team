@@ -1,6 +1,13 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,1,10,32,SZ,ffffff,285697,ffd700
-B,1,7,4095,All,ffffff,0073b7,ffffff
+A,2,13,32,SZ,ffffff,285697,ffd700
+A,1,10,3369,IRL,ffffff,000000,00b84a
+A,1,7,4,BRT,ffffff,050505,ff8100
+A,1,5,6213,BSCC,ff0000,ffff00,000000
+B,1,18,4585,TeamFRL,ffffff,ff0000,318ce7
+B,2,16,4,BRT,ffffff,050505,ff8100
+B,2,10,4095,All,ffffff,0073b7,ffffff
+B,1,7,32,SZ,ffffff,285697,ffd700
 B,1,5,1426,Team CLS,3d9970,ffffff,ffffff
 C,1,10,9417,TRi4W,ffffff,0073b7,ffffff
 C,1,5,4,BRT,ffffff,050505,ff8100
+D,1,10,1458,CycleChat,ffffff,0073b7,ffffff

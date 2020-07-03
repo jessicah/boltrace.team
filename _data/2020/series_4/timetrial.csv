@@ -1,9 +1,23 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,1,10,SZ,,ffffff,285697,ffd700,Johan Ferm [SZ] (Los Rapidos),se,1445747,gold,0
+A,2,13,SZ,,ffffff,285697,ffd700,Johan Ferm [SZ] (Los Torpedos),se,1445747,gold,0
+A,1,10,IRL,,ffffff,000000,00b84a,Chris Reilly BCC,ie,226374,gold,0
+A,1,7,BRT,,ffffff,050505,ff8100,Rhys  Richard [BRT] (BRT Craft Beers),gb-wls,1056206,silver,0
+A,1,5,BSCC,,ff0000,ffff00,000000,Seb Kleb,de,299246,bronze,0
+B,1,18,TeamFRL,,ffffff,ff0000,318ce7,Bram Hulsman (Fryslan Boppers),nl,61683,gold,0
+B,1,15,,,,,,Miguel Praia,pt,728373,silver,0
+B,1,13,,,,,,Yen-Tsang Chen,fr,385783,bronze,0
+B,1,11,BRT,,ffffff,050505,ff8100,Diane Bomans (BRT Galaxy),ca,2481505,,0
+B,2,10,All,,ffffff,0073b7,ffffff,Peter aragon,de,824131,silver,0
 B,1,10,,,,,,Chris Chapman,nz,19329,gold,0
-B,1,7,All,,ffffff,0073b7,ffffff,Peter aragon,de,824131,silver,0
+B,1,9,,,,,,Ela Gonzalez,es,839714,,0
+B,1,7,SZ,,ffffff,285697,ffd700,Nicklas nille Johansson [SZ],se,3224,,0
+B,1,5,BRT,,ffffff,050505,ff8100,David Sorg,us,243886,,0
 B,1,5,Team CLS,,3d9970,ffffff,ffffff,Peter Hoppener CLS,nl,953868,bronze,0
+B,1,2,,,,,,Marcellin Chantry,be,929600,,0
+C,1,10,,,,,,Neil Burroughs8116,gb,94744,gold,0
 C,1,10,TRi4W,,ffffff,0073b7,ffffff,&Aacute;ngel P&aacute;ramo [TRi4W],es,2148777,gold,0
 C,1,7,,,,,,Adam Heliosz,pl,1792742,silver,0
 C,1,5,BRT,,ffffff,050505,ff8100,Matt Tapping [BRT],gb,206023,bronze,0
 C,1,3,,,,,,Gary Pattison,gb,811305,,0
+D,1,10,CycleChat,,ffffff,0073b7,ffffff,Steven Robinson,gb,448417,gold,0
+D,1,7,,,,,,Peter Bragg,gb,991807,silver,0
