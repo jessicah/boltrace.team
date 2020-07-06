@@ -1,13 +1,16 @@
 category,events,points,tid,tname,tc,tbc,tbd
+A,1,15,6568,/fs/,09ed00,bd00f0,09ed00
 A,1,15,3751,Dutch Racing,121212,fc6719,121212
 A,1,11,10003,JETT,ff00ff,ffff00,00ff00
+A,1,9,2707,DIRT,29ec34,211208,df6a0d
 A,1,9,7763,RSG,de7e7e,004880,ffffff
 A,1,7,9226,MSC,ffffff,e67e22,ffffff
 A,1,5,6487,&Ouml;CK,080000,fa0404,ffffff
 A,1,2,9293,PERTHES,ffffff,ec1717,ffffff
+B,2,25,8619,Burlingame United,f0f0f0,f95d22,22baf9
 B,1,18,6431,CIZL,ffffff,0073b7,ffffff
-B,1,15,8619,Burlingame United,f0f0f0,f95d22,22baf9
 B,1,13,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 B,1,11,975,Innovation,000000,52ff33,000000
-B,1,2,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
+B,1,1,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 C,1,10,120,MTCT,040312,9cb2e8,d4e60d
+C,1,7,4,BRT,ffffff,050505,ff8100
