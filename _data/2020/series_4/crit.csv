@@ -36,7 +36,7 @@ B,1,45,DIRT,,29ec34,211208,df6a0d,Victor Choi [ching&uuml;],ca,1102973,,0
 B,1,43,ZESP,,000000,fabd00,ad1519,Pancratio Caine,es,1549119,,0
 B,1,41,,,,,,Phil Westmorland,gb,606671,,0
 B,2,40,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC-A,ie,174454,,0
-B,1,39,,,,,,John O&#039;Connell,us,572061,,0
+B,1,39,CCMV,,ffffff,0073b7,ffffff,John O&#039;Connell,us,572061,,0
 B,1,37,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,0
 B,1,35,,,,,,Chris Raubenheimer,de,1386149,,0
 B,2,34,BCC-A,,ffffff,0073b7,ffffff,Neil Campbell BCC-A,ie,25596,,0
@@ -72,35 +72,36 @@ B,1,4,BCC-A,,ffffff,0073b7,ffffff,Mark Dury BCC-A,gb,986964,,0
 B,1,3,QRCC,,ffffff,0073b7,ffffff,Jim Carey (QRCC/BCSE,gb-eng,244294,,0
 B,1,1,,,,,,Patrick Myall_4293,us,1558061,,0
 C,2,64,BCC - Bees,,000000,fcfc01,000000,Marcus Stoneham BCC,gb,1142755,bronze,0
-C,2,52,BCC - Bees,,000000,fcfc01,000000,Alan Nixon BCC -B,gb,903955,,0
 C,2,50,BRT,,ffffff,050505,ff8100,Matt Tapping [BRT],gb,206023,,0
 C,2,50,BRT,,ffffff,050505,ff8100,Chris Martin [BRT],gb,455291,,0
+C,2,50,BCC - Bees,,000000,fcfc01,000000,Alan Nixon BCC -B,gb,903955,,0
 C,1,42,BRT,,ffffff,050505,ff8100,Daniel Potter (BRT Trappist Beers),gb,83111,gold,0
 C,1,39,,,,,,Gary  Rudddell Fit for Duty Fit for Life!,us,98360,silver,0
 C,1,34,Islington CC,,ffffff,001c3d,001c3d,Alex Pereira (ICC),pt,316508,gold,0
 C,1,33,Vikings,,c2c2c2,0073b7,ee6331,Torben Ness,no,106844,,0
 C,1,31,BRT,,ffffff,050505,ff8100,Brad Boulton,us,19022,silver,0
 C,1,29,BCC - Bees,,000000,fcfc01,000000,Adam Collier_BCC,gb,1978315,,0
-C,2,29,BCC-A,,ffffff,0073b7,ffffff,Mark Littlewood (BCC),gb,265496,,0
 C,1,29,,,,,,Markus Kiefer,de,2373212,bronze,0
-C,2,28,BCC - Bees,,000000,fcfc01,000000,David Morton BCC,gb,1462571,,0
-C,1,23,TFC,,111111,f3f300,111111,Ashley Hunter (TFC Spitfire),gb,1024088,,0
+C,1,27,,,,,,Ric Leijh,nl,1021435,,0
+C,2,27,BCC-A,,ffffff,0073b7,ffffff,Mark Littlewood (BCC),gb,265496,,0
+C,2,26,BCC - Bees,,000000,fcfc01,000000,David Morton BCC,gb,1462571,,0
 C,1,23,,,,,,James Mclennan,gb,145414,,0
-C,2,22,,,,,,Tamsin BCC,gb,663741,,0
-C,1,21,,,,,,Cedric BOISNE (CINGLES 1),fr,1523472,,0
+C,1,21,TFC,,111111,f3f300,111111,Ashley Hunter (TFC Spitfire),gb,1024088,,0
 C,1,21,,,,,,Pablo Perez (C3E),ar,2282033,,0
-C,2,20,BCC - Bees,,000000,fcfc01,000000,Albert May - BCC B,gb,62938,,0
+C,2,20,,,,,,Tamsin BCC,gb,663741,,0
+C,1,19,,,,,,Cedric BOISNE (CINGLES 1),fr,1523472,,0
+C,2,18,BCC - Bees,,000000,fcfc01,000000,Albert May - BCC B,gb,62938,,0
 C,1,17,,,,,,Adam Webb,gb,1662493,,0
-C,1,15,,,,,,Philip Roberts (RAFCA),gb,8710,,0
-C,1,13,,,,,,James Barnes,gb,759044,,0
-C,2,13,,,,,,Peter Jones BCC,gb,2165774,,0
+C,1,13,,,,,,Philip Roberts (RAFCA),gb,8710,,0
 C,1,13,,,,,,Thibaud Marlier,be,1390677,,0
-C,1,9,,,,,,Adam Wilkinson,gb,1429406,,0
-C,1,8,,,,,,Darren Firth,gb,2610227,,0
-C,1,7,BCC - Bees,,000000,fcfc01,000000,Andrew Telford - BCC,gb,1743146,,0
+C,2,12,,,,,,Peter Jones BCC,gb,2165774,,0
+C,1,11,,,,,,James Barnes,gb,759044,,0
+C,1,8,,,,,,Adam Wilkinson,gb,1429406,,0
+C,1,7,,,,,,Darren Firth,gb,2610227,,0
+C,1,6,BCC - Bees,,000000,fcfc01,000000,Andrew Telford - BCC,gb,1743146,,0
 C,1,6,Team Type 1,,ffffff,0073b7,ffffff,Ben Lambert (TT1 Looped),gb,1566081,,0
-C,1,5,Arg Team,,ffffff,79bbec,000000,Viviana Gramis [AGMT2],ar,437145,,0
 C,1,5,,,,,,Arno Schmitt,de,1780365,,0
+C,1,4,Arg Team,,ffffff,79bbec,000000,Viviana Gramis [AGMT2],ar,437145,,0
 C,1,2,VVRC,,ffffff,0073b7,ffffff,Dana Kornreich Valkyrie Racing,us,786484,,0
 D,2,23,YORK,,ffffff,0073b7,ffff00,Matt Wilkinson,gb,375127,gold bronze,0
 D,1,18,CycleChat,,ffffff,0073b7,ffffff,Steven Robinson,gb,448417,gold,0
