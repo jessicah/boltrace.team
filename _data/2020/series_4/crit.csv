@@ -2,7 +2,7 @@ category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,2,60,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,silver bronze,0
 A,1,34,Cardiac Athletes,,ffffff,ff0000,ffffff,Ned Bowen &#127993;,us,833859,gold,0
 A,2,34,TBR Racing,,ffffff,0073b7,ffffff,Nick Vanderpoll4893,au,267895,,0
-A,1,34,SZ,,ffffff,285697,ffd700,Mattias Lundqvist [SZ],se,455884,gold,0
+A,1,34,SZ,,ffffff,285697,ffd700,Mattias Lundqvist [SZ] (Los Torpedos),se,455884,gold,0
 A,1,31,Innovation,,000000,52ff33,000000,Rob Wood (INC INNOVATION),gb,95589,silver,0
 A,2,30,BRT,,ffffff,050505,ff8100,Rhys  Richard [BRT] (BRT Craft Beers),gb-wls,1056206,,0
 A,1,29,MDCC,,ffffff,0073b7,ffffff,Rich Babbage,gb,28524,bronze,0
@@ -18,7 +18,7 @@ A,1,19,USMES,,ffffff,0073b7,ffffff,Joel Harding *USMES*,us,1049384,,0
 A,1,19,,,,,,Mark Tuckett,gb,1647041,,0
 A,1,18,,,,,,&bull;&bull; J. jARa &bull;&bull;,es,1999105,gold,0
 A,1,15,TBR Racing,,ffffff,0073b7,ffffff,Allan Luck (TBR),au,1708618,,0
-A,1,15,BRT,,ffffff,050505,ff8100,Leon Bond (BRT Craft Beers),gb,266642,,0
+A,1,15,BRT,,ffffff,050505,ff8100,Leon Bond (BRT Tripel Beers),gb,266642,,0
 A,1,15,DBR,,ffffff,eb7b2a,ffffff,Tom Elvius-Brisson (DBR-RA),dk,977034,silver,0
 A,1,13,,,,,,Kjetil Smedberg,no,1144286,,0
 A,1,13,Vikings,,c2c2c2,0073b7,ee6331,Kjetil Berntzen [V] &#128037;,no,38911,,0
@@ -40,7 +40,7 @@ A,1,3,,,,,,David WM,mu,2455961,,0
 A,1,2,,,,,,Paul Livesey (CCA),gb,1050330,,0
 A,1,1,TEAM ZWC,,f70f66,000000,ea0026,Sean Leadbeater,gb,794384,,0
 A,1,1,SISU,,ffffff,0073b7,ffffff,Amanda Wendorff (Team SISU) [SISU]],us,12505,,0
-B,3,125,,,,,,Warwick Stockdale,gb,2303648,gold gold,0
+B,3,125,Race3R,,000000,2bc3f4,ffffff,Warwick Stockdale,gb,2303648,gold gold,0
 B,3,119,BCC - Bees,,000000,fcfc01,000000,Barry Davis BCC - B,gb-eng,397176,silver silver,0
 B,2,64,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,0
 B,3,53,BCC-A,,ffffff,0073b7,ffffff,Neil Campbell BCC-A,ie,25596,,0
