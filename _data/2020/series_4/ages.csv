@@ -7,9 +7,11 @@ A,1,15,PETA-Z,,ff0000,ffff00,000000,Delamabertol,es,1819563,silver,0
 A,1,13,,,,,,Joseph Chudyk [VEGAN],us,2568352,bronze,0
 A,1,13,DoZo,,ffffff,b72100,ffffff,David Latumahina,nl,896477,bronze,0
 A,1,11,TBR Racing,,ffffff,0073b7,ffffff,Glen Morgan,au,123781,,0
+A,1,10,Team CRYO-GEN,,ffffff,009fe3,0c1e4f,Darren Reddick (CRYO-GEN Vultures),gb,843142,gold,0
 A,1,10,Cycle Nation,,c74343,000000,d9d9d9,Jannick Thirion [CycleNation],za,1246451,gold,0
 A,1,9,KARAN BEEF,,ffffff,ff0000,000000,Jacques Greeff,za,1967971,,0
 A,1,9,,,,,,Bapt Ameloot 9727,be,1700541,,0
+A,1,7,RAFCA,,e81d1d,ffffff,0073b7,Barry Garnham (RAFCA 2),gb-wls,2149167,silver,0
 A,1,7,Valhalla,,ffffff,0073b7,ff4500,Noah Serrault,us,2457646,,0
 A,1,7,,,,,,William Berry,gb,2541639,,0
 A,1,7,NCT,,ffffff,ff4545,fdff45,39007 Nicolas FOURNIER,fr,1603787,silver,0
@@ -17,28 +19,33 @@ A,1,5,Greek Zwifters,,ffffff,0073b7,ffffff,Geo Pro (Greek Zwifters),gr,1024829,b
 A,1,3,Valhalla,,ffffff,0073b7,ff4500,Michael James [TV] (Hofund),gb,2117354,,0
 A,1,3,,,,,,Colin Weller AZ,gb,511644,,0
 B,2,25,DIRT,,29ec34,211208,df6a0d,Ryan Kersh,us,939430,gold silver,0
+B,2,18,BRT,,ffffff,050505,ff8100,Richard Jones [BRT],kn,2409422,silver,0
 B,1,18,,,,,,Fabian Rind,de,1523459,gold,0
-B,1,15,BRT,,ffffff,050505,ff8100,Richard Jones [BRT],kn,2409422,silver,0
 B,1,15,WVS,,ffff00,000000,ff0000,Gareth Hanson (WVS/BCCEN),gb-wls,1208027,silver,0
 B,1,13,,,,,,Corrado Riccardo,it,1944715,bronze,0
 B,1,13,,,,,,V. Goos,be,1029940,bronze,0
 B,1,11,SM40,,ffffff,0073b7,ffffff,xavier dupouy,fr,2132013,,0
 B,1,11,RAMcc,,ffffff,0073b7,ffffff,Neil  Halliday(RAM&#9889;&#65039;cc/BCEM),gb,249178,,0
+B,1,10,TugaZ,,ffffff,ff1f00,33735b,Rui  Da Silva,pt,810788,gold,0
 B,1,10,TeamZF(Spokes.fit),,f5f5f5,0623a9,cf3a42,Pablo Perruchoud[TeamZF Elatino],ar,750156,gold,0
 B,1,9,,,,,,Ardan van de Graaf,nl,1406376,,0
 B,1,9,DIRT,,29ec34,211208,df6a0d,Sean Rice,us,517983,,0
+B,1,7,HERD,,383c3d,fc6719,383c3d,Michael Considine,ie,787676,silver,0
 B,1,7,,,,,,Peter Ritchie,gb,2637468,,0
 B,1,7,,,,,,Marcus Tafjord,se,170727,,0
+B,1,5,,,,,,Nicolas Soucy-Ross7256,ca,998062,bronze,0
 B,1,5,,,,,,Paul Bell,us,1634061,,0
 B,1,5,,,,,,Jonathan Wright,gb,1140008,bronze,0
 B,1,3,ZESP,,000000,fabd00,ad1519,Ismael Ad&aacute;n,es,500206,,0
+B,1,1,GBST,,ffffff,0073b7,ffffff,Paul Skinner,gb,1141791,,0
 B,1,1,,,,,,Michael S.,de,1705274,,0
+C,2,28,ZODIAC,,ffffff,000000,000000,Simon Oxenham (Zodiac),gb,1011,gold gold,0
 C,2,20,WTRL,,d4af37,000000,d4af37,Jean-luc crouzilles (EU-TTT),fr,691984,gold gold,0
 C,2,18,USM Villeparisis,,ffffff,eb0e0e,535cc9,5003 MATHIEU St&eacute;phane,fr,1477257,bronze bronze,0
-C,1,18,ZODIAC,,ffffff,000000,000000,Simon Oxenham (Zodiac),gb,1011,gold,0
 C,1,15,CIZL,,ffffff,0073b7,ffffff,Kevin Lynch 7288,ie,1816506,silver,0
 C,1,11,,,,,,Ian Bloomfield,gb,1546697,,0
 C,1,9,Vikings,,c2c2c2,0073b7,ee6331,Jan Smedsvig Karlsen,no,13185,,0
+C,1,7,KISS RT,,f56600,012350,84b7ca,Dafydd Williams BMTR B (KISS Racing Team),gb-wls,123836,silver,0
 C,1,7,,,,,,Mike Monterusso,us,2323628,silver,0
 C,1,7,TeamODZ,,ff851b,111111,3c8dbc,Vitor Mateus (TeamODZ),pt,29973,silver,0
 C,1,7,VEGAN,,ffffff,00a65a,0adb2c,Sean Leary [VZT],us,2519288,,0
@@ -49,16 +56,17 @@ C,1,3,Vikings,,c2c2c2,0073b7,ee6331,Martin Lund,dk,97466,,0
 C,1,3,,,,,,Uz Schulz,de,1192338,,0
 C,1,1,,,,,,Nate Horne,us,2591448,,0
 C,1,1,,,,,,R K Olson,gb,1321722,,0
-D,3,67,,,,,,Matt Varey,ca,580973,silver silver bronze,0
-D,2,60,DBR,,ffffff,eb7b2a,ffffff,Kim Villarino (DBR2),dk,1096870,gold gold,0
-D,2,46,FinishStrong,,ffffff,0073b7,ffffff,Robby Parker,us,66794,silver,0
-D,2,46,TFC,,111111,f3f300,111111,David Whitehouse (TFC),gb,550451,,0
+D,4,82,,,,,,Matt Varey,ca,580973,silver silver silver bronze,0
+D,2,60,DBR,,ffffff,eb7b2a,ffffff,Kim Villarino [BadAss],dk,1096870,gold gold,0
+D,3,59,FinishStrong,,ffffff,0073b7,ffffff,Robby Parker,us,66794,silver bronze,0
+D,3,57,TFC,,111111,f3f300,111111,David Whitehouse (TFC),gb,550451,,0
+D,3,35,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
 D,1,29,,,,,,The Dahminator(PRW),ca,1410022,bronze,0
-D,2,26,BRT,,ffffff,050505,ff8100,Glebster Carr (BRT),gb,572357,bronze,0
 D,1,25,EVOLUTION,,ff09ff,2e1c1c,ff09ff,Douglas Darling [EVO],us,90667,,0
 D,2,24,All,,ffffff,0073b7,ffffff,Peter aragon,de,824131,,0
 D,1,21,NDCA,,ffffff,ffa500,000000,Kevin  Wake 7475,gb,1134462,,0
 D,1,19,,,,,,Robert Yog Ashwell,gb,1001853,,0
+D,1,18,WTRL,,d4af37,000000,d4af37,Chris Mannaert (Skylab),be,987912,gold,0
 D,1,18,IBTC,,ffffff,0073b7,ffffff,David Bailey (Pedalare),us,16390,gold,0
 D,1,17,SAKARI,,001dff,46ff00,31b6fc,M. Sherman [Sakari],us,75470,,0
 D,1,17,England CC,,ffffff,d24848,3b3b6b,Terry Flynn [ENG],gb-eng,397987,,0
@@ -70,10 +78,12 @@ D,2,11,,,,,,Mucky Pup,gb,399590,,0
 D,1,11,TugaZ,,ffffff,ff1f00,33735b,Pedro Leal,pt,2306809,,0
 D,1,9,,,,,,Phil Banks,gb,784438,,0
 D,1,9,TugaZ,,ffffff,ff1f00,33735b,J. Mota_1961_[TUGAZ],pt,1098768,,0
+D,1,7,Vikings,,c2c2c2,0073b7,ee6331,Knut Arne Karlsen,no,364515,,0
 D,1,7,,,,,,Tiago Branco,pt,2328420,,0
 D,1,7,DBR,,ffffff,eb7b2a,ffffff,Frank Van Hooydonck,be,943185,,0
 D,1,6,,,,,,Ramon Fonoll,es,1219773,,0
-D,1,5,BRT,,ffffff,050505,ff8100,Rob Miller (BRT Galaxy),us,2358954,,0
+D,1,5,STRABICITEAM,,fa0d0d,01080a,fa0d0d,Marzio  Vanoni (STRABICI),it,706065,,0
+D,1,5,BRT,,ffffff,050505,ff8100,Rob Miller [BRT],us,2358954,,0
 D,1,5,,,,,,Allan Hodgy NPT PHOENIX,gb-wls,1737343,,0
 D,1,5,,,,,,Luis Ramada,pt,2428051,,0
 D,1,4,,,,,,James Church,us,961314,,0
