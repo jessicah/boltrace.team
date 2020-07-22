@@ -32,15 +32,16 @@ B,7,226,9186,BCC - Bees,000000,fcfc01,000000
 B,4,128,2707,DIRT,29ec34,211208,df6a0d
 B,3,125,791,Race3R,000000,2bc3f4,ffffff
 B,1,49,10683,PETA-Z,ff0000,ffff00,000000
+B,2,47,5524,UK Armed Forces,ffffff,4f213b,4f213b
 B,2,46,4446,Race Hub,ffffff,eb1c1c,030000
 B,4,44,4,BRT,ffffff,050505,ff8100
 B,1,43,2146,ZESP,000000,fabd00,ad1519
 B,1,39,5001,CCMV,ffffff,0073b7,ffffff
-B,1,37,5522,RAFCA,e81d1d,ffffff,0073b7
 B,1,34,7514,BCR,ffffff,ee5835,151515
 B,1,31,7221,SDW,000000,f3f300,ed1c1c
 B,1,29,2894,KendalCCRacing,aed6f1,21618c,c0392b
 B,1,27,1965,BIKES-FRANCE,000000,f2ad00,000000
+B,1,23,11533,CRT,ffffff,0073b7,ffffff
 B,1,21,1279,SLTC,ffffff,0073b7,ffffff
 B,1,19,8870,VCUB,ffffff,0073b7,ffffff
 B,1,17,7138,SP.team,ffffff,0073b7,ffffff
@@ -50,7 +51,6 @@ B,1,15,6676,BUSTINSKIN,ef5000,000000,ef5300
 B,1,15,5563,Zwaluwen,ffffff,119106,b81717
 B,1,13,5952,Pembs Velo,2703bd,d910d9,2703bd
 B,1,13,2363,KRS,ffffff,35b59e,000000
-B,1,10,5524,UK Armed Forces,ffffff,4f213b,4f213b
 B,1,3,7667,QRCC,ffffff,0073b7,ffffff
 B,1,2,4200,OrkneyCC,de3232,0f0606,eb3636
 C,16,326,9186,BCC - Bees,000000,fcfc01,000000
@@ -62,6 +62,7 @@ C,1,33,90,Vikings,c2c2c2,0073b7,ee6331
 C,1,21,10,TFC,111111,f3f300,111111
 C,1,17,1458,CycleChat,ffffff,0073b7,ffffff
 C,1,17,7,TeamODZ,ff851b,111111,3c8dbc
+C,1,15,2952,LFCC,000000,00ff4e,000000
 C,1,15,2672,REVO,fc00e3,000000,fc00e3
 C,1,13,4630,TugaZ,ffffff,ff1f00,33735b
 C,1,9,588,Team Italy,dd4b39,ffffff,00a65a
@@ -69,6 +70,7 @@ C,1,6,168,Team Type 1,ffffff,0073b7,ffffff
 C,1,5,2281,TeamNL,ffffff,ffa500,ffa500
 C,1,4,4355,Arg Team,ffffff,79bbec,000000
 C,1,2,9829,VVRC,ffffff,0073b7,ffffff
+C,1,1,5604,ART,ffffff,2e2c2c,e33131
 D,2,28,1458,CycleChat,ffffff,0073b7,ffffff
 D,2,23,4100,YORK,ffffff,0073b7,ffff00
 D,1,15,3369,IRL,ffffff,000000,00b84a

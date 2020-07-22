@@ -11,7 +11,7 @@ A,1,27,BathCC,,ffffff,0073b7,ffffff,Daniel Colman (Bath CC Lansdown),gb-wls,9152
 A,1,27,Relentless,,e5eb0f,080808,9e39c7,Adam Otstot [RELENTLESS],us,1567061,,0
 A,1,25,BEAT,,000000,28bebe,000000,Thomas Steinbusch [BEAT],nl,1773,,0
 A,1,25,Dutch Racing,,121212,fc6719,121212,Etienne van Empel [DTCH],nl,7294,,0
-A,1,23,Team CRYO-GEN,,ffffff,009fe3,0c1e4f,Martin Maertens,de,1486681,silver,0
+A,1,23,Team CRYO-GEN,,ffffff,009fe3,0c1e4f,Martin Maertens [CRYO-GEN],de,1486681,silver,0
 A,1,23,BRT,,ffffff,050505,ff8100,Scott Fryer,gb,313574,,0
 A,1,21,&Oslash;VB,,ffffff,0073b7,ffffff,Matt Taylor [OVB],gb,1835236,bronze,0
 A,1,21,TugaZ,,ffffff,ff1f00,33735b,Carlos Santos,pt,792089,,0
@@ -61,7 +61,7 @@ B,1,43,ZESP,,000000,fabd00,ad1519,Pancratio Caine,es,1549119,,0
 B,1,41,,,,,,Phil Westmorland,gb,606671,,0
 B,1,39,DIRT,,29ec34,211208,df6a0d,Matt Stacey,au,772889,silver,0
 B,1,39,CCMV,,ffffff,0073b7,ffffff,John O&#039;Connell,us,572061,,0
-B,1,37,RAFCA,,e81d1d,ffffff,0073b7,Jonathan Gwynn [RAFCA],gb,1594304,bronze,0
+B,1,37,UK Armed Forces,,ffffff,4f213b,4f213b,Jonathan Gwynn [RAFCA],gb,1594304,bronze,0
 B,1,35,,,,,,Sascha Ochs,de,430254,,0
 B,1,35,,,,,,Chris Raubenheimer,de,1386149,,0
 B,1,34,,,,,,Jari Thiels,be,810568,gold,0
@@ -77,7 +77,7 @@ B,1,27,BRT,,ffffff,050505,ff8100,Paul Esson [BRT],gb,161041,,0
 B,1,25,,,,,,Charlie Bardell,gb,106733,,0
 B,1,25,Race Hub,,ffffff,eb1c1c,030000,Jack Davis (Race Hub Black),gb,900057,,0
 B,1,25,DIRT,,29ec34,211208,df6a0d,Paul Robertson [DIRT],gb,1730413,,0
-B,1,23,,,,,,"Andrew Adelman - CoreTechs CA, USA",us,278026,,0
+B,1,23,CRT,,ffffff,0073b7,ffffff,"Andrew Adelman - CoreTechs CA, USA",us,278026,,0
 B,1,23,,,,,,Harm Verhoeven,nl,76649,,0
 B,1,23,,,,,,Fourneaux Romain,fr,890861,,0
 B,1,23,,,,,,Daniel Gassmann,de,57897,,0
@@ -149,8 +149,8 @@ C,2,18,BCC - Bees,,000000,fcfc01,000000,Albert May - BCC B,gb,62938,,0
 C,3,17,CycleChat,,ffffff,0073b7,ffffff,Steven Robinson,gb,448417,gold gold,2
 C,1,17,TeamODZ,,ff851b,111111,3c8dbc,Andrew Fisher,gb,80482,,0
 C,1,17,,,,,,Adam Webb,gb,1662493,,0
-C,1,15,,,,,,Nathan Higgs,gb,1312178,,0
-C,1,15,REVO,,fc00e3,000000,fc00e3,52028 Sil Cal &#129419; (REVOlocas),ar,447517,,0
+C,1,15,LFCC,,000000,00ff4e,000000,Nathan Higgs (LFCC/BCEM),gb,1312178,,0
+C,1,15,REVO,,fc00e3,000000,fc00e3,52028 Sil Cal &#129419; (REVOcakecrushers),ar,447517,,0
 C,1,13,TugaZ,,ffffff,ff1f00,33735b,Vitor Pinto,pt,1926808,,0
 C,1,13,,,,,,Thibaud Marlier,be,1390677,,0
 C,1,11,,,,,,Tim Hurst,gb,634006,,0
@@ -171,9 +171,9 @@ C,1,5,,,,,,Arno Schmitt,de,1780365,,0
 C,1,4,Arg Team,,ffffff,79bbec,000000,Viviana Gramis [AGMT2],ar,437145,,0
 C,1,2,,,,,,Sam Bird,gb,447439,,0
 C,1,2,VVRC,,ffffff,0073b7,ffffff,Dana Kornreich Valkyrie Racing,us,786484,,0
-C,1,1,,,,,,Paul Reynolds3435,gb-eng,1106778,,0
+C,1,1,ART,,ffffff,2e2c2c,e33131,Paul Reynolds ART,gb-eng,1106778,,0
 D,2,23,YORK,,ffffff,0073b7,ffff00,Matt Wilkinson,gb,375127,gold bronze,0
-D,1,15,IRL,,ffffff,000000,00b84a,Stevie Maguire,ie,91940,silver,0
+D,1,15,IRL,,ffffff,000000,00b84a,Stevie Maguire (TFC Hurricane),ie,91940,silver,0
 D,1,11,PP-PTY,,ffffff,0073b7,ffffff,Eugenio Cajiao (Peak Perf Chile),cl,1639604,,0
 D,1,10,,,,,,Ben Carrington,gb-eng,1152083,gold,0
 D,1,9,,,,,,Alex Sparkman,us,1603982,,0
