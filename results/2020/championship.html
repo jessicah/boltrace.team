@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h2>BRT 2020 Club Championships</h2>
+
+{% assign results = site.data.2020.championship | group_by: "category" | sort: "name" %}
+<table id='individual-results' class='collapse'>
+	{% for grade in results %}
+	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-individual'>
+			<tr>
+					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
+				</tr>
+			<tr>
+				<th>Name</th>
+			</tr>
+	</thead>
+<tbody class='{{ grade.name | downcase }}-grade'>
+	{% for item in grade.items %}
+	<tr class='{% cycle "even", "odd" %}'>
+		<td>{{ item.name }}</td>
+	</tr>
+	{% endfor %}
+</tbody>
+{% endfor %}
+</table>
