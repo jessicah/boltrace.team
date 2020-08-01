@@ -1,0 +1,25 @@
+category,events,points,tid,tname,tc,tbc,tbd
+A,3,113,4,BRT,ffffff,050505,ff8100
+A,1,50,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+A,1,50,5632,RR 2020,ffffff,0073b7,ffffff
+A,1,50,9159,A E R O,ffffff,0000ff,ffffff
+A,2,42,629,Team AHDR,fc6955,55d4fc,ffffff
+A,1,25,1611,GGCC,ffffff,0073b7,ffffff
+B,3,102,4,BRT,ffffff,050505,ff8100
+B,2,100,60,TBR Racing,ffffff,0073b7,ffffff
+B,3,98,629,Team AHDR,fc6955,55d4fc,ffffff
+B,1,33,7301,LiveByCycling,ffffff,e10667,ffffff
+B,1,25,2672,REVO,fc00e3,000000,fc00e3
+C,3,123,2672,REVO,fc00e3,000000,fc00e3
+C,3,123,4,BRT,ffffff,050505,ff8100
+C,1,50,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,1,40,5604,ART,ffffff,2e2c2c,e33131
+C,1,28,629,Team AHDR,fc6955,55d4fc,ffffff
+C,1,20,4982,CCNS,190404,ffff00,190000
+C,1,16,7301,LiveByCycling,ffffff,e10667,ffffff
+D,3,113,2672,REVO,fc00e3,000000,fc00e3
+D,2,72,629,Team AHDR,fc6955,55d4fc,ffffff
+D,1,50,36,KISS RT,f56600,012350,84b7ca
+D,1,50,1940,Vixen/Fox,7409a6,f79d4b,ffffff
+D,1,33,7301,LiveByCycling,ffffff,e10667,ffffff
+D,1,25,1384,[EXN],ee1d22,ffffff,ee1d22
