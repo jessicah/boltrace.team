@@ -1,24 +1,56 @@
 category,events,points,tid,tname,tc,tbc,tbd
+A,14,305,4,BRT,ffffff,050505,ff8100
+A,1,42,90,Vikings,c2c2c2,0073b7,ee6331
+A,1,31,4097,GVC,ffffff,01f041,097a34
+A,1,29,4127,LondonDynamo,ffffff,0073b7,000000
+A,1,18,8714,APEX,ffffff,0073b7,ffffff
 A,2,16,7763,RSG,de7e7e,004880,ffffff
+A,2,15,2740,Team CRYO-GEN,ffffff,009fe3,0c1e4f
+A,1,15,1634,[DRAFT],ffffff,e60d2e,000000
 A,1,15,6568,/fs/,09ed00,bd00f0,09ed00
 A,1,15,3751,Dutch Racing,121212,fc6719,121212
+A,1,13,7393,BNB &#128059;,ffffff,228b22,654321
+A,1,13,6005,STAY CHINGON,ffffff,e81717,030303
 A,1,11,10003,JETT,ff00ff,ffff00,00ff00
-A,1,10,2740,Team CRYO-GEN,ffffff,009fe3,0c1e4f
 A,1,9,2707,DIRT,29ec34,211208,df6a0d
+A,1,8,6403,TCT,ffffff,0073b7,ffffff
 A,1,7,9226,MSC,ffffff,e67e22,ffffff
+A,1,6,3052,KST,ffffff,030000,7d7474
 A,1,5,60,TBR Racing,ffffff,0073b7,ffffff
 A,1,3,6326,MCDT,ffffff,00e617,ffffff
 A,1,2,9293,PERTHES,ffffff,ec1717,ffffff
+B,25,895,4,BRT,ffffff,050505,ff8100
+B,5,186,32,SZ,ffffff,285697,ffd700
+B,1,82,2707,DIRT,29ec34,211208,df6a0d
+B,1,65,2936,TeamUV 63.8N,ffffff,0500ff,ff0000
+B,1,51,3938,TNC,ffffff,0073b7,ffffff
+B,1,41,7612,WVS,ffff00,000000,ff0000
+B,1,37,3369,IRL,ffffff,000000,00b84a
+B,2,36,2649,Dutch Diesel Cycling,ffffff,ef7124,23398f
+B,1,35,2471,FlatLine,060000,0fe6d8,0d0101
 B,2,25,8619,Burlingame United,f0f0f0,f95d22,22baf9
 B,1,18,6431,CIZL,ffffff,0073b7,ffffff
+B,1,15,9695,Estoira Bikes,ffffff,0398eb,eb3636
 B,1,13,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 B,1,11,975,Innovation,000000,52ff33,000000
-B,1,10,2649,Dutch Diesel Cycling,ffffff,ef7124,23398f
 B,1,7,6113,BHT,dac4c4,020202,ffffff
+B,1,5,6509,ZiS / WWNR,ffffff,0073b7,190101
 B,1,5,3141,ICT,ffffff,ff0a01,0300e5
+B,1,2,11533,CRT,ffffff,0073b7,ffffff
 B,1,1,4305,SCC,ffffff,0073b7,ffffff
 B,1,1,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
-C,2,14,4,BRT,ffffff,050505,ff8100
+C,19,492,4,BRT,ffffff,050505,ff8100
+C,2,78,629,Team AHDR,fc6955,55d4fc,ffffff
+C,2,41,90,Vikings,c2c2c2,0073b7,ee6331
+C,1,21,111,SZR,ffffff,0073b7,ffffff
+C,1,17,4523,e-Latino,fe2ec8,fafafa,fe2ec8
+C,1,11,5411,Team Mexico,ffffff,f20000,ffffff
 C,1,10,2466,TugaZRT,ffffff,ff1f00,33735b
 C,1,10,120,MTCT,040312,9cb2e8,d4e60d
+C,1,7,2707,DIRT,29ec34,211208,df6a0d
 C,1,3,1,PTz,ffffff,f28312,301b05
+D,4,36,4,BRT,ffffff,050505,ff8100
+D,1,26,8305,RSB,ffffff,0895eb,f51d1d
+D,2,17,2707,DIRT,29ec34,211208,df6a0d
+D,1,17,8444,ELEQ,ffffff,0073b7,ffffff
+D,1,5,2639,HERD,383c3d,fc6719,383c3d
