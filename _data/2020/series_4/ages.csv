@@ -8,8 +8,8 @@ A,1,15,PETA-Z,,ff0000,ffff00,000000,Delamabertol,es,1819563,silver,0
 A,1,13,DoZo,,ffffff,b72100,ffffff,David Latumahina,nl,896477,bronze,0
 A,1,11,TBR Racing,,ffffff,0073b7,ffffff,Glen Morgan,au,123781,,0
 A,1,10,Team CRYO-GEN,,ffffff,009fe3,0c1e4f,Darren Reddick (CRYO-GEN Vultures),gb,843142,gold,0
-A,1,10,Cycle Nation,,c74343,000000,d9d9d9,Jannick Thirion [CycleNation],za,1246451,gold,0
-A,1,9,KARAN BEEF,,ffffff,ff0000,000000,Jacques Greeff (DIRTy Afternoon Delight),za,1967971,,0
+A,1,10,Cycle Nation,,c74343,000000,d9d9d9,Jannick Thirion (Cycle Nation),za,1246451,gold,0
+A,1,9,KARAN BEEF,,ffffff,ff0000,000000,Jacques Greeff,za,1967971,,0
 A,1,9,,,,,,Bapt Ameloot 9727,be,1700541,,0
 A,1,7,RAFCA,,e81d1d,ffffff,0073b7,Barry Garnham (RAFCA 2),gb-wls,2149167,silver,0
 A,1,7,Valhalla,,ffffff,0073b7,ff4500,Noah Serrault,us,2457646,,0
@@ -29,7 +29,7 @@ B,1,13,,,,,,Corrado Riccardo,it,1944715,bronze,0
 B,1,13,,,,,,V. Goos,be,1029940,bronze,0
 B,1,11,,,,,,Rich Uliana,us,474995,,0
 B,1,11,SM40,,ffffff,0073b7,ffffff,xavier dupouy,fr,2132013,,0
-B,1,11,RAMcc,,ffffff,0073b7,ffffff,Neil  Halliday(RAM&#9889;&#65039;cc/BCEM),gb,249178,,0
+B,1,11,RAMcc,,ffffff,0073b7,ffffff,Neil Halliday [BCEM] (RAMcc),gb,249178,,0
 B,1,10,CdV,,ffffff,0073b7,ffffff,Andres Vega Jaramillo,co,78592,gold,0
 B,1,10,TugaZ,,ffffff,ff1f00,33735b,Rui  Da Silva,pt,810788,gold,0
 B,1,10,TeamZF(Spokes.fit),,f5f5f5,0623a9,cf3a42,Pablo Perruchoud[TeamZF Elatino],ar,750156,gold,0
@@ -37,11 +37,11 @@ B,1,9,,,,,,Ardan van de Graaf,nl,1406376,,0
 B,1,9,DIRT,,29ec34,211208,df6a0d,Sean Rice,us,517983,,0
 B,1,7,CIZL,,ffffff,0073b7,ffffff,Nessan Geary,ie,685857,,0
 B,1,7,HERD,,383c3d,fc6719,383c3d,Michael Considine,ie,787676,silver,0
-B,1,7,,,,,,Peter Ritchie,gb,2637468,,0
+B,1,7,,,,,,Peter Ritchie,gb-nir,2637468,,0
 B,1,7,,,,,,Marcus Tafjord,se,170727,,0
 B,1,5,,,,,,Nicolas Soucy-Ross7256,ca,998062,bronze,0
 B,1,5,,,,,,Paul Bell,us,1634061,,0
-B,1,5,,,,,,Jonathan Wright,gb,1140008,bronze,0
+B,1,5,,,,,,Jonathan Wright GGCC (B),gb,1140008,bronze,0
 B,1,3,ZESP,,000000,fabd00,ad1519,Ismael Ad&aacute;n,es,500206,,0
 B,1,1,GBST,,ffffff,0073b7,ffffff,Paul Skinner,gb,1141791,,0
 B,1,1,,,,,,Michael S.,de,1705274,,0
@@ -75,7 +75,7 @@ D,1,25,EVOLUTION,,ff09ff,2e1c1c,ff09ff,Douglas Darling [EVO],us,90667,,0
 D,2,22,,,,,,Robert Yog Ashwell,gb,1001853,,0
 D,1,21,NDCA,,ffffff,ffa500,000000,Kevin  Wake 7475,gb,1134462,,0
 D,1,19,IRL,,ffffff,000000,00b84a,John   Gibbons,ie,846846,,0
-D,1,18,WTRL,,d4af37,000000,d4af37,Chris Mannaert (Skyfall),be,987912,gold,0
+D,1,18,WTRL,,d4af37,000000,d4af37,Chris Mannaert (Skylab),be,987912,gold,0
 D,1,17,M.I. RACING,,0000ff,ffff00,000000,Mark Wise (MI Racing),gb-eng,1862776,,0
 D,1,17,SAKARI,,001dff,46ff00,31b6fc,M. Sherman [Sakari],us,75470,,0
 D,1,17,England CC,,ffffff,d24848,3b3b6b,Terry Flynn (ENGage),gb-eng,397987,,0
@@ -90,7 +90,7 @@ D,1,9,,,,,,Robert Reineke 182268,us,1508880,,0
 D,1,9,Rowe & King,,ffffff,2b5bb8,2fba4e,Phil Banks,gb,784438,,0
 D,1,9,TugaZ,,ffffff,ff1f00,33735b,J. Mota_1961_[TUGAZ],pt,1098768,,0
 D,1,7,,,,,,Christopher Groening8750,us,369166,,0
-D,1,7,TFC,,111111,f3f300,111111,e Harris (TFC Harrier),us,1090582,,0
+D,1,7,TFC,,111111,f3f300,111111,e Harris (TFC),us,1090582,,0
 D,1,7,Vikings,,c2c2c2,0073b7,ee6331,Knut Arne Karlsen,no,364515,,0
 D,1,7,,,,,,Tiago Branco,pt,2328420,,0
 D,1,7,DBR,,ffffff,eb7b2a,ffffff,Frank Van Hooydonck,be,943185,,0
