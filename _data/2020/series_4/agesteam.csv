@@ -1,5 +1,5 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,2,23,1845,VEGAN,ffffff,00a65a,0adb2c
+A,3,33,1845,VEGAN,ffffff,00a65a,0adb2c
 A,1,18,6077,District Taco Racing,000000,fcff33,000000
 A,1,18,7222,SHCW,ffffff,0073b7,ffffff
 A,1,15,10683,PETA-Z,ff0000,ffff00,000000
@@ -11,8 +11,9 @@ A,1,10,11157,Cycle Nation,c74343,000000,d9d9d9
 A,1,9,9947,KARAN BEEF,ffffff,ff0000,000000
 A,1,7,5522,RAFCA,e81d1d,ffffff,0073b7
 A,1,7,7637,NCT,ffffff,ff4545,fdff45
+A,1,5,90,Vikings,c2c2c2,0073b7,ee6331
 A,1,5,6910,Greek Zwifters,ffffff,0073b7,ffffff
-B,4,34,4,BRT,ffffff,050505,ff8100
+B,5,39,4,BRT,ffffff,050505,ff8100
 B,3,34,2707,DIRT,29ec34,211208,df6a0d
 B,1,18,25,ZTPL.CC,ffffff,ff1800,ff0000
 B,1,15,7763,RSG,de7e7e,004880,ffffff
@@ -36,20 +37,21 @@ C,1,10,4785,RUTA 56,a80000,ff7500,960000
 C,1,7,36,KISS RT,f56600,012350,84b7ca
 C,1,7,7,TeamODZ,ff851b,111111,3c8dbc
 C,1,7,1845,VEGAN,ffffff,00a65a,0adb2c
-D,5,98,1740,FinishStrong,ffffff,0073b7,ffffff
+D,6,113,1740,FinishStrong,ffffff,0073b7,ffffff
 D,6,94,10,TFC,111111,f3f300,111111
 D,4,82,1986,DBR,ffffff,eb7b2a,ffffff
 D,6,55,4,BRT,ffffff,050505,ff8100
 D,2,36,2013,IBTC,ffffff,0073b7,ffffff
 D,3,35,4095,All,ffffff,0073b7,ffffff
+D,2,33,4201,WTRL,d4af37,000000,d4af37
 D,1,25,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 D,1,21,7119,NDCA,ffffff,ffa500,000000
 D,2,20,4630,TugaZ,ffffff,ff1f00,33735b
 D,1,19,3369,IRL,ffffff,000000,00b84a
-D,1,18,4201,WTRL,d4af37,000000,d4af37
 D,1,17,7171,M.I. RACING,0000ff,ffff00,000000
 D,1,17,1187,SAKARI,001dff,46ff00,31b6fc
 D,1,17,7423,England CC,ffffff,d24848,3b3b6b
+D,1,11,10231,Islington CC,ffffff,001c3d,001c3d
 D,1,11,36,KISS RT,f56600,012350,84b7ca
 D,1,11,975,Innovation,000000,52ff33,000000
 D,1,9,2298,Rowe & King,ffffff,2b5bb8,2fba4e
