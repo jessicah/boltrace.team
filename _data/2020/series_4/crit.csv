@@ -1,8 +1,8 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,5,135,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,gold gold silver bronze,0
+A,5,135,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT] (BRT Craft Beers),nl,885157,gold gold silver bronze,0
 A,6,65,BCC-A,,ffffff,0073b7,ffffff,Sam Lancia (BCC-A),gb,87778,bronze,0
 A,3,51,TBR Racing,,ffffff,0073b7,ffffff,Nick Vanderpoll (TBR Z6E1),au,267895,,0
-A,3,45,TBR Racing,,ffffff,0073b7,ffffff,Allan Luck (TBR Z6F1),au,1708618,,0
+A,3,45,TBR Racing,,ffffff,0073b7,ffffff,Allan Luck (TBR),au,1708618,,0
 A,1,34,KISS RT,,f56600,012350,84b7ca,Tim Cartwright,gb,125622,gold,0
 A,1,34,Cardiac Athletes,,ffffff,ff0000,ffffff,Ned Bowen &#127993;,us,833859,gold,0
 A,1,34,SZ,,ffffff,285697,ffd700,Mattias Lundqvist [SZ] (Aktivitus),se,455884,gold,0
@@ -120,7 +120,7 @@ B,1,23,,,,,,Fourneaux Romain,fr,890861,,0
 B,1,23,,,,,,Daniel Gassmann,de,57897,,0
 B,2,22,ART,,ffffff,2e2c2c,e33131,Greg Matuszewski (ART),pl,694413,,0
 B,2,22,,,,,,Andy Barr,gb-sct,2520208,,0
-B,4,22,BRT,,ffffff,050505,ff8100,Tom Waddell,gb,737762,,0
+B,4,22,BRT,,ffffff,050505,ff8100,Tom Waddell (BRT Session Beers),gb,737762,,0
 B,1,21,BRT,,ffffff,050505,ff8100,Aaron Hanthorn (IRL Orchard CC),gb-nir,47243,bronze,0
 B,1,21,,,,,,Eamon Daly,ie,111144,bronze,0
 B,1,21,,,,,,Ed Comben,gb,980425,,0
@@ -192,9 +192,9 @@ C,1,27,,,,,,Ric Leijh (RPM),nl,1021435,,0
 C,1,26,CPC,,ff0404,ffff00,000000,Frank Kratzer,us,32189,gold,0
 C,2,26,,,,,,Philip Roberts (RAFCA),gb,8710,,0
 C,2,26,BCC - Bees,,000000,fcfc01,000000,David Morton BCC,gb,1462571,,0
-C,5,23,,,,,,Peter Jones BCC,gb,2165774,,0
 C,1,23,,,,,,Karsten 1910,ag,679732,silver,0
 C,1,23,,,,,,James Mclennan,gb,145414,,0
+C,5,22,,,,,,Peter Jones BCC,gb,2165774,,0
 C,1,21,,,,,,Pascal Rochette,ca,927836,,0
 C,1,21,TFC,,111111,f3f300,111111,Ashley Hunter (TFC Spitfire),gb,1024088,,0
 C,1,19,,,,,,Dominic White,gb,1705585,,0
@@ -228,23 +228,24 @@ C,1,9,ZESP,,000000,fabd00,ad1519,Alejandro Escalante,es,1632511,,0
 C,1,9,,,,,,Graziano  Beltrami,it,1362670,,0
 C,1,9,Team Italy,,dd4b39,ffffff,00a65a,Pasquale De stefano[ITA],gb,1701080,,0
 C,1,8,,,,,,Adam Wilkinson,gb,1429406,,0
-C,1,7,,,,,,david coates,gb,1181724,,0
+C,1,7,,,,,,Paul Noble 4904,gb,367236,,0
 C,1,7,,,,,,Blake McKeown,au,1703615,,0
 C,1,7,,,,,,Abner Ortiz,pr,2078611,,0
 C,1,7,,,,,,Neil Cruickshanks1126,gb,1410237,,0
 C,1,7,,,,,,Darren Firth,gb,2610227,,0
 C,1,6,,,,,,Andrew MacNaughton,us,1402344,,0
 C,1,6,Team Type 1,,ffffff,0073b7,ffffff,Ben Lambert (TT1 Looped),gb,1566081,,0
-C,1,5,ZRG,,1bc1f1,3d3d3d,1bc1f1,Carsten Reinartz,de,1405168,,0
+C,1,5,,,,,,david coates,gb,1181724,,0
 C,1,5,,,,,,Pierrick MERSCH4504,fr,1028651,,0
 C,1,5,HUCKLE BROS,,d99191,050c17,dbadad,Mick Quinn,gb-eng,77640,,0
 C,1,5,,,,,,S Whits,us,2624058,,0
 C,1,5,TeamNL,,ffffff,ffa500,ffa500,Merijn van Aartrijk,nl,170841,,0
 C,1,5,,,,,,Arno Schmitt,de,1780365,,0
 C,1,4,Arg Team,,ffffff,79bbec,000000,Viviana Gramis [AGMT2],ar,437145,,0
-C,1,3,,,,,,George Dailey,us,260207,,0
+C,1,3,ZRG,,1bc1f1,3d3d3d,1bc1f1,Carsten Reinartz,de,1405168,,0
 C,1,3,,,,,,Christian Brandt,dk,921809,,0
 C,1,3,,,,,,Artemiy Terekhov,ru,1499405,,0
+C,1,2,,,,,,George Dailey,us,260207,,0
 C,1,2,,,,,,Scott Drochelman,us,1460978,,0
 C,1,2,,,,,,Sam Bird,gb,447439,,0
 C,1,2,VVRC,,ffffff,0073b7,ffffff,Dana Kornreich Valkyrie Racing,us,786484,,0
