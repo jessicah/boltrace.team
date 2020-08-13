@@ -18,6 +18,7 @@ A,5,24,10959,IRACELIKEAGIRL,ffffff,0063b7,ffffff
 A,2,24,5073,RTSS,ffffff,007efa,ffffff
 A,1,23,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 A,1,23,10741,CRYO RDT,ffffff,0c1e4f,009fe3
+A,2,22,90,Vikings,c2c2c2,0073b7,ee6331
 A,1,21,2146,ZESP,000000,fabd00,ad1519
 A,1,21,7612,WVS,ffff00,000000,ff0000
 A,1,21,1576,&Oslash;VB,ffffff,0073b7,ffffff
@@ -26,17 +27,19 @@ A,2,20,4811,Every Man Jack,ffffff,0073b7,ffffff
 A,3,19,9186,BCC - Bees,000000,fcfc01,000000
 A,1,19,392,GFTbe,ffffff,0073b7,ffffff
 A,1,19,79,USMES,ffffff,0073b7,ffffff
+A,1,18,6870,Sportsolid,ffffff,0073b7,ffffff
 A,1,17,6013,Beds Road RT,ffffff,e70d0d,050404
 A,1,15,10403,PCZ,f5f5f5,f99f1f,000000
 A,1,15,7393,BNB &#128059;,ffffff,228b22,654321
 A,1,15,1986,DBR,ffffff,eb7b2a,ffffff
-A,1,13,90,Vikings,c2c2c2,0073b7,ee6331
+A,1,13,5524,UK Armed Forces,ffffff,4f213b,4f213b
 A,1,11,11157,Cycle Nation,c74343,000000,d9d9d9
 A,1,9,5313,TMC,ffffff,d12626,ffffff
 A,1,9,1469,TeamZF(Spokes.fit),f5f5f5,0623a9,cf3a42
 A,1,9,10003,JETT,ff00ff,ffff00,00ff00
 A,1,9,4393,EVASO eRT,ffffff,1d81a3,d46363
 A,1,9,9293,PERTHES,ffffff,ec1717,ffffff
+A,1,7,4470,6AM,ff1e1e,1863ba,f7f7f7
 A,1,7,10123,SSVC,ff00f0,000000,57c4b6
 A,1,7,2707,DIRT,29ec34,211208,df6a0d
 A,1,7,5607,ARCC,e01f1f,0073b7,ffffff
@@ -44,13 +47,14 @@ A,1,6,10683,PETA-Z,ff0000,ffff00,000000
 A,1,5,5895,TVT,ffffff,f50707,0865d6
 A,1,4,11434,BICC,ffffff,0073b7,ffffff
 A,1,3,9176,1st Stride Events,ffffff,ff4500,ffffff
+A,1,2,6706,DBS,120202,97c7e8,080000
 A,1,1,5782,Van Rysel,ffffff,000000,ffffff
 A,1,1,1958,TEAM ZWC,f70f66,000000,ea0026
 B,22,308,7266,BCC-A,ffffff,0073b7,ffffff
 B,8,249,9186,BCC - Bees,000000,fcfc01,000000
-B,6,203,791,Race3R,000000,2bc3f4,ffffff
+B,7,221,791,Race3R,000000,2bc3f4,ffffff
 B,4,128,2707,DIRT,29ec34,211208,df6a0d
-B,6,70,4,BRT,ffffff,050505,ff8100
+B,7,81,4,BRT,ffffff,050505,ff8100
 B,1,49,10683,PETA-Z,ff0000,ffff00,000000
 B,2,46,4446,Race Hub,ffffff,eb1c1c,030000
 B,1,43,2146,ZESP,000000,fabd00,ad1519
@@ -70,12 +74,15 @@ B,1,19,8870,VCUB,ffffff,0073b7,ffffff
 B,1,17,3804,OOTS CC,ffffff,0073b7,ffffff
 B,1,17,7138,SP.team,ffffff,0073b7,ffffff
 B,1,17,10209,Red Peloton,000000,ff0000,d6d6d6
+B,1,15,10982,HPC,ffffff,124c75,ed3636
 B,1,15,5563,Zwaluwen,ffffff,119106,b81717
+B,1,13,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 B,1,13,7482,STS Cycling Team,ffffff,0073b7,d92d2d
 B,1,13,5952,Pembs Velo,2703bd,d910d9,2703bd
 B,1,13,2363,KRS,ffffff,35b59e,000000
 B,1,11,6800,ReifenR,ffffff,0073b7,ffffff
 B,1,10,5524,UK Armed Forces,ffffff,4f213b,4f213b
+B,1,9,10,TFC,111111,f3f300,111111
 B,1,7,79,USMES,ffffff,0073b7,ffffff
 B,1,3,7667,QRCC,ffffff,0073b7,ffffff
 B,1,2,4200,OrkneyCC,de3232,0f0606,eb3636
