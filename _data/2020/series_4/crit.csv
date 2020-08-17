@@ -1,5 +1,5 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,5,135,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT] (BRT Craft Beers),nl,885157,gold gold silver bronze,0
+A,5,135,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,gold gold silver bronze,0
 A,6,65,BCC-A,,ffffff,0073b7,ffffff,Sam Lancia (BCC-A),gb,87778,bronze,0
 A,3,51,TBR Racing,,ffffff,0073b7,ffffff,Nick Vanderpoll (TBR Z6E1),au,267895,,0
 A,3,45,TBR Racing,,ffffff,0073b7,ffffff,Allan Luck (TBR),au,1708618,,0
@@ -76,7 +76,7 @@ A,1,5,,,,,,Robert Widback,se,1005549,,0
 A,1,5,,,,,,Rob Gardner 8261Bundy CC [QLD - B],au,2226542,,0
 A,1,5,,,,,,George Hugo,de,2149129,,0
 A,1,5,,,,,,Gavin Beresford6171,gb,838814,,0
-A,2,5,IRACELIKEAGIRL,,ffffff,0063b7,ffffff,Amanda Wendorff (Team SISU) [SISU]],us,12505,,0
+A,2,5,IRACELIKEAGIRL,,ffffff,0063b7,ffffff,Amanda Wendorff,us,12505,,0
 A,1,5,,,,,,Matthew Lock 4825,gb,448692,,0
 A,1,5,TVT,,ffffff,f50707,0865d6,Matt Picozzi (TVT Swim),gb,203414,,0
 A,1,5,,,,,,yuki kudo(WCU),jp,25942,,0
