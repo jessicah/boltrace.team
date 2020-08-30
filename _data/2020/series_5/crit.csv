@@ -1,0 +1,57 @@
+category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,2,28,BRT,,ffffff,050505,ff8100,Edu Harms &#128304;,nl,885157,silver bronze,0
+A,1,26,SAKARI,,001dff,46ff00,31b6fc,Jared McLaren,us,498714,gold,0
+A,1,23,CCS,,ffffff,0073b7,ffffff,Josh Bates (CCS),au,160914,silver,0
+A,1,19,,,,,,Joel Chidley,gb,2366199,,0
+A,1,17,,,,,,Tommy  Lawrence PRCC,gb,1387754,,0
+A,1,15,CCS,,ffffff,0073b7,ffffff,Harry Jones (CCS),au,145925,,0
+A,1,13,VMLCT,,ffffff,0073b7,ffffff,Arthur Vermeulen,be,1052115,,0
+A,1,11,DBR,,ffffff,eb7b2a,ffffff,Tom Elvius-Brisson (DBR-RA),dk,977034,,0
+A,1,10,Innovation,,000000,52ff33,000000,Richard Unwin (INC INNOVATION),gb,49421,gold,0
+A,2,9,IRL,,ffffff,000000,00b84a,Alan Campbell (IRL) &#128304;,co,210541,gold,1
+A,1,7,CIZL,,ffffff,0073b7,ffffff,Ross Cadogan,ie,78459,,0
+A,1,5,,,,,,Wouter Engels,be,1490563,bronze,0
+A,1,5,DolceVita,,cfcf13,0073b7,000000,Chester Gillmore [Dolce Vita] 269966,us,388632,,0
+A,1,4,,,,,,Michael Leaf. CRM,nz,1302824,,0
+A,1,3,TeamODZ,,ff851b,111111,3c8dbc,Yves Filion,ca,232023,,0
+A,1,3,KendalCCRacing,,aed6f1,21618c,c0392b,Rory Black (Kendal CC Racers),gb,244112,,0
+A,1,2,,,,,,Stephanie Corset,au,1885482,,0
+A,1,1,BOA cc,,ffffff,162141,ff97ff,Kevin Thomas (BOA CC),gb,529842,,0
+B,2,43,BCC - Bees,,000000,fcfc01,000000,Barry Davis BCC - B,gb,397176,gold,0
+B,1,23,BCC-A,,ffffff,0073b7,ffffff,Sam Lancia (BCC-A),gb,87778,silver,0
+B,1,23,Tri Ireland,,ffffff,0073b7,ffffff,Garret Kearney,ie,611602,silver,0
+B,1,21,BMTR,,ffffff,0073b7,ffffff,Lawrence Cox BVC/WVCC (BMTR C),gb,1280474,bronze,0
+B,1,21,Race3R,,000000,2bc3f4,ffffff,Marius Slemdal,no,408547,bronze,0
+B,1,19,,,,,,Simon Slott Speich,dk,1406998,,0
+B,1,19,IRL,,ffffff,000000,00b84a,Calum K,ie,664844,,0
+B,1,17,,,,,,D. Andersen,dk,1674324,,0
+B,1,15,,,,,,Sascha Ochs,de,430254,,0
+B,1,15,,,,,,Maximilian Klug,de,476321,,0
+B,1,13,BCC-A,,ffffff,0073b7,ffffff,Mark Dury BCC,gb,986964,,0
+B,1,13,BCC - Bees,,000000,fcfc01,000000,Katie Dury BCC-B,gb,2261354,,0
+B,1,11,DIRT,,29ec34,211208,df6a0d,Mike Macdonald,gb-sct,1403683,,0
+B,1,11,Team France,,dd4b39,ffffff,0073b7,Guillaume Eynard,fr,247107,,0
+B,1,9,Team Type 1,,ffffff,0073b7,ffffff,Mario Bessa,pt,726829,,0
+B,1,9,OrkneyCC,,de3232,0f0606,eb3636,Roger Hall,gb-sct,788278,,0
+B,1,7,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC-A,ie,174454,,0
+B,1,7,SFBC,,ffffff,0073b7,ffffff,Alex Juggernaut,au,2314622,,0
+B,1,5,NLEC,,ffffff,0073b7,668f66,Kevin Lawrie (NLEC 1),gb-sct,277452,,0
+B,1,5,,,,,,Colin Mitchinson 8975,ca,2494681,,0
+B,1,4,CCC,,eb1919,0073b7,ffffff,Jonny Steele (CCC / BCSE),gb,622861,,0
+C,1,18,ZRG,,1bc1f1,3d3d3d,1bc1f1,Christoph Pr&uuml;&szlig;,de,894263,gold,0
+C,1,18,,,,,,Callum Wright,gb,2469007,gold,0
+C,1,15,,,,,,Richard Abreu,us,2681702,silver,0
+C,1,15,,,,,,Graeme Crane (ZScot - Saltire),gb-sct,419720,silver,0
+C,1,13,Innovation,,000000,52ff33,000000,David Brown,gb,1028,bronze,0
+C,1,13,BRT,,ffffff,050505,ff8100,Matt Tapping [BRT],gb,206023,bronze,0
+C,1,11,,,,,,Jiri Hledik,cz,1515766,,0
+C,1,11,,,,,,M Cox,gb,253393,,0
+C,1,9,KISS RT,,f56600,012350,84b7ca,Rob Linenkugel,us,251832,,0
+C,1,9,Team Italy,,dd4b39,ffffff,00a65a,David Fryer,it,1448467,,0
+C,1,7,,,,,,Mark Smith,gb-sct,1671721,,0
+C,1,7,,,,,,Adam Wilkinson,gb,1429406,,0
+C,1,5,,,,,,"Tony Peters, NECC",ca,560414,,0
+C,1,5,,,,,,Peter Jones BCC,gb,2165774,,0
+C,1,3,,,,,,Sven Ramspott &#128059;,de,871393,,0
+D,1,10,#TWR,,ffffff,0073b7,ffffff,Pilgrim Tri #TWR,gb-eng,1907886,gold,0
+D,1,10,,,,,,Marli Joy,au,1241865,gold,0
