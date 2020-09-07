@@ -1,5 +1,16 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,1,10,Team AHDR,,fc6955,55d4fc,ffffff,Adam Dawson (AHDR 1),au,1996576,gold,0
+A,1,10,Rowe & King,,ffffff,2b5bb8,2fba4e,Ryan Bevis,gb-wls,291522,gold,0
+A,1,10,Team AHDR,,fc6955,55d4fc,ffffff,Adam Dawson [AHDR],au,1996576,gold,0
+A,1,7,,,,,,Samuel Richardson,gb,2200134,silver,0
+A,1,5,Team MBBC Racing,,ffffff,0073b7,ff091e,Brandon Benham,us,605982,bronze,0
+B,1,10,,,,,,Ramiro Villegas {EVG},co,1838107,gold,0
 B,1,10,,,,,,WhiskeyPedaler  WhiskeyPedaler,us,16877,gold,0
+B,1,7,TeamZF(Spokes.fit),,f5f5f5,0623a9,cf3a42,Esteban Saracho,ar,1204855,silver,0
 B,1,7,,,,,,Harold Trease (BB),us,1297707,silver,0
-C,1,10,BRT,,ffffff,050505,ff8100,Welshy (BRT Supernova),gb-wls,2707917,gold,0
+B,1,5,,,,,,Robert Larocca,au,2689845,bronze,0
+C,2,20,BRT,,ffffff,050505,ff8100,Welshy&#127988;&#917607;&#917602;&#917623;&#917612;&#917619;&#917631;(BRT Supernova),gb-wls,2707917,gold gold,0
+C,1,7,SZ,,ffffff,285697,ffd700,Linda Tufvesson,se,484787,silver,0
+C,1,5,CS010/Koers,,ffffff,000000,00a65a,Serge Posthoorn,nl,69557,bronze,0
+C,1,3,,,,,,Steve Riste,gb,2770110,,0
+D,1,10,,,,,,Dan Chant,gb,848393,gold,0
+D,1,7,,,,,,Ragnarlodbrok77,es,1019864,silver,0
