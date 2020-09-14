@@ -1,18 +1,53 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,1,18,,,,,,Tom Grimshaw,gb,169410,gold,0
+A,1,15,[DRAFT],,ffffff,e60d2e,000000,Jason  Henrie &#129421;,ca,84682,silver,0
+A,1,13,VEGAN,,ffffff,00a65a,0adb2c,MEEP! [VEGAN],us,2568352,bronze,0
+A,1,11,/fs/,,09ed00,bd00f0,09ed00,Garrett Reel,us,752664,,0
 A,1,10,Rowe & King,,ffffff,2b5bb8,2fba4e,Ryan Bevis,gb-wls,291522,gold,0
-A,1,10,Team AHDR,,fc6955,55d4fc,ffffff,Adam Dawson (AHDR 2),au,1996576,gold,0
+A,1,10,Team AHDR,,fc6955,55d4fc,ffffff,Adam Dawson [AHDR],au,1996576,gold,0
+A,1,9,,,,,,Georwill PerezRoman,pr,1885360,,0
+A,1,7,JETT,,ff00ff,ffff00,00ff00,Tsutomu Iwabuchi[JETT-LG],jp,115126,,0
 A,1,7,,,,,,Samuel Richardson,gb,2200134,silver,0
+A,1,5,,,,,,cl&eacute;ment vasson- virtual team 63,fr,2016963,,0
 A,1,5,Team MBBC Racing,,ffffff,0073b7,ff091e,Brandon Benham,us,605982,bronze,0
+A,1,3,Team AHDR,,fc6955,55d4fc,ffffff,Darren Bramwell [AHDR] LT,au,131612,,0
+A,1,2,Big Orange,,ffffff,ff4500,000000,Veronica  Huckabee,us,278139,,0
+B,1,26,DIRT,,29ec34,211208,df6a0d,Joel Gibbel,us,1596188,gold,0
+B,1,23,Dutch Diesel Cycling,,ffffff,ef7124,23398f,Christopher Stewart (DDC FrappAttak),us,557350,silver,0
+B,1,21,VEGAN,,ffffff,00a65a,0adb2c,. DarthCrankenstein (Vegan Knights),us,1299716,bronze,0
+B,1,19,VEGAN,,ffffff,00a65a,0adb2c,Joel Farber &#9419; (VZT S),ca,53773,,0
+B,1,17,Saris + The Pros Closet,,ffffff,00c653,ffcd00,Megan Rathwell [SARIS + TPC],ca,1069613,,0
+B,1,15,,,,,,James Krueger,us,195589,,0
+B,1,13,[RAW],,ffffff,0073b7,ffffff,Sonne-Schmidt,dk,46580,,0
+B,1,11,,,,,,David Lopez,us,1271755,,0
 B,1,10,,,,,,Ramiro Villegas {EVG},co,1838107,gold,0
 B,1,10,,,,,,WhiskeyPedaler  WhiskeyPedaler,us,16877,gold,0
+B,1,9,VCK,,ffffff,000000,ffffff,Aleksander Gammeljord U17 [VCK],dk,1418720,,0
+B,1,7,,,,,,Mariah Partin,us,1412831,,0
 B,1,7,TeamZF(Spokes.fit),,f5f5f5,0623a9,cf3a42,Esteban Saracho,ar,1204855,silver,0
 B,1,7,,,,,,Harold Trease (BB),us,1297707,silver,0
+B,1,5,DIRT,,29ec34,211208,df6a0d,Bryan Hilbert (Down n DIRTy 2),us,1084786,,0
 B,1,5,,,,,,Robert Larocca,au,2689845,bronze,0
-C,2,20,BRT,,ffffff,050505,ff8100,G. M&oslash;RgAn(BRT Supernova),gb-wls,2707917,gold gold,0
+B,1,4,Glassforge,,ffffff,0081f2,ffffff,Todd Gallaher/Glass Forge (B),us,1393648,,0
+B,1,3,,,,,,Chris Raubenheimer,de,1386149,,0
+B,1,2,,,,,,Ken Olav Jenssen,no,87153,,0
+B,1,1,2RR reserve,,000000,f0e200,f29913,7007 yann kerboas,fr,1727627,,0
+C,3,27,BRT,,ffffff,050505,ff8100,Welshy&#127988;&#917607;&#917602;&#917623;&#917612;&#917619;&#917631;(BRT Supernova),gb-wls,2707917,gold gold,0
+C,1,18,,,,,,Chris Chapman,nz,19329,gold,0
+C,1,15,BRT,,ffffff,050505,ff8100,Derek Cahoon (BRT),us,719674,silver,0
+C,1,13,,,,,,Ben Ellen 5691,au,5691,bronze,0
+C,1,11,Islington CC,,ffffff,001c3d,001c3d,James Rossiter,gb,1097184,,0
+C,1,9,BRT,,ffffff,050505,ff8100,David Brown,gb,1028,,0
 C,1,7,SZ,,ffffff,285697,ffd700,Linda Tufvesson,se,484787,silver,0
+C,1,5,,,,,,Roderick Mills,ca,737363,,0
 C,1,5,CS010/Koers,,ffffff,000000,00a65a,Serge Posthoorn,nl,69557,bronze,0
+C,1,3,,,,,,Tim Collins,gb,2536207,,0
 C,1,3,,,,,,Steve Riste,gb,2770110,,0
+C,1,2,BRT,,ffffff,050505,ff8100,Ned Newlin (BRT Tequila Chasers),us,352620,,0
+C,1,1,,,,,,Karen Riley 7033,us,1337071,,0
+D,1,10,BRT,,ffffff,050505,ff8100,Charel Ferreira (BRT Supernova),za,923007,gold,0
 D,1,10,,,,,,Arnaud de Sauvage,zw,2815283,gold,0
+D,1,7,,,,,,Werner Muehlemann,ca,1378601,silver,0
 D,1,7,,,,,,Ali Hallsworth,gb,852579,silver,0
 D,1,5,,,,,,Dan Chant,gb,848393,bronze,0
 D,1,3,,,,,,Ragnarlodbrok77,es,1019864,,0
