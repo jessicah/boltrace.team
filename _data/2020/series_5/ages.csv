@@ -1,6 +1,6 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,4,37,VEGAN,,ffffff,00a65a,0adb2c,MEEP! [VEGAN],us,2568352,gold gold gold silver,0
-A,1,10,&#127866;&#127866;,,ffffff,000000,000000,Kristoffer  Kjul &#127866;&#127866;,dk,1476061,gold,0
+A,1,10,&#127866;&#127866;,,ffffff,000000,000000,Kristoffer  Kjul &#127866;&#127866;,zw,1476061,gold,0
 A,1,7,D.R.V. Euros,,ffffff,006a4e,ffffff,Bryan Oostra,nl,1648777,silver,0
 A,1,7,,,,,,Simon (El Gros),ca,855618,silver,0
 A,1,5,,,,,,Adam Mills,gb,1353802,bronze,0
@@ -13,7 +13,7 @@ B,1,26,BRT,,ffffff,050505,ff8100,Nigel Clarke &#128033;,gb,152802,gold,0
 B,1,23,BRT,,ffffff,050505,ff8100,Michael Durr (BRT),gb,74813,silver,0
 B,1,21,,,,,,Rogue Rider,us,77057,bronze,0
 B,2,20,BRT,,ffffff,050505,ff8100,Alex Cooper (BRT Session Beers),gb,1216371,,0
-B,1,19,TNC,,ffffff,0073b7,ffffff,Wouter Fioole,nl,911713,,0
+B,1,19,TNC,,ffffff,0073b7,ffffff,Wouter Fioole,zw,911713,,0
 B,1,18,,,,,,Wouter Swierstra,nl,916137,gold,0
 B,1,17,PETA-Z,,ff0000,ffff00,000000,Delamabertol (PETA-Z),es,1819563,,0
 B,1,15,,,,,,Joachim Hertkorn2347,de,1546672,,0
@@ -31,7 +31,7 @@ B,1,5,,,,,,Frank Becker,de,955207,,0
 B,1,5,,,,,,Elliot M (Brixton CC/ACC),gb,1667918,,0
 B,1,3,,,,,,Julien Thibault2057,fr,1635923,,0
 C,3,32,WTRL,,d4af37,000000,d4af37,Jean-luc crouzilles (VOLENDAM),fr,691984,gold silver silver,0
-C,4,26,BRT,,ffffff,050505,ff8100,G. M&oslash;RgAn(BRT Supernova),gb-wls,2707917,silver bronze bronze,0
+C,4,26,BRT,,ffffff,050505,ff8100,Welshy&#127988;&#917607;&#917602;&#917623;&#917612;&#917619;&#917631;(BRT Supernova),gb-wls,2707917,silver bronze bronze,0
 C,1,18,TeamODZ,,ff851b,111111,3c8dbc,Vitor Mateus (Neo Bike),pt,29973,gold,0
 C,1,13,DIRT,,29ec34,211208,df6a0d,Scott Baker,us,70886,bronze,0
 C,1,11,STW,,ffffff,0073b7,ffffff,Andrew Douglas,gb,861271,,0
