@@ -1,33 +1,40 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,5,27,4,BRT,ffffff,050505,ff8100
+A,7,42,4,BRT,ffffff,050505,ff8100
 A,1,10,5313,TMC,ffffff,d12626,ffffff
 A,1,10,35,BZR cycling team,f3f300,111111,dd4b39
+A,1,7,2751,HCcc,000000,ffff00,000000
 A,1,7,1942,ZRG,1bc1f1,3d3d3d,1bc1f1
 A,1,7,4201,WTRL,d4af37,000000,d4af37
 A,1,7,9976,Valhalla,ffffff,0073b7,ff4500
 A,1,5,36,KISS RT,f56600,012350,84b7ca
 A,1,3,4800,PCC,ff7900,000000,ff7900
 A,1,3,8014,CVC 82,d94646,0073b7,000000
-B,9,120,4,BRT,ffffff,050505,ff8100
+B,11,144,4,BRT,ffffff,050505,ff8100
 B,2,33,4201,WTRL,d4af37,000000,d4af37
 B,2,30,4585,TeamFRL,ffffff,ff0000,318ce7
 B,1,23,3627,Velo Schils,fafafa,ff0000,000000
 B,1,17,2639,HERD,383c3d,fc6719,383c3d
+B,1,15,3653,UTT,ffffff,0019ff,ff0000
 B,1,15,2363,KRS,ffffff,35b59e,000000
 B,1,13,4095,All,ffffff,0073b7,ffffff
 B,1,11,90,Vikings,c2c2c2,0073b7,ee6331
 B,1,11,1872,VC Cycling,ffffff,0073b7,ffffff
+B,1,9,3790,G-T,ffffff,ffa500,0073b7
 B,1,9,4742,EVOLUTION,ff09ff,2e1c1c,ff09ff
 B,1,9,11744,CRC_RC,ffffff,0073b7,ffffff
 B,2,7,791,Race3R,000000,2bc3f4,ffffff
 B,1,7,11287,GHMCC,1a1370,d9aaaa,700b0b
 B,1,7,3937,RACC,300c0c,e30000,ffffff
 B,1,7,2860,NTR,000000,ffff00,ffffff
+B,1,5,10,TFC,111111,f3f300,111111
 B,1,5,2324,GNF,ffffff,ff00e6,21c732
 B,1,3,6177,1stchardredchilli,ffffff,0073b7,ffffff
-C,11,146,4,BRT,ffffff,050505,ff8100
-C,2,34,168,Team Type 1,ffffff,0073b7,ffffff
+B,1,1,3049,HSIL,f3f6f7,1763bf,0f18e8
+C,15,237,4,BRT,ffffff,050505,ff8100
+C,3,59,168,Team Type 1,ffffff,0073b7,ffffff
 C,1,10,10,TFC,111111,f3f300,111111
 C,1,9,4713,eCKD,ffffff,ff0000,000000
+C,1,5,11629,Team B,000000,e8e824,000000
+C,1,4,7423,England CC,ffffff,d24848,3b3b6b
 C,1,4,4630,TugaZ,ffffff,ff1f00,33735b
 D,1,7,7106,ICF,ffffff,0073b7,ffffff
