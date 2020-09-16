@@ -1,5 +1,5 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
-A,4,80,BRT,,ffffff,050505,ff8100,Edu Harms &#128304;,nl,885157,silver bronze,0
+A,4,80,BRT,,ffffff,050505,ff8100,Edu Harms &#128304; [BRT],nl,885157,silver bronze,0
 A,3,55,,,,,,Joel Chidley,gb,2366199,,0
 A,1,42,KIRCHMAIR e-Cycling,,210606,f2e80d,000103,Klaus N&auml;her 1978 RSC,de,518275,gold,0
 A,1,39,Nopinz Symec,,ffffff,d6428e,000000,Matthew Webster,gb,528877,silver,0
@@ -34,7 +34,7 @@ A,1,8,,,,,,John Newsom IMTalk,nz,12373,,0
 A,1,7,BRT,,ffffff,050505,ff8100,Kole Smith (BRT),za,1447870,,0
 A,1,7,,,,,,Tsuyoshi Sakuma,jp,1002677,,0
 A,1,7,CIZL,,ffffff,0073b7,ffffff,Ross Cadogan,ie,78459,,0
-A,1,6,,,,,,Danian Castillo 601542,us,2648267,,0
+A,1,6,,,,,,Danian Castillo,us,2648267,,0
 A,1,5,,,,,,M Lee,zw,2832651,,0
 A,1,5,50+TriGuys,,2c1515,17a4c8,ffffff,Derrill Stepp,us,759515,,0
 A,1,5,,,,,,Wouter Engels,be,1490563,bronze,0
@@ -53,7 +53,7 @@ B,1,61,BRT,,ffffff,050505,ff8100,Stuart Hardy &#9889; [BRT],gb,591535,bronze,0
 B,1,59,,,,,,Andrew Hill,us,2420369,,0
 B,1,57,&#127333;CLUB,,ff8585,dbe4f0,ff8585,Killian Yao,fr,2018696,,0
 B,1,55,Didcot Phoenix CC,,fad905,4593ff,f2760a,Sam Boulton DPCC,gb,56984,,0
-B,2,54,BCC-A,,ffffff,0073b7,ffffff,Sam Lancia (BCC-A),gb,87778,silver,0
+B,2,54,BCC-A,,ffffff,0073b7,ffffff,Sam LEADER BCC B1,gb,87778,silver,0
 B,1,53,BRT,,ffffff,050505,ff8100,Andrew Ashwin (BRT),gb,1394430,,0
 B,1,51,,,,,,James (legs) 2758,gb,1232980,,0
 B,1,49,BRT,,ffffff,050505,ff8100,Leon Bond (BRT Craft Beers),gb,266642,,0
@@ -80,7 +80,7 @@ B,1,23,,,,,,Marcus Grant,gb-eng,503943,,0
 B,1,23,,,,,,Edd Collins,gb,2409166,,0
 B,1,23,Tri Ireland,,ffffff,0073b7,ffffff,Garret Kearney,ie,611602,silver,0
 B,1,21,,,,,,Edu Groenhoff,nl,433949,,0
-B,1,21,BRT,,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
+B,1,21,BRT,,ffffff,050505,ff8100,Matt Cope (BRT Tequila Chasers),gb,292632,,0
 B,1,21,BMTR,,ffffff,0073b7,ffffff,Lawrence Cox BVC/WVCC (BMTR C),gb,1280474,bronze,0
 B,1,21,Race3R,,000000,2bc3f4,ffffff,Marius Slemdal,no,408547,bronze,0
 B,1,19,RAFCA,,e81d1d,ffffff,0073b7,Jonathan Gwynn [RAFCA],gb,1594304,,0
@@ -100,7 +100,7 @@ B,1,13,Foudre &#9889;&#65039;,,ffffff,81b9e8,ffffff,Arthur Crosnier&#9889; (Foud
 B,1,12,,,,,,Ben Stubbs,gb,1001477,,0
 B,2,12,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC-A,ie,174454,,0
 B,1,11,RNDE,,678da2,111111,ec5a35,Euan Baxter (Ronde CC),gb-sct,1464342,,0
-B,1,11,BCC-A,,ffffff,0073b7,ffffff,Daniel O Brien BCC - A,ie,273506,,0
+B,1,11,BCC-A,,ffffff,0073b7,ffffff,DANIEL O BRIEN BCC,ie,273506,,0
 B,1,11,DIRT,,29ec34,211208,df6a0d,Mike Macdonald,gb-sct,1403683,,0
 B,1,10,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC,gb,113795,,0
 B,1,9,WTRL,,d4af37,000000,d4af37,Brian McCarter [WTRL] (Icarus),gb,626816,,0
@@ -116,7 +116,7 @@ B,1,6,,,,,,Guus vd Paalen,nl,1096900,,0
 B,1,5,,,,,,Mark Robinson9767,gb,1442860,,0
 B,1,5,NLEC,,ffffff,0073b7,668f66,Kevin Lawrie (NLEC 1),gb-sct,277452,,0
 B,1,5,,,,,,Colin Mitchinson 8975,ca,2494681,,0
-B,1,4,BRT,,ffffff,050505,ff8100,Alex Cooper (BRT Session Beers),gb,1216371,,0
+B,1,4,BRT,,ffffff,050505,ff8100,Alex Cooper (BRT Tripel Beers),gb,1216371,,0
 B,1,4,,,,,,Richard Giles,gb,1376468,,0
 B,1,4,CCC,,eb1919,0073b7,ffffff,Jonny Steele (CCC / BCSE),gb,622861,,0
 B,1,3,MONO,,ffffff,0073b7,ffffff,Paul Hollingsworth,gb,8685,,0
@@ -153,7 +153,7 @@ C,1,19,,,,,,Lyam Hollis,gb,1829600,,0
 C,1,19,DIRT,,29ec34,211208,df6a0d,Steve Bremner,us,551145,,0
 C,1,18,ZRG,,1bc1f1,3d3d3d,1bc1f1,Christoph Pr&uuml;&szlig;,de,894263,gold,0
 C,1,18,,,,,,Callum Wright,gb,2469007,gold,0
-C,1,17,Dutch Diesel Cycling,,ffffff,ef7124,23398f,Mila Allinson (DDC Kittens),us,129302,,0
+C,1,17,Dutch Diesel Cycling,,ffffff,ef7124,23398f,Mila Allinson (DDC Xena),us,129302,,0
 C,1,17,PSIMET Racing,,ffffff,0073b7,ffffff,Paige Wunrow (USAC 557578),us,1600754,,0
 C,1,15,,,,,,Neil Cobley6817,gb-eng,1800325,,0
 C,1,15,,,,,,Tim Collins,gb,2536207,,0
