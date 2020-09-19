@@ -33,7 +33,7 @@ A,1,11,SVCC,,ffffff,4f1c1c,ffffff,Iain Hazell  [SVCC],gb,1876521,,0
 A,1,11,BCC-A,,ffffff,0073b7,ffffff,L isa S BCC,gb-wls,182995,,0
 A,1,11,Rowe & King,,ffffff,2b5bb8,2fba4e,Jonathan Graciano(R&K Gazelles),gb,57316,,0
 A,1,11,DBR,,ffffff,eb7b2a,ffffff,Tom Elvius-Brisson (DBR-RA),dk,977034,,0
-A,1,10,Innovation,,000000,52ff33,000000,Richard Unwin (INC INNOVATION),gb,49421,gold,0
+A,1,10,Innovation,,000000,52ff33,000000,Richard Unwin (INC),gb,49421,gold,0
 A,1,9,AWCC,,ffffff,0073b7,ffffff,Martin JR AWCC,gb-sct,228871,,0
 A,1,9,FC-RACING,,ffffff,000000,000000,Richard Nelson (USAC 125691),us,1530805,,0
 A,1,8,,,,,,John Newsom IMTalk,nz,12373,,0
@@ -43,7 +43,7 @@ A,1,7,,,,,,Tsuyoshi Sakuma,jp,1002677,,0
 A,1,7,CIZL,,ffffff,0073b7,ffffff,Ross Cadogan,ie,78459,,0
 A,1,6,,,,,,Danian Castillo,us,2648267,,0
 A,1,5,DIRT,,29ec34,211208,df6a0d,Adam Blake (DIRT Diggler),us,344281,,0
-A,1,5,,,,,,M Lee,zw,2832651,,0
+A,1,5,,,,,,M Lee 1278,us,2832651,,0
 A,1,5,50+TriGuys,,2c1515,17a4c8,ffffff,Derrill Stepp,us,759515,,0
 A,1,5,,,,,,Wouter Engels,be,1490563,bronze,0
 A,1,5,DolceVita,,cfcf13,0073b7,000000,Chester Gillmore [Dolce Vita] 269966,us,388632,,0
@@ -96,7 +96,7 @@ B,1,23,,,,,,Marcus Grant,gb-eng,503943,,0
 B,1,23,,,,,,Edd Collins,gb,2409166,,0
 B,1,23,Tri Ireland,,ffffff,0073b7,ffffff,Garret Kearney,ie,611602,silver,0
 B,1,21,,,,,,Edu Groenhoff,nl,433949,,0
-B,1,21,BRT,,ffffff,050505,ff8100,Matt Cope (BRT Tequila Chasers),gb,292632,,0
+B,1,21,BRT,,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
 B,1,21,BMTR,,ffffff,0073b7,ffffff,Lawrence Cox BVC/WVCC (BMTR C),gb,1280474,bronze,0
 B,1,21,Race3R,,000000,2bc3f4,ffffff,Marius Slemdal,no,408547,bronze,0
 B,1,19,,,,,,Fynn Sandrock,de,1292380,,0
@@ -124,11 +124,11 @@ B,1,11,BCC-A,,ffffff,0073b7,ffffff,DANIEL O BRIEN BCC,ie,273506,,0
 B,1,11,DIRT,,29ec34,211208,df6a0d,Mike Macdonald,gb-sct,1403683,,0
 B,1,10,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC,gb,113795,,0
 B,1,9,Vikings,,c2c2c2,0073b7,ee6331,Morten Aalborg [V],no,1617309,,0
-B,1,9,WTRL,,d4af37,000000,d4af37,Brian McCarter [WTRL] (Icarus),gb,626816,,0
+B,1,9,WTRL,,d4af37,000000,d4af37,Brian McCarter [WTRL] (Icarus),gb-nir,626816,,0
 B,1,9,,,,,,Adam Sutton,gb,2755563,,0
 B,1,9,Team Type 1,,ffffff,0073b7,ffffff,Mario Bessa,pt,726829,,0
 B,1,9,OrkneyCC,,de3232,0f0606,eb3636,Roger Hall,gb-sct,788278,,0
-B,1,8,,,,,,Richard Storrie9324,gb,850210,,0
+B,1,8,Yorkshire Whippets,,ffffff,0073b7,ffffff,Richard Storrie9324 (Yorkshire Whippets),gb,850210,,0
 B,2,8,,,,,,M Cox,gb,253393,,1
 B,1,7,,,,,,Adam Bubb (Now Or Never),gb,1673820,,0
 B,1,7,SFBC,,ffffff,0073b7,ffffff,Alex Juggernaut,au,2314622,,0
@@ -190,7 +190,7 @@ C,1,15,,,,,,Michael Turnbull,gb,1301646,,0
 C,1,15,,,,,,Neil Cobley6817,gb-eng,1800325,,0
 C,1,15,,,,,,Tim Collins,gb,2536207,,0
 C,1,15,,,,,,Richard Abreu,us,2681702,silver,0
-C,1,15,,,,,,Graeme Crane (ZScot-Saltire),gb,419720,silver,0
+C,1,15,ZwiftScotland,,ffffff,0073b7,000000,Graeme Crane (ZScot-Saltire),gb,419720,silver,0
 C,1,13,,,,,,Richard Nicholson,gb,92971,,0
 C,1,13,,,,,,Vincent Martel,ca,2789127,,0
 C,1,13,BRT,,ffffff,050505,ff8100,Matt Tapping (BRT Tequila Chasers),gb,206023,bronze,0
