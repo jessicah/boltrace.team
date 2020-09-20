@@ -1,25 +1,26 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,21,824,4,BRT,ffffff,050505,ff8100
-A,15,510,629,Team AHDR,fc6955,55d4fc,ffffff
+A,24,954,4,BRT,ffffff,050505,ff8100
+A,17,593,629,Team AHDR,fc6955,55d4fc,ffffff
 A,7,244,1611,GGCC,ffffff,0073b7,ffffff
+A,4,168,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,4,143,11242,A E R O - CT,ffffff,0000ff,ffffff
-A,3,140,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,3,115,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 A,2,83,2672,REVO,fc00e3,000000,fc00e3
 A,2,68,9159,A E R O,ffffff,0000ff,ffffff
 A,1,50,5632,RR 2020,ffffff,0073b7,ffffff
+A,1,50,161,ZSUN,ffffff,0073b7,ffffff
 A,1,40,7284,S.A Pro Team,ffffff,fc8700,3d3d3d
 A,1,33,10741,CRYO RDT,ffffff,0c1e4f,009fe3
 A,1,33,7642,SGRT &#128304;,0a0707,83c92e,ffffff
 A,1,28,4178,[ ATP ],e0ffff,008b8b,00008b
 A,1,28,7796,Team Tutute,000000,ccff00,000000
 B,19,824,60,TBR Racing,ffffff,0073b7,ffffff
-B,21,635,4,BRT,ffffff,050505,ff8100
+B,24,775,4,BRT,ffffff,050505,ff8100
+B,10,281,7301,LiveByCycling,ffffff,e10667,ffffff
+B,9,248,2672,REVO,fc00e3,000000,fc00e3
 B,8,247,629,Team AHDR,fc6955,55d4fc,ffffff
-B,9,241,7301,LiveByCycling,ffffff,e10667,ffffff
-B,8,220,2672,REVO,fc00e3,000000,fc00e3
 B,5,144,90,Vikings,c2c2c2,0073b7,ee6331
-B,3,90,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,4,110,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 B,3,68,1677,Team Fearless,001f3f,00dacc,00ff00
 B,1,50,7816,AVRT,ffffff,0073b7,ff8c00
 B,1,50,6731,PMRR,ffffff,e5358b,000000
@@ -34,14 +35,14 @@ B,1,25,3514,RMACC,ffffff,0073b7,ffffff
 B,1,22,9134,Chain,0f0d0d,2989bf,ffffff
 B,1,12,1348,SAS CYCLE CLUB,ffffff,2c6597,2c6597
 B,1,11,10120,CMA,e09191,5beded,f0a0a0
-C,21,868,4,BRT,ffffff,050505,ff8100
-C,18,612,2672,REVO,fc00e3,000000,fc00e3
+C,24,998,4,BRT,ffffff,050505,ff8100
+C,19,645,2672,REVO,fc00e3,000000,fc00e3
+C,8,360,5604,ART,ffffff,2e2c2c,e33131
 C,9,321,1677,Team Fearless,001f3f,00dacc,00ff00
-C,7,310,5604,ART,ffffff,2e2c2c,e33131
-C,7,204,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+C,8,244,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 C,6,143,629,Team AHDR,fc6955,55d4fc,ffffff
 C,2,100,1426,Team CLS,3d9970,ffffff,ffffff
-C,3,59,4982,CCNS,190404,ffff00,190000
+C,4,92,4982,CCNS,190404,ffff00,190000
 C,1,50,4523,e-Latino,fe2ec8,fafafa,fe2ec8
 C,1,40,5411,Team Mexico,ffffff,f20000,ffffff
 C,1,40,5331,&#314;mpetu PR,ffffff,397aa3,ffffff
@@ -63,7 +64,7 @@ D,19,703,629,Team AHDR,fc6955,55d4fc,ffffff
 D,8,390,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 D,10,342,2672,REVO,fc00e3,000000,fc00e3
 D,7,330,36,KISS RT,f56600,012350,84b7ca
-D,4,133,4,BRT,ffffff,050505,ff8100
+D,5,183,4,BRT,ffffff,050505,ff8100
 D,3,83,1677,Team Fearless,001f3f,00dacc,00ff00
 D,2,58,7301,LiveByCycling,ffffff,e10667,ffffff
 D,2,45,1384,[EXN],ee1d22,ffffff,ee1d22
