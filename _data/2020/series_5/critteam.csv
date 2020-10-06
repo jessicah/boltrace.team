@@ -36,7 +36,7 @@ A,1,11,7266,BCC-A,ffffff,0073b7,ffffff
 A,1,11,2298,Rowe & King,ffffff,2b5bb8,2fba4e
 A,1,11,1986,DBR,ffffff,eb7b2a,ffffff
 A,2,9,11175,50+TriGuys,2c1515,17a4c8,ffffff
-A,1,9,3030,VOj,ffffff,030000,ffffff
+A,1,9,3030,VOranje,ffffff,030000,ffffff
 A,1,9,8881,FC-RACING,ffffff,000000,000000
 A,1,8,11296,VIGO MASTER MAPFRE &#128692;&#127997;&zwj;,ffffff,0073b7,ffffff
 A,1,7,6403,TCT,ffffff,0073b7,ffffff
@@ -61,7 +61,7 @@ B,2,56,1845,VEGAN,ffffff,00a65a,0adb2c
 B,1,55,5673,Didcot Phoenix CC,fad905,4593ff,f2760a
 B,1,53,2571,Equipe JZQc,ffffff,003399,ffffff
 B,3,49,3369,IRL,ffffff,000000,00b84a
-B,2,48,1965,BIKES-FRANCE,000000,f2ad00,000000
+B,2,48,1965,BIKES-FR,000000,f2ad00,000000
 B,1,47,2494,ICC,000000,f2a30b,210303
 B,1,47,3587,,ffffff,ffffff,ffffff
 B,1,45,25,ZTPL.CC,ffffff,ff1800,ff0000
@@ -139,6 +139,7 @@ C,1,5,2740,Team CRYO-GEN,ffffff,009fe3,0c1e4f
 C,1,2,8143,C&IRC,ffffff,a69c9c,ffffff
 D,1,18,1963,SLOVENIA,ffffff,95c447,ffffff
 D,1,10,10,TFC,111111,f3f300,111111
+D,1,10,35,BZR cycling team,f3f300,111111,dd4b39
 D,1,10,5965,Zoot Sports,ffffff,0073b7,ffffff
 D,1,10,10373,#TWR,ffffff,0073b7,ffffff
 D,1,9,2804,Z-NOBS,008c7b,000000,b50000
