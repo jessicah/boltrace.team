@@ -46,7 +46,7 @@ A,1,13,[ ATP ],,e0ffff,008b8b,00008b,J. Gracely (ATP Oxygen),us,1570379,,0
 A,2,13,,,,,,Kristof De Smet - ZHR (B),be,149999,gold,1
 A,1,13,VMLCT,,ffffff,0073b7,ffffff,Arthur Vermeulen,be,1052115,,0
 A,1,11,,,,,,Bndkt Mnkl,de,968253,,0
-A,1,11,ZwiftScotland,,ffffff,0073b7,000000,Neal Robertson (Ivy CC),gb-sct,132705,,0
+A,1,11,ZwiftScotland,,ffffff,0073b7,000000,Neal Robertson,gb-sct,132705,,0
 A,1,11,SVCC,,ffffff,4f1c1c,ffffff,Iain Hazell  [SVCC],gb,1876521,,0
 A,1,11,BCC-A,,ffffff,0073b7,ffffff,L isa S BCC,gb-wls,182995,,0
 A,1,11,Rowe & King,,ffffff,2b5bb8,2fba4e,Jonathan Graciano(R&K Cubs),gb,57316,,0
@@ -99,7 +99,7 @@ B,1,57,&#127333;CLUB,,ff8585,dbe4f0,ff8585,Killian Yao,fr,2018696,,0
 B,1,55,,,,,,Jurre Groenenboom,nl,1109984,silver,0
 B,1,55,Didcot Phoenix CC,,fad905,4593ff,f2760a,Sam Boulton DPCC,gb,56984,,0
 B,2,54,BRT,,ffffff,050505,ff8100,Richard Jones [BRT],kn,2409422,,0
-B,1,53,Equipe JZQc,,ffffff,003399,ffffff,JF Marsan,ca,411968,bronze,0
+B,1,53,RHINO,,d9a3a3,872424,ffffff,JF Marsan (RR Javan Rhinos),ca,411968,bronze,0
 B,1,53,BRT,,ffffff,050505,ff8100,Andrew Ashwin (BRT),gb,1394430,,0
 B,1,51,Race3R,,000000,2bc3f4,ffffff,Val Gough (R3R Fall Out Boy),ie,498137,,0
 B,1,51,,,,,,James (legs) 2758,gb,1232980,,0
@@ -131,7 +131,7 @@ B,1,33,,,,,,Be&ntilde;at Astelarra,pm,276704,,0
 B,1,31,Army Cycling,,ffffff,0073b7,ffffff,Gareth Davies [Army Cycling],gb,453794,,0
 B,1,31,Team AHDR,,fc6955,55d4fc,ffffff,STEPHEN R H TRI (AHDR 3),gb,418055,,0
 B,1,31,,,,,,Dov  Mac#AAA,gb-sct,450377,,0
-B,1,29,VEGAN,,ffffff,00a65a,0adb2c,Sean Leary [VZT],us,2519288,,0
+B,1,29,VEGAN,,ffffff,00a65a,0adb2c,Sean Leary &#9419; (Vegan Bobcats),us,2519288,,0
 B,4,29,BRT,,ffffff,050505,ff8100,Ralph Kolmschate9870,nl,1680312,gold gold gold,3
 B,1,29,SZ,,ffffff,285697,ffd700,Mattias Kjellberg [SZ],se,919286,,0
 B,1,29,KLD,,ffffff,3cbebe,269898,Dmitriy damynk (KLD),ru,130597,,0
@@ -283,7 +283,7 @@ C,1,17,,,,,,Fabrice VIAL,fr,578062,,0
 C,1,17,Dutch Diesel Cycling,,ffffff,ef7124,23398f,Mila Allinson (DDC Xena),us,129302,,0
 C,1,17,REVO,,fc00e3,000000,fc00e3,Paige Wunrow [REVO] (USAC 557578),us,1600754,,0
 C,1,15,CIZL,,ffffff,0073b7,ffffff,Ciaran O&rsquo;Connell,ie,976872,,0
-C,1,15,BRT,,ffffff,050505,ff8100,Welshy (BRT Supernova),gb-wls,2707917,,0
+C,1,15,BRT,,ffffff,050505,ff8100,Welshy (BRT),gb-wls,2707917,,0
 C,1,15,,,,,,Michael Turnbull,gb,1301646,,0
 C,1,15,,,,,,Neil Cobley6817,gb-eng,1800325,,0
 C,1,15,,,,,,Tim Collins,gb,2536207,,0
