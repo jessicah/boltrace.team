@@ -34,7 +34,7 @@ A,1,19,TLA,,ccff00,000000,ccff00,George Gould,gb,415110,,0
 A,1,19,API,,ffffff,0073b7,ffffff,Johnny Appleby || API METROW (u16),gb,214007,,0
 A,1,19,dPAC,,f6be26,000000,d64545,1002 Fabian D&#039;Evola [dPAC] &#129421;,be,4635,,0
 A,1,18,BRT,,ffffff,050505,ff8100,Bill Dobson (BRT),gb,463773,gold,0
-A,3,18,IRL,,ffffff,000000,00b84a,Alan Campbell (IRL) &#128304;,gb-nir,210541,gold,1
+A,3,18,IRL,,ffffff,000000,00b84a,Alan Campbell &#128304; (CycleChat #23),gb-nir,210541,gold,1
 A,1,17,,,,,,Alan Royle EBG (LGP/CIM),gb,914008,,0
 A,1,17,,,,,,Dan Kane,gb,1239069,,0
 A,1,17,TURN TAKERS,,ffffff,16a1fa,ffffff,Joe Renier (TURN TAKERS),us,1385109,,0
@@ -55,7 +55,7 @@ A,2,13,,,,,,Kristof De Smet - ZHR (B),be,149999,gold,1
 A,1,13,VMLCT,,ffffff,0073b7,ffffff,Arthur Vermeulen,be,1052115,,0
 A,1,11,LaPrima,,ffffff,0b1838,ff69b4,David Galati (USAC-412373),us,210781,,0
 A,1,11,,,,,,Bndkt Mnkl,de,968253,,0
-A,1,11,ZwiftScotland,,ffffff,0073b7,000000,Neal Robertson (ZwiftScotland),gb-sct,132705,,0
+A,1,11,ZwiftScotland,,ffffff,0073b7,000000,Neal Robertson (ZwiftScotland-A1),gb-sct,132705,,0
 A,1,11,SVCC,,ffffff,4f1c1c,ffffff,Iain Hazell  [SVCC],gb,1876521,,0
 A,1,11,BCC-A,,ffffff,0073b7,ffffff,L isa S BCC,gb-wls,182995,,0
 A,1,11,Rowe & King,,ffffff,2b5bb8,2fba4e,Jonathan Graciano(R&K Cubs),gb,57316,,0
@@ -112,7 +112,7 @@ B,1,57,&#127333;CLUB,,ff8585,dbe4f0,ff8585,Killian Yao,fr,2018696,,0
 B,1,55,,,,,,Jurre Groenenboom,nl,1109984,silver,0
 B,1,55,Didcot Phoenix CC,,fad905,4593ff,f2760a,Sam Boulton DPCC,gb,56984,,0
 B,2,54,BRT,,ffffff,050505,ff8100,Richard Jones [BRT],kn,2409422,,0
-B,1,53,RHINO,,d9a3a3,872424,ffffff,JF Marsan (RR Javan Rhinos),ca,411968,bronze,0
+B,1,53,RHINO,,d9a3a3,872424,ffffff,JF Marsan (RR Northern Rhinos),ca,411968,bronze,0
 B,1,53,BRT,,ffffff,050505,ff8100,Andrew Ashwin (BRT),gb,1394430,,0
 B,1,51,Race3R,,000000,2bc3f4,ffffff,Val Gough (R3R Fall Out Boy),ie,498137,,0
 B,1,51,,,,,,James (legs) 2758,gb,1232980,,0
@@ -125,7 +125,7 @@ B,2,44,,,,,,Gavin Noble,gb-eng,684487,,0
 B,1,43,BIKES-FR,,000000,f2ad00,000000,6041 Christophe Suard (BIKES-FR),fr,754004,,0
 B,1,43,De Kudde,,111111,f3f300,111111,Erwin Veen,nl,41521,,0
 B,1,42,CyclingTEAM / RPC radio,,ffffff,ff0909,000000,Juan Isaza,pa,2045573,gold,0
-B,1,42,WTRL,,d4af37,000000,d4af37,John Brearley (Skyrocket),gb,195556,gold,0
+B,1,42,WTRL,,d4af37,000000,d4af37,John Brearley (Skyfall),gb,195556,gold,0
 B,1,42,R1V,,ffffff,4e7c9c,ffffff,Chris M. Jones (R1V)_341396,us,589146,gold,0
 B,1,41,BZR cycling team,,f3f300,111111,dd4b39,Filip Feyaerts,be,471548,,0
 B,1,39,ECWM,,ffffff,4ecdc4,ffffff,Remi SIJNESAEL,fr,2077688,silver,0
@@ -152,12 +152,12 @@ B,1,31,,,,,,Dov  Mac#AAA,gb-sct,450377,,0
 B,4,30,BCC-A,,ffffff,0073b7,ffffff,Mark Shannon BCC,gb,113795,,0
 B,1,29,VEGAN,,ffffff,00a65a,0adb2c,Sean Leary &#9419; (Vegan Bobcats),us,2519288,,0
 B,4,29,BRT,,ffffff,050505,ff8100,Ralph Kolmschate (BRT),nl,1680312,gold gold gold,3
-B,1,29,SZ,,ffffff,285697,ffd700,Mattias Kjellberg [SZ] (SC Los Rapidos),se,919286,,0
+B,1,29,SZ,,ffffff,285697,ffd700,Mattias Kjellberg [SZ],se,919286,,0
 B,1,29,KLD,,ffffff,3cbebe,269898,Dmitriy damynk (KLD),ru,130597,,0
 B,2,28,,,,,,Robert Stocker 1169,gb,1065116,,0
 B,1,27,,,,,,Chris Lomas,gb,704962,,0
 B,1,27,,,,,,Doug Hankins,us,1429565,,0
-B,1,27,Race3R,,000000,2bc3f4,ffffff,Jim CALLENDER (R3R Bucks Fizz),gb,262971,,0
+B,1,27,Race3R,,000000,2bc3f4,ffffff,Jim CALLENDER (R3R ACDC),gb,262971,,0
 B,1,27,,,,,,Mikey Pendola,us,345416,,0
 B,1,27,VEGAN,,ffffff,00a65a,0adb2c,Carl Krystek,gb,609290,,0
 B,1,25,,,,,,Wieger Rademaker [CS010],nl,936886,,0
@@ -169,7 +169,7 @@ B,1,23,TFC,,111111,f3f300,111111,Ben Harris (TFC Tornado),gb,774028,,0
 B,1,23,WTRL,,d4af37,000000,d4af37,Jake Hannam &#128304; (Skydab),gb,1064560,,0
 B,1,23,,,,,,Marcus Grant,gb-eng,503943,,0
 B,1,23,,,,,,Edd Collins,gb,2409166,,0
-B,1,23,Tri Ireland,,ffffff,0073b7,ffffff,Garret Kearney,ie,611602,silver,0
+B,1,23,IRL,,ffffff,000000,00b84a,Garret Kearney,ie,611602,silver,0
 B,1,21,IWC,,ffffff,696969,000000,Dwaine Trummert,zw,768244,,0
 B,1,21,,,,,,J ERONE,au,667189,,0
 B,1,21,ZRG,,1bc1f1,3d3d3d,1bc1f1,Stefan Link,de,710209,,0
@@ -201,7 +201,7 @@ B,1,15,,,,,,Sascha Ochs,de,430254,,0
 B,1,15,,,,,,Maximilian Klug,de,476321,,0
 B,1,14,FC-RACING,,ffffff,000000,000000,Moirin Nelson (USAC 290139),us,2119586,,0
 B,1,13,,,,,,Koen Hiemstra,nl,511404,,0
-B,1,13,RHINO,,d9a3a3,872424,ffffff,Mark Evans (Rhino Racing),gb,1366195,,0
+B,1,13,RHINO,,d9a3a3,872424,ffffff,Mark Evans (RR Sumatran Rhinos),gb,1366195,,0
 B,1,13,BRT,,ffffff,050505,ff8100,Mark Tiffany,gb,91996,,0
 B,1,13,Foudre &#9889;&#65039;,,ffffff,81b9e8,ffffff,Arthur Crosnier&#9889; (Foudre),fr,1403821,,0
 B,1,12,,,,,,Markus Kollmannsberger,de,1496484,,0
@@ -297,7 +297,7 @@ C,1,23,GSZ,,ffffff,000000,ffd700,Ian Hilts [GSZ],ca,1103275,,0
 C,1,23,HIK,,ffffff,0073b7,ffffff,Laurens Van Meeteren,nl,298701,,0
 C,1,23,,,,,,Stuart Harvey,gb,233059,,0
 C,1,23,BRT,,ffffff,050505,ff8100,Paul Elvin,gb,402483,,0
-C,1,21,EPC,,ffffff,0073b7,ffffff,Mark Edwards EPC-WGT-SVT,gb-wls,71660,bronze,0
+C,1,21,EPC,,ffffff,0073b7,ffffff,Mark Edwards WGT-TFC,gb,71660,bronze,0
 C,1,21,,,,,,D Haworth,gb,591595,,0
 C,1,21,,,,,,Gordy Bulloch,gb-sct,710976,,0
 C,1,21,,,,,,Lautaro Casale,ar,2344278,,0
@@ -327,7 +327,7 @@ C,1,15,ZwiftScotland,,ffffff,0073b7,000000,Graeme Crane (ZScot-Saltire),gb-sct,4
 C,1,13,TugaZ,,ffffff,ff1f00,33735b,Lu&iacute;s Ruivo [TugaZ],pt,1531639,,0
 C,1,13,,,,,,Richard Nicholson,gb,92971,,0
 C,1,13,,,,,,Vincent Martel,ca,2789127,,0
-C,1,13,BRT,,ffffff,050505,ff8100,Matt Tapping (BRT Tequila Chasers),gb,206023,bronze,0
+C,1,13,BRT,,ffffff,050505,ff8100,Matt Tapping (BRT),gb,206023,bronze,0
 C,1,11,,,,,,Silva JULIANO,br,2412063,,0
 C,1,11,PETA-Z,,ff0000,ffff00,000000,Julito77 (Peta-Z),es,1101137,,0
 C,1,11,,,,,,Arno Schmitt,de,1780365,,0
@@ -347,7 +347,7 @@ C,1,7,,,,,,Petr Ryba,cz,2027431,,0
 C,1,7,,,,,,Netrom Nesnetsirk,dk,1422538,,0
 C,1,7,,,,,,Joe Gammon,gb-wls,585836,,0
 C,1,7,,,,,,Ash Tadjrishi,gb,1169538,,0
-C,1,7,IRL,,ffffff,000000,00b84a,Terry McKay2094,ie,2534170,,0
+C,1,7,IRL,,ffffff,000000,00b84a,Terry McKay (IRL DS2),ie,2534170,,0
 C,1,7,BZR cycling team,,f3f300,111111,dd4b39,eli van laere,be,1102897,,0
 C,1,7,,,,,,Mark Smith,gb-sct,1671721,,0
 C,1,7,,,,,,Adam Wilkinson,gb,1429406,,0
