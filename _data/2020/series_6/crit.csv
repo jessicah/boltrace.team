@@ -1,0 +1,83 @@
+category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
+A,1,50,DIRT,,29ec34,563c0f,df6a0d,Daniel Hellem (DIRTy Afternoon Delight),no,153370,gold,0
+A,1,40,FINESSE WAHOO,,ffffff,000000,000000,Nick DeHaan (FINESSE WAHOO),us,986967,silver,0
+A,1,33,PLCC,,ffffff,00ff00,000000,Jacob Wilson,au,576668,bronze,0
+A,1,28,TORONTO HUSTLE,,ffffff,0073b7,ffc953,Derrek Ivey (Toronto Hustle),ca,1115,,0
+A,1,25,,,,,,Stu WS,gb,1188080,,0
+A,1,22,BCC - Bees,,000000,fcfc01,000000,Matt Thom (BCC-B),gb,1700485,,0
+A,1,20,,,,,,Bevan D,au,2523278,,0
+A,1,19,CCS,,ffffff,0073b7,ffffff,Reece Tucknott (CCS),au,2097599,,0
+A,1,18,,,,,,Jacob K.(Mukki Latte),de,619959,,0
+A,1,17,,,,,,Tsuyoshi Sakuma,jp,1002677,,0
+A,1,16,BCC Dynamite,,ffffff,fa2fb2,ffffff,Alexis Brown BCC Dynamite,gb,277949,,0
+A,1,15,BCC-Cats,,ffffff,01040a,ffffff,L isa S BCC Cats,gb-wls,182995,,0
+B,1,50,,,,,,Quentin Goossens,be,246034,gold,0
+B,1,40,,,,,,Kevin Cusse,be,1565956,silver,0
+B,1,33,BCC - Bees,,000000,fcfc01,000000,Barry Davis BCC - B,gb,397176,bronze,0
+B,1,28,,,,,,Robert Parr [KoS],au,1942611,,0
+B,1,25,,,,,,Rob Daynes | VCC,ch,1915014,,0
+B,1,22,BCC-Cats,,ffffff,01040a,ffffff,Neil Campbell BCC-C&#129409;,ie,25596,,0
+B,1,20,,,,,,Andrew Ewing,au,1329211,,0
+B,1,19,BRC,,ffffff,0073b7,c27f7f,Harvey Mushman (BRC Hornets),gb-nir,834219,,0
+B,1,18,,,,,,Shane Mcconachie,ca,1102702,,0
+B,1,17,Somerset RC,,ffffff,0073b7,e62121,kevin jones Somerset Rc,gb,844437,,0
+B,1,16,FTroop,,000000,fff0f0,2b2b2b,#. Damo (FTroop),au,2429035,,0
+B,1,15,BCC Dynamite,,ffffff,fa2fb2,ffffff,Sam Lancia BCC Dynamite,gb,87778,,0
+B,1,14,,,,,,John Macarthur,gb-sct,22171,,0
+B,1,13,VCRT,,fccb5a,2d009e,f521f5,ALBY MEDINA (VCRT Rotties),es,2148109,,0
+B,1,12,Biciobiker,,ffffff,0073b7,ffffff,Javier Garcia,es,1551419,,0
+B,1,11,,,,,,Gavin Noble,gb-eng,684487,,0
+B,1,10,,,,,,John Honeyball ACTri,gb-eng,66787,,0
+B,1,9,BCC-Cats,,ffffff,01040a,ffffff,M attySivBCC,gb-eng,20744,,0
+B,1,8,DTC,,ffffff,9932cc,000000,Rhys Peters,gb-wls,2597435,,0
+B,1,7,BCC-A,,ffffff,0073b7,ffffff,Bryan Taaffe BCC - B,ie,174454,,0
+B,1,6,BCC Astros,,000000,38c2de,ff46a1,Mark Shannon BCC-A,gb,113795,,0
+B,1,5,BCC-Cats,,ffffff,01040a,ffffff,Mark Dury BCC,gb,986964,,0
+B,1,4,,,,,,Jason White,au,68974,,0
+B,1,3,FTroop,,000000,fff0f0,2b2b2b,Jeremy Keen,au,937081,,0
+B,1,2,,,,,,Pat Klassen,ca,934934,,0
+B,1,1,FTroop,,000000,fff0f0,2b2b2b,Baz Bond,au,1335153,,0
+B,1,1,,,,,,M Crawford (rippedgeek1@gmail.com),ca,1612857,,0
+B,1,1,BCC Dynamite,,ffffff,fa2fb2,ffffff,Martin Wales (BCC),gb,1835995,,0
+B,1,1,FTroop,,000000,fff0f0,2b2b2b,Emma Padovan,au,1644959,,0
+B,1,1,,,,,,Mac Yorston7648,au,370427,,0
+B,1,1,,,,,,Craig Haney,ca,13526,,0
+B,1,1,LAMONT,,ffffff,0073b7,ffffff,Jacob Philipsen Lamont,dk,539993,,0
+B,1,1,,,,,,Pat H.,de,292690,,0
+B,1,1,BCC - Bees,,000000,fcfc01,000000,DANIEL O BRIEN BCC,ie,273506,,0
+C,1,50,,,,,,Eric Nikolaus,us,812569,gold,0
+C,1,40,BRT,,ffffff,050505,ff8100,Daniel Potter (BRT Cheetahs),gb,83111,silver,0
+C,1,33,BCC Dynamite,,ffffff,fa2fb2,ffffff,Marcus Stoneham BCC,gb,1142755,bronze,0
+C,1,28,,,,,,Paul B Smith,gb,1926740,,0
+C,1,25,BIKES-FR,,000000,f2ad00,000000,6021 Jerome TRIDON (Bikes-FR),fr,388410,,0
+C,1,22,BCC Dynamite,,ffffff,fa2fb2,ffffff,Adam Collier_BCC,gb,1978315,,0
+C,1,20,BCC-Cats,,ffffff,01040a,ffffff,Richard Hall [BCC],gb,1420715,,0
+C,1,19,BRT,,ffffff,050505,ff8100,David Claydon (BRT C-sectioned),gb,850893,,0
+C,1,18,ROMEO,,ffffff,0073b7,ffffff,Davi Romeo,br,1269574,,0
+C,1,17,,,,,,Gerry Heverin(TUZ),ie,2295902,,0
+C,1,16,,,,,,P Bink,ch,580939,,0
+C,1,15,BZR cycling team,,f3f300,111111,dd4b39,geo vandeginste,be,1403351,,0
+C,1,14,,,,,,Mark Hale,gb,2575809,,0
+C,1,13,,,,,,Andy Turner,gb,2575125,,0
+C,1,12,,,,,,Matt Heath,gb,261296,,0
+C,1,11,BCC-Cats,,ffffff,01040a,ffffff,Hayden Measham,gb,2056213,,0
+C,1,10,BZR cycling team,,f3f300,111111,dd4b39,Dieter De Cooman,be,26306,,0
+C,1,9,FTroop,,000000,fff0f0,2b2b2b,Craig Hogan,au,134246,,0
+C,1,8,,,,,,Paul Knowlton (ICC),gb,92417,,0
+C,1,7,,,,,,Matt Jones,gb,1588971,,0
+C,1,6,,,,,,.. Bike Tool... (Buckaroo),gb,1638476,,0
+C,1,5,BCC Dynamite,,ffffff,fa2fb2,ffffff,Richard Lay BCC,gb-wls,535835,,0
+C,1,4,,,,,,Peter Jones BCC - B,gb,2165774,,0
+C,1,3,BCC-A,,ffffff,0073b7,ffffff,Mark Littlewood (BCC),gb,265496,,0
+C,1,2,BCC-Cats,,ffffff,01040a,ffffff,Tamsin BCC,gb,663741,,0
+C,1,1,,,,,,Lauren Mosbey,au,2783618,,0
+C,1,1,,,,,,Jonny Noergaard Jensen ( DBR ),dk,1723322,,0
+C,1,1,,,,,,Maclaud Volson,lc,1756992,,0
+C,1,1,TriVic,,ffffff,0073b7,ffffff,Nick Armstrong (Nuna),au,1506703,,0
+C,1,1,BCC Astros,,000000,38c2de,ff46a1,David Morton BCC-A,gb,1462571,,0
+C,1,1,,,,,,Ruben Smits3641,nl,2909789,,0
+C,1,1,,,,,,Rob Reilly,us,1317313,,0
+D,1,50,BCC Astros,,000000,38c2de,ff46a1,Oliver White BCC Astros,gb,2465976,gold,0
+D,1,40,,,,,,Graeme MacDonald9802,gb,805612,silver,0
+D,1,33,BCC-Cats,,ffffff,01040a,ffffff,James Ainsworth BCC,gb,334341,bronze,0
+D,1,28,BCC Astros,,000000,38c2de,ff46a1,Albert May - BCC Astros,gb,62938,,0
