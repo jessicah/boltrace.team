@@ -7,11 +7,11 @@
 }
 ---
 layout: default
-redirect_from: "/ages"
+redirect_from: "/irongoat"
 date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 ---
 
-<h2>Ages Racing League</h2>
+<h2>Iron Goat Racing League</h2>
 
 <h3>Event Information</h3>
 <ul>
@@ -19,24 +19,24 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 	<li>End Date: @EndDate</li>
 	<li>Event Day & Time: <span class='date-data' data-date='@DateData' data-format='day-time' data-use-upcoming='true'>@EventDateTime</span></li>
 	<li>Duration: 8 weeks</li>
-	<li>Categories<br/>
-		Based on your birth <strong>year</strong>, not your birthday:
+	<li>Categories
 		<ol style='list-style-type: upper-alpha'>
-			<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>38 and UNDER</span></li>
-			<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>39 to 46 years young</span></li>
-			<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>47 to 51 years young</span></li>
-			<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>52 years and OVER</span></li>
+			<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>4.0W/kg and OVER</span></li>
+			<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>3.2W/kg to 3.99W/kg</span></li>
+			<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>2.5W/kg to 3.19W/kg</span></li>
+			<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>2.49W/kg and UNDER</span></li>
 		</ol>
 	</li>
 	<li>Race Rules
 	<ul>
+		<li>Categories are based on your <a href='/my-category'>best 30 day est. FTP</a> (95% of 20min)</li>
 		<li>Riders going over 5W/kg at 95% of 20 minute power will be removed from results.</li>
 		<li>Riders going over 6W/kg for 5 minute power will be removed from results.</li>
 		<li>Heart rate monitors advised to be worn by all participants.</li>
 		<li>Only powermeter and smart trainer users eligible for official result placement.</li>
 		<li>All bikes permitted.</li>
 		<li>No powerups permitted.</li>
-		<li>Official results located at <a href='/results/current/ages-league'>https://boltrace.team/results/current/ages-league</a>.</li>
+		<li>Official results located at <a href='/results/current/iron-goat-league'>https://boltrace.team/results/current/iron-goat-league</a>.</li>
 	</ul>
 	</li>
 	<li>Points
@@ -51,8 +51,16 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 		<ul>
 			<li>Points can only be earned in the correct category a participant races in.</li>
 			<li>Racing in an incorrect category will void any points accrued.</li>
-			<li>Points will not carry over when a rider changes age during a current league.</li>
+			<li>Points will not carry over when a rider changes category during a current league.</li>
 			<li>Best 6 of 8 rounds count towards final standings.</li>
+		</ul>
+	</li>
+	<li>Mid-League Upgrades
+		<ul>
+			<li>Riders going over category limits will be automatically upgraded in the official results.</li>
+			<li>When a rider has been automatically upgraded, they are expected to race in their new
+				category for the remainder of the series.
+			</li>
 		</ul>
 	</li>
 </ul>
@@ -60,16 +68,16 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 <h2>League Standings</h2>
 <h3>Previous Results</h3>
 <ul>
-	<li><a href='/results/2019/series-1/ages-league'>2019 Series 1</a></li>
-	<li><a href='/results/2019/series-2/ages-league'>2019 Series 2</a></li>
-	<li><a href='/results/2019/series-3/ages-league'>2019 Series 3</a></li>
-	<li><a href='/results/2019/series-4/ages-league'>2019 Series 4</a></li>
-	<li><a href='/results/2019/series-5/ages-league'>2019 Series 5</a></li>
-	<li><a href='/results/2019/series-6/ages-league'>2019 Series 6</a></li>
-	<li><a href='/results/2020/series-1/ages-league'>2020 Series 1</a></li>
+	<li><a href='/results/2019/series-1/iron-goat-league'>2019 Series 1</a></li>
+	<li><a href='/results/2019/series-2/iron-goat-league'>2019 Series 2</a></li>
+	<li><a href='/results/2019/series-3/iron-goat-league'>2019 Series 3</a></li>
+	<li><a href='/results/2019/series-4/iron-goat-league'>2019 Series 4</a></li>
+	<li><a href='/results/2019/series-5/iron-goat-league'>2019 Series 5</a></li>
+	<li><a href='/results/2019/series-6/iron-goat-league'>2019 Series 6</a></li>
+	<li><a href='/results/2020/series-1/iron-goat-league'>2020 Series 1</a></li>
 </ul>
 
 <h3>Current Standings</h3>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
-{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).ages teams=site.data.@(Model.Year).series_@(Model.Number).agesteam %}
+{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).irongoat teams=site.data.@(Model.Year).series_@(Model.Number).irongoatteam %}
 {% include datetime.html %}

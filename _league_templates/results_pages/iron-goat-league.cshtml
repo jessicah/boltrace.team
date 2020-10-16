@@ -1,0 +1,20 @@
+@using static LeagueTables.Helpers;
+@{
+	var StartDate = Model.StartDate.ToString("%d") + DateSuffix(Model.StartDate) + Model.StartDate.ToString("@ MMMM, yyyy");
+	var EndDate = Model.EndDate.ToString("%d") + DateSuffix(Model.EndDate) + Model.EndDate.ToString("@ MMMM, yyyy");
+	var DateData = Model.StartDate.ToString("yyyy-MM-dd-HH-mm");
+	var EventDateTime = Model.StartDate.ToString(@"dddd, h:mmtt UTC");
+}
+---
+layout: default
+date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
+---
+
+<h2 id='results'>Iron Goat Racing League: @Model.Year Series @Model.Number</h2>
+
+<p>Covers races from <strong>@StartDate</strong> &mdash; <strong>@EndDate</strong>.</p>
+<p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
+
+{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).irongoat teams=site.data.@(Model.Year).series_@(Model.Number).irongoatteam %}
+
+{% include datetime.html %}
