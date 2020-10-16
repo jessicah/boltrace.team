@@ -1,7 +1,7 @@
 @using static LeagueTables.Helpers;
 @{
-	var StartDate = Model.StartDate.ToString("%d") + DateSuffix(Model.StartDate) + Model.StartDate.ToString("@ MMMM, yyyy");
-	var EndDate = Model.EndDate.ToString("%d") + DateSuffix(Model.EndDate) + Model.EndDate.ToString("@ MMMM, yyyy");
+	var StartDate = Model.StartDate.ToString("%d") + DateSuffix(Model.StartDate) + Model.StartDate.ToString(@" MMMM, yyyy");
+	var EndDate = Model.EndDate.ToString("%d") + DateSuffix(Model.EndDate) + Model.EndDate.ToString(@" MMMM, yyyy");
 	var DateData = Model.StartDate.ToString("yyyy-MM-dd-HH-mm");
 	var EventDateTime = Model.StartDate.ToString(@"dddd, h:mmtt UTC");
 }
