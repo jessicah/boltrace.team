@@ -1,17 +1,39 @@
 category,events,points,tname,tid,tc,tbc,tbd,name,flag,zwid,podiums,upgrades
 A,1,50,PDQ,,ffffff,000000,ffff00,Graham HORTON (PDQ Assassins),gb,1369386,gold,0
+A,1,50,,,,,,Lubbert Bosma4141,nl,1415423,gold,0
 A,1,40,TEAM  LU,,ffffff,e81e1e,05131c,2359 Paul Castera [Team LU],fr,2082091,silver,0
+A,1,40,STW,,ffffff,0073b7,ffffff,Andrew Douglas,gb,861271,silver,0
+B,2,75,BRT,,ffffff,050505,ff8100,Matt Cope (BRT Session Beers),gb,292632,gold,0
+B,2,73,All,,ffffff,0073b7,ffffff,Peter aragon,de,824131,silver bronze,0
 B,1,50,BRT,,ffffff,050505,ff8100,Rob Spink,gb,402361,gold,0
-B,1,40,All,,ffffff,0073b7,ffffff,Peter aragon,de,824131,silver,0
+B,1,40,Team - WP,,000000,3699d2,915050,Phil Constantinou,gb,1195673,silver,0
 B,1,33,Claricoast JEdCo,,0067b5,ffffff,ee611a,Jonathan Edmondson,ca,675698,bronze,0
 B,1,28,VC10,,ffffff,ff0000,ffffff,Nick Calkin (VC10),gb,153881,,0
-B,1,25,BRT,,ffffff,050505,ff8100,Matt Cope (BRT),gb,292632,,0
+B,1,28,,,,,,Mel. Blackford,gb,1862589,,0
+B,1,25,,,,,,Eddie Ross,us,2826859,,0
 B,1,22,TNC,,ffffff,0073b7,ffffff,pieter-Jan Fioole,nl,1023947,,0
+B,1,22,HERD,,383c3d,fc6719,383c3d,Steven Blewett HERD,gb-wls,2121883,,0
 B,1,20,,,,,,Mark Langley,nz,251683,,0
+B,1,20,Biciobiker,,ffffff,0073b7,ffffff,Javier Garcia,es,1551419,,0
 B,1,19,Team Italy,,dd4b39,ffffff,00a65a,Ivo Tamagna,it,1910822,,0
+B,1,19,DIRT,,29ec34,563c0f,df6a0d,Marc Habets[DIRT],nl,482050,,0
+B,1,18,,,,,,Nuno  Neves-Longusbike,pt,358660,,0
+B,1,17,,,,,,RALPH GILES,gb,875547,,0
+C,2,60,Team Type 1,,ffffff,0073b7,ffffff,Mark Crum 571718,us,14458,silver,0
 C,1,50,RTR,,ffffff,ff0000,000000,WELSHY (RTR),gb-wls,2707917,gold,0
-C,1,40,Team Type 1,,ffffff,0073b7,ffffff,Mark Crum 571718,us,14458,silver,0
-C,1,33,England CC,,ffffff,d24848,3b3b6b,Mark Bulpitt (ENGraft),gb-eng,654438,bronze,0
+C,1,50,,,,,,James Wilch,gb,1357752,gold,0
+C,2,47,BRT,,ffffff,050505,ff8100,Mark Bulpitt,gb-eng,654438,bronze,0
+C,1,40,,,,,,Darren Stanley,gb-eng,930886,silver,0
+C,1,33,BRT,,ffffff,050505,ff8100,Paul Elvin,gb,402483,bronze,0
+C,1,28,,,,,,Robert Flack,gb,801283,,0
+C,1,25,DelFlo,,ffffff,800080,800080,Robert Svenson,us,10351,,0
+C,1,22,IRL,,ffffff,000000,00b84a,Bill Johnston (IRL),gb-nir,1040411,,0
+C,1,19,,,,,,Bob Hogg Tri AG-L,gb,686600,,0
+C,1,18,,,,,,Jack Coumans Bunde,nl,1341080,,0
+C,1,17,,,,,,Randy Kortering,us,1025418,,0
+C,1,16,,,,,,Matt Rouse,gb-eng,858321,,0
+C,1,15,Team CLS,,3d9970,ffffff,ffffff,david parker,gb-sct,296092,,0
 D,1,50,,,,,,Stephen Hetherington,gb,185644,gold,0
+D,1,50,,,,,,Chris Harrison,gb,1151797,gold,0
 D,1,40,BRT,,ffffff,050505,ff8100,Charel     Ferreira (BRT  Supernova),za,923007,silver,0
 D,1,33,BZR cycling team,,f3f300,111111,dd4b39,Steven R&ouml;mer,be,1306043,bronze,0
