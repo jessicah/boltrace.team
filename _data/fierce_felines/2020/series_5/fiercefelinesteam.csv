@@ -1,53 +1,60 @@
 category,events,points,tid,tname,tc,tbc,tbd
-A,15,649,4,BRT,ffffff,050505,ff8100
-A,4,166,4397,HEINO RT,ffffff,ff0000,ff3b3b
-A,1,50,1634,[DRAFT],ffffff,e60d2e,000000
+A,18,799,4,BRT,ffffff,050505,ff8100
+A,5,206,4397,HEINO RT,ffffff,ff0000,ff3b3b
 A,1,50,60,TBR Racing,ffffff,0073b7,ffffff
+A,1,50,1634,[DRAFT],ffffff,e60d2e,000000
 A,1,40,1940,Vixen/Fox,7409a6,f79d4b,ffffff
 A,1,28,11404,HEAD BIKES SA,ffffff,04b819,ffffff
 A,1,28,6994,ONE80,ffffff,0073b7,ffffff
-B,15,690,4,BRT,ffffff,050505,ff8100
+B,18,813,4,BRT,ffffff,050505,ff8100
 B,6,191,7301,LiveByCycling,ffffff,e10667,ffffff
+B,5,133,1426,Team CLS,3d9970,ffffff,ffffff
 B,3,130,90,Vikings,c2c2c2,0073b7,ee6331
-B,4,111,1426,Team CLS,3d9970,ffffff,ffffff
-B,2,78,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,3,103,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
+B,2,83,629,Team AHDR,fc6955,55d4fc,ffffff
 B,2,62,2834,FZR,0000ff,ffffff,0000ff
-B,1,50,168,Team Type 1,ffffff,0073b7,ffffff
+B,1,50,12092,Betty Squad,ffffff,ff33fc,000000
 B,1,50,60,TBR Racing,ffffff,0073b7,ffffff
+B,1,50,168,Team Type 1,ffffff,0073b7,ffffff
+B,1,40,7948,SDBC,ffffff,ec1d25,231f20
+B,1,40,2779,FINESSE WAHOO,ffffff,000000,000000
+B,1,33,4056,PDQ,ffffff,000000,ffff00
 B,1,33,1677,Team Fearless,001f3f,00dacc,00ff00
 B,1,33,10,TFC,111111,f3f300,111111
-B,1,33,629,Team AHDR,fc6955,55d4fc,ffffff
-B,1,33,4056,PDQ,ffffff,000000,ffff00
+B,1,28,7177,CCC,eb1919,0073b7,ffffff
 B,1,28,161,ZSUN,ffffff,0073b7,ffffff
 B,1,28,7667,QRCC,ffffff,0073b7,ffffff
 B,1,22,8059,ALWATHBA,ffff00,000000,ffa500
 B,1,20,3094,#EFDV,4d4149,ff68c6,060004
 B,1,19,8769,UNO TRI,ffffff,0073b7,ffffff
-C,15,653,4,BRT,ffffff,050505,ff8100
+C,17,743,4,BRT,ffffff,050505,ff8100
 C,7,290,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
-C,3,108,6431,CIZL,ffffff,0073b7,ffffff
+C,4,158,6431,CIZL,ffffff,0073b7,ffffff
 C,2,83,2672,REVO,fc00e3,000000,fc00e3
 C,2,68,4982,CCNS,190404,ffff00,190000
 C,2,58,629,Team AHDR,fc6955,55d4fc,ffffff
+C,1,50,11242,A E R O - CT,ffffff,0000ff,ffffff
 C,1,50,6487,&Ouml;CK,080000,fa0404,ffffff
 C,1,50,161,ZSUN,ffffff,0073b7,ffffff
 C,2,44,10959,IRACELIKEAGIRL,ffffff,0063b7,ffffff
 C,1,40,90,Vikings,c2c2c2,0073b7,ee6331
-C,1,33,3868,Datalynx,ffffff,120606,fa0000
 C,1,33,791,Race3R,000000,2bc3f4,ffffff
+C,1,33,3868,Datalynx,ffffff,120606,fa0000
+C,1,28,2571,Equipe JZQc,ffffff,003399,ffffff
 C,1,28,2281,TeamNL,ffffff,ffa500,ffa500
 C,1,25,11555,MPATS,ff0000,000000,ff0000
-C,1,22,1426,Team CLS,3d9970,ffffff,ffffff
 C,1,22,10607,ZiMA,ffffff,056e8c,ffffff
+C,1,22,1426,Team CLS,3d9970,ffffff,ffffff
 D,6,273,4,BRT,ffffff,050505,ff8100
 D,5,176,629,Team AHDR,fc6955,55d4fc,ffffff
-D,1,50,11839,AEO,ffffff,000080,d548ee
+D,1,50,5169,NewburyVelo,ffffff,0c2340,ff33bf
 D,1,50,2740,Team CRYO-GEN,ffffff,0073b7,ffffff
 D,1,50,36,KISS RT,f56600,012350,84b7ca
-D,1,40,12092,Betty Squad,ffffff,ff33fc,000000
-D,1,40,2860,NTR,000000,ffff00,ffffff
-D,1,40,161,ZSUN,ffffff,0073b7,ffffff
+D,1,50,11839,AEO,ffffff,000080,d548ee
 D,1,40,2571,Equipe JZQc,ffffff,003399,ffffff
+D,1,40,12092,Betty Squad,ffffff,ff33fc,000000
+D,1,40,161,ZSUN,ffffff,0073b7,ffffff
+D,1,40,2860,NTR,000000,ffff00,ffffff
 D,1,33,9380,TriVelo,fafafa,e83333,3d3636
 D,1,33,588,Team Italy,dd4b39,ffffff,00a65a
 D,1,33,6910,Greek Zwifters,ffffff,0073b7,ffffff
