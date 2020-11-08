@@ -13,21 +13,21 @@
     "category": "A",
     "events": 1,
     "points": 50,
-    "tid": 10625,
-    "tname": "WEz DEV",
-    "tc": "ffffff",
-    "tbc": "121111",
-    "tbd": "fc3a3a"
-  },
-  {
-    "category": "A",
-    "events": 1,
-    "points": 50,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 10625,
+    "tname": "WEz DEV",
+    "tc": "ffffff",
+    "tbc": "121111",
+    "tbd": "fc3a3a"
   },
   {
     "category": "A",
@@ -143,20 +143,20 @@
     "category": "B",
     "events": 1,
     "points": 33,
-    "tid": 2014,
-    "tname": "TOAC",
+    "tid": 2571,
+    "tname": "Equipe JZQc",
     "tc": "ffffff",
-    "tbc": "f00a94",
+    "tbc": "003399",
     "tbd": "ffffff"
   },
   {
     "category": "B",
     "events": 1,
     "points": 33,
-    "tid": 2571,
-    "tname": "Equipe JZQc",
+    "tid": 2014,
+    "tname": "TOAC",
     "tc": "ffffff",
-    "tbc": "003399",
+    "tbc": "f00a94",
     "tbd": "ffffff"
   },
   {
@@ -231,6 +231,26 @@
   },
   {
     "category": "C",
+    "events": 2,
+    "points": 44,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
+  },
+  {
+    "category": "C",
     "events": 1,
     "points": 25,
     "tid": 8037,
@@ -268,16 +288,6 @@
     "tc": "ffffff",
     "tbc": "003399",
     "tbd": "ffffff"
-  },
-  {
-    "category": "C",
-    "events": 1,
-    "points": 16,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
   },
   {
     "category": "D",
