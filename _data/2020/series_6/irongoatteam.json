@@ -1,13 +1,13 @@
 [
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
-    "tid": 161,
-    "tname": "ZSUN",
+    "events": 2,
+    "points": 70,
+    "tid": 2734,
+    "tname": "PLCC",
     "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
+    "tbc": "00ff00",
+    "tbd": "000000"
   },
   {
     "category": "A",
@@ -22,12 +22,32 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tid": 161,
+    "tname": "ZSUN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 40,
     "tid": 629,
     "tname": "Team AHDR",
     "tc": "fc6955",
     "tbc": "55d4fc",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 4493,
+    "tname": "ZTPL.CC eRacing",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
   },
   {
     "category": "A",
@@ -62,16 +82,6 @@
   {
     "category": "A",
     "events": 1,
-    "points": 20,
-    "tid": 2734,
-    "tname": "PLCC",
-    "tc": "ffffff",
-    "tbc": "00ff00",
-    "tbd": "000000"
-  },
-  {
-    "category": "A",
-    "events": 1,
     "points": 18,
     "tid": 5032,
     "tname": "VCRT",
@@ -102,6 +112,16 @@
   {
     "category": "B",
     "events": 1,
+    "points": 50,
+    "tid": 11243,
+    "tname": "HBR",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 40,
     "tid": 2707,
     "tname": "DIRT",
@@ -112,11 +132,11 @@
   {
     "category": "B",
     "events": 1,
-    "points": 33,
-    "tid": 2571,
-    "tname": "Equipe JZQc",
+    "points": 40,
+    "tid": 4557,
+    "tname": "PSIMET Racing",
     "tc": "ffffff",
-    "tbc": "003399",
+    "tbc": "0073b7",
     "tbd": "ffffff"
   },
   {
@@ -132,12 +152,32 @@
   {
     "category": "B",
     "events": 1,
+    "points": 33,
+    "tid": 2571,
+    "tname": "Equipe JZQc",
+    "tc": "ffffff",
+    "tbc": "003399",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 28,
     "tid": 3233,
     "tname": "IF Fr\u0026oslash;y",
     "tc": "ffffff",
     "tbc": "227829",
     "tbd": "e84141"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 12187,
+    "tname": "RTR",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -161,8 +201,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 82,
+    "events": 4,
+    "points": 122,
     "tid": 12187,
     "tname": "RTR",
     "tc": "ffffff",
