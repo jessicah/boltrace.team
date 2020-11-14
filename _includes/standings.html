@@ -15,7 +15,7 @@
 
 {% if include.riders %}
 <h3>Individual Results</h3>
-{% assign results = include.riders | group_by: "category" | sort: "name" %}
+{% assign results = include.riders | sort: "points" | reverse | group_by: "category" | sort: "name" %}
 {% if results.size < 1 %}
 <p>
 	No results yet.
@@ -73,7 +73,7 @@
 
 {% if include.teams %}
 <h3>Team Results</h3>
-{% assign results = include.teams | group_by: "category" | sort: "name" %}
+{% assign results = include.teams | sort: "points" | reverse | group_by: "category" | sort: "name" %}
 {% if results.size < 1 %}
 <p>
 	No results yet.
@@ -111,7 +111,7 @@
 
 {% if include.sprints %}
 <h3>Sprint Results</h3>
-{% assign results = include.sprints | group_by: "category" | sort: "name" %}
+{% assign results = include.sprints | sort: "points" | reverse | group_by: "category" | sort: "name" %}
 {% if results.size < 1 %}
 <p>
 	No results yet.
@@ -165,7 +165,7 @@
 
 {% if include.climbs %}
 <h3>Climb Results</h3>
-{% assign results = include.climbs | group_by: "category" | sort: "name" %}
+{% assign results = include.climbs | sort: "points" | reverse | group_by: "category" | sort: "name" %}
 {% if results.size < 1 %}
 <p>
 	No results yet.
