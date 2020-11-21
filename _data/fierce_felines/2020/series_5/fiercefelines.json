@@ -85,8 +85,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 150,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -94,7 +94,7 @@
     "name": "Allison Held(BRT Candykittens)",
     "flag": "gb",
     "zwid": 48061,
-    "podiums": "gold gold",
+    "podiums": "gold gold gold",
     "upgrades": 0
   },
   {
@@ -169,8 +169,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 176,
+    "events": 7,
+    "points": 206,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -178,7 +178,7 @@
     "name": "Heidi Hose (BRT)",
     "flag": "au",
     "zwid": 170672,
-    "podiums": "gold",
+    "podiums": "gold gold",
     "upgrades": 0
   },
   {
@@ -197,8 +197,8 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 250,
+    "events": 6,
+    "points": 300,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -206,7 +206,7 @@
     "name": "Leanne Dalley (BRT)",
     "flag": "nz",
     "zwid": 225114,
-    "podiums": "gold gold gold gold gold",
+    "podiums": "gold gold gold gold gold gold",
     "upgrades": 0
   },
   {
@@ -323,7 +323,7 @@
   },
   {
     "category": "C",
-    "events": 7,
+    "events": 8,
     "points": 236,
     "tname": "BRT",
     "tc": "ffffff",
@@ -332,7 +332,7 @@
     "name": "Lisa Armistead (BRT HellCatZ)",
     "flag": "us",
     "zwid": 279546,
-    "podiums": "gold silver silver silver bronze bronze",
+    "podiums": "gold silver silver silver bronze bronze bronze",
     "upgrades": 0
   },
   {
@@ -477,22 +477,22 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 181,
+    "events": 6,
+    "points": 221,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Giovanna Fantucchio* (BRT Enyo)",
+    "name": "Giovanna Fantucchio (BRT Enyo)",
     "flag": "gb",
     "zwid": 399625,
-    "podiums": "silver silver silver bronze",
+    "podiums": "silver silver silver silver bronze",
     "upgrades": 0
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 91,
+    "events": 4,
+    "points": 141,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -500,7 +500,7 @@
     "name": "Stephanie Coulson (BRT)",
     "flag": "au",
     "zwid": 419329,
-    "podiums": "silver bronze",
+    "podiums": "gold silver bronze",
     "upgrades": 0
   },
   {
@@ -613,6 +613,20 @@
     "flag": "ca",
     "zwid": 516614,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d",
+    "name": "Lisa Wourms (Wattie Ink. WB)",
+    "flag": "us",
+    "zwid": 569774,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -827,16 +841,16 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 90,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Sarah Ryan (BRT)",
+    "name": "Sarah Ryan (BRT AtomicKittens)",
     "flag": "gb",
     "zwid": 883536,
-    "podiums": "gold",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
@@ -938,6 +952,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Nozomi Yoshida",
+    "flag": "jp",
+    "zwid": 979132,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 50,
@@ -967,8 +995,8 @@
   },
   {
     "category": "A",
-    "events": 6,
-    "points": 243,
+    "events": 7,
+    "points": 260,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -976,7 +1004,7 @@
     "name": "Louise Gamst (BRT AtomicKittens)",
     "flag": "dk",
     "zwid": 1028084,
-    "podiums": "gold silver silver silver silver bronze",
+    "podiums": "gold gold silver silver silver silver bronze",
     "upgrades": 0
   },
   {
@@ -1005,6 +1033,20 @@
     "flag": "gb",
     "zwid": 1036087,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mia Nilsson ",
+    "flag": "se",
+    "zwid": 1045436,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -1163,8 +1205,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 45,
+    "events": 3,
+    "points": 85,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1172,7 +1214,7 @@
     "name": "Bron Bill (BRT)",
     "flag": "au",
     "zwid": 1230559,
-    "podiums": "",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1303,8 +1345,8 @@
   },
   {
     "category": "A",
-    "events": 7,
-    "points": 263,
+    "events": 8,
+    "points": 280,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1312,7 +1354,7 @@
     "name": "Angela MacRae (BRT)",
     "flag": "au",
     "zwid": 1332978,
-    "podiums": "gold gold gold silver silver bronze",
+    "podiums": "gold gold gold gold silver silver bronze",
     "upgrades": 0
   },
   {
@@ -1355,6 +1397,20 @@
     "flag": "nl",
     "zwid": 1388015,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "ZRG",
+    "tc": "1bc1f1",
+    "tbc": "5b5b5b",
+    "tbd": "1bc1f1",
+    "name": "Cl. H. ( ZRG ) ",
+    "flag": "de",
+    "zwid": 1408509,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -1439,6 +1495,20 @@
     "flag": "us",
     "zwid": 1568483,
     "podiums": "silver silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Seana Zelazo (PW FIT)",
+    "flag": "us",
+    "zwid": 1578307,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1779,8 +1849,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 158,
+    "events": 5,
+    "points": 208,
     "tname": "CIZL",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -1788,7 +1858,7 @@
     "name": "Johanna Rogan ",
     "flag": "ie",
     "zwid": 2100252,
-    "podiums": "gold gold bronze",
+    "podiums": "gold gold gold bronze",
     "upgrades": 0
   },
   {
@@ -1933,8 +2003,8 @@
   },
   {
     "category": "A",
-    "events": 7,
-    "points": 280,
+    "events": 8,
+    "points": 290,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1942,7 +2012,7 @@
     "name": "Diane Bomans (BRT)",
     "flag": "ca",
     "zwid": 2481505,
-    "podiums": "gold gold gold gold silver silver bronze",
+    "podiums": "gold gold gold gold gold silver silver bronze",
     "upgrades": 0
   },
   {
@@ -2139,6 +2209,20 @@
     "flag": "au",
     "zwid": 2675333,
     "podiums": "gold gold silver silver bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Clara Birley (BRT Mars) ",
+    "flag": "gb",
+    "zwid": 2688004,
+    "podiums": "gold",
     "upgrades": 0
   },
   {

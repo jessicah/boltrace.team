@@ -1,8 +1,8 @@
 [
   {
     "category": "A",
-    "events": 21,
-    "points": 949,
+    "events": 24,
+    "points": 1099,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 21,
-    "points": 946,
+    "events": 23,
+    "points": 1046,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "C",
-    "events": 20,
-    "points": 866,
+    "events": 23,
+    "points": 1006,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +31,8 @@
   },
   {
     "category": "D",
-    "events": 8,
-    "points": 348,
+    "events": 9,
+    "points": 398,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -250,6 +250,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 1942,
+    "tname": "ZRG",
+    "tc": "1bc1f1",
+    "tbc": "5b5b5b",
+    "tbd": "1bc1f1"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 28,
@@ -441,8 +451,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 158,
+    "events": 5,
+    "points": 208,
     "tid": 6431,
     "tname": "CIZL",
     "tc": "ffffff",
@@ -578,6 +588,16 @@
     "tc": "ffffff",
     "tbc": "056e8c",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 10684,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d"
   },
   {
     "category": "C",
