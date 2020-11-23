@@ -1070,6 +1070,16 @@
     "tbd": "000000"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 4,
@@ -1081,16 +1091,6 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 20,
-    "tid": 10683,
-    "tname": "PETA-Z",
-    "tc": "ff0000",
-    "tbc": "ffff00",
-    "tbd": "000000"
-  },
-  {
-    "category": "C",
     "events": 1,
     "points": 20,
     "tid": 10683,
