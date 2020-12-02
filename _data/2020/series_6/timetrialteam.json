@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 141,
+    "events": 7,
+    "points": 174,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 6,
-    "points": 131,
+    "events": 7,
+    "points": 159,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -91,8 +91,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 254,
+    "events": 7,
+    "points": 304,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -311,8 +311,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 14,
+    "events": 2,
+    "points": 64,
     "tid": 1986,
     "tname": "DBR",
     "tc": "ffffff",
@@ -463,6 +463,16 @@
     "category": "A",
     "events": 1,
     "points": 17,
+    "tid": 2738,
+    "tname": "WATTBIKE",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ff3535"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
     "tid": 2738,
     "tname": "WATTBIKE",
     "tc": "ffffff",
@@ -627,6 +637,16 @@
     "tname": "TNC",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 3966,
+    "tname": "V.URC",
+    "tc": "000000",
+    "tbc": "e3e65d",
     "tbd": "ffffff"
   },
   {
@@ -911,8 +931,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 92,
+    "events": 5,
+    "points": 114,
     "tid": 7177,
     "tname": "CCC",
     "tc": "eb1919",
@@ -1301,8 +1321,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 160,
+    "events": 7,
+    "points": 200,
     "tid": 12187,
     "tname": "RTR",
     "tc": "ffffff",
@@ -1357,6 +1377,16 @@
     "tname": "TND",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 12937,
+    "tname": "P412",
+    "tc": "ffd700",
+    "tbc": "0a1921",
     "tbd": "ffffff"
   }
 ]
