@@ -660,7 +660,7 @@
   {
     "category": "A",
     "events": 2,
-    "points": 29,
+    "points": 17,
     "tname": "WATTBIKE",
     "tc": "ffffff",
     "tbc": "000000",
@@ -2186,7 +2186,7 @@
   {
     "category": "A",
     "events": 3,
-    "points": 65,
+    "points": 56,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -3857,7 +3857,7 @@
     "tc": "ffffff",
     "tbc": "ff0000",
     "tbd": "000000",
-    "name": "Welshy (RTR)",
+    "name": "WELSHY (RTR)",
     "flag": "gb-wls",
     "zwid": 2707917,
     "podiums": "gold silver bronze",
@@ -4384,7 +4384,7 @@
   {
     "category": "A",
     "events": 2,
-    "points": 31,
+    "points": 22,
     "tname": "",
     "tc": "",
     "tbc": "",
