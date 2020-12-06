@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 79,
+    "events": 4,
+    "points": 112,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -111,8 +111,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 100,
+    "events": 5,
+    "points": 158,
     "tid": 60,
     "tname": "TBR Racing",
     "tc": "ffffff",
@@ -135,6 +135,16 @@
     "points": 50,
     "tid": 161,
     "tname": "ZSUN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 244,
+    "tname": "ABRT",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -321,8 +331,18 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 140,
+    "events": 6,
+    "points": 190,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 22,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -341,8 +361,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 70,
+    "events": 3,
+    "points": 98,
     "tid": 2734,
     "tname": "PLCC",
     "tc": "ffffff",
@@ -398,6 +418,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
   },
   {
     "category": "C",
@@ -471,8 +501,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 90,
     "tid": 4201,
     "tname": "WTRL",
     "tc": "d4af37",
@@ -508,6 +538,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 4692,
+    "tname": "EVOQ.BIKE",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
   },
   {
     "category": "A",
@@ -548,6 +588,16 @@
     "tc": "ffffff",
     "tbc": "08344a",
     "tbd": "a60808"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 4982,
+    "tname": "CCNS ",
+    "tc": "190404",
+    "tbc": "ffff00",
+    "tbd": "190000"
   },
   {
     "category": "A",
@@ -638,6 +688,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 9396,
+    "tname": "United Velo",
+    "tc": "ffffff",
+    "tbc": "66ab5c",
+    "tbd": "242b59"
   },
   {
     "category": "B",
