@@ -1,0 +1,292 @@
+[
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 60,
+    "tname": "TBR Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 60,
+    "tname": "TBR Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 83,
+    "tid": 392,
+    "tname": "GFTbe",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 15,
+    "tid": 588,
+    "tname": "Team Italy",
+    "tc": "dd4b39",
+    "tbc": "ffffff",
+    "tbd": "00a65a"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 2639,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 14,
+    "tid": 2639,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 14,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 4,
+    "tid": 4095,
+    "tname": "All",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 4222,
+    "tname": "FFZ",
+    "tc": "ffffff",
+    "tbc": "1010de",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 4460,
+    "tname": "GCA",
+    "tc": "000000",
+    "tbc": "f50000",
+    "tbd": "401414"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 5604,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "2e2c2c",
+    "tbd": "e33131"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 6280,
+    "tname": "AUV",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 7026,
+    "tname": "CICLI STEFANELLI",
+    "tc": "dea2a2",
+    "tbc": "06060a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 7053,
+    "tname": "BMTR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 3,
+    "tid": 7221,
+    "tname": "SDW",
+    "tc": "000000",
+    "tbc": "f3f300",
+    "tbd": "ed1c1c"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 17,
+    "tid": 7691,
+    "tname": "Tri Ireland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 7889,
+    "tname": "GEC",
+    "tc": "ffffff",
+    "tbc": "ff8c00",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 2,
+    "tid": 8359,
+    "tname": "AR",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 10438,
+    "tname": "SCN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 16,
+    "tid": 10453,
+    "tname": "///ALTEA19",
+    "tc": "f7aa05",
+    "tbc": "000000",
+    "tbd": "299999"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 6,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 17,
+    "tid": 11852,
+    "tname": "BnB",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 11995,
+    "tname": "Monkey Team",
+    "tc": "240909",
+    "tbc": "cfcf13",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 12826,
+    "tname": "(TVD)",
+    "tc": "000000",
+    "tbc": "fa2c2c",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 18,
+    "tid": 12972,
+    "tname": "ALTEREGOS",
+    "tc": "ffffff",
+    "tbc": "182224",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 19,
+    "tid": 13315,
+    "tname": "",
+    "tc": "0f0000",
+    "tbc": "ffffff",
+    "tbd": "000000"
+  }
+]
