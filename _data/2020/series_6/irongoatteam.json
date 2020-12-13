@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 3,
-    "points": 94,
+    "events": 4,
+    "points": 112,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 112,
+    "events": 7,
+    "points": 195,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -102,6 +102,16 @@
   {
     "category": "B",
     "events": 1,
+    "points": 15,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 17,
     "tid": 41,
     "tname": "RuhrRiders",
@@ -153,6 +163,16 @@
     "category": "A",
     "events": 1,
     "points": 25,
+    "tid": 265,
+    "tname": "RCC",
+    "tc": "fc2097",
+    "tbc": "d2d6de",
+    "tbd": "111111"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
     "tid": 393,
     "tname": "BathCC",
     "tc": "ffffff",
@@ -178,6 +198,26 @@
     "tc": "fc6955",
     "tbc": "55d4fc",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 963,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 963,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757"
   },
   {
     "category": "A",
@@ -238,6 +278,16 @@
     "tc": "ffffff",
     "tbc": "00a65a",
     "tbd": "0adb2c"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tid": 1940,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff"
   },
   {
     "category": "C",
@@ -341,8 +391,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 22,
+    "events": 2,
+    "points": 72,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -391,8 +441,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 33,
+    "events": 3,
+    "points": 106,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -400,9 +450,39 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 2750,
+    "tname": "SUMO",
+    "tc": "a30000",
+    "tbc": "000000",
+    "tbd": "f0e21f"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 2779,
+    "tname": "FINESSE WAHOO",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "000000"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 25,
+    "tid": 2873,
+    "tname": "TEAM BMTR",
+    "tc": "bbbbbb",
+    "tbc": "000000",
+    "tbd": "aaaaaa"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
     "tid": 2873,
     "tname": "TEAM BMTR",
     "tc": "bbbbbb",

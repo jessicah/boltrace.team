@@ -128,6 +128,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 14,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "John Field",
+    "flag": "us",
+    "zwid": 27901,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 20,
     "tname": "CPC",
     "tc": "ff0404",
@@ -235,6 +249,20 @@
     "flag": "us",
     "zwid": 53860,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Phil Williams",
+    "flag": "gb",
+    "zwid": 56560,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -462,6 +490,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "FINESSE WAHOO",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "000000",
+    "name": "Marc-Antoine Pouliot",
+    "flag": "ca",
+    "zwid": 171939,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 22,
@@ -472,6 +514,20 @@
     "name": "Alex McCulley",
     "flag": "us",
     "zwid": 186371,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tname": "SUMO",
+    "tc": "a30000",
+    "tbc": "000000",
+    "tbd": "f0e21f",
+    "name": "Mounir El Guerouaoui",
+    "flag": "se",
+    "zwid": 195504,
     "podiums": "",
     "upgrades": 0
   },
@@ -585,6 +641,20 @@
     "flag": "gb",
     "zwid": 247818,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "TEAM BMTR",
+    "tc": "bbbbbb",
+    "tbc": "000000",
+    "tbd": "aaaaaa",
+    "name": "Joe Tillman",
+    "flag": "us",
+    "zwid": 252248,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -786,6 +856,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Coco Cadence",
+    "flag": "nl",
+    "zwid": 397234,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 22,
     "tname": "",
     "tc": "",
@@ -822,6 +906,20 @@
     "name": "Andrew Maitland (R33-A)",
     "flag": "au",
     "zwid": 412742,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 12,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jesse Bartholomew 2610",
+    "flag": "us",
+    "zwid": 445024,
     "podiums": "",
     "upgrades": 0
   },
@@ -911,8 +1009,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 20,
+    "events": 2,
+    "points": 45,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -920,8 +1018,8 @@
     "name": "Henning Maagerud",
     "flag": "no",
     "zwid": 506776,
-    "podiums": "",
-    "upgrades": 0
+    "podiums": "gold",
+    "upgrades": 1
   },
   {
     "category": "B",
@@ -1009,13 +1107,13 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 51,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Glebster Carr (BRT Session Beers)",
+    "name": "Glebster Carr (BRT Omega)",
     "flag": "gb",
     "zwid": 572357,
     "podiums": "bronze",
@@ -1075,6 +1173,20 @@
     "flag": "gt",
     "zwid": 592123,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff",
+    "name": "Jason Strandberg (VFox)",
+    "flag": "us",
+    "zwid": 597788,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1176,6 +1288,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757",
+    "name": "Gustav Lundberg CHOCK",
+    "flag": "se",
+    "zwid": 759419,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 50,
@@ -1204,6 +1330,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Kevin Mabey",
+    "flag": "ca",
+    "zwid": 835773,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 25,
@@ -1228,6 +1368,20 @@
     "name": "Darren Reddick",
     "flag": "gb",
     "zwid": 843142,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757",
+    "name": "Josef Br\u0026auml;nnstr\u0026ouml;m Davidsson",
+    "flag": "se",
+    "zwid": 844256,
     "podiums": "",
     "upgrades": 0
   },
@@ -1442,9 +1596,23 @@
     "upgrades": 0
   },
   {
-    "category": "D",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Allain Legacy",
+    "flag": "ca",
+    "zwid": 978114,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 83,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1452,7 +1620,7 @@
     "name": "Robert Goulding Vcc ",
     "flag": "gb",
     "zwid": 979926,
-    "podiums": "gold",
+    "podiums": "gold bronze",
     "upgrades": 0
   },
   {
@@ -1481,6 +1649,20 @@
     "flag": "be",
     "zwid": 995249,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Shane McQuillan [BRT]",
+    "flag": "nz",
+    "zwid": 1050046,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1570,6 +1752,20 @@
   {
     "category": "C",
     "events": 1,
+    "points": 33,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Alan Aslin (CRYO-GEN DOI INTHANON)",
+    "flag": "gb-eng",
+    "zwid": 1105559,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 40,
     "tname": "",
     "tc": "",
@@ -1638,6 +1834,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Scott Farris",
+    "flag": "us",
+    "zwid": 1178619,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -1653,8 +1863,8 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 57,
+    "events": 5,
+    "points": 77,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1662,7 +1872,7 @@
     "name": "Alex Cooper (BRT Draft Beers)",
     "flag": "gb",
     "zwid": 1216371,
-    "podiums": "bronze",
+    "podiums": "silver bronze",
     "upgrades": 1
   },
   {
@@ -1695,8 +1905,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 156,
+    "events": 5,
+    "points": 184,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1836,6 +2046,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 16,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "J. Serr RSC Bretten [C,B]",
+    "flag": "de",
+    "zwid": 1415487,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 28,
     "tname": "Team BSG",
     "tc": "ffffff",
@@ -1876,6 +2100,34 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d",
+    "name": "Dale Kochevar [DIRT]",
+    "flag": "us",
+    "zwid": 1461266,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mike Elmer (COS)",
+    "flag": "us",
+    "zwid": 1485099,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 10,
@@ -1890,9 +2142,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 28,
+    "category": "B",
+    "events": 2,
+    "points": 29,
     "tname": "BZR cycling team",
     "tc": "f3f300",
     "tbc": "111111",
@@ -1901,7 +2153,7 @@
     "flag": "be",
     "zwid": 1505542,
     "podiums": "",
-    "upgrades": 0
+    "upgrades": 1
   },
   {
     "category": "B",
@@ -1960,6 +2212,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tname": "RCC",
+    "tc": "fc2097",
+    "tbc": "d2d6de",
+    "tbd": "111111",
+    "name": "Konstantin Kleine (Herd of Lions)",
+    "flag": "ch",
+    "zwid": 1594344,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 19,
@@ -1970,6 +2236,20 @@
     "name": "Ian Frink 403880",
     "flag": "us",
     "zwid": 1600510,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 11,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mikkel Kidmose",
+    "flag": "dk",
+    "zwid": 1605304,
     "podiums": "",
     "upgrades": 0
   },
@@ -2026,6 +2306,20 @@
     "name": "Zbyszek Gawrylo",
     "flag": "pl",
     "zwid": 1749640,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jean-Francois Gibeault",
+    "flag": "ca",
+    "zwid": 1797257,
     "podiums": "",
     "upgrades": 0
   },
@@ -2116,6 +2410,34 @@
   {
     "category": "C",
     "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Luc Levez",
+    "flag": "be",
+    "zwid": 1927308,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jeremy Scoones",
+    "flag": "gb",
+    "zwid": 1946369,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 33,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -2198,9 +2520,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
-    "events": 4,
-    "points": 161,
+    "category": "C",
+    "events": 5,
+    "points": 98,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2209,7 +2531,7 @@
     "flag": "us",
     "zwid": 2275971,
     "podiums": "gold gold bronze",
-    "upgrades": 0
+    "upgrades": 1
   },
   {
     "category": "B",
@@ -2331,7 +2653,7 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff",
-    "name": "Welshy (TBR007)",
+    "name": "Welshy (TBR)",
     "flag": "gb-wls",
     "zwid": 2707917,
     "podiums": "silver silver silver",
@@ -2464,6 +2786,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Tom Wood3163",
+    "flag": "us",
+    "zwid": 3004169,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 15,
@@ -2520,9 +2856,23 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Will Harrington",
+    "flag": "ca",
+    "zwid": 3194255,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 38,
     "tname": "",
     "tc": "",
     "tbc": "",
