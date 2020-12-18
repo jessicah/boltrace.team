@@ -1,8 +1,8 @@
 [
   {
-    "category": "B",
-    "events": 1,
-    "points": 20,
+    "category": "D",
+    "events": 4,
+    "points": 78,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -10,9 +10,9 @@
     "tbd": "ff8100"
   },
   {
-    "category": "D",
+    "category": "B",
     "events": 2,
-    "points": 37,
+    "points": 48,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -60,6 +60,16 @@
     "tbd": "dd4b39"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 9,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 58,
@@ -80,6 +90,26 @@
     "tbd": "ffffff"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 1426,
+    "tname": "Team CLS",
+    "tc": "3d9970",
+    "tbc": "ffffff",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 1845,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c"
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 15,
@@ -88,16 +118,6 @@
     "tc": "ff0000",
     "tbc": "03228c",
     "tbd": "03228c"
-  },
-  {
-    "category": "B",
-    "events": 1,
-    "points": 25,
-    "tid": 1986,
-    "tname": "DBR",
-    "tc": "ffffff",
-    "tbc": "eb7b2a",
-    "tbd": "ffffff"
   },
   {
     "category": "D",
@@ -110,14 +130,44 @@
     "tbd": "ffffff"
   },
   {
-    "category": "D",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 25,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 2363,
+    "tname": "BKRS",
+    "tc": "ffffff",
+    "tbc": "35b59e",
+    "tbd": "000000"
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 100,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 2971,
+    "tname": "SWOZR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "080808"
   },
   {
     "category": "B",
@@ -140,6 +190,16 @@
     "tbd": "000000"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 28,
+    "tid": 3661,
+    "tname": "CWCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 50,
@@ -150,9 +210,29 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
+    "category": "D",
     "events": 1,
-    "points": 16,
+    "points": 40,
+    "tid": 3957,
+    "tname": "No. 22 CX Team",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 15,
+    "tid": 4390,
+    "tname": "GLCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 38,
     "tid": 4460,
     "tname": "GCA",
     "tc": "000000",
@@ -231,8 +311,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 11,
+    "events": 2,
+    "points": 27,
     "tid": 12208,
     "tname": "AWCC",
     "tc": "ffffff",
