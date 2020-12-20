@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 7,
-    "points": 195,
+    "events": 10,
+    "points": 228,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -110,6 +110,26 @@
     "tbd": "dd4b39"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 17,
@@ -142,9 +162,29 @@
   {
     "category": "A",
     "events": 1,
+    "points": 14,
+    "tid": 90,
+    "tname": "Vikings",
+    "tc": "c2c2c2",
+    "tbc": "0073b7",
+    "tbd": "ee6331"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 50,
     "tid": 161,
     "tname": "ZSUN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 6,
+    "tid": 168,
+    "tname": "Team Type 1",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -200,6 +240,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 2,
+    "points": 35,
+    "tid": 963,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 33,
@@ -210,14 +260,14 @@
     "tbd": "575757"
   },
   {
-    "category": "B",
+    "category": "C",
     "events": 1,
-    "points": 19,
-    "tid": 963,
-    "tname": "CHOCK",
-    "tc": "ffffff",
-    "tbc": "000000",
-    "tbd": "575757"
+    "points": 33,
+    "tid": 975,
+    "tname": "Innovation",
+    "tc": "000000",
+    "tbc": "52ff33",
+    "tbd": "000000"
   },
   {
     "category": "A",
@@ -301,8 +351,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 67,
+    "events": 3,
+    "points": 85,
     "tid": 1986,
     "tname": "DBR",
     "tc": "ffffff",
@@ -381,8 +431,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 190,
+    "events": 7,
+    "points": 218,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -421,8 +471,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 47,
+    "events": 4,
+    "points": 100,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -470,9 +520,9 @@
     "tbd": "000000"
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 25,
+    "points": 33,
     "tid": 2873,
     "tname": "TEAM BMTR",
     "tc": "bbbbbb",
@@ -480,9 +530,9 @@
     "tbd": "aaaaaa"
   },
   {
-    "category": "B",
+    "category": "C",
     "events": 1,
-    "points": 33,
+    "points": 25,
     "tid": 2873,
     "tname": "TEAM BMTR",
     "tc": "bbbbbb",
@@ -550,6 +600,16 @@
     "tbd": "007788"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 3282,
+    "tname": "POAUTO - CeramicSpeed",
+    "tc": "ffffff",
+    "tbc": "20d6d6",
+    "tbd": "007788"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 25,
@@ -568,6 +628,46 @@
     "tc": "ff0404",
     "tbc": "ffff00",
     "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 3562,
+    "tname": "Scott-RackUltra",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 3601,
+    "tname": "IRIS-Bob Cyclo",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 3711,
+    "tname": "\u002BRestart",
+    "tc": "5da29d",
+    "tbc": "162a25",
+    "tbd": "5da29d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 4178,
+    "tname": " [ ATP ] ",
+    "tc": "e0ffff",
+    "tbc": "008b8b",
+    "tbd": "00008b"
   },
   {
     "category": "A",
@@ -591,13 +691,23 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 49,
     "tid": 4230,
     "tname": "Team High Rollers",
     "tc": "c90101",
     "tbc": "7dc8e0",
     "tbd": "4b418c"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 4354,
+    "tname": "J\u0026aelig;ren Zwift Riders ",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "de2020"
   },
   {
     "category": "A",
@@ -690,6 +800,26 @@
     "tbd": "f521f5"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 15,
+    "tid": 5205,
+    "tname": "Jamison - Cannondale",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 5408,
+    "tname": "BHC",
+    "tc": "ffffff",
+    "tbc": "646464",
+    "tbd": "000000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -712,12 +842,42 @@
   {
     "category": "A",
     "events": 1,
+    "points": 33,
+    "tid": 5840,
+    "tname": "X-CASE",
+    "tc": "ffffff",
+    "tbc": "10609f",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 17,
+    "tid": 6390,
+    "tname": "NRCC",
+    "tc": "e3e3e3",
+    "tbc": "661b1b",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 13,
     "tid": 6483,
     "tname": "Forza Racing",
     "tc": "111111",
     "tbc": "00fff0",
     "tbd": "112222"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 11,
+    "tid": 7152,
+    "tname": "HWCC",
+    "tc": "      ",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -768,6 +928,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 12,
+    "tid": 8851,
+    "tname": "FF.DD.U",
+    "tc": "000000",
+    "tbc": "ef7f1a",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -828,6 +998,16 @@
     "tc": "ffffff",
     "tbc": "ff0000",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 7,
+    "tid": 11991,
+    "tname": "CANYON COALITION",
+    "tc": "ff00ff",
+    "tbc": "0000ff",
+    "tbd": "ff0000"
   },
   {
     "category": "A",
@@ -908,6 +1088,26 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 12299,
+    "tname": "ACC",
+    "tc": "ffffff",
+    "tbc": "c43636",
+    "tbd": "c43636"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 12561,
+    "tname": "The Club Roule",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "f74141"
   },
   {
     "category": "B",
