@@ -154,8 +154,8 @@
 			};
 
 			var point = map.path.centroid(geom);
-			point[0] = point[0] - 14;
-			point[1] = point[1] - 14;
+			//point[0] = point[0] - 14;
+			//point[1] = point[1] - 14;
 
 			return point;
 		}
@@ -204,7 +204,7 @@
 			
 			memberPoints.selectAll('circle').data(items).enter()
 				.append('circle')
-				.attr('transform', function(d) { return `translate(${d.x+14} ${d.y+14})` })
+				.attr('transform', function(d) { return `translate(${d.x} ${d.y})` })
 				.attr('r', '2')
 				.attr('fill', function(d) { return d.gender == 'F' ? "rgb(193,110,169)" : "rgb(215, 97,39)"})
 				.attr('stroke', '#000');
@@ -219,8 +219,8 @@
 					if (d.gender == "F") return "#pinWomen";
 					return "#pinMen";
 				})
-				.attr("x", function(d) { return d.x })
-				.attr("y", function(d) { return d.y })
+				.attr("x", function(d) { return d.x - 28 })
+				.attr("y", function(d) { return d.y - 14 })
 				.attr("width", "3%")
 				.attr("height", "3%").style("opacity", "0")
 				.transition()
