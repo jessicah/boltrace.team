@@ -206,8 +206,9 @@
 				.append('circle')
 				.attr('transform', function(d) { return `translate(${d.x} ${d.y})` })
 				.attr('r', '2')
-				.attr('fill', function(d) { return d.gender == 'F' ? "rgb(193,110,169)" : "rgb(215, 97,39)"})
-				.attr('stroke', '#000');
+				.attr('fill', function(d) { return d.gender == 'F' ? "rgba(193,110,169,0.7)" : "rgba(215, 97,39,0.7)"})
+				.attr('stroke', '#000')
+				.attr('stroke-width', '0.25');
 		}
 
 		function addPoints(data) {
