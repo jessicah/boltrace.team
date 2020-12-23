@@ -132,12 +132,12 @@
 			.column('logTotal')
 			.unitId('iso3');
 		
-		d3.json('https://localhost:5001/members/location-data').then(data => {
+		d3.json('https://portal.boltrace.team/members/location-data').then(data => {
 			console.log(data);
 			var selection = d3.select('#map').datum(data);
 			map.draw(selection);
 
-			setTimeout(function() { d3.json('https://localhost:5001/members/location-points-by-country').then(setupCountryLocations); }, 1000);
+			setTimeout(function() { d3.json('https://portal.boltrace.team/members/location-points-by-country').then(setupCountryLocations); }, 1000);
 		});
 
 		var memberPoints = null;
