@@ -133,7 +133,6 @@
 			.unitId('iso3');
 		
 		d3.json('https://portal.boltrace.team/members/location-data').then(data => {
-			console.log(data);
 			var selection = d3.select('#map').datum(data);
 			map.draw(selection);
 
@@ -155,8 +154,8 @@
 			};
 
 			var point = map.path.centroid(geom);
-			point[0] = point[0] - 16;
-			point[1] = point[1] - 16;
+			point[0] = point[0] - 14;
+			point[1] = point[1] - 14;
 
 			return point;
 		}
@@ -172,6 +171,8 @@
 					countryData[iy].y = centroid[1];
 				}
 			}
+
+			setTimeout(addPointsFromCountries, 250);
 
 			setInterval(getSelectionFromCountries, 1000);
 		}
@@ -189,11 +190,31 @@
 			addPoints(items);
 		}
 
+		function addPointsFromCountries() {
+			var items = [];
+
+			for (var ix = 0; ix < countryLocations.length; ++ix) {
+				for (var iy = 0; iy < countryLocations[ix].length; ++iy) {
+					items.push(countryLocations[ix][iy]);
+				}
+			}
+
+			if (memberPoints == null)
+				memberPoints = map.svg.selectAll('g.zoom');
+			
+			memberPoints.selectAll('circle').data(items).enter()
+				.append('circle')
+				.attr('transform', function(d) { return `translate(${d.x+14} ${d.y+14})` })
+				.attr('r', '2')
+				.attr('fill', function(d) { return d.gender == 'F' ? "rgb(193,110,169)" : "rgb(215, 97,39)"})
+				.attr('stroke', '#000');
+		}
+
 		function addPoints(data) {
 			if (memberPoints == null)
 				memberPoints = map.svg.selectAll('g.zoom');
 
-			memberPoints.selectAll("circle").data(data).enter().append("use")
+			memberPoints.selectAll('g.zoom').data(data).enter().append("use")
 				.attr("href", function (d) {
 					if (d.gender == "F") return "#pinWomen";
 					return "#pinMen";
