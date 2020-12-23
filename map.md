@@ -1,9 +1,11 @@
+---
+layout: none
+---
 <html>
 	<head>
 		<meta charset="utf-8"/>
 		<link href="/assets/css/d3-geomap.css" rel="stylesheet"/>
-		<style type='text/css'>
-		</style>
+		<title>Map of BRT Members</title>
 	</head>
 	<body>
 		<svg xmlns="http://www.w3.org/2000/svg" style="display:none" viewBox="0 0 461.9 465.3" y="0px" x="0px">
@@ -117,6 +119,12 @@
 		const w = 3000;
 		const h = 1250;
 
+		{% if jekyll.environment == "test" %}
+		var baseUrl = "https://localhost:5001";
+		{% else %}
+		var baseUrl = "https://portal.boltrace.team";
+		{% endif %}
+
 		var jsonLocationData = null;
 
 		var countryLocations = null;
@@ -132,11 +140,11 @@
 			.column('logTotal')
 			.unitId('iso3');
 		
-		d3.json('https://portal.boltrace.team/members/location-data').then(data => {
+		d3.json(`${baseUrl}/members/location-data`).then(data => {
 			var selection = d3.select('#map').datum(data);
 			map.draw(selection);
 
-			setTimeout(function() { d3.json('https://portal.boltrace.team/members/location-points-by-country').then(setupCountryLocations); }, 1000);
+			setTimeout(function() { d3.json(`${baseUrl}/members/location-points-by-country`).then(setupCountryLocations); }, 1000);
 		});
 
 		var memberPoints = null;
