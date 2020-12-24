@@ -20,6 +20,16 @@
     "tbd": "ff8100"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 10,
+    "tname": "TFC",
+    "tc": "111111",
+    "tbc": "f3f300",
+    "tbd": "111111"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 10,
@@ -32,17 +42,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 50,
-    "tid": 10,
-    "tname": "TFC",
-    "tc": "111111",
-    "tbc": "f3f300",
-    "tbd": "111111"
-  },
-  {
-    "category": "A",
-    "events": 1,
-    "points": 6,
+    "points": 1,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -50,9 +50,9 @@
     "tbd": "ff0000"
   },
   {
-    "category": "C",
+    "category": "A",
     "events": 1,
-    "points": 1,
+    "points": 6,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -300,6 +300,16 @@
     "tbd": "000103"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 3030,
+    "tname": "VOranje",
+    "tc": "ffffff",
+    "tbc": "030000",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 28,
@@ -418,6 +428,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 4178,
+    "tname": " [ ATP ] ",
+    "tc": "e0ffff",
+    "tbc": "008b8b",
+    "tbd": "00008b"
   },
   {
     "category": "B",
@@ -572,10 +592,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 33,
+    "tid": 7053,
+    "tname": "BMTR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 9,
     "tid": 7152,
     "tname": "HWCC",
-    "tc": "",
+    "tc": "      ",
     "tbc": "0073b7",
     "tbd": "ffffff"
   },
@@ -638,6 +668,16 @@
     "tc": "ffffff",
     "tbc": "009dff",
     "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 8365,
+    "tname": "Full Send Racing",
+    "tc": "ffffff",
+    "tbc": "8f138f",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -730,6 +770,16 @@
     "tbd": "ffff00"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 10959,
+    "tname": "IRACELIKEAGIRL",
+    "tc": "ffffff",
+    "tbc": "0063b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 13,
@@ -750,9 +800,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "A",
+    "category": "C",
     "events": 1,
-    "points": 7,
+    "points": 1,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -770,9 +820,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
+    "category": "A",
     "events": 1,
-    "points": 1,
+    "points": 7,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",

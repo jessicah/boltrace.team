@@ -14,6 +14,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Matt ",
+    "flag": "us",
+    "zwid": 1712,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -365,6 +379,34 @@
   },
   {
     "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Marc-Antoine Pouliot",
+    "flag": "ca",
+    "zwid": 171939,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "T Phillips",
+    "flag": "us",
+    "zwid": 174137,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
     "events": 2,
     "points": 26,
     "tname": "BZR cycling team",
@@ -416,6 +458,20 @@
     "name": "Lukasz Korzeniowski",
     "flag": "pl",
     "zwid": 208550,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Matt Salbenblatt",
+    "flag": "us",
+    "zwid": 214919,
     "podiums": "",
     "upgrades": 0
   },
@@ -672,6 +728,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Matt Blazevic",
+    "flag": "us",
+    "zwid": 419371,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 40,
@@ -910,6 +980,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Rob Collins ",
+    "flag": "us",
+    "zwid": 632691,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 14,
@@ -921,6 +1005,34 @@
     "flag": "nl",
     "zwid": 671501,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tname": "Full Send Racing",
+    "tc": "ffffff",
+    "tbc": "8f138f",
+    "tbd": "ffffff",
+    "name": "Luke  McConnell (Full Send Racing)",
+    "flag": "us",
+    "zwid": 678689,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "VOranje",
+    "tc": "ffffff",
+    "tbc": "030000",
+    "tbd": "ffffff",
+    "name": "Johann Breytenbach (VOranje) ",
+    "flag": "za",
+    "zwid": 715015,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -991,6 +1103,20 @@
     "flag": "se",
     "zwid": 766148,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tname": " [ ATP ] ",
+    "tc": "e0ffff",
+    "tbc": "008b8b",
+    "tbd": "00008b",
+    "name": "Adam Campbell (ATP Argon)",
+    "flag": "us",
+    "zwid": 788768,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1303,8 +1429,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 10,
+    "events": 2,
+    "points": 35,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1355,6 +1481,20 @@
     "flag": "dk",
     "zwid": 1024575,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "IRACELIKEAGIRL",
+    "tc": "ffffff",
+    "tbc": "0063b7",
+    "tbd": "ffffff",
+    "name": "Janette Rodewald (SISU Bastet)",
+    "flag": "ca",
+    "zwid": 1036012,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -1500,6 +1640,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 33,
+    "tname": "BMTR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Lawrence Cox BVC/WVCC (BMTR C) ",
+    "flag": "gb",
+    "zwid": 1280474,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 1,
     "tname": "H\u0026Ouml;RBY CK",
     "tc": "000000",
@@ -1600,7 +1754,7 @@
     "events": 1,
     "points": 9,
     "tname": "HWCC",
-    "tc": "",
+    "tc": "      ",
     "tbc": "0073b7",
     "tbd": "ffffff",
     "name": "Gavin Smith HWCC",
@@ -1750,6 +1904,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "S L",
+    "flag": "gb",
+    "zwid": 1514500,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 1,
@@ -1817,6 +1985,20 @@
     "flag": "de",
     "zwid": 1576625,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jesse Brennan L13R",
+    "flag": "us",
+    "zwid": 1578763,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -2013,6 +2195,20 @@
     "flag": "gb",
     "zwid": 1897018,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Paul B Smith2565",
+    "flag": "gb",
+    "zwid": 1926740,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -2298,6 +2494,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Austin McCarthy",
+    "flag": "ca",
+    "zwid": 2998434,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 1,
     "tname": "",
     "tc": "",
@@ -2506,6 +2716,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Aaron Kivi6871",
+    "flag": "ca",
+    "zwid": 3296396,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 7,
@@ -2517,6 +2741,20 @@
     "flag": "gb",
     "zwid": 3308614,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Eric Morris 7167",
+    "flag": "us",
+    "zwid": 3311503,
+    "podiums": "gold",
     "upgrades": 0
   }
 ]
