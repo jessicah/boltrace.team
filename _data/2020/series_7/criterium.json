@@ -28,6 +28,48 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Doug Looney",
+    "flag": "us",
+    "zwid": 3766,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "justin beck ",
+    "flag": "ca",
+    "zwid": 4440,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "ATC Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "f76969",
+    "name": "enik sleestak KK [ATC Racing]",
+    "flag": "us",
+    "zwid": 11306,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -39,6 +81,20 @@
     "flag": "gb",
     "zwid": 13962,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "evan bausbacher (gateway devo)",
+    "flag": "us",
+    "zwid": 14826,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -126,6 +182,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 16,
+    "tname": "RTSS",
+    "tc": "ffffff",
+    "tbc": "007efa",
+    "tbd": "ffffff",
+    "name": "Manfred Hei\u0026szlig;",
+    "flag": "de",
+    "zwid": 63884,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 40,
@@ -151,6 +221,20 @@
     "flag": "nl",
     "zwid": 66399,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "IndoorSpecialist",
+    "tc": "ffffff",
+    "tbc": "1b4970",
+    "tbd": "f7850e",
+    "name": "Spencer Powlison",
+    "flag": "us",
+    "zwid": 72204,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -239,8 +323,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 18,
+    "events": 2,
+    "points": 68,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
     "tbc": "fa2fb2",
@@ -248,7 +332,7 @@
     "name": "Sam Lancia BCC Dynamite",
     "flag": "gb",
     "zwid": 87778,
-    "podiums": "",
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -378,6 +462,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Patrick Roy",
+    "flag": "ca",
+    "zwid": 168348,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 40,
@@ -403,6 +501,20 @@
     "flag": "us",
     "zwid": 174137,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "CIZL",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "MM SPIN THE BEAN",
+    "flag": "ie",
+    "zwid": 175265,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -504,6 +616,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Soroya #TeamBPC",
+    "flag": "us",
+    "zwid": 237380,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 16,
@@ -514,6 +640,34 @@
     "name": "Fred Kornett ",
     "flag": "us",
     "zwid": 238953,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Amy Leyte",
+    "flag": "ca",
+    "zwid": 240660,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Christopher Burns",
+    "flag": "ie",
+    "zwid": 257256,
     "podiums": "",
     "upgrades": 0
   },
@@ -644,6 +798,34 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 17,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff",
+    "name": "Eve McCrystal (Velocity Vixen) ",
+    "flag": "ie",
+    "zwid": 356328,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Nicola Munarini",
+    "flag": "it",
+    "zwid": 371021,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 20,
@@ -756,6 +938,34 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Linzi L-P ",
+    "flag": "gb",
+    "zwid": 421020,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 16,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Maciej Przybylski",
+    "flag": "pl",
+    "zwid": 421030,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 4,
@@ -836,6 +1046,20 @@
     "name": "Andrew Walsh",
     "flag": "us",
     "zwid": 461128,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d",
+    "name": "Paul Smith (Wattie Ink. A2)",
+    "flag": "us",
+    "zwid": 467100,
     "podiums": "",
     "upgrades": 0
   },
@@ -940,6 +1164,34 @@
   {
     "category": "C",
     "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Pawel Malaczek",
+    "flag": "pl",
+    "zwid": 581941,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "James Worrall",
+    "flag": "ca",
+    "zwid": 583488,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 22,
     "tname": "",
     "tc": "",
@@ -948,6 +1200,20 @@
     "name": "kurtis goertz",
     "flag": "us",
     "zwid": 603843,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 18,
+    "tname": "CIZL",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Richael Timothy ",
+    "flag": "ie",
+    "zwid": 615883,
     "podiums": "",
     "upgrades": 0
   },
@@ -991,6 +1257,20 @@
     "flag": "us",
     "zwid": 632691,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d",
+    "name": "Anne Girod (Wattie Ink.)",
+    "flag": "fr",
+    "zwid": 640536,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1066,6 +1346,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 18,
+    "tname": "DEVO Cannondale \u0026#129304;",
+    "tc": "000000",
+    "tbc": "84bd00",
+    "tbd": "ff0080",
+    "name": "Marc Sato",
+    "flag": "ca",
+    "zwid": 728365,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 12,
     "tname": "Team Italy",
     "tc": "dd4b39",
@@ -1116,6 +1410,34 @@
     "name": "Adam Campbell (ATP Argon)",
     "flag": "us",
     "zwid": 788768,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 15,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jennifer Killam 6431",
+    "flag": "ca",
+    "zwid": 828954,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "IBD Cycling",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Niki Birling [IBD]",
+    "flag": "fi",
+    "zwid": 839719,
     "podiums": "silver",
     "upgrades": 0
   },
@@ -1358,6 +1680,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tname": "CyclingWeekly",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffff00",
+    "name": "Dr Hutch ",
+    "flag": "gb-nir",
+    "zwid": 945694,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 1,
@@ -1368,6 +1704,20 @@
     "name": "Philipp S (treten)",
     "flag": "at",
     "zwid": 963261,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 19,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mark Sims",
+    "flag": "us",
+    "zwid": 963951,
     "podiums": "",
     "upgrades": 0
   },
@@ -1512,6 +1862,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Thomas Kendrew-Jones (Take it Easy CC)",
+    "flag": "gb-nir",
+    "zwid": 1047762,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 12,
@@ -1554,6 +1918,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jeff Fairbanks 2180",
+    "flag": "us",
+    "zwid": 1090339,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 25,
@@ -1593,6 +1971,20 @@
     "flag": "ie",
     "zwid": 1139660,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tname": "SVC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "James Warren SVC",
+    "flag": "gb",
+    "zwid": 1139799,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1662,6 +2054,20 @@
     "name": "Peter Svensson",
     "flag": "se",
     "zwid": 1286052,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "ACC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "George Fordham (ATHLON RACING)",
+    "flag": "gb",
+    "zwid": 1323521,
     "podiums": "",
     "upgrades": 0
   },
@@ -2072,6 +2478,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b",
+    "name": "Pedro NunesPTG(AFA)",
+    "flag": "pt",
+    "zwid": 1699203,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 1,
@@ -2198,6 +2618,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "CIZL",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Neill Delahaye",
+    "flag": "ie",
+    "zwid": 1914700,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 50,
@@ -2209,6 +2643,20 @@
     "flag": "gb",
     "zwid": 1926740,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff",
+    "name": "Georgie Dunlevy (Velocity Vixen) ",
+    "flag": "ie",
+    "zwid": 1998571,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -2265,6 +2713,20 @@
     "flag": "gb",
     "zwid": 2430882,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "FINESSE WAHOO",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "000000",
+    "name": "Joseph Chudyk (Finesse)",
+    "flag": "us",
+    "zwid": 2568352,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -2334,6 +2796,20 @@
     "name": "Rob Andrew",
     "flag": "gb",
     "zwid": 2743806,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 15,
+    "tname": "3DTC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "stephen short 5048",
+    "flag": "ie",
+    "zwid": 2749943,
     "podiums": "",
     "upgrades": 0
   },
@@ -2590,6 +3066,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 12,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Matt Oldham",
+    "flag": "ca",
+    "zwid": 3116875,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 25,
@@ -2632,6 +3122,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Philippe Blouin",
+    "flag": "ca",
+    "zwid": 3187551,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 16,
@@ -2643,6 +3147,20 @@
     "flag": "gb",
     "zwid": 3210140,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "J Golightly 7796",
+    "flag": "gb",
+    "zwid": 3243209,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -2670,6 +3188,20 @@
     "name": "Christian Haugen ",
     "flag": "no",
     "zwid": 3277184,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "L\u0026uuml;der   ZTR",
+    "flag": "de",
+    "zwid": 3277704,
     "podiums": "",
     "upgrades": 0
   },

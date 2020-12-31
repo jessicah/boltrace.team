@@ -142,6 +142,16 @@
   {
     "category": "A",
     "events": 1,
+    "points": 40,
+    "tid": 407,
+    "tname": "IBD Cycling",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 12,
     "tid": 588,
     "tname": "Team Italy",
@@ -198,6 +208,26 @@
     "tc": "fa5e06",
     "tbc": "3f4c54",
     "tbd": "3f4c54"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tid": 1940,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 17,
+    "tid": 1940,
+    "tname": "Vixen/Fox",
+    "tc": "7409a6",
+    "tbc": "f79d4b",
+    "tbd": "ffffff"
   },
   {
     "category": "C",
@@ -267,6 +297,16 @@
     "tname": "PLCC",
     "tc": "ffffff",
     "tbc": "00ff00",
+    "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 2779,
+    "tname": "FINESSE WAHOO",
+    "tc": "ffffff",
+    "tbc": "000000",
     "tbd": "000000"
   },
   {
@@ -410,6 +450,16 @@
     "tbd": "000000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 3964,
+    "tname": "IndoorSpecialist",
+    "tc": "ffffff",
+    "tbc": "1b4970",
+    "tbd": "f7850e"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 25,
@@ -467,6 +517,26 @@
     "tname": "WWCC",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 4630,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 16,
+    "tid": 5073,
+    "tname": "RTSS",
+    "tc": "ffffff",
+    "tbc": "007efa",
     "tbd": "ffffff"
   },
   {
@@ -551,8 +621,18 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 13,
+    "events": 2,
+    "points": 31,
+    "tid": 6431,
+    "tname": "CIZL",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 61,
     "tid": 6431,
     "tname": "CIZL",
     "tc": "ffffff",
@@ -568,6 +648,26 @@
     "tc": "ffc733",
     "tbc": "f40e0e",
     "tbd": "ffc733"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 6587,
+    "tname": "ATC Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "f76969"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 18,
+    "tid": 6677,
+    "tname": "DEVO Cannondale \u0026#129304;",
+    "tc": "000000",
+    "tbc": "84bd00",
+    "tbd": "ff0080"
   },
   {
     "category": "A",
@@ -650,6 +750,16 @@
     "tbd": "000000"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 7902,
+    "tname": "CyclingWeekly",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffff00"
+  },
+  {
     "category": "D",
     "events": 2,
     "points": 90,
@@ -710,6 +820,26 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 15,
+    "tid": 9690,
+    "tname": "3DTC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 9753,
+    "tname": "SVC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 14,
@@ -748,6 +878,26 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 10684,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 10684,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d"
   },
   {
     "category": "B",
@@ -871,12 +1021,22 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 18,
+    "events": 2,
+    "points": 68,
     "tid": 12303,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
     "tbc": "fa2fb2",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 12323,
+    "tname": "ACC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
     "tbd": "ffffff"
   },
   {
