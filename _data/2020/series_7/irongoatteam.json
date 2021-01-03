@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 8,
-    "points": 122,
+    "events": 11,
+    "points": 197,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -58,6 +58,26 @@
     "tc": "111111",
     "tbc": "f3f300",
     "tbd": "111111"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 15,
+    "tid": 32,
+    "tname": "Sz",
+    "tc": "f3f300",
+    "tbc": "0073b7",
+    "tbd": "f3f300"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 60,
+    "tid": 32,
+    "tname": "Sz",
+    "tc": "f3f300",
+    "tbc": "0073b7",
+    "tbd": "f3f300"
   },
   {
     "category": "B",
@@ -121,8 +141,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 15,
+    "events": 2,
+    "points": 19,
     "tid": 629,
     "tname": "Team AHDR",
     "tc": "fc6955",
@@ -211,13 +231,53 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 22,
+    "events": 1,
+    "points": 7,
+    "tid": 2271,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "b70037",
+    "tbd": "0a0909"
+  },
+  {
+    "category": "B",
+    "events": 3,
+    "points": 72,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
     "tbd": "ffa500"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 2571,
+    "tname": "Equipe JZQc",
+    "tc": "ffffff",
+    "tbc": "003399",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 2649,
+    "tname": "Dutch Diesel Cycling",
+    "tc": "ffffff",
+    "tbc": "e35221",
+    "tbd": "23398f"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 2,
+    "tid": 2649,
+    "tname": "Dutch Diesel Cycling",
+    "tc": "ffffff",
+    "tbc": "e35221",
+    "tbd": "23398f"
   },
   {
     "category": "C",
@@ -241,8 +301,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 45,
+    "events": 3,
+    "points": 73,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -251,8 +311,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 73,
+    "events": 3,
+    "points": 113,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -261,8 +321,8 @@
   },
   {
     "category": "A",
-    "events": 3,
-    "points": 66,
+    "events": 4,
+    "points": 85,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -280,6 +340,16 @@
     "tbd": "f0e21f"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 2854,
+    "tname": "FUSION ECT",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 8,
@@ -290,9 +360,19 @@
     "tbd": "000103"
   },
   {
+    "category": "A",
+    "events": 2,
+    "points": 49,
+    "tid": 3028,
+    "tname": "HCCC",
+    "tc": "000080",
+    "tbc": "aacab3",
+    "tbd": "000080"
+  },
+  {
     "category": "B",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 73,
     "tid": 3061,
     "tname": "Ironworks",
     "tc": "ffffff",
@@ -308,6 +388,16 @@
     "tc": "ffffff",
     "tbc": "20d6d6",
     "tbd": "007788"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 12,
+    "tid": 3418,
+    "tname": "Tunge Gir ",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -378,6 +468,16 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "de2020"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tid": 4493,
+    "tname": "ZTPL.CC eRacing",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -470,6 +570,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 6,
+    "tid": 6683,
+    "tname": "Gastown",
+    "tc": "ffffdd",
+    "tbc": "000000",
+    "tbd": "d92727"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 9,
@@ -490,6 +600,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 7168,
+    "tname": "ROCK SIERRA",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "f4ff03"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 14,
@@ -498,6 +618,16 @@
     "tc": "000000",
     "tbc": "ef7f1a",
     "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 14,
+    "tid": 9009,
+    "tname": "Gainz",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -550,6 +680,26 @@
     "tbd": "ff0000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 12065,
+    "tname": "DWB PDX",
+    "tc": "ffd700",
+    "tbc": "000000",
+    "tbd": "ffd700"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 12265,
+    "tname": "Apogee",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 50,
@@ -581,8 +731,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 56,
     "tid": 13257,
     "tname": "FIFCYCLING",
     "tc": "ffffff",
