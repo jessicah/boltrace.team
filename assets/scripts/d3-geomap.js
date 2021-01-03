@@ -310,8 +310,8 @@ function (_Geomap) {
               text = self.properties.unitTitle(unit.datum());
           if (self.properties.duration) unit.transition().duration(self.properties.duration).style('fill', fill);else unit.style('fill', fill); // New title with column and value.
 
-          val = self.properties.format(val);
-          unit.select('title').text("".concat(text, "\n\n").concat(self.properties.column, ": ").concat(val));
+          val = self.properties.format(d);
+          unit.select('title').text("".concat(text, "\n\n").concat(val));
         }
       });
       if (self.properties.legend) self.drawLegend(self.properties.legend); // Make sure postUpdate function is run if set.

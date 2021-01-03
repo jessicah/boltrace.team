@@ -56,7 +56,7 @@ layout: none
 	</body>
 	<script src='//unpkg.com/d3@5/dist/d3.min.js'></script>
 	<script src='//unpkg.com/topojson@3/dist/topojson.min.js'></script>
-	<script src='/assets/scripts/d3-geomap.min.js'></script>
+	<script src='/assets/scripts/d3-geomap.js'></script>
 	<script src='https://d3js.org/d3-geo-projection.v2.min.js'></script>
 	<script
 	src="https://code.jquery.com/jquery-3.5.1.min.js"
@@ -77,14 +77,14 @@ layout: none
 		var countryLocations = null;
 
 		var format = function(d) {
-			d = d;
-			return d3.format(',.2r')(d) + ' members';
+			return `Members: ${d.totalMembers}`;
 		}
 
 		var map = d3.choropleth()
 			.geofile('/assets/scripts/topojson/world/countries.json')
 			.colors(d3.quantize(d3.interpolateRgb('rgb(63, 50, 47)', 'rgb(255, 234, 217)'), 9))
 			.column('logTotal')
+			.format(format)
 			.unitId('iso3');
 		
 		d3.json(`${baseUrl}/members/location-data?gender=M`).then(data => {

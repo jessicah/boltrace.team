@@ -130,14 +130,14 @@ layout: none
 		var countryLocations = null;
 
 		var format = function(d) {
-			d = d;
-			return d3.format(',.2r')(d) + ' members';
+			return `Members: ${d.totalMembers}`;
 		}
 
 		var map = d3.choropleth()
 			.geofile('/assets/scripts/topojson/world/countries.json')
 			.colors(d3.quantize(d3.interpolateRgb('rgb(63, 50, 47)', 'rgb(255, 234, 217)'), 9))
 			.column('logTotal')
+			.format(format)
 			.unitId('iso3');
 		
 		d3.json(`${baseUrl}/members/location-data`).then(data => {
