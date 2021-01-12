@@ -15,6 +15,6 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 <p>Covers races from <strong>@StartDate</strong> &mdash; <strong>@EndDate</strong>.</p>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
 
-{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).crit teams=site.data.@(Model.Year).series_@(Model.Number).critteam %}
+{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).criterium teams=site.data.@(Model.Year).series_@(Model.Number).criteriumteam %}
 
 {% include datetime.html %}
