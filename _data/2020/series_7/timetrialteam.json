@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 6,
-    "points": 160,
+    "events": 8,
+    "points": 202,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 7,
-    "points": 195,
+    "events": 10,
+    "points": 306,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 48,
+    "events": 3,
+    "points": 70,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -131,8 +131,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 72,
+    "events": 5,
+    "points": 137,
     "tid": 60,
     "tname": "TBR Racing",
     "tc": "ffffff",
@@ -171,8 +171,8 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 223,
+    "events": 6,
+    "points": 263,
     "tid": 392,
     "tname": "GFTbe",
     "tc": "ffffff",
@@ -181,8 +181,8 @@
   },
   {
     "category": "A",
-    "events": 6,
-    "points": 226,
+    "events": 7,
+    "points": 251,
     "tid": 392,
     "tname": "GFTbe",
     "tc": "ffffff",
@@ -248,6 +248,16 @@
     "tc": "ffffff",
     "tbc": "00a65a",
     "tbd": "0adb2c"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 1942,
+    "tname": "ZRG",
+    "tc": "1bc1f1",
+    "tbc": "5b5b5b",
+    "tbd": "1bc1f1"
   },
   {
     "category": "A",
@@ -333,6 +343,16 @@
     "category": "B",
     "events": 1,
     "points": 16,
+    "tid": 2684,
+    "tname": "UC Chamoy",
+    "tc": "ffffff",
+    "tbc": "0051b7",
+    "tbd": "3f2828"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
     "tid": 2684,
     "tname": "UC Chamoy",
     "tc": "ffffff",
@@ -491,8 +511,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 4201,
     "tname": "WTRL",
     "tc": "d4af37",
@@ -571,13 +591,23 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 19,
+    "events": 3,
+    "points": 47,
     "tid": 4630,
     "tname": "TugaZ",
     "tc": "ffffff",
     "tbc": "ff1f00",
     "tbd": "33735b"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 4692,
+    "tname": "EVOQ.BIKE",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
   },
   {
     "category": "C",
@@ -617,6 +647,16 @@
     "tname": "IDF",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 6006,
+    "tname": "PCV",
+    "tc": "f7f700",
+    "tbc": "03eb1e",
     "tbd": "ffffff"
   },
   {
