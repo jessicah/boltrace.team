@@ -10,9 +10,29 @@
     "tbd": "e3680f"
   },
   {
+    "category": "B",
+    "events": 3,
+    "points": 88,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "D",
     "events": 3,
     "points": 108,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 3,
+    "points": 73,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,36 +51,6 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 88,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "A",
-    "events": 3,
-    "points": 73,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "D",
-    "events": 2,
-    "points": 58,
-    "tid": 36,
-    "tname": "KISS RT",
-    "tc": "f56600",
-    "tbc": "012350",
-    "tbd": "84b7ca"
-  },
-  {
-    "category": "B",
     "events": 2,
     "points": 27,
     "tid": 36,
@@ -73,6 +63,16 @@
     "category": "C",
     "events": 1,
     "points": 1,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 58,
     "tid": 36,
     "tname": "KISS RT",
     "tc": "f56600",
@@ -170,9 +170,9 @@
     "tbd": "00ff00"
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 32,
+    "category": "A",
+    "events": 1,
+    "points": 20,
     "tid": 1677,
     "tname": "Team Fearless",
     "tc": "001f3f",
@@ -180,9 +180,9 @@
     "tbd": "00ff00"
   },
   {
-    "category": "A",
-    "events": 1,
-    "points": 20,
+    "category": "B",
+    "events": 2,
+    "points": 32,
     "tid": 1677,
     "tname": "Team Fearless",
     "tc": "001f3f",
@@ -460,9 +460,9 @@
     "tbd": "ff0000"
   },
   {
-    "category": "C",
+    "category": "D",
     "events": 3,
-    "points": 43,
+    "points": 20,
     "tid": 6672,
     "tname": "Sotonia",
     "tc": "ffffff",
@@ -470,9 +470,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 3,
-    "points": 20,
+    "points": 43,
     "tid": 6672,
     "tname": "Sotonia",
     "tc": "ffffff",
@@ -540,16 +540,6 @@
     "tbd": "f0a0a0"
   },
   {
-    "category": "A",
-    "events": 3,
-    "points": 90,
-    "tid": 10684,
-    "tname": "Wattie Ink. Racing",
-    "tc": "f5f511",
-    "tbc": "030303",
-    "tbd": "e9ed0d"
-  },
-  {
     "category": "C",
     "events": 3,
     "points": 101,
@@ -560,14 +550,14 @@
     "tbd": "e9ed0d"
   },
   {
-    "category": "C",
+    "category": "A",
     "events": 3,
-    "points": 17,
-    "tid": 11839,
-    "tname": "AEO",
-    "tc": "ffffff",
-    "tbc": "000080",
-    "tbd": "d548ee"
+    "points": 90,
+    "tid": 10684,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d"
   },
   {
     "category": "D",
@@ -593,6 +583,16 @@
     "category": "B",
     "events": 3,
     "points": 73,
+    "tid": 11839,
+    "tname": "AEO",
+    "tc": "ffffff",
+    "tbc": "000080",
+    "tbd": "d548ee"
+  },
+  {
+    "category": "C",
+    "events": 3,
+    "points": 17,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
