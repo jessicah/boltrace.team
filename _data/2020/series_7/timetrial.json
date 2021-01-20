@@ -43,8 +43,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 75,
+    "events": 4,
+    "points": 108,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -52,7 +52,7 @@
     "name": "John Graham-Brown [BRT]",
     "flag": "gb",
     "zwid": 22144,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -322,6 +322,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca",
+    "name": "Dafydd Williams",
+    "flag": "gb-wls",
+    "zwid": 123836,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 40,
@@ -469,7 +483,7 @@
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "James McCormick (BRT Session Beers)",
+    "name": "James McCormick",
     "flag": "gb",
     "zwid": 171442,
     "podiums": "",
@@ -917,7 +931,7 @@
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Kristy MightOn 2268",
+    "name": "Kristy MightOn [BRT]",
     "flag": "ca",
     "zwid": 429245,
     "podiums": "",
@@ -1001,7 +1015,7 @@
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Mandy Hagman (BRT)",
+    "name": "Mandy Hagman [BRT]",
     "flag": "us",
     "zwid": 494757,
     "podiums": "",
@@ -1386,6 +1400,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000",
+    "name": "Grzegorz Michalski",
+    "flag": "pl",
+    "zwid": 870096,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -1666,6 +1694,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Pieter-Jan Kennes [GLH] 3147",
+    "flag": "be",
+    "zwid": 1091960,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 25,
@@ -1849,8 +1891,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 143,
+    "events": 5,
+    "points": 193,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1858,7 +1900,7 @@
     "name": "Angela MacRae (BRT)",
     "flag": "au",
     "zwid": 1332978,
-    "podiums": "gold silver",
+    "podiums": "gold gold silver",
     "upgrades": 0
   },
   {
@@ -2152,6 +2194,20 @@
     "name": "walter Gabrijelcic ",
     "flag": "se",
     "zwid": 1476259,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "CycleChat",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Torben Pedersen",
+    "flag": "dk",
+    "zwid": 1484310,
     "podiums": "",
     "upgrades": 0
   },
@@ -2815,16 +2871,16 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 33,
-    "tname": "",
-    "tc": "",
-    "tbc": "",
-    "tbd": "",
-    "name": "Daniel Kostka ",
+    "events": 2,
+    "points": 83,
+    "tname": "F*CancerTeam",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff",
+    "name": "Daniel Kostka (FCancerTeam)",
     "flag": "cz",
     "zwid": 2484964,
-    "podiums": "bronze",
+    "podiums": "gold bronze",
     "upgrades": 0
   },
   {
@@ -3024,6 +3080,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Nick Pannell",
+    "flag": "gb",
+    "zwid": 2945703,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 19,
@@ -3053,16 +3123,16 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 98,
+    "events": 5,
+    "points": 148,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Bryan Monson (BRT Grizzlies)",
+    "name": "Bryan Monson (BRT Grizzlie Cubs)",
     "flag": "gb-nir",
     "zwid": 2988139,
-    "podiums": "bronze",
+    "podiums": "gold bronze",
     "upgrades": 0
   },
   {

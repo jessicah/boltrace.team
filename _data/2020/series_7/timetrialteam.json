@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 8,
-    "points": 202,
+    "events": 9,
+    "points": 252,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 10,
-    "points": 306,
+    "events": 12,
+    "points": 389,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -53,6 +53,16 @@
     "category": "C",
     "events": 1,
     "points": 22,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -111,8 +121,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 25,
+    "events": 2,
+    "points": 53,
     "tid": 36,
     "tname": "KISS RT",
     "tc": "f56600",
@@ -238,6 +248,16 @@
     "tc": "ff00ff",
     "tbc": "000000",
     "tbd": "22b1e7"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 1458,
+    "tname": "CycleChat",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -783,6 +803,16 @@
     "category": "B",
     "events": 1,
     "points": 18,
+    "tid": 9291,
+    "tname": "F*CancerTeam",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tid": 9291,
     "tname": "F*CancerTeam",
     "tc": "ffffff",
