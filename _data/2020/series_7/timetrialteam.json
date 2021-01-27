@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 9,
-    "points": 252,
+    "events": 11,
+    "points": 342,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 12,
-    "points": 389,
+    "events": 15,
+    "points": 463,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -53,6 +53,16 @@
     "category": "C",
     "events": 1,
     "points": 22,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 7,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -161,8 +171,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 25,
+    "events": 2,
+    "points": 58,
     "tid": 168,
     "tname": "Team Type 1",
     "tc": "ffffff",
@@ -252,6 +262,16 @@
   {
     "category": "B",
     "events": 1,
+    "points": 10,
+    "tid": 1426,
+    "tname": "Team CLS",
+    "tc": "3d9970",
+    "tbc": "ffffff",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 25,
     "tid": 1458,
     "tname": "CycleChat",
@@ -308,6 +328,16 @@
     "tc": "ffffff",
     "tbc": "f48f28",
     "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 2227,
+    "tname": "SCCC",
+    "tc": "ffffff",
+    "tbc": "f48d38",
+    "tbd": "9914f6"
   },
   {
     "category": "C",
@@ -611,8 +641,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 47,
+    "events": 4,
+    "points": 64,
     "tid": 4630,
     "tname": "TugaZ",
     "tc": "ffffff",
@@ -628,6 +658,16 @@
     "tc": "000000",
     "tbc": "ffffff",
     "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 4842,
+    "tname": "[HT]",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "C",
@@ -790,6 +830,16 @@
     "tbd": "000000"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 16,
+    "tid": 8282,
+    "tname": "53onze",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 2,
@@ -797,6 +847,16 @@
     "tname": "AR",
     "tc": "ffffff",
     "tbc": "000000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 8989,
+    "tname": "MUSSARA.CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
     "tbd": "ffffff"
   },
   {
@@ -961,8 +1021,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 59,
+    "events": 3,
+    "points": 92,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -988,6 +1048,16 @@
     "tc": "ffffff",
     "tbc": "1186d6",
     "tbd": "e0bd28"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 12741,
+    "tname": "FCCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "A",
@@ -1058,6 +1128,16 @@
     "tc": "a69d9d",
     "tbc": "05a2fa",
     "tbd": "030202"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 13522,
+    "tname": "Hydro ",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "D",
