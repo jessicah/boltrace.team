@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 66,
     "tid": 2,
     "tname": "Team X",
     "tc": "f5f7f6",
@@ -11,8 +11,8 @@
   },
   {
     "category": "D",
-    "events": 15,
-    "points": 310,
+    "events": 18,
+    "points": 347,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 119,
+    "events": 6,
+    "points": 159,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -41,8 +41,8 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 113,
+    "events": 5,
+    "points": 163,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -51,8 +51,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 61,
     "tid": 7,
     "tname": "TeamODZ",
     "tc": "ff851b",
@@ -111,48 +111,48 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 33,
-    "tid": 35,
-    "tname": "BZR cycling team",
-    "tc": "f3f300",
-    "tbc": "111111",
-    "tbd": "dd4b39"
-  },
-  {
-    "category": "B",
-    "events": 5,
-    "points": 194,
-    "tid": 35,
-    "tname": "BZR cycling team",
-    "tc": "f3f300",
-    "tbc": "111111",
-    "tbd": "dd4b39"
-  },
-  {
-    "category": "C",
-    "events": 1,
-    "points": 25,
-    "tid": 36,
-    "tname": "KISS RT",
-    "tc": "f56600",
-    "tbc": "012350",
-    "tbd": "84b7ca"
-  },
-  {
-    "category": "B",
-    "events": 1,
-    "points": 25,
-    "tid": 36,
-    "tname": "KISS RT",
-    "tc": "f56600",
-    "tbc": "012350",
-    "tbd": "84b7ca"
-  },
-  {
-    "category": "C",
     "events": 2,
-    "points": 58,
+    "points": 48,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "B",
+    "events": 6,
+    "points": 234,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "C",
+    "events": 3,
+    "points": 78,
     "tid": 90,
     "tname": "Vikings",
     "tc": "c2c2c2",
@@ -211,8 +211,8 @@
   },
   {
     "category": "D",
-    "events": 3,
-    "points": 38,
+    "events": 4,
+    "points": 52,
     "tid": 751,
     "tname": "ZZRC",
     "tc": "ffffff",
@@ -288,6 +288,16 @@
     "tc": "ffffff",
     "tbc": "e60d2e",
     "tbd": "000000"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 2,
+    "tid": 1677,
+    "tname": "Team Fearless",
+    "tc": "001f3f",
+    "tbc": "00dacc",
+    "tbd": "00ff00"
   },
   {
     "category": "D",
@@ -401,8 +411,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 44,
+    "events": 3,
+    "points": 66,
     "tid": 2013,
     "tname": "IBTC",
     "tc": "ffffff",
@@ -520,6 +530,16 @@
     "tbd": "df6a0d"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 40,
@@ -572,6 +592,16 @@
   {
     "category": "D",
     "events": 1,
+    "points": 19,
+    "tid": 2934,
+    "tname": "ZwiftScotland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "000000"
+  },
+  {
+    "category": "D",
+    "events": 1,
     "points": 33,
     "tid": 2971,
     "tname": "SWOZR",
@@ -591,8 +621,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 58,
     "tid": 3212,
     "tname": "VCOM",
     "tc": "ff0000",
@@ -878,6 +908,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 3,
+    "tid": 6417,
+    "tname": "DTC",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "616161"
   },
   {
     "category": "A",
@@ -1211,8 +1251,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 101,
+    "events": 4,
+    "points": 134,
     "tid": 11748,
     "tname": "TR ",
     "tc": "ffffff",
@@ -1221,8 +1261,8 @@
   },
   {
     "category": "D",
-    "events": 4,
-    "points": 161,
+    "events": 5,
+    "points": 201,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -1251,8 +1291,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 27,
+    "events": 3,
+    "points": 33,
     "tid": 12208,
     "tname": "AWCC",
     "tc": "ffffff",
@@ -1310,6 +1350,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 8,
+    "tid": 13459,
+    "tname": "WyoRiders",
+    "tc": "ffffff",
+    "tbc": "f55827",
+    "tbd": "412921"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -1335,6 +1385,26 @@
     "points": 40,
     "tid": 14294,
     "tname": "Newry Nucks",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 14392,
+    "tname": "360VRT",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 14609,
+    "tname": "VeloJawn",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
