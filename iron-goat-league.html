@@ -1,16 +1,23 @@
+@using static LeagueTables.Helpers;
+@{
+	var StartDate = Model.StartDate.ToString("%d") + DateSuffix(Model.StartDate) + Model.StartDate.ToString(@" MMMM, yyyy");
+	var EndDate = Model.EndDate.ToString("%d") + DateSuffix(Model.EndDate) + Model.EndDate.ToString(@" MMMM, yyyy");
+	var DateData = Model.StartDate.ToString("yyyy-MM-dd-HH-mm");
+	var EventDateTime = Model.StartDate.ToString(@"dddd, h:mmtt UTC");
+}
 ---
 layout: default
 redirect_from: "/irongoat"
-date: 01/02/2021
+date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 ---
 
 <h2>Iron Goat Racing League</h2>
 
 <h3>Event Information</h3>
 <ul>
-	<li>Start Date: 13th December, 2020</li>
-	<li>End Date: 31st January, 2021</li>
-	<li>Event Day & Time: <span class='date-data' data-date='2020-12-13-19-00' data-format='day-time' data-use-upcoming='true'>Sunday, 7:00PM UTC</span></li>
+	<li>Start Date: @StartDate</li>
+	<li>End Date: @EndDate</li>
+	<li>Event Day & Time: <span class='date-data' data-date='@DateData' data-format='day-time' data-use-upcoming='true'>@EventDateTime</span></li>
 	<li>Duration: 8 weeks</li>
 	<li>Categories
 		<ol style='list-style-type: upper-alpha'>
@@ -72,5 +79,5 @@ date: 01/02/2021
 
 <h3>Current Standings</h3>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
-{% include standings.html riders=site.data.2020.series_7.irongoat teams=site.data.2020.series_7.irongoatteam %}
+{% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).irongoat teams=site.data.@(Model.Year).series_@(Model.Number).irongoatteam %}
 {% include datetime.html %}
