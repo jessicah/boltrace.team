@@ -1,15 +1,5 @@
 [
   {
-    "category": "D",
-    "events": 2,
-    "points": 65,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
     "category": "C",
     "events": 8,
     "points": 170,
@@ -23,6 +13,16 @@
     "category": "B",
     "events": 23,
     "points": 495,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 65,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -60,9 +60,9 @@
     "tbd": "111111"
   },
   {
-    "category": "B",
-    "events": 1,
-    "points": 15,
+    "category": "A",
+    "events": 5,
+    "points": 158,
     "tid": 32,
     "tname": "Sz",
     "tc": "f3f300",
@@ -70,9 +70,9 @@
     "tbd": "f3f300"
   },
   {
-    "category": "A",
-    "events": 5,
-    "points": 158,
+    "category": "B",
+    "events": 1,
+    "points": 15,
     "tid": 32,
     "tname": "Sz",
     "tc": "f3f300",
@@ -90,9 +90,9 @@
     "tbd": "dd4b39"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 19,
+    "points": 50,
     "tid": 36,
     "tname": "KISS RT",
     "tc": "f56600",
@@ -100,9 +100,9 @@
     "tbd": "84b7ca"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 19,
     "tid": 36,
     "tname": "KISS RT",
     "tc": "f56600",
@@ -120,9 +120,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 2,
-    "points": 33,
+    "points": 39,
     "tid": 90,
     "tname": "Vikings",
     "tc": "c2c2c2",
@@ -130,9 +130,9 @@
     "tbd": "ee6331"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 2,
-    "points": 39,
+    "points": 33,
     "tid": 90,
     "tname": "Vikings",
     "tc": "c2c2c2",
@@ -200,9 +200,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 36,
+    "category": "A",
+    "events": 3,
+    "points": 53,
     "tid": 963,
     "tname": "CHOCK",
     "tc": "ffffff",
@@ -210,9 +210,9 @@
     "tbd": "575757"
   },
   {
-    "category": "A",
-    "events": 3,
-    "points": 53,
+    "category": "B",
+    "events": 2,
+    "points": 36,
     "tid": 963,
     "tname": "CHOCK",
     "tc": "ffffff",
@@ -280,9 +280,9 @@
     "tbd": "0f0303"
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 8,
+    "category": "B",
+    "events": 2,
+    "points": 13,
     "tid": 2146,
     "tname": "ZESP",
     "tc": "000000",
@@ -290,9 +290,9 @@
     "tbd": "ad1519"
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 13,
+    "category": "C",
+    "events": 1,
+    "points": 8,
     "tid": 2146,
     "tname": "ZESP",
     "tc": "000000",
@@ -320,9 +320,9 @@
     "tbd": "0a0909"
   },
   {
-    "category": "D",
-    "events": 1,
-    "points": 40,
+    "category": "B",
+    "events": 3,
+    "points": 72,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -330,9 +330,9 @@
     "tbd": "ffa500"
   },
   {
-    "category": "B",
-    "events": 3,
-    "points": 72,
+    "category": "D",
+    "events": 1,
+    "points": 40,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -350,9 +350,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 1,
-    "points": 33,
+    "points": 20,
     "tid": 2571,
     "tname": "Equipe JZQc",
     "tc": "ffffff",
@@ -360,9 +360,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
+    "category": "D",
     "events": 1,
-    "points": 20,
+    "points": 33,
     "tid": 2571,
     "tname": "Equipe JZQc",
     "tc": "ffffff",
@@ -400,9 +400,9 @@
     "tbd": "23398f"
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 50,
+    "category": "A",
+    "events": 3,
+    "points": 73,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -420,9 +420,9 @@
     "tbd": "df6a0d"
   },
   {
-    "category": "A",
-    "events": 3,
-    "points": 73,
+    "category": "C",
+    "events": 1,
+    "points": 50,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -490,9 +490,9 @@
     "tbd": "000000"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 8,
+    "points": 16,
     "tid": 2991,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
@@ -500,9 +500,9 @@
     "tbd": "000103"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 16,
+    "points": 8,
     "tid": 2991,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
@@ -1200,9 +1200,9 @@
     "tbd": "f60000"
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 38,
+    "category": "A",
+    "events": 1,
+    "points": 15,
     "tid": 14069,
     "tname": "Diagnose",
     "tc": "faf4f4",
@@ -1210,9 +1210,9 @@
     "tbd": "240303"
   },
   {
-    "category": "A",
-    "events": 1,
-    "points": 15,
+    "category": "B",
+    "events": 2,
+    "points": 38,
     "tid": 14069,
     "tname": "Diagnose",
     "tc": "faf4f4",
