@@ -1,0 +1,182 @@
+[
+  {
+    "category": "A",
+    "events": 1,
+    "points": 12,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 3,
+    "points": 90,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 58,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 48,
+    "tid": 32,
+    "tname": "Sz",
+    "tc": "f3f300",
+    "tbc": "0073b7",
+    "tbd": "f3f300"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 393,
+    "tname": "BathCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 15,
+    "tid": 963,
+    "tname": "CHOCK",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "575757"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 1845,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 2127,
+    "tname": "CYKELMAGASINET.DK",
+    "tc": "0f0f0f",
+    "tbc": "36a7eb",
+    "tbd": "0f0303"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 11,
+    "tid": 2934,
+    "tname": "ZwiftScotland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tid": 3531,
+    "tname": "WBTRi",
+    "tc": "f28500",
+    "tbc": "02075d",
+    "tbd": "f28500"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 4463,
+    "tname": "KISS FINESSE",
+    "tc": "012350",
+    "tbc": "f7f915",
+    "tbd": "012350"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 5200,
+    "tname": "BIKE AID",
+    "tc": "ffffff",
+    "tbc": "00396b",
+    "tbd": "9e1b21"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 12342,
+    "tname": "RCSR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 17,
+    "tid": 13404,
+    "tname": "BLT",
+    "tc": "000000",
+    "tbc": "afcbe0",
+    "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 14135,
+    "tname": "XSU",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  }
+]
