@@ -60,9 +60,9 @@
     "tbd": "111111"
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 48,
+    "category": "A",
+    "events": 4,
+    "points": 130,
     "tid": 32,
     "tname": "Sz",
     "tc": "f3f300",
@@ -70,9 +70,9 @@
     "tbd": "f3f300"
   },
   {
-    "category": "A",
-    "events": 4,
-    "points": 130,
+    "category": "B",
+    "events": 2,
+    "points": 48,
     "tid": 32,
     "tname": "Sz",
     "tc": "f3f300",
@@ -330,9 +330,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
+    "category": "D",
     "events": 1,
-    "points": 20,
+    "points": 33,
     "tid": 2571,
     "tname": "Equipe JZQc",
     "tc": "ffffff",
@@ -340,9 +340,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 1,
-    "points": 33,
+    "points": 20,
     "tid": 2571,
     "tname": "Equipe JZQc",
     "tc": "ffffff",
@@ -381,8 +381,8 @@
   },
   {
     "category": "A",
-    "events": 5,
-    "points": 111,
+    "events": 6,
+    "points": 126,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
