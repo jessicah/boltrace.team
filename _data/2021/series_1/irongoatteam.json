@@ -1,5 +1,15 @@
 [
   {
+    "category": "A",
+    "events": 4,
+    "points": 95,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "C",
     "events": 5,
     "points": 104,
@@ -13,16 +23,6 @@
     "category": "B",
     "events": 6,
     "points": 156,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "A",
-    "events": 4,
-    "points": 95,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -60,16 +60,6 @@
     "tbd": "dd4b39"
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 20,
-    "tid": 161,
-    "tname": "ZSUN",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
-  },
-  {
     "category": "B",
     "events": 1,
     "points": 22,
@@ -80,11 +70,11 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
+    "category": "C",
     "events": 1,
-    "points": 19,
-    "tid": 393,
-    "tname": "BathCC",
+    "points": 20,
+    "tid": 161,
+    "tname": "ZSUN",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -93,6 +83,16 @@
     "category": "A",
     "events": 1,
     "points": 14,
+    "tid": 393,
+    "tname": "BathCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
     "tid": 393,
     "tname": "BathCC",
     "tc": "ffffff",
@@ -300,9 +300,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 33,
+    "points": 16,
     "tid": 12342,
     "tname": "RCSR",
     "tc": "ffffff",
@@ -310,9 +310,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 16,
+    "points": 33,
     "tid": 12342,
     "tname": "RCSR",
     "tc": "ffffff",
