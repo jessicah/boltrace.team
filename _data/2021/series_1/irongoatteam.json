@@ -1,18 +1,8 @@
 [
   {
     "category": "A",
-    "events": 4,
-    "points": 95,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "C",
-    "events": 5,
-    "points": 104,
+    "events": 3,
+    "points": 80,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -23,6 +13,16 @@
     "category": "B",
     "events": 6,
     "points": 156,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 5,
+    "points": 104,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -341,8 +341,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 17,
+    "events": 2,
+    "points": 32,
     "tid": 13404,
     "tname": "BLT",
     "tc": "000000",
@@ -365,6 +365,16 @@
     "points": 25,
     "tid": 14135,
     "tname": "XSU",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 16,
+    "tid": 14945,
+    "tname": "Specialized ",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
