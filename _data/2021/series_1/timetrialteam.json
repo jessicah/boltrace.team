@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 5,
-    "points": 169,
+    "events": 6,
+    "points": 219,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 234,
+    "events": 9,
+    "points": 337,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 172,
+    "events": 9,
+    "points": 228,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,13 +31,23 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 114,
+    "events": 6,
+    "points": 169,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 9,
+    "tname": "Vision",
+    "tc": "ffffff",
+    "tbc": "2ea9e0",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -53,6 +63,16 @@
     "category": "C",
     "events": 1,
     "points": 6,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 1,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -80,9 +100,19 @@
     "tbd": "84b7ca"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 33,
+    "tid": 90,
+    "tname": "Vikings",
+    "tc": "c2c2c2",
+    "tbc": "0073b7",
+    "tbd": "ee6331"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 37,
     "tid": 265,
     "tname": "RCC",
     "tc": "fc2097",
@@ -120,6 +150,16 @@
     "tbd": "000000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 8,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 22,
@@ -140,6 +180,16 @@
     "tbd": "ffa500"
   },
   {
+    "category": "B",
+    "events": 2,
+    "points": 21,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 40,
@@ -150,9 +200,49 @@
     "tbd": "ffa500"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tid": 2494,
+    "tname": "ICC",
+    "tc": "000000",
+    "tbc": "f2a30b",
+    "tbd": "210303"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 2639,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d"
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 33,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 12,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -168,6 +258,26 @@
     "tc": "210606",
     "tbc": "f2e80d",
     "tbd": "000103"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 9,
+    "tid": 3369,
+    "tname": "IRL",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "00b84a"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 1,
+    "tid": 3978,
+    "tname": "GND-MI",
+    "tc": "290b0b",
+    "tbc": "ede41a",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -223,6 +333,26 @@
     "category": "C",
     "events": 1,
     "points": 25,
+    "tid": 5459,
+    "tname": "KWCC",
+    "tc": "f01f1f",
+    "tbc": "101112",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 5,
+    "tid": 5524,
+    "tname": "UK Armed Forces",
+    "tc": "ffffff",
+    "tbc": "4f213b",
+    "tbd": "4f213b"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
     "tid": 5588,
     "tname": "JPCT",
     "tc": "ffffff",
@@ -248,6 +378,16 @@
     "tc": "403c3c",
     "tbc": "2598db",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 6,
+    "tid": 6393,
+    "tname": "UNITED  EAGLES ",
+    "tc": "ffffff",
+    "tbc": "030000",
+    "tbd": "ff1e1e"
   },
   {
     "category": "A",
@@ -300,9 +440,29 @@
     "tbd": "ffffff"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 6913,
+    "tname": "TRIATHLETES Zwift",
+    "tc": "000000",
+    "tbc": "fff400",
+    "tbd": "ff0000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 1,
+    "tid": 7177,
+    "tname": "CCC",
+    "tc": "eb1919",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 16,
     "tid": 7177,
     "tname": "CCC",
     "tc": "eb1919",
@@ -318,6 +478,16 @@
     "tc": "ffffff",
     "tbc": "d24848",
     "tbd": "3b3b6b"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 25,
+    "tid": 7660,
+    "tname": "MAZAPAN",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -340,9 +510,29 @@
     "tbd": "ffffff"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 28,
+    "tid": 9107,
+    "tname": "Eiviatletisme",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
-    "points": 20,
+    "points": 12,
+    "tid": 9280,
+    "tname": "CISM GER TRI",
+    "tc": "000000",
+    "tbc": "ffff00",
+    "tbd": "006400"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 30,
     "tid": 9732,
     "tname": "MCC",
     "tc": "ffffff",
@@ -370,6 +560,26 @@
     "tbd": "000000"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 22,
+    "tid": 11114,
+    "tname": "FFs",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 11242,
+    "tname": "A E R O - CT",
+    "tc": "ffffff",
+    "tbc": "0000ff",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 47,
@@ -377,6 +587,16 @@
     "tname": "DZR",
     "tc": "ffffff",
     "tbc": "ff0000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 12489,
+    "tname": "CK Sundet",
+    "tc": "ffffff",
+    "tbc": "42aced",
     "tbd": "ffffff"
   },
   {
@@ -431,8 +651,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 8,
+    "events": 2,
+    "points": 9,
     "tid": 13263,
     "tname": "RTC",
     "tc": "ffffff",
@@ -442,7 +662,37 @@
   {
     "category": "C",
     "events": 1,
+    "points": 5,
+    "tid": 13911,
+    "tname": "NINJA",
+    "tc": "52be80",
+    "tbc": "030000",
+    "tbd": "52be80"
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 7,
+    "tid": 14332,
+    "tname": "BZH",
+    "tc": "ffffff",
+    "tbc": "050a0d",
+    "tbd": "f5eaea"
+  },
+  {
+    "category": "B",
+    "events": 3,
+    "points": 15,
+    "tid": 14332,
+    "tname": "BZH",
+    "tc": "ffffff",
+    "tbc": "050a0d",
+    "tbd": "f5eaea"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 17,
     "tid": 14332,
     "tname": "BZH",
     "tc": "ffffff",
