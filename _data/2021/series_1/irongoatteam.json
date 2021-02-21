@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 8,
-    "points": 209,
+    "events": 11,
+    "points": 302,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 9,
-    "points": 249,
+    "events": 12,
+    "points": 336,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -41,8 +41,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 48,
+    "events": 3,
+    "points": 73,
     "tid": 32,
     "tname": "Sz",
     "tc": "f3f300",
@@ -210,6 +210,16 @@
     "tbd": "df6a0d"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 2734,
+    "tname": "PLCC",
+    "tc": "ffffff",
+    "tbc": "00ff00",
+    "tbd": "000000"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 78,
@@ -263,6 +273,26 @@
     "category": "A",
     "events": 1,
     "points": 28,
+    "tid": 3999,
+    "tname": "Giant Van",
+    "tc": "ffffff",
+    "tbc": "3d3c3c",
+    "tbd": "1e4dba"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 39,
+    "tid": 4178,
+    "tname": " [ ATP ] ",
+    "tc": "e0ffff",
+    "tbc": "008b8b",
+    "tbd": "00008b"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
     "tid": 4397,
     "tname": "HEINO RT",
     "tc": "ffffff",
@@ -288,6 +318,36 @@
     "tc": "ffffff",
     "tbc": "ff1f00",
     "tbd": "33735b"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 90,
+    "tid": 4692,
+    "tname": "EVOQ.BIKE",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 5032,
+    "tname": "VCRT",
+    "tc": "fccb5a",
+    "tbc": "2d009e",
+    "tbd": "f521f5"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 5123,
+    "tname": "UTRR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -321,6 +381,16 @@
   },
   {
     "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 6500,
+    "tname": "PACC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
     "events": 2,
     "points": 9,
     "tid": 6509,
@@ -348,6 +418,16 @@
     "tc": "ffffff",
     "tbc": "d24848",
     "tbd": "3b3b6b"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 18,
+    "tid": 9226,
+    "tname": "MSC",
+    "tc": "ffffff",
+    "tbc": "e67e22",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -380,6 +460,16 @@
     "tbd": "000000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 11633,
+    "tname": "Ros Racing",
+    "tc": "000000",
+    "tbc": "e6e6eb",
+    "tbd": "171515"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 40,
@@ -395,6 +485,16 @@
     "points": 11,
     "tid": 12130,
     "tname": "BOI",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 12276,
+    "tname": "T3 Philly",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -477,6 +577,16 @@
     "tname": "GreenFuzz",
     "tc": "ffffff",
     "tbc": "590000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 13976,
+    "tname": "Lockdown Girls",
+    "tc": "ffffff",
+    "tbc": "ff0cff",
     "tbd": "ffffff"
   },
   {
