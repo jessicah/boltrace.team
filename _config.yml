@@ -1,2 +1,3 @@
 plugins:
   - jekyll-redirect-from
+exclude: ["_league_templates", "_resources", "_site", "_tools", "_vendor"]
