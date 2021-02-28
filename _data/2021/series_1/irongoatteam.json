@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 11,
-    "points": 302,
+    "events": 13,
+    "points": 392,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 12,
-    "points": 336,
+    "events": 15,
+    "points": 415,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -270,6 +270,16 @@
     "tbd": "5da29d"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tid": 3760,
+    "tname": "Leadout/WMBF",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 28,
@@ -292,6 +302,16 @@
   {
     "category": "A",
     "events": 1,
+    "points": 40,
+    "tid": 4395,
+    "tname": "JRC Shutt-Ridley RT",
+    "tc": "ffffff",
+    "tbc": "5692b8",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 28,
     "tid": 4397,
     "tname": "HEINO RT",
@@ -310,9 +330,19 @@
     "tbd": "012350"
   },
   {
-    "category": "C",
+    "category": "A",
     "events": 1,
-    "points": 15,
+    "points": 33,
+    "tid": 4493,
+    "tname": "ZTPL.CC eRacing",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 48,
     "tid": 4630,
     "tname": "TugaZ",
     "tc": "ffffff",
@@ -333,6 +363,16 @@
     "category": "B",
     "events": 1,
     "points": 25,
+    "tid": 5032,
+    "tname": "VCRT",
+    "tc": "fccb5a",
+    "tbc": "2d009e",
+    "tbd": "f521f5"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tid": 5032,
     "tname": "VCRT",
     "tc": "fccb5a",
@@ -420,6 +460,16 @@
     "tbd": "3b3b6b"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 7687,
+    "tname": "INDU TEAM",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff2a2a"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 18,
@@ -427,6 +477,16 @@
     "tname": "MSC",
     "tc": "ffffff",
     "tbc": "e67e22",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 9483,
+    "tname": "RedShift",
+    "tc": "ffffff",
+    "tbc": "ed0a0a",
     "tbd": "ffffff"
   },
   {
@@ -461,8 +521,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 22,
+    "events": 2,
+    "points": 47,
     "tid": 11633,
     "tname": "Ros Racing",
     "tc": "000000",
@@ -581,8 +641,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 14,
+    "events": 2,
+    "points": 29,
     "tid": 13976,
     "tname": "Lockdown Girls",
     "tc": "ffffff",

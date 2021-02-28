@@ -224,6 +224,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tname": "Leadout/WMBF",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Jim Braam",
+    "flag": "us",
+    "zwid": 69837,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 3,
     "points": 52,
@@ -253,8 +267,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 40,
+    "events": 4,
+    "points": 60,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -262,7 +276,21 @@
     "name": "Pam Thomas ",
     "flag": "us",
     "zwid": 104321,
-    "podiums": "",
+    "podiums": "silver",
+    "upgrades": 1
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "RedShift",
+    "tc": "ffffff",
+    "tbc": "ed0a0a",
+    "tbd": "ffffff",
+    "name": "Jamie  McLean (RSR)",
+    "flag": "us",
+    "zwid": 115664,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -505,6 +533,20 @@
   },
   {
     "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Coco Cadence",
+    "flag": "nl",
+    "zwid": 397234,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
     "events": 2,
     "points": 31,
     "tname": "BRT",
@@ -632,6 +674,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tname": "VCRT",
+    "tc": "fccb5a",
+    "tbc": "2d009e",
+    "tbd": "f521f5",
+    "name": "Remco Beckers \u0026#128304; [VCRT]",
+    "flag": "nl",
+    "zwid": 506582,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 25,
     "tname": "Sandane SK",
     "tc": "ffffff",
@@ -668,6 +724,20 @@
     "name": "Bob Dickhoff",
     "flag": "nl",
     "zwid": 550974,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Delian Simov3723",
+    "flag": "us",
+    "zwid": 555226,
     "podiums": "",
     "upgrades": 0
   },
@@ -840,6 +910,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "Ros Racing",
+    "tc": "000000",
+    "tbc": "e6e6eb",
+    "tbd": "171515",
+    "name": "Mikkel Justesen (Cycling Power Raceteam)r)",
+    "flag": "dk",
+    "zwid": 797113,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 13,
@@ -893,6 +977,20 @@
     "flag": "at",
     "zwid": 852050,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "ZTPL.CC eRacing",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000",
+    "name": "Maciej Miko\u0026#322;ajczyk  \u0026#127877;",
+    "flag": "pl",
+    "zwid": 863614,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -966,6 +1064,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ben Johnson",
+    "flag": "ca",
+    "zwid": 986833,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -1019,6 +1131,20 @@
     "flag": "nz",
     "zwid": 1050046,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "JRC Shutt-Ridley RT",
+    "tc": "ffffff",
+    "tbc": "5692b8",
+    "tbd": "ffffff",
+    "name": "Tom Lees (JRC Shutt Ridley RT - M) ",
+    "flag": "gb",
+    "zwid": 1055701,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1149,8 +1275,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 85,
+    "events": 5,
+    "points": 105,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1316,9 +1442,37 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ed C",
+    "flag": "us",
+    "zwid": 1541309,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
-    "events": 4,
-    "points": 51,
+    "events": 1,
+    "points": 28,
+    "tname": "INDU TEAM",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff2a2a",
+    "name": "Ando Ando [INDU]",
+    "flag": "si",
+    "zwid": 1564332,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 5,
+    "points": 73,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1625,8 +1779,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 72,
+    "events": 5,
+    "points": 91,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1681,8 +1835,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 146,
+    "events": 5,
+    "points": 186,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1690,7 +1844,7 @@
     "name": "Nate Bomans [BRT]",
     "flag": "ca",
     "zwid": 2732526,
-    "podiums": "gold silver",
+    "podiums": "gold silver silver",
     "upgrades": 0
   },
   {
@@ -1765,16 +1919,16 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 113,
+    "events": 4,
+    "points": 163,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Richard Harvey (C -Potential)",
+    "name": "Richard Harvey (BRT Venus)",
     "flag": "gb",
     "zwid": 2975232,
-    "podiums": "silver silver bronze",
+    "podiums": "gold silver silver bronze",
     "upgrades": 0
   },
   {
@@ -1830,6 +1984,20 @@
     "name": "Mark Chadwick",
     "flag": "gb",
     "zwid": 3126946,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 16,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "ed lambert",
+    "flag": "gb",
+    "zwid": 3132638,
     "podiums": "",
     "upgrades": 0
   },
@@ -1933,8 +2101,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 14,
+    "events": 2,
+    "points": 29,
     "tname": "Lockdown Girls",
     "tc": "ffffff",
     "tbc": "ff0cff",
@@ -1971,6 +2139,20 @@
     "flag": "us",
     "zwid": 3358104,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b",
+    "name": "Carlos Rebelo",
+    "flag": "pt",
+    "zwid": 3382002,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
