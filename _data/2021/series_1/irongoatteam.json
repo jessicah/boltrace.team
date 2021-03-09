@@ -1,8 +1,8 @@
 [
   {
     "category": "A",
-    "events": 9,
-    "points": 203,
+    "events": 11,
+    "points": 228,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -12,7 +12,7 @@
   {
     "category": "B",
     "events": 18,
-    "points": 353,
+    "points": 358,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "C",
-    "events": 12,
-    "points": 369,
+    "events": 10,
+    "points": 348,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -30,9 +30,9 @@
     "tbd": "ff8100"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 40,
+    "points": 17,
     "tid": 9,
     "tname": "Vision",
     "tc": "ffffff",
@@ -72,7 +72,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 33,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -82,7 +82,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 18,
+    "points": 28,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -102,7 +102,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 14,
+    "points": 11,
     "tid": 244,
     "tname": "ABRT",
     "tc": "ffffff",
@@ -110,8 +110,8 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
-    "events": 1,
+    "category": "A",
+    "events": 2,
     "points": 20,
     "tid": 393,
     "tname": "BathCC",
@@ -120,19 +120,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 9,
-    "tid": 393,
-    "tname": "BathCC",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
-  },
-  {
-    "category": "D",
-    "events": 1,
-    "points": 50,
+    "points": 2,
     "tid": 588,
     "tname": "Team Italy",
     "tc": "dd4b39",
@@ -142,7 +132,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 28,
+    "points": 25,
     "tid": 775,
     "tname": "Sandane SK",
     "tc": "ffffff",
@@ -170,9 +160,9 @@
     "tbd": "575757"
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 1,
-    "points": 50,
+    "points": 20,
     "tid": 1384,
     "tname": "[EXN]",
     "tc": "ee1d22",
@@ -192,7 +182,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 33,
+    "points": 40,
     "tid": 1826,
     "tname": "BOC",
     "tc": "ffffff",
@@ -212,7 +202,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 39,
+    "points": 41,
     "tid": 1940,
     "tname": "Vixen/Fox",
     "tc": "7409a6",
@@ -220,9 +210,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 22,
+    "points": 12,
     "tid": 1942,
     "tname": "ZRG",
     "tc": "1bc1f1",
@@ -270,9 +260,19 @@
     "tbd": "df6a0d"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
     "category": "C",
-    "events": 2,
-    "points": 65,
+    "events": 1,
+    "points": 25,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -290,19 +290,9 @@
     "tbd": "000000"
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 33,
-    "tid": 2740,
-    "tname": "Team CRYO-GEN",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
-  },
-  {
     "category": "B",
-    "events": 1,
-    "points": 12,
+    "events": 2,
+    "points": 19,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -322,7 +312,7 @@
   {
     "category": "A",
     "events": 3,
-    "points": 101,
+    "points": 95,
     "tid": 3028,
     "tname": "HCCC",
     "tc": "000080",
@@ -351,8 +341,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 17,
+    "events": 3,
+    "points": 89,
     "tid": 3711,
     "tname": "\u002BRestart",
     "tc": "5da29d",
@@ -372,7 +362,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 14,
+    "points": 18,
     "tid": 4015,
     "tname": "JCK",
     "tc": "ffffff",
@@ -430,9 +420,19 @@
     "tbd": "000000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 1,
+    "tid": 4630,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b"
+  },
+  {
     "category": "C",
-    "events": 2,
-    "points": 53,
+    "events": 1,
+    "points": 40,
     "tid": 4630,
     "tname": "TugaZ",
     "tc": "ffffff",
@@ -492,7 +492,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 20,
+    "points": 25,
     "tid": 5449,
     "tname": "Team G\u0026aring;ping",
     "tc": "ffffff",
@@ -500,9 +500,9 @@
     "tbd": "2c3628"
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 16,
+    "points": 1,
     "tid": 5673,
     "tname": "Didcot Phoenix CC",
     "tc": "f2760a",
@@ -522,7 +522,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 9,
+    "points": 13,
     "tid": 6509,
     "tname": "WWNR",
     "tc": "ffffff",
@@ -542,7 +542,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 15,
+    "points": 10,
     "tid": 6626,
     "tname": "BRC",
     "tc": "ffffff",
@@ -572,7 +572,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 20,
+    "points": 19,
     "tid": 7423,
     "tname": "England CC",
     "tc": "ffffff",
@@ -632,7 +632,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 10,
+    "points": 14,
     "tid": 9925,
     "tname": "RETO",
     "tc": "ffffff",
@@ -642,7 +642,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 12,
+    "points": 13,
     "tid": 9980,
     "tname": "Deluxe Cycles",
     "tc": "ffffff",
@@ -700,9 +700,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 28,
+    "points": 6,
     "tid": 12074,
     "tname": "CTZ",
     "tc": "ffffff",
@@ -712,7 +712,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 13,
+    "points": 10,
     "tid": 12130,
     "tname": "BOI",
     "tc": "ffffff",
@@ -740,9 +740,19 @@
     "tbd": "ffffff"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 15,
+    "tid": 12342,
+    "tname": "RCSR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
-    "events": 2,
-    "points": 68,
+    "events": 1,
+    "points": 40,
     "tid": 12342,
     "tname": "RCSR",
     "tc": "ffffff",
@@ -762,7 +772,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 23,
+    "points": 25,
     "tid": 12764,
     "tname": "OTR Racing",
     "tc": "ff5353",
@@ -772,7 +782,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 22,
     "tid": 12894,
     "tname": "Team RSH",
     "tc": "000000",
@@ -782,7 +792,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 10,
+    "points": 18,
     "tid": 13162,
     "tname": "No balls",
     "tc": "ffffff",
@@ -792,7 +802,7 @@
   {
     "category": "A",
     "events": 3,
-    "points": 55,
+    "points": 50,
     "tid": 13404,
     "tname": "BLT",
     "tc": "000000",
@@ -800,9 +810,9 @@
     "tbd": "000000"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 33,
+    "points": 13,
     "tid": 13831,
     "tname": "GreenFuzz",
     "tc": "ffffff",
@@ -822,7 +832,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 17,
+    "points": 16,
     "tid": 14106,
     "tname": "Jogclub",
     "tc": "ffffff",
@@ -832,7 +842,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 19,
+    "points": 18,
     "tid": 14294,
     "tname": "Newry Nucks",
     "tc": "ffffff",
@@ -842,7 +852,7 @@
   {
     "category": "C",
     "events": 2,
-    "points": 29,
+    "points": 40,
     "tid": 14945,
     "tname": "Specialized ",
     "tc": "ffffff",
@@ -862,7 +872,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 17,
+    "points": 19,
     "tid": 15163,
     "tname": "(Z\u0026Z)",
     "tc": "000000",
