@@ -1,6 +1,6 @@
 [
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 40,
     "tname": "",
@@ -16,7 +16,7 @@
   {
     "category": "D",
     "events": 3,
-    "points": 80,
+    "points": 60,
     "tname": "VCOM",
     "tc": "ff0000",
     "tbc": "00ff00",
@@ -28,7 +28,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 4,
     "points": 138,
     "tname": "ZODIAC",
@@ -42,7 +42,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 3,
     "points": 123,
     "tname": "England CC",
@@ -56,7 +56,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -72,7 +72,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 95,
+    "points": 83,
     "tname": "DIRT",
     "tc": "29ec34",
     "tbc": "563c0f",
@@ -112,7 +112,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 33,
     "tname": "Zugvogel Aachen",
@@ -140,7 +140,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 2,
     "points": 100,
     "tname": "Team CRYO-GEN",
@@ -154,7 +154,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 22,
     "tname": " NDCC\u0026#128034;\u0026#128168;",
@@ -168,7 +168,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 25,
     "tname": "Eemland",
@@ -210,7 +210,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 3,
     "points": 123,
     "tname": "TeamODZ",
@@ -238,7 +238,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 14,
     "tname": "ZRG",
@@ -254,7 +254,7 @@
   {
     "category": "D",
     "events": 4,
-    "points": 113,
+    "points": 93,
     "tname": "IBTC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -266,7 +266,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 20,
     "tname": "Vikings",
@@ -336,7 +336,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 15,
     "tname": "RedcarTri",
@@ -364,7 +364,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 17,
     "tname": "",
@@ -378,7 +378,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 33,
     "tname": "DIRT",
@@ -434,7 +434,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 25,
     "tname": "",
@@ -450,7 +450,7 @@
   {
     "category": "C",
     "events": 2,
-    "points": 54,
+    "points": 40,
     "tname": "Team X",
     "tc": "f5f7f6",
     "tbc": "111111",
@@ -532,7 +532,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "I",
     "events": 1,
     "points": 50,
     "tname": "ART",
@@ -546,7 +546,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 2,
     "points": 31,
     "tname": "",
@@ -560,7 +560,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 19,
     "tname": "",
@@ -616,7 +616,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "J",
     "events": 3,
     "points": 120,
     "tname": "BRT",
@@ -658,7 +658,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 15,
     "tname": "",
@@ -674,7 +674,7 @@
   {
     "category": "B",
     "events": 5,
-    "points": 150,
+    "points": 125,
     "tname": "BZR cycling team",
     "tc": "f3f300",
     "tbc": "111111",
@@ -728,7 +728,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 4,
     "points": 101,
     "tname": "Amicus13",
@@ -772,7 +772,7 @@
   {
     "category": "D",
     "events": 4,
-    "points": 125,
+    "points": 100,
     "tname": "VeloJawn",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -784,7 +784,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 19,
     "tname": "",
@@ -826,7 +826,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 25,
     "tname": "",
@@ -868,7 +868,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 25,
     "tname": "Team CLS",
@@ -896,7 +896,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "J",
     "events": 2,
     "points": 100,
     "tname": "BRT",
@@ -910,7 +910,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 22,
     "tname": "",
@@ -938,7 +938,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 17,
     "tname": "Zwaluwen",
@@ -952,7 +952,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 20,
     "tname": "",
@@ -980,7 +980,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 14,
     "tname": "",
@@ -1008,7 +1008,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 14,
     "tname": "",
@@ -1036,7 +1036,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -1078,7 +1078,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 16,
     "tname": "\u0026laquo; WECC \u0026raquo;",
@@ -1106,7 +1106,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -1122,7 +1122,7 @@
   {
     "category": "D",
     "events": 6,
-    "points": 112,
+    "points": 98,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1204,7 +1204,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "J",
     "events": 1,
     "points": 50,
     "tname": "",
@@ -1246,7 +1246,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 22,
     "tname": "",
@@ -1260,7 +1260,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 50,
     "tname": "",
@@ -1302,7 +1302,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 33,
     "tname": "",
@@ -1358,7 +1358,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 20,
     "tname": "DigDeepCoaching",
@@ -1386,7 +1386,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 20,
     "tname": "",
@@ -1428,7 +1428,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "J",
     "events": 2,
     "points": 61,
     "tname": "Velos",
@@ -1444,7 +1444,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 65,
+    "points": 56,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1456,7 +1456,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 4,
     "points": 85,
     "tname": "BRT",
@@ -1470,7 +1470,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 28,
     "tname": "BRT",
@@ -1498,7 +1498,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "I",
     "events": 1,
     "points": 33,
     "tname": "",
@@ -1514,7 +1514,7 @@
   {
     "category": "D",
     "events": 4,
-    "points": 41,
+    "points": 33,
     "tname": "ZZRC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -1596,7 +1596,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 25,
     "tname": "STC",
@@ -1610,7 +1610,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 16,
     "tname": "BRT",
@@ -1682,7 +1682,7 @@
   {
     "category": "D",
     "events": 4,
-    "points": 54,
+    "points": 44,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1708,7 +1708,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 28,
     "tname": "ZTPL.CC eRacing",
@@ -1736,7 +1736,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 11,
     "tname": "Equipe JZQc",
@@ -1766,7 +1766,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 50,
+    "points": 41,
     "tname": "Humblebraggers",
     "tc": "ffff46",
     "tbc": "da0000",
@@ -1792,7 +1792,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 20,
     "tname": "TDF",
@@ -1806,7 +1806,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 12,
     "tname": "",
@@ -1834,7 +1834,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 22,
     "tname": "MONO RACING",
@@ -1946,7 +1946,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 40,
     "tname": "SVZ",
@@ -1960,13 +1960,13 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 2,
     "points": 32,
-    "tname": "CANYON COALITION",
-    "tc": "ff00ff",
-    "tbc": "0000ff",
-    "tbd": "ff0000",
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
     "name": "STEPHEN DOMINGOS",
     "flag": "us",
     "zwid": 1039056,
@@ -2030,7 +2030,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 16,
     "tname": "SVZ",
@@ -2044,7 +2044,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 28,
     "tname": "TFC",
@@ -2058,7 +2058,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 4,
     "points": 200,
     "tname": "DZR",
@@ -2086,7 +2086,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 2,
     "points": 42,
     "tname": "BWCC",
@@ -2114,7 +2114,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 19,
     "tname": "",
@@ -2128,7 +2128,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 18,
     "tname": "ICC",
@@ -2156,7 +2156,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 13,
     "tname": "",
@@ -2198,7 +2198,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "J",
     "events": 3,
     "points": 116,
     "tname": "",
@@ -2212,7 +2212,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 19,
     "tname": "PACC",
@@ -2240,7 +2240,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 14,
     "tname": "",
@@ -2284,7 +2284,7 @@
   {
     "category": "D",
     "events": 6,
-    "points": 112,
+    "points": 96,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2296,7 +2296,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 2,
     "points": 80,
     "tname": "Vikings",
@@ -2324,7 +2324,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 17,
     "tname": "",
@@ -2366,7 +2366,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -2380,7 +2380,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 15,
     "tname": "",
@@ -2422,7 +2422,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 15,
     "tname": "TRH (Team Rheinhessen)",
@@ -2452,7 +2452,7 @@
   {
     "category": "B",
     "events": 6,
-    "points": 131,
+    "points": 111,
     "tname": "TR ",
     "tc": "ffffff",
     "tbc": "e12726",
@@ -2464,7 +2464,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 17,
     "tname": "USM Villeparisis",
@@ -2478,7 +2478,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 22,
     "tname": "Zwaluwen",
@@ -2492,7 +2492,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -2590,7 +2590,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 28,
     "tname": "",
@@ -2604,7 +2604,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 11,
     "tname": "",
@@ -2646,7 +2646,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "I",
     "events": 2,
     "points": 100,
     "tname": "TFC",
@@ -2660,7 +2660,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 2,
     "points": 38,
     "tname": "Zwaluwen",
@@ -2704,7 +2704,7 @@
   {
     "category": "D",
     "events": 6,
-    "points": 135,
+    "points": 119,
     "tname": "Zwaluwen",
     "tc": "ffffff",
     "tbc": "119106",
@@ -2716,7 +2716,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 2,
     "points": 29,
     "tname": "Greek Zwifters",
@@ -2786,7 +2786,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 22,
     "tname": "",
@@ -2800,7 +2800,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 22,
     "tname": "BRT",
@@ -2814,7 +2814,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 3,
     "points": 96,
     "tname": "",
@@ -2830,7 +2830,7 @@
   {
     "category": "D",
     "events": 5,
-    "points": 90,
+    "points": 76,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2842,7 +2842,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 22,
     "tname": "",
@@ -2870,7 +2870,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 12,
     "tname": "SloZL",
@@ -2912,7 +2912,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 20,
     "tname": "",
@@ -2940,7 +2940,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 33,
     "tname": "",
@@ -2968,7 +2968,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 25,
     "tname": "",
@@ -2982,7 +2982,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 18,
     "tname": "",
@@ -3010,7 +3010,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 16,
     "tname": "",
@@ -3040,7 +3040,7 @@
   {
     "category": "D",
     "events": 3,
-    "points": 60,
+    "points": 48,
     "tname": "LondonDynamo",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -3052,7 +3052,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 13,
     "tname": "BUCKAROO",
@@ -3066,7 +3066,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 20,
     "tname": "BRT",
@@ -3136,7 +3136,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 19,
     "tname": "Vikings",
@@ -3178,7 +3178,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "I",
     "events": 2,
     "points": 80,
     "tname": "",
@@ -3206,7 +3206,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 11,
     "tname": "",
@@ -3220,7 +3220,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 17,
     "tname": "",
@@ -3234,7 +3234,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 33,
     "tname": "",
@@ -3262,7 +3262,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 40,
     "tname": "",
@@ -3276,7 +3276,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 2,
     "points": 31,
     "tname": "Eastbourne Rovers",
@@ -3332,7 +3332,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 17,
     "tname": "BZR cycling team",
@@ -3362,7 +3362,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 39,
+    "points": 28,
     "tname": "HTC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -3402,7 +3402,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 19,
     "tname": "",
@@ -3416,7 +3416,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 2,
     "points": 26,
     "tname": "",
@@ -3472,7 +3472,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 10,
     "tname": "",
@@ -3500,21 +3500,21 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 13,
-    "tname": "",
-    "tc": "",
-    "tbc": "",
-    "tbd": "",
-    "name": "Michel Dore 5557(JZQc)",
+    "tname": "Equipe JZQc",
+    "tc": "ffffff",
+    "tbc": "003399",
+    "tbd": "ffffff",
+    "name": "Michel Dore 8581",
     "flag": "ca",
     "zwid": 3151240,
     "podiums": "",
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 4,
     "points": 60,
     "tname": "Amicus13",
@@ -3528,7 +3528,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "F",
     "events": 1,
     "points": 28,
     "tname": "",
@@ -3556,7 +3556,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "H",
     "events": 1,
     "points": 28,
     "tname": "CUS PROPATRIA MILANO TRIATHLON",
@@ -3572,7 +3572,7 @@
   {
     "category": "A",
     "events": 2,
-    "points": 41,
+    "points": 25,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -3584,7 +3584,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "E",
     "events": 1,
     "points": 17,
     "tname": "",
@@ -3640,7 +3640,7 @@
     "upgrades": 0
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 33,
     "tname": "TRH (Team Rheinhessen)",
@@ -3684,7 +3684,7 @@
   {
     "category": "C",
     "events": 5,
-    "points": 112,
+    "points": 96,
     "tname": "360VRT",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -3696,7 +3696,7 @@
     "upgrades": 1
   },
   {
-    "category": "Unknown",
+    "category": "G",
     "events": 1,
     "points": 18,
     "tname": "",
