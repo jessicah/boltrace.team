@@ -1,28 +1,67 @@
+{% if include.riders %}
+{% assign riderResults = include.riders | sort: "points" | reverse | group_by: "category" | sort: "name" %}
+{% endif %}
+{% if include.teams %}
+{% assign teamResults = include.teams | sort: "points" | reverse | group_by: "category" | sort: "name" %}
+{% endif %}
+{% if include.sprints %}
+{% assign sprintResults = include.sprints | sort: "points" | reverse | group_by: "category" | sort: "name" %}
+{% endif %}
+{% if include.climbs %}
+{% assign climbResults = include.climbs | sort: "points" | reverse | group_by: "category" | sort: "name" %}
+{% endif %}
 <p>
 	{% if include.riders %}
-	Individual results: <a href='#a-grade-individual'>A Grade</a> | <a href='#b-grade-individual'>B Grade</a> | <a href='#c-grade-individual'>C Grade</a> | <a href='#d-grade-individual'>D Grade</a><br/>
+	Individual results:
+	{% assign count = 1 %}
+	{% for grade in riderResults %}
+	<a href='#{{ grade.name | downcase }}-grade-individual'>{{ grade.name}} Grade</a>
+	{% if count != riderResults.size %}|{% endif %}
+	{% assign count = count | plus: 1 %}
+	{% endfor %}
+	<br/>
 	{% endif %}
 	{% if include.teams %}
-	Team results: <a href='#a-grade-team'>A Grade</a> | <a href='#b-grade-team'>B Grade</a> | <a href='#c-grade-team'>C Grade</a> | <a href='#d-grade-team'>D Grade</a><br/>
+	Team results:
+	{% assign count = 1 %}
+	{% for grade in teamResults %}
+	<a href='#{{ grade.name | downcase }}-grade-team'>{{ grade.name}} Grade</a>
+	{% if count != teamResults.size %}|{% endif %}
+	{% assign count = count | plus: 1 %}
+	{% endfor %}
+	<br/>
 	{% endif %}
 	{% if include.sprints %}
-	Sprint results: <a href='#a-grade-sprint'>A Grade</a> | <a href='#b-grade-sprint'>B Grade</a> | <a href='#c-grade-sprint'>C Grade</a> | <a href='#d-grade-sprint'>D Grade</a><br/>
+	Team results:
+	{% assign count = 1 %}
+	{% for grade in sprintResults %}
+	<a href='#{{ grade.name | downcase }}-grade-sprint'>{{ grade.name}} Grade</a>
+	{% if count != sprintResults.size %}|{% endif %}
+	{% assign count = count | plus: 1 %}
+	{% endfor %}
+	<br/>
 	{% endif %}
 	{% if include.climbs %}
-	Climb results: <a href='#a-grade-climb'>A Grade</a> | <a href='#b-grade-climb'>B Grade</a> | <a href='#c-grade-climb'>C Grade</a> | <a href='#d-grade-climb'>D Grade</a><br/>
+	Team results:
+	{% assign count = 1 %}
+	{% for grade in climbResults %}
+	<a href='#{{ grade.name | downcase }}-grade-climb'>{{ grade.name}} Grade</a>
+	{% if count != climbResults.size %}|{% endif %}
+	{% assign count = count | plus: 1 %}
+	{% endfor %}
+	<br/>
 	{% endif %}
 </p>
 
 {% if include.riders %}
 <h3>Individual Results</h3>
-{% assign results = include.riders | sort: "points" | reverse | group_by: "category" | sort: "name" %}
-{% if results.size < 1 %}
+{% if riderResults.size < 1 %}
 <p>
 	No results yet.
 </p>
 {% else %}
 <table id='individual-results' class='collapse'>
-	{% for grade in results %}
+	{% for grade in riderResults %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-individual'>
 			<tr>
 					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
@@ -73,14 +112,13 @@
 
 {% if include.teams %}
 <h3>Team Results</h3>
-{% assign results = include.teams | sort: "points" | reverse | group_by: "category" | sort: "name" %}
-{% if results.size < 1 %}
+{% if teamResults.size < 1 %}
 <p>
 	No results yet.
 </p>
 {% else %}
 <table id='team-results' class='collapse'>
-{% for grade in results %}
+{% for grade in teamResults %}
 		<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-team'>
 		<tr>
 			<th colspan='3'>{{ grade.name | uppercase }} Grade</th>
@@ -111,14 +149,13 @@
 
 {% if include.sprints %}
 <h3>Sprint Results</h3>
-{% assign results = include.sprints | sort: "points" | reverse | group_by: "category" | sort: "name" %}
-{% if results.size < 1 %}
+{% if sprintResults.size < 1 %}
 <p>
 	No results yet.
 </p>
 {% else %}
 <table id='sprint-results' class='collapse'>
-	{% for grade in results %}
+	{% for grade in sprintResults %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-sprint'>
 			<tr>
 					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
@@ -165,14 +202,13 @@
 
 {% if include.climbs %}
 <h3>Climb Results</h3>
-{% assign results = include.climbs | sort: "points" | reverse | group_by: "category" | sort: "name" %}
-{% if results.size < 1 %}
+{% if climbResults.size < 1 %}
 <p>
 	No results yet.
 </p>
 {% else %}
 <table id='climb-results' class='collapse'>
-	{% for grade in results %}
+	{% for grade in climbResults %}
 	<thead class='{{ grade.name | downcase }}-grade' id='{{ grade.name | downcase }}-grade-climb'>
 			<tr>
 					<th colspan='4'>{{ grade.name | uppercase }} Grade</th>
