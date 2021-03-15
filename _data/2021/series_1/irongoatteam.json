@@ -1,8 +1,8 @@
 [
   {
     "category": "C",
-    "events": 12,
-    "points": 438,
+    "events": 11,
+    "points": 398,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -12,7 +12,7 @@
   {
     "category": "B",
     "events": 21,
-    "points": 397,
+    "points": 400,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -322,7 +322,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 8,
+    "points": 7,
     "tid": 2879,
     "tname": "WHOLESOME ",
     "tc": "ffffff",
@@ -332,7 +332,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 20,
+    "points": 25,
     "tid": 2931,
     "tname": "ZHU",
     "tc": "0073b7",

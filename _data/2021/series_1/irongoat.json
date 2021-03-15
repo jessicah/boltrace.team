@@ -336,9 +336,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 10,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -346,13 +346,13 @@
     "name": "Rebecca Lowe 6190",
     "flag": "us",
     "zwid": 104018,
-    "podiums": "gold",
+    "podiums": "",
     "upgrades": 0
   },
   {
     "category": "C",
     "events": 5,
-    "points": 230,
+    "points": 240,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -360,7 +360,7 @@
     "name": "Pam Thomas ",
     "flag": "us",
     "zwid": 104321,
-    "podiums": "gold gold gold silver silver",
+    "podiums": "gold gold gold gold silver",
     "upgrades": 0
   },
   {
@@ -924,9 +924,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 25,
+    "points": 4,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1430,7 +1430,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 8,
+    "points": 7,
     "tname": "WHOLESOME ",
     "tc": "ffffff",
     "tbc": "bb29bb",
@@ -1724,7 +1724,7 @@
   {
     "category": "C",
     "events": 6,
-    "points": 243,
+    "points": 250,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1732,7 +1732,7 @@
     "name": "Kevin Beres",
     "flag": "us",
     "zwid": 1286375,
-    "podiums": "gold silver silver silver silver bronze",
+    "podiums": "gold silver silver silver silver silver",
     "upgrades": 0
   },
   {
@@ -1808,7 +1808,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 10,
+    "points": 1,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2088,7 +2088,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 6,
+    "points": 5,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2296,9 +2296,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 3,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2382,7 +2382,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 36,
+    "points": 11,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2536,7 +2536,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 10,
+    "points": 9,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2564,7 +2564,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 20,
+    "points": 25,
     "tname": "ZHU",
     "tc": "0073b7",
     "tbc": "ffffff",
@@ -2662,7 +2662,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 22,
+    "points": 28,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2676,7 +2676,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 28,
+    "points": 33,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2684,7 +2684,7 @@
     "name": "andrew higgins",
     "flag": "ca",
     "zwid": 2873316,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -2760,7 +2760,7 @@
   {
     "category": "B",
     "events": 6,
-    "points": 61,
+    "points": 60,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2942,7 +2942,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 9,
+    "points": 8,
     "tname": "",
     "tc": "",
     "tbc": "",
