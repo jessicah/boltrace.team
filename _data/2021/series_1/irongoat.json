@@ -309,7 +309,7 @@
   },
   {
     "category": "A",
-    "events": 3,
+    "events": 4,
     "points": 50,
     "tname": "BLT",
     "tc": "000000",
@@ -729,7 +729,7 @@
   },
   {
     "category": "A",
-    "events": 2,
+    "events": 3,
     "points": 31,
     "tname": "",
     "tc": "",
@@ -799,7 +799,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 8,
     "points": 36,
     "tname": "BRT",
     "tc": "ffffff",
@@ -855,7 +855,7 @@
   },
   {
     "category": "B",
-    "events": 3,
+    "events": 5,
     "points": 21,
     "tname": "BRT",
     "tc": "ffffff",
@@ -1093,7 +1093,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 7,
     "points": 30,
     "tname": "BRT",
     "tc": "ffffff",
@@ -1359,7 +1359,7 @@
   },
   {
     "category": "A",
-    "events": 1,
+    "events": 2,
     "points": 28,
     "tname": "ZTPL.CC eRacing",
     "tc": "ffffff",
@@ -1373,7 +1373,7 @@
   },
   {
     "category": "A",
-    "events": 1,
+    "events": 3,
     "points": 33,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -1695,7 +1695,7 @@
   },
   {
     "category": "B",
-    "events": 1,
+    "events": 2,
     "points": 50,
     "tname": "PACC",
     "tc": "ffffff",
@@ -1765,7 +1765,7 @@
   },
   {
     "category": "B",
-    "events": 7,
+    "events": 13,
     "points": 139,
     "tname": "BRT",
     "tc": "ffffff",
@@ -1792,9 +1792,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 25,
+    "category": "B",
+    "events": 2,
+    "points": 12,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1803,7 +1803,7 @@
     "flag": "mx",
     "zwid": 1336283,
     "podiums": "",
-    "upgrades": 0
+    "upgrades": 1
   },
   {
     "category": "B",
@@ -2045,7 +2045,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 3,
     "points": 52,
     "tname": "INDU TEAM",
     "tc": "ffffff",
@@ -2381,7 +2381,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 3,
     "points": 11,
     "tname": "",
     "tc": "",
@@ -2801,7 +2801,7 @@
   },
   {
     "category": "B",
-    "events": 1,
+    "events": 2,
     "points": 11,
     "tname": "",
     "tc": "",
@@ -2983,7 +2983,7 @@
   },
   {
     "category": "A",
-    "events": 1,
+    "events": 2,
     "points": 18,
     "tname": "",
     "tc": "",
