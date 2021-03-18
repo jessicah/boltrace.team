@@ -22,7 +22,7 @@
   {
     "category": "C",
     "events": 16,
-    "points": 501,
+    "points": 508,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -32,7 +32,7 @@
   {
     "category": "B",
     "events": 21,
-    "points": 640,
+    "points": 639,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -52,7 +52,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 19,
+    "points": 28,
     "tid": 7,
     "tname": "TeamODZ",
     "tc": "ff851b",
@@ -82,7 +82,7 @@
   {
     "category": "C",
     "events": 4,
-    "points": 54,
+    "points": 59,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -462,7 +462,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 10,
+    "points": 9,
     "tid": 3997,
     "tname": "Pite\u0026aring; CK",
     "tc": "ffffff",
@@ -1092,7 +1092,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 15,
+    "points": 19,
     "tid": 12346,
     "tname": "TISports",
     "tc": "ffffff",
@@ -1132,7 +1132,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 9,
+    "points": 8,
     "tid": 12611,
     "tname": "BUCKAROO",
     "tc": "ffffff",
@@ -1202,7 +1202,7 @@
   {
     "category": "C",
     "events": 7,
-    "points": 75,
+    "points": 79,
     "tid": 13263,
     "tname": "RTC",
     "tc": "ffffff",

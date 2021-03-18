@@ -2,7 +2,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 5,
+    "points": 3,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -492,7 +492,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 20,
+    "points": 33,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -500,7 +500,7 @@
     "name": "Andreas F\u0026auml;ssler",
     "flag": "ch",
     "zwid": 176870,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -532,9 +532,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 1,
-    "points": 50,
+    "points": 18,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -542,13 +542,13 @@
     "name": "Peter Lammersma8825",
     "flag": "nl",
     "zwid": 194301,
-    "podiums": "gold",
+    "podiums": "",
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 25,
+    "points": 1,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -814,7 +814,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 10,
+    "points": 9,
     "tname": "Pite\u0026aring; CK",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -842,7 +842,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 3,
+    "points": 1,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1010,7 +1010,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 2,
+    "points": 1,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1066,7 +1066,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 4,
+    "points": 1,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1318,7 +1318,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 7,
+    "points": 5,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1402,7 +1402,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 19,
+    "points": 28,
     "tname": "TeamODZ",
     "tc": "ff851b",
     "tbc": "111111",
@@ -1934,7 +1934,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 11,
+    "points": 10,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2620,7 +2620,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 17,
+    "points": 22,
     "tname": "Team Poland",
     "tc": "ffffff",
     "tbc": "ff1800",
@@ -2674,9 +2674,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 11,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2684,7 +2684,7 @@
     "name": "Toine Toussaint [TAZO] ",
     "flag": "nl",
     "zwid": 1453981,
-    "podiums": "gold",
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -3040,7 +3040,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 14,
+    "points": 17,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -3180,7 +3180,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 19,
+    "points": 17,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -3416,9 +3416,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 33,
+    "points": 7,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -3426,7 +3426,7 @@
     "name": "Santiago Mu\u0026ntilde;oz Casas",
     "flag": "es",
     "zwid": 1857752,
-    "podiums": "bronze",
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -3810,7 +3810,7 @@
   {
     "category": "D",
     "events": 1,
-    "points": 40,
+    "points": 50,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -3818,7 +3818,7 @@
     "name": "Pieterjan De Milt",
     "flag": "be",
     "zwid": 2144393,
-    "podiums": "silver",
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -3866,7 +3866,7 @@
   {
     "category": "C",
     "events": 7,
-    "points": 72,
+    "points": 76,
     "tname": "RTC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -4034,7 +4034,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 9,
+    "points": 8,
     "tname": "BUCKAROO",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -4300,7 +4300,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 15,
+    "points": 19,
     "tname": "TISports",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -4412,7 +4412,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 8,
+    "points": 6,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4636,7 +4636,7 @@
   {
     "category": "C",
     "events": 2,
-    "points": 40,
+    "points": 58,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4644,7 +4644,7 @@
     "name": "Sam Bo",
     "flag": "gb",
     "zwid": 3095241,
-    "podiums": "",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -4874,7 +4874,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 40,
+    "points": 50,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4882,7 +4882,7 @@
     "name": "Andrea Baglio",
     "flag": "it",
     "zwid": 3330932,
-    "podiums": "silver",
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -5210,7 +5210,7 @@
   {
     "category": "D",
     "events": 1,
-    "points": 33,
+    "points": 40,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -5218,7 +5218,7 @@
     "name": "Ashley Deadman",
     "flag": "gb",
     "zwid": 3645162,
-    "podiums": "bronze",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -5292,9 +5292,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 28,
+    "points": 2,
     "tname": "",
     "tc": "",
     "tbc": "",
