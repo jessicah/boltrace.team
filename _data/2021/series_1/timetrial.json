@@ -57,7 +57,7 @@
   },
   {
     "category": "B",
-    "events": 4,
+    "events": 3,
     "points": 59,
     "tname": "BRT",
     "tc": "ffffff",
@@ -253,7 +253,7 @@
   },
   {
     "category": "D",
-    "events": 6,
+    "events": 5,
     "points": 218,
     "tname": "BRT",
     "tc": "ffffff",
@@ -351,7 +351,7 @@
   },
   {
     "category": "C",
-    "events": 4,
+    "events": 2,
     "points": 20,
     "tname": "BRT",
     "tc": "ffffff",
@@ -477,7 +477,7 @@
   },
   {
     "category": "C",
-    "events": 2,
+    "events": 1,
     "points": 20,
     "tname": "BRT",
     "tc": "ffffff",
@@ -1135,13 +1135,13 @@
   },
   {
     "category": "B",
-    "events": 7,
+    "events": 2,
     "points": 15,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Kristy MightOn (BRT Motley Crew)",
+    "name": "Kristy MightOn [BRT]",
     "flag": "ca",
     "zwid": 429245,
     "podiums": "",
@@ -1961,7 +1961,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 1,
     "points": 19,
     "tname": "",
     "tc": "",
@@ -2143,7 +2143,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 1,
     "points": 17,
     "tname": "ICC",
     "tc": "000000",
@@ -2423,7 +2423,7 @@
   },
   {
     "category": "B",
-    "events": 20,
+    "events": 7,
     "points": 149,
     "tname": "BRT",
     "tc": "ffffff",
@@ -3207,7 +3207,7 @@
   },
   {
     "category": "A",
-    "events": 9,
+    "events": 7,
     "points": 133,
     "tname": "RCC",
     "tc": "fc2097",
@@ -4033,7 +4033,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 1,
     "points": 8,
     "tname": "BUCKAROO",
     "tc": "ffffff",
@@ -4145,7 +4145,7 @@
   },
   {
     "category": "A",
-    "events": 8,
+    "events": 1,
     "points": 15,
     "tname": "BRT",
     "tc": "ffffff",
@@ -4467,7 +4467,7 @@
   },
   {
     "category": "B",
-    "events": 8,
+    "events": 2,
     "points": 6,
     "tname": "BRT",
     "tc": "ffffff",
@@ -4495,7 +4495,7 @@
   },
   {
     "category": "B",
-    "events": 9,
+    "events": 7,
     "points": 134,
     "tname": "BRT",
     "tc": "ffffff",
@@ -4760,9 +4760,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 5,
-    "points": 25,
+    "category": "C",
+    "events": 3,
+    "points": 52,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -4771,7 +4771,7 @@
     "flag": "lv",
     "zwid": 3229426,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "B",
@@ -5265,7 +5265,7 @@
   },
   {
     "category": "C",
-    "events": 2,
+    "events": 1,
     "points": 16,
     "tname": "",
     "tc": "",
