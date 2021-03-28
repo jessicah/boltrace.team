@@ -211,7 +211,7 @@
   },
   {
     "category": "B",
-    "events": 4,
+    "events": 1,
     "points": 40,
     "tname": "BRT",
     "tc": "ffffff",
@@ -238,9 +238,9 @@
     "upgrades": 0
   },
   {
-    "category": "A",
-    "events": 3,
-    "points": 10,
+    "category": "E",
+    "events": 1,
+    "points": 20,
     "tname": "EWCC",
     "tc": "000000",
     "tbc": "ffff33",
@@ -249,7 +249,7 @@
     "flag": "gb",
     "zwid": 28524,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "F",
@@ -672,9 +672,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
-    "events": 6,
-    "points": 5,
+    "category": "F",
+    "events": 1,
+    "points": 11,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -683,7 +683,7 @@
     "flag": "gb",
     "zwid": 81666,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "F",
@@ -812,9 +812,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
-    "events": 4,
-    "points": 10,
+    "category": "F",
+    "events": 2,
+    "points": 21,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -823,7 +823,7 @@
     "flag": "gb",
     "zwid": 107033,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "D",
@@ -868,9 +868,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 6,
-    "points": 100,
+    "category": "J",
+    "events": 5,
+    "points": 200,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -879,7 +879,7 @@
     "flag": "us",
     "zwid": 112213,
     "podiums": "silver silver silver silver silver",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "G",
@@ -1092,9 +1092,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 9,
+    "category": "G",
+    "events": 1,
+    "points": 19,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1103,7 +1103,7 @@
     "flag": "pr",
     "zwid": 219893,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "H",
@@ -1512,9 +1512,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 9,
-    "points": 92,
+    "category": "G",
+    "events": 8,
+    "points": 187,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1523,7 +1523,7 @@
     "flag": "gb-eng",
     "zwid": 397987,
     "podiums": "silver bronze bronze",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "C",
@@ -1638,9 +1638,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 7,
-    "points": 32,
+    "category": "F",
+    "events": 4,
+    "points": 66,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1649,7 +1649,7 @@
     "flag": "ca",
     "zwid": 429245,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "D",
@@ -2745,7 +2745,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 1,
     "points": 33,
     "tname": "",
     "tc": "",
@@ -3010,9 +3010,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 9,
+    "category": "F",
+    "events": 1,
+    "points": 18,
     "tname": "ICC",
     "tc": "000000",
     "tbc": "f2a30b",
@@ -3021,7 +3021,7 @@
     "flag": "gb",
     "zwid": 1131717,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "A",
@@ -3192,9 +3192,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 16,
-    "points": 121,
+    "category": "H",
+    "events": 8,
+    "points": 243,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -3203,7 +3203,7 @@
     "flag": "au",
     "zwid": 1332978,
     "podiums": "gold silver silver silver silver bronze bronze bronze",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "F",
@@ -3221,7 +3221,7 @@
   },
   {
     "category": "B",
-    "events": 2,
+    "events": 1,
     "points": 40,
     "tname": "",
     "tc": "",
@@ -3262,9 +3262,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 12,
+    "category": "E",
+    "events": 1,
+    "points": 25,
     "tname": "HWCC",
     "tc": "      ",
     "tbc": "0073b7",
@@ -3273,7 +3273,7 @@
     "flag": "gb",
     "zwid": 1383223,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "C",
@@ -3808,9 +3808,9 @@
     "upgrades": 0
   },
   {
-    "category": "A",
-    "events": 11,
-    "points": 53,
+    "category": "C",
+    "events": 4,
+    "points": 108,
     "tname": "RCC",
     "tc": "fc2097",
     "tbc": "d2d6de",
@@ -3819,7 +3819,7 @@
     "flag": "de",
     "zwid": 1724615,
     "podiums": "bronze",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "G",
@@ -4200,9 +4200,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
-    "events": 2,
-    "points": 7,
+    "category": "D",
+    "events": 1,
+    "points": 15,
     "tname": "PETA-Z",
     "tc": "ff0000",
     "tbc": "ffff00",
@@ -4211,7 +4211,7 @@
     "flag": "es",
     "zwid": 2228189,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "F",
@@ -4396,9 +4396,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 6,
+    "category": "F",
+    "events": 1,
+    "points": 12,
     "tname": "BUCKAROO",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -4407,7 +4407,7 @@
     "flag": "gb",
     "zwid": 2596934,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "F",
@@ -4816,9 +4816,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 10,
-    "points": 14,
+    "category": "E",
+    "events": 2,
+    "points": 29,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -4827,7 +4827,7 @@
     "flag": "gb-nir",
     "zwid": 2988139,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "A",
@@ -4844,9 +4844,9 @@
     "upgrades": 0
   },
   {
-    "category": "B",
-    "events": 2,
-    "points": 9,
+    "category": "F",
+    "events": 1,
+    "points": 19,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4855,7 +4855,7 @@
     "flag": "gb",
     "zwid": 3018183,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "D",
@@ -5041,7 +5041,7 @@
   },
   {
     "category": "B",
-    "events": 5,
+    "events": 2,
     "points": 52,
     "tname": "BRT",
     "tc": "ffffff",
@@ -5348,9 +5348,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
-    "events": 3,
-    "points": 9,
+    "category": "G",
+    "events": 1,
+    "points": 18,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -5359,7 +5359,7 @@
     "flag": "gb",
     "zwid": 3671943,
     "podiums": "",
-    "upgrades": 1
+    "upgrades": 0
   },
   {
     "category": "A",
