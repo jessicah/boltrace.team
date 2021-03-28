@@ -22,7 +22,7 @@
   {
     "category": "C",
     "events": 19,
-    "points": 588,
+    "points": 611,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -122,7 +122,7 @@
   {
     "category": "B",
     "events": 4,
-    "points": 51,
+    "points": 50,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -190,9 +190,9 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 15,
+    "points": 7,
     "tid": 1845,
     "tname": " VEGAN ",
     "tc": "ffffff",
@@ -862,7 +862,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 29,
+    "points": 26,
     "tid": 7152,
     "tname": "HWCC",
     "tc": "      ",
@@ -951,8 +951,18 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 53,
+    "events": 1,
+    "points": 33,
+    "tid": 8175,
+    "tname": "DNMC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 16,
     "tid": 8175,
     "tname": "DNMC",
     "tc": "ffffff",
@@ -972,7 +982,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 17,
+    "points": 22,
     "tid": 8869,
     "tname": "~VEPRI~",
     "tc": "f72c67",
@@ -1132,7 +1142,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 67,
+    "points": 75,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -1302,7 +1312,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 15,
+    "points": 14,
     "tid": 13675,
     "tname": "WFTC",
     "tc": "ffffff",

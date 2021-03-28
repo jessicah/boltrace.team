@@ -58,7 +58,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 14,
+    "points": 12,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -492,7 +492,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 16,
+    "points": 15,
     "tname": "HWCC",
     "tc": "      ",
     "tbc": "0073b7",
@@ -548,7 +548,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 13,
+    "points": 11,
     "tname": "HWCC",
     "tc": "      ",
     "tbc": "0073b7",
@@ -1064,9 +1064,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 2,
-    "points": 62,
+    "points": 28,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1074,8 +1074,8 @@
     "name": "Christopher Groening8750",
     "flag": "us",
     "zwid": 369166,
-    "podiums": "silver",
-    "upgrades": 0
+    "podiums": "",
+    "upgrades": 1
   },
   {
     "category": "B",
@@ -1668,7 +1668,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 67,
+    "points": 75,
     "tname": "DZR",
     "tc": "ffffff",
     "tbc": "ff0000",
@@ -1808,7 +1808,7 @@
   {
     "category": "C",
     "events": 8,
-    "points": 219,
+    "points": 236,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1816,7 +1816,7 @@
     "name": "Steve Brooks (BRT)",
     "flag": "gb",
     "zwid": 799382,
-    "podiums": "silver silver silver bronze bronze bronze bronze",
+    "podiums": "gold silver silver silver bronze bronze bronze",
     "upgrades": 0
   },
   {
@@ -1920,7 +1920,7 @@
   {
     "category": "C",
     "events": 6,
-    "points": 85,
+    "points": 89,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -2354,7 +2354,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 14,
+    "points": 19,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2508,7 +2508,7 @@
   {
     "category": "B",
     "events": 4,
-    "points": 47,
+    "points": 46,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -2914,7 +2914,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 12,
+    "points": 9,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -3334,7 +3334,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 15,
+    "points": 14,
     "tname": "WFTC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -3404,7 +3404,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 22,
+    "points": 33,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -3412,7 +3412,7 @@
     "name": "Joe  Lolio (BRT)",
     "flag": "us",
     "zwid": 1745337,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -3544,7 +3544,7 @@
   {
     "category": "D",
     "events": 1,
-    "points": 25,
+    "points": 33,
     "tname": "DNMC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -3552,7 +3552,7 @@
     "name": "Andrea Caggiano [DNMC]",
     "flag": "it",
     "zwid": 1816269,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -3600,7 +3600,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 17,
+    "points": 22,
     "tname": "~VEPRI~",
     "tc": "f72c67",
     "tbc": "f7f716",
@@ -3822,9 +3822,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 15,
+    "points": 7,
     "tname": " VEGAN ",
     "tc": "ffffff",
     "tbc": "00a65a",
@@ -4004,9 +4004,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 40,
+    "points": 13,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4014,7 +4014,7 @@
     "name": "Damian Zalejski",
     "flag": "pl",
     "zwid": 2106324,
-    "podiums": "silver",
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -4062,7 +4062,7 @@
   {
     "category": "D",
     "events": 2,
-    "points": 83,
+    "points": 90,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4070,7 +4070,7 @@
     "name": "Pieterjan De Milt",
     "flag": "be",
     "zwid": 2144393,
-    "podiums": "gold bronze",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
@@ -4116,9 +4116,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
+    "category": "C",
     "events": 1,
-    "points": 28,
+    "points": 16,
     "tname": "DNMC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -4300,7 +4300,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 28,
+    "points": 40,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4308,7 +4308,7 @@
     "name": "Declan  Darcy",
     "flag": "ie",
     "zwid": 2588537,
-    "podiums": "",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -4438,9 +4438,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 18,
+    "points": 8,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -4564,9 +4564,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 25,
+    "points": 10,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -4580,7 +4580,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 19,
+    "points": 25,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -5208,9 +5208,9 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 19,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -5218,7 +5218,7 @@
     "name": "Geoffrey Gibert",
     "flag": "fr",
     "zwid": 3327199,
-    "podiums": "gold",
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -5280,12 +5280,12 @@
   {
     "category": "B",
     "events": 2,
-    "points": 20,
+    "points": 19,
     "tname": "BZR cycling team",
     "tc": "f3f300",
     "tbc": "111111",
     "tbd": "dd4b39",
-    "name": "Mathias Tanghe FLANDERS",
+    "name": "Mathias Tanghe (BZR)",
     "flag": "be",
     "zwid": 3337955,
     "podiums": "",
@@ -5336,7 +5336,7 @@
   {
     "category": "C",
     "events": 1,
-    "points": 13,
+    "points": 18,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -5672,7 +5672,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 18,
+    "points": 17,
     "tname": "",
     "tc": "",
     "tbc": "",
