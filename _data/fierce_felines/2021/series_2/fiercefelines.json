@@ -2,7 +2,7 @@
   {
     "category": "D",
     "events": 3,
-    "points": 133,
+    "points": 140,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -10,7 +10,7 @@
     "name": "Keiko Flores [BRT]",
     "flag": "jp",
     "zwid": 7422,
-    "podiums": "gold gold bronze",
+    "podiums": "gold gold silver",
     "upgrades": 0
   },
   {
@@ -156,7 +156,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 106,
+    "points": 84,
     "tname": "Wattie Ink. Racing",
     "tc": "f5f511",
     "tbc": "030303",
@@ -164,13 +164,13 @@
     "name": "Stephanie Shew (Wattie Ink.)",
     "flag": "us",
     "zwid": 336320,
-    "podiums": "gold",
+    "podiums": "",
     "upgrades": 0
   },
   {
     "category": "B",
     "events": 3,
-    "points": 66,
+    "points": 84,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -178,7 +178,7 @@
     "name": "Anna L (CRYO-GEN Roadrunners)",
     "flag": "nz",
     "zwid": 349048,
-    "podiums": "",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -198,7 +198,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 108,
+    "points": 118,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -206,13 +206,13 @@
     "name": "Giovanna Fantucchio (BRT Enyo)",
     "flag": "gb",
     "zwid": 399625,
-    "podiums": "silver silver",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
     "category": "B",
     "events": 3,
-    "points": 133,
+    "points": 150,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -220,7 +220,7 @@
     "name": "Joanne Ernst (CrushPod)",
     "flag": "us",
     "zwid": 453203,
-    "podiums": "gold gold bronze",
+    "podiums": "gold gold gold",
     "upgrades": 0
   },
   {
@@ -254,7 +254,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 94,
+    "points": 106,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -262,7 +262,7 @@
     "name": "Deicy Barreto (BRT Galaxy)",
     "flag": "mx",
     "zwid": 581267,
-    "podiums": "bronze bronze",
+    "podiums": "silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -282,7 +282,7 @@
   {
     "category": "B",
     "events": 2,
-    "points": 38,
+    "points": 44,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -296,7 +296,7 @@
   {
     "category": "A",
     "events": 1,
-    "points": 50,
+    "points": 33,
     "tname": "Vision",
     "tc": "ffffff",
     "tbc": "2ea9e0",
@@ -304,7 +304,7 @@
     "name": "M\u0026eacute;lanie LABEYRIE ",
     "flag": "fr",
     "zwid": 623910,
-    "podiums": "gold",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -402,7 +402,7 @@
     "name": "Michelle van Dyk (ZSUN)",
     "flag": "za",
     "zwid": 760244,
-    "podiums": "bronze",
+    "podiums": "",
     "upgrades": 1
   },
   {
@@ -492,7 +492,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 40,
+    "points": 33,
     "tname": "[DRAFT]",
     "tc": "ffffff",
     "tbc": "e60d2e",
@@ -500,7 +500,7 @@
     "name": "Olga Tierney [DRAFT]",
     "flag": "gb-sct",
     "zwid": 937749,
-    "podiums": "silver",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -534,7 +534,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 25,
+    "points": 17,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
@@ -660,7 +660,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 86,
+    "points": 81,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -668,13 +668,13 @@
     "name": "Grace Hutter (CRYO-GEN) ",
     "flag": "ch",
     "zwid": 1145940,
-    "podiums": "bronze",
+    "podiums": "",
     "upgrades": 0
   },
   {
     "category": "B",
     "events": 1,
-    "points": 20,
+    "points": 18,
     "tname": "Coeur Sports",
     "tc": "ffffff",
     "tbc": "ff33f0",
@@ -800,7 +800,7 @@
   {
     "category": "D",
     "events": 1,
-    "points": 33,
+    "points": 40,
     "tname": "BZR cycling team",
     "tc": "f3f300",
     "tbc": "111111",
@@ -808,7 +808,7 @@
     "name": "An Dierckx (BZR Tigers)",
     "flag": "be",
     "zwid": 1387235,
-    "podiums": "bronze",
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -982,7 +982,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 74,
+    "points": 79,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -990,13 +990,13 @@
     "name": "Jo Graham (CrushPod)",
     "flag": "gb",
     "zwid": 1615725,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
     "category": "B",
     "events": 3,
-    "points": 95,
+    "points": 93,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -1024,7 +1024,7 @@
   {
     "category": "A",
     "events": 3,
-    "points": 113,
+    "points": 130,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1032,7 +1032,7 @@
     "name": "Amy Williams (BRT Atomickittens)",
     "flag": "gb-wls",
     "zwid": 1657401,
-    "podiums": "silver silver bronze",
+    "podiums": "gold silver silver",
     "upgrades": 0
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 40,
+    "points": 50,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1060,7 +1060,7 @@
     "name": "Kate Lascelles (CrushPod)",
     "flag": "gb",
     "zwid": 1795843,
-    "podiums": "silver",
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -1197,7 +1197,7 @@
     "tc": "ffffff",
     "tbc": "2e2c2c",
     "tbd": "e33131",
-    "name": "Julie Clark (ART Ions)",
+    "name": "Julie Clark (AHDRL CrazyCakes)",
     "flag": "gb",
     "zwid": 2025471,
     "podiums": "silver bronze",
@@ -1220,7 +1220,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 18,
+    "points": 19,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
@@ -1248,7 +1248,7 @@
   {
     "category": "C",
     "events": 2,
-    "points": 100,
+    "points": 90,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1256,7 +1256,7 @@
     "name": "Madeleine Hatfield (CrushPod2)",
     "flag": "gb",
     "zwid": 2229590,
-    "podiums": "gold gold",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
@@ -1276,7 +1276,7 @@
   {
     "category": "D",
     "events": 2,
-    "points": 62,
+    "points": 55,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -1284,7 +1284,7 @@
     "name": "Sharon Woo [RAVE]",
     "flag": "ca",
     "zwid": 2435783,
-    "podiums": "silver",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -1402,7 +1402,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 50,
+    "points": 33,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1410,7 +1410,7 @@
     "name": "jara Verweij",
     "flag": "nl",
     "zwid": 2650510,
-    "podiums": "gold",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -1444,7 +1444,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 123,
+    "points": 130,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1452,13 +1452,13 @@
     "name": "Karoline Stra\u0026szlig;er (CrushPod) ",
     "flag": "de",
     "zwid": 2753568,
-    "podiums": "gold silver bronze",
+    "podiums": "gold silver silver",
     "upgrades": 0
   },
   {
     "category": "B",
     "events": 1,
-    "points": 20,
+    "points": 22,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
@@ -1556,7 +1556,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 40,
+    "points": 20,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1564,7 +1564,7 @@
     "name": "Babette van der Wolf",
     "flag": "nl",
     "zwid": 3058200,
-    "podiums": "silver",
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1612,7 +1612,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 17,
+    "points": 16,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1738,7 +1738,7 @@
   {
     "category": "D",
     "events": 2,
-    "points": 80,
+    "points": 73,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
@@ -1746,7 +1746,7 @@
     "name": "Lizzie Evans [AEO] ",
     "flag": "gb",
     "zwid": 3617379,
-    "podiums": "silver silver",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
@@ -1766,7 +1766,7 @@
   {
     "category": "C",
     "events": 3,
-    "points": 72,
+    "points": 77,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -1774,7 +1774,7 @@
     "name": "Eszter Hantos [RAVE]",
     "flag": "de",
     "zwid": 3651964,
-    "podiums": "",
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -1836,7 +1836,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 19,
+    "points": 25,
     "tname": "BZR cycling team",
     "tc": "f3f300",
     "tbc": "111111",
