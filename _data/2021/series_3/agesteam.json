@@ -1,0 +1,172 @@
+[
+  {
+    "category": "J",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "G",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tid": 7,
+    "tname": "TeamODZ",
+    "tc": "ff851b",
+    "tbc": "111111",
+    "tbd": "3c8dbc"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 112,
+    "tname": "albaRosa CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 588,
+    "tname": "Team Italy",
+    "tc": "dd4b39",
+    "tbc": "ffffff",
+    "tbd": "00a65a"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 1330,
+    "tname": "teamWKG",
+    "tc": "fa5e06",
+    "tbc": "3f4c54",
+    "tbd": "3f4c54"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 3343,
+    "tname": "BMPRO",
+    "tc": "120303",
+    "tbc": "ffff00",
+    "tbd": "2b0a0a"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 5032,
+    "tname": "VCRT",
+    "tc": "fccb5a",
+    "tbc": "2d009e",
+    "tbd": "f521f5"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tid": 7158,
+    "tname": "CWCC",
+    "tc": "ffffff",
+    "tbc": "fc0202",
+    "tbd": "050000"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 7830,
+    "tname": "ZODIAC",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "000000"
+  },
+  {
+    "category": "G",
+    "events": 1,
+    "points": 40,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "F",
+    "events": 1,
+    "points": 40,
+    "tid": 11633,
+    "tname": "Ros Racing",
+    "tc": "000000",
+    "tbc": "e6e6eb",
+    "tbd": "171515"
+  },
+  {
+    "category": "F",
+    "events": 1,
+    "points": 50,
+    "tid": 11939,
+    "tname": "DZR",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "H",
+    "events": 1,
+    "points": 50,
+    "tid": 14609,
+    "tname": "VeloJawn",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  }
+]
