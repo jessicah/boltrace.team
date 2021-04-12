@@ -1,0 +1,32 @@
+[
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 7978,
+    "tname": "SF Triathlon",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 12303,
+    "tname": "BCC Dynamite",
+    "tc": "ffffff",
+    "tbc": "fa2fb2",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 12701,
+    "tname": "Pro-Vision",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  }
+]
