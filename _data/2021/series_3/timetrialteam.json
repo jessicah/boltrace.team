@@ -1,0 +1,102 @@
+[
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 3,
+    "points": 54,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 2298,
+    "tname": "Rowe \u0026 King",
+    "tc": "ffffff",
+    "tbc": "2b5bb8",
+    "tbd": "2fba4e"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "B",
+    "events": 3,
+    "points": 108,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 11,
+    "tid": 10128,
+    "tname": "Tretas BT",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 12154,
+    "tname": "NOBs JC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 15342,
+    "tname": "DdE",
+    "tc": "000000",
+    "tbc": "00ff48",
+    "tbd": "ff0000"
+  }
+]
