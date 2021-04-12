@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 6,
-    "points": 244,
+    "events": 9,
+    "points": 360,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 260,
+    "events": 9,
+    "points": 373,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 146,
+    "events": 7,
+    "points": 227,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,13 +31,23 @@
   },
   {
     "category": "A",
-    "events": 5,
-    "points": 186,
+    "events": 8,
+    "points": 297,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 9,
+    "tname": "Vision",
+    "tc": "ffffff",
+    "tbc": "2ea9e0",
+    "tbd": "000000"
   },
   {
     "category": "C",
@@ -50,9 +60,29 @@
     "tbd": "111111"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
     "category": "C",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 150,
     "tid": 60,
     "tname": "TBR Racing",
     "tc": "ffffff",
@@ -91,8 +121,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 15,
+    "events": 2,
+    "points": 48,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -121,8 +151,28 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 43,
+    "events": 1,
+    "points": 50,
+    "tid": 629,
+    "tname": "Team AHDR",
+    "tc": "fc6955",
+    "tbc": "55d4fc",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 1634,
+    "tname": "[DRAFT]",
+    "tc": "ffffff",
+    "tbc": "e60d2e",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 3,
+    "points": 65,
     "tid": 1677,
     "tname": "Team Fearless",
     "tc": "001f3f",
@@ -137,6 +187,16 @@
     "tname": "Vixen/Fox",
     "tc": "7409a6",
     "tbc": "f79d4b",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 2003,
+    "tname": "LEQP Provence",
+    "tc": "ffffff",
+    "tbc": "756381",
     "tbd": "ffffff"
   },
   {
@@ -171,8 +231,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 97,
+    "events": 6,
+    "points": 152,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -201,8 +261,8 @@
   },
   {
     "category": "D",
-    "events": 5,
-    "points": 90,
+    "events": 8,
+    "points": 180,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -211,8 +271,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 160,
+    "events": 8,
+    "points": 222,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -221,8 +281,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 73,
+    "events": 3,
+    "points": 95,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -260,9 +320,19 @@
     "tbd": "ffffff"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tid": 7284,
+    "tname": "S.A Pro Team ",
+    "tc": "ffffff",
+    "tbc": "fc8700",
+    "tbd": "3d3d3d"
+  },
+  {
     "category": "B",
-    "events": 2,
-    "points": 56,
+    "events": 3,
+    "points": 106,
     "tid": 10684,
     "tname": "Wattie Ink. Racing",
     "tc": "f5f511",
@@ -271,8 +341,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 28,
+    "events": 3,
+    "points": 93,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
@@ -291,8 +361,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 87,
+    "events": 6,
+    "points": 157,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
@@ -301,13 +371,23 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
+    "events": 3,
+    "points": 140,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
     "tbd": "d548ee"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tid": 12015,
+    "tname": "Coeur Sports",
+    "tc": "ffffff",
+    "tbc": "ff33f0",
+    "tbd": "ffffff"
   },
   {
     "category": "C",
@@ -321,8 +401,8 @@
   },
   {
     "category": "D",
-    "events": 6,
-    "points": 260,
+    "events": 9,
+    "points": 378,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -331,8 +411,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 179,
+    "events": 9,
+    "points": 265,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -341,8 +421,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 183,
+    "events": 8,
+    "points": 248,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -351,8 +431,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 90,
+    "events": 3,
+    "points": 140,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -361,8 +441,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 150,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -371,8 +451,18 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 243,
+    "events": 9,
+    "points": 349,
+    "tid": 15231,
+    "tname": "CrushPod",
+    "tc": "000000",
+    "tbc": "faff1e",
+    "tbd": "878484"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
