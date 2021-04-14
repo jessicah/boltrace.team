@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 90,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 54,
+    "events": 4,
+    "points": 79,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -38,6 +38,26 @@
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
   },
   {
     "category": "A",
@@ -61,13 +81,83 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 108,
+    "events": 4,
+    "points": 148,
     "tid": 2991,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
     "tbc": "f2e80d",
     "tbd": "000103"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 3661,
+    "tname": "CWCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tid": 4056,
+    "tname": "PDQ",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffff00"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 4630,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 5204,
+    "tname": "Aerocycles ",
+    "tc": "424242",
+    "tbc": "d11b1b",
+    "tbd": "787878"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 6448,
+    "tname": "BAERO",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 7282,
+    "tname": "Bynea CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 9134,
+    "tname": "Chain ",
+    "tc": "0f0d0d",
+    "tbc": "2989bf",
+    "tbd": "ffffff"
   },
   {
     "category": "B",

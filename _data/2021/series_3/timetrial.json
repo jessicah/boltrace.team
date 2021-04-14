@@ -56,6 +56,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "Aerocycles ",
+    "tc": "424242",
+    "tbc": "d11b1b",
+    "tbd": "787878",
+    "name": " M) Edmead (Team Aerocycles ",
+    "flag": "gb",
+    "zwid": 155656,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -129,6 +143,20 @@
     "category": "B",
     "events": 1,
     "points": 50,
+    "tname": "Chain ",
+    "tc": "0f0d0d",
+    "tbc": "2989bf",
+    "tbd": "ffffff",
+    "name": "Cory Hegarty",
+    "flag": "us",
+    "zwid": 393948,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 90,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
     "tbc": "f2e80d",
@@ -136,7 +164,7 @@
     "name": "Michael Michael (KC-B1)",
     "flag": "de",
     "zwid": 404187,
-    "podiums": "gold",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
@@ -210,6 +238,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b",
+    "name": "S\u0026eacute;rgio Barbedo",
+    "flag": "pt",
+    "zwid": 609717,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 14,
@@ -221,6 +263,34 @@
     "flag": "pt",
     "zwid": 646133,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "BAERO",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Juanan Gomez MCC",
+    "flag": "es",
+    "zwid": 689607,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": "PDQ",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffff00",
+    "name": "Angela Simpson",
+    "flag": "gb",
+    "zwid": 794478,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -263,6 +333,20 @@
     "flag": "at",
     "zwid": 848784,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "CWCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Mark Rigby (Cleveland Wheelers)",
+    "flag": "gb",
+    "zwid": 975524,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -323,8 +407,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 90,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -332,7 +416,7 @@
     "name": "Hollie Burgin (BRT Venus)",
     "flag": "gb",
     "zwid": 1921340,
-    "podiums": "gold",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
@@ -346,6 +430,20 @@
     "name": "GERMAN HERVAS",
     "flag": "es",
     "zwid": 1982596,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "Bynea CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff0000",
+    "name": "Jeff Partridge #Bynea  #WGT ",
+    "flag": "gb-wls",
+    "zwid": 2116258,
     "podiums": "",
     "upgrades": 0
   },
@@ -380,6 +478,48 @@
   {
     "category": "B",
     "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Lucy Partridge",
+    "flag": "gb",
+    "zwid": 2769809,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500",
+    "name": "Marco Roetert Steenbruggen",
+    "flag": "nl",
+    "zwid": 2878630,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Richard Harvey (BRT Venus)",
+    "flag": "gb",
+    "zwid": 2975232,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 40,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
@@ -388,6 +528,34 @@
     "name": "Philipp Pene (KC-B6)",
     "flag": "de",
     "zwid": 3018120,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Emiliano Bonetta",
+    "flag": "de",
+    "zwid": 3074163,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000",
+    "name": "Pawe\u0026#322; Klinik",
+    "flag": "pl",
+    "zwid": 3114548,
     "podiums": "silver",
     "upgrades": 0
   },
@@ -403,6 +571,20 @@
     "flag": "gb",
     "zwid": 3663261,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "J\u0026L 1710",
+    "flag": "es",
+    "zwid": 3825663,
+    "podiums": "gold",
     "upgrades": 0
   }
 ]
