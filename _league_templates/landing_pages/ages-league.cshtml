@@ -11,7 +11,7 @@ redirect_from: "/ages"
 date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 ---
 
-<h2>Ages Racing League</h2>
+<h2>Ages/Masters Racing League</h2>
 
 <h3>Event Information</h3>
 <ul>
@@ -19,13 +19,15 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 	<li>End Date: @EndDate</li>
 	<li>Event Day & Time: <span class='date-data' data-date='@DateData' data-format='day-time' data-use-upcoming='true'>@EventDateTime</span></li>
 	<li>Duration: 8 weeks</li>
+	<li>Results will be split into Masters 5-year category bands</li>
 	<li>Categories<br/>
-		Based on your birth <strong>year</strong>, not your birthday:
+		In the pen, these are based on your birth <strong>year</strong>, not your birthday (women add 10 years):
 		<ol style='list-style-type: upper-alpha'>
-			<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>38 and UNDER</span></li>
-			<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>39 to 46 years young</span></li>
-			<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>47 to 51 years young</span></li>
-			<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>52 years and OVER</span></li>
+			<li style='color:red;font-weight:bold'><span style='color:black;font-weight:normal'>30 to 39</span></li>
+			<li style='color:green;font-weight:bold'><span style='color:black;font-weight:normal'>40 to 49</span></li>
+			<li style='color:lightseagreen;font-weight:bold'><span style='color:black;font-weight:normal'>50 to 59</span></li>
+			<li style='color:orange;font-weight:bold'><span style='color:black;font-weight:normal'>60 to 69</span></li>
+			<li style='color:purple;font-weight:bold'><span style='color:black;font-weight:normal'>70 and OVER</span></li>
 		</ol>
 	</li>
 	<li>Race Rules
