@@ -22,7 +22,7 @@
   {
     "category": "B",
     "events": 7,
-    "points": 229,
+    "points": 227,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -62,7 +62,7 @@
   {
     "category": "D",
     "events": 1,
-    "points": 50,
+    "points": 33,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -72,7 +72,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 22,
+    "points": 19,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -150,16 +150,6 @@
     "tbd": "ffffff"
   },
   {
-    "category": "C",
-    "events": 1,
-    "points": 50,
-    "tid": 629,
-    "tname": "Team AHDR",
-    "tc": "fc6955",
-    "tbc": "55d4fc",
-    "tbd": "ffffff"
-  },
-  {
     "category": "B",
     "events": 1,
     "points": 40,
@@ -232,7 +222,7 @@
   {
     "category": "B",
     "events": 6,
-    "points": 158,
+    "points": 152,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -282,7 +272,7 @@
   {
     "category": "B",
     "events": 3,
-    "points": 101,
+    "points": 95,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -362,7 +352,7 @@
   {
     "category": "B",
     "events": 6,
-    "points": 196,
+    "points": 157,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
@@ -402,7 +392,7 @@
   {
     "category": "D",
     "events": 9,
-    "points": 361,
+    "points": 378,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -412,7 +402,7 @@
   {
     "category": "C",
     "events": 9,
-    "points": 282,
+    "points": 265,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -422,7 +412,7 @@
   {
     "category": "B",
     "events": 8,
-    "points": 223,
+    "points": 248,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -441,8 +431,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 133,
+    "events": 4,
+    "points": 200,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -452,7 +442,7 @@
   {
     "category": "B",
     "events": 9,
-    "points": 344,
+    "points": 349,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
