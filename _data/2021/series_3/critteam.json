@@ -1,5 +1,145 @@
 [
   {
+    "category": "C",
+    "events": 2,
+    "points": 68,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 45,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 90,
+    "tname": "Vikings",
+    "tc": "c2c2c2",
+    "tbc": "0073b7",
+    "tbd": "ee6331"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 629,
+    "tname": "Team AHDR",
+    "tc": "fc6955",
+    "tbc": "55d4fc",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 1611,
+    "tname": "GGCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 1634,
+    "tname": "[DRAFT]",
+    "tc": "ffffff",
+    "tbc": "e60d2e",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 23,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tid": 2768,
+    "tname": "Cranks",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 10,
+    "tid": 2841,
+    "tname": "Protech-velo ",
+    "tc": "f7e7e7",
+    "tbc": "8c2f2f",
+    "tbd": "260808"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 7192,
+    "tname": "GOBIK",
+    "tc": "ffffff",
+    "tbc": "2b0505",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -12,7 +152,27 @@
   {
     "category": "B",
     "events": 1,
-    "points": 28,
+    "points": 17,
+    "tid": 9179,
+    "tname": "AA",
+    "tc": "000000",
+    "tbc": "e8e814",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 9186,
+    "tname": "BCC - Bees",
+    "tc": "000000",
+    "tbc": "fcfc01",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 53,
     "tid": 12303,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
@@ -25,6 +185,36 @@
     "points": 40,
     "tid": 12701,
     "tname": "Pro-Vision",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 15,
+    "tid": 13662,
+    "tname": "S20CC",
+    "tc": "ffff00",
+    "tbc": "0000ff",
+    "tbd": "ffff00"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 13817,
+    "tname": "TFHERTS",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 14,
+    "tid": 14230,
+    "tname": "FKTS",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
