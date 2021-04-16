@@ -11,8 +11,8 @@
   },
   {
     "category": "G",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,18 @@
   },
   {
     "category": "D",
+    "events": 2,
+    "points": 83,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
     "events": 1,
-    "points": 33,
+    "points": 50,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -80,6 +90,26 @@
     "tbd": "3f4c54"
   },
   {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "H",
+    "events": 1,
+    "points": 40,
+    "tid": 3212,
+    "tname": "VCOM",
+    "tc": "ff0000",
+    "tbc": "00ff00",
+    "tbd": "000000"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -110,9 +140,19 @@
     "tbd": "050000"
   },
   {
-    "category": "E",
+    "category": "D",
     "events": 1,
-    "points": 40,
+    "points": 33,
+    "tid": 7717,
+    "tname": "LONESTAR",
+    "tc": "ffffff",
+    "tbc": "f20808",
+    "tbd": "000000"
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 90,
     "tid": 7830,
     "tname": "ZODIAC",
     "tc": "ffffff",
@@ -121,6 +161,26 @@
   },
   {
     "category": "G",
+    "events": 2,
+    "points": 80,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 28,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "D",
     "events": 1,
     "points": 40,
     "tid": 8252,
@@ -131,8 +191,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 28,
+    "events": 3,
+    "points": 96,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -151,8 +211,8 @@
   },
   {
     "category": "F",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -160,9 +220,19 @@
     "tbd": "ffffff"
   },
   {
-    "category": "H",
+    "category": "F",
     "events": 1,
-    "points": 50,
+    "points": 33,
+    "tid": 12319,
+    "tname": "Peddlers CC",
+    "tc": "000000",
+    "tbc": "46f733",
+    "tbd": "000000"
+  },
+  {
+    "category": "H",
+    "events": 2,
+    "points": 100,
     "tid": 14609,
     "tname": "VeloJawn",
     "tc": "ffffff",
