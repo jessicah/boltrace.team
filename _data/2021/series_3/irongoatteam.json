@@ -1,8 +1,28 @@
 [
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "B",
-    "events": 6,
-    "points": 216,
+    "events": 8,
+    "points": 306,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 73,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -12,12 +32,22 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tid": 32,
+    "tname": "Sz",
+    "tc": "f3f300",
+    "tbc": "0073b7",
+    "tbd": "f3f300"
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 33,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
+    "tid": 588,
+    "tname": "Team Italy",
+    "tc": "dd4b39",
+    "tbc": "ffffff",
+    "tbd": "00a65a"
   },
   {
     "category": "A",
@@ -40,6 +70,16 @@
     "tbd": "383c3d"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 4460,
+    "tname": "GCA",
+    "tc": "000000",
+    "tbc": "f50000",
+    "tbd": "401414"
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -55,6 +95,16 @@
     "points": 40,
     "tid": 6870,
     "tname": "Sportsolid",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 8353,
+    "tname": "FTP racing",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"

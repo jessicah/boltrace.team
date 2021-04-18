@@ -56,6 +56,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "alan marchiori (BRT Pluto)",
+    "flag": "us",
+    "zwid": 444915,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 22,
@@ -112,9 +126,23 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "GCA",
+    "tc": "000000",
+    "tbc": "f50000",
+    "tbd": "401414",
+    "name": "Armin Ross MTV Aurich",
+    "flag": "de",
+    "zwid": 929939,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "B",
-    "events": 2,
-    "points": 56,
+    "events": 3,
+    "points": 96,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -122,6 +150,20 @@
     "name": "Angela MacRae (BRT)",
     "flag": "au",
     "zwid": 1332978,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "M.A Pons",
+    "flag": "es",
+    "zwid": 1435956,
     "podiums": "",
     "upgrades": 0
   },
@@ -137,6 +179,48 @@
     "flag": "be",
     "zwid": 1645721,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "Sz",
+    "tc": "f3f300",
+    "tbc": "0073b7",
+    "tbd": "f3f300",
+    "name": "Erik Lilja [SZ]",
+    "flag": "se",
+    "zwid": 1699355,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ben Yonce (SNB)",
+    "flag": "",
+    "zwid": 1752408,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "FTP racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Mark Hudson FTP",
+    "flag": "gb",
+    "zwid": 1897303,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -169,8 +253,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 58,
+    "events": 3,
+    "points": 108,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -178,7 +262,7 @@
     "name": "Diane Bomans (BRT)",
     "flag": "ca",
     "zwid": 2481505,
-    "podiums": "bronze",
+    "podiums": "gold bronze",
     "upgrades": 0
   },
   {
@@ -196,9 +280,23 @@
     "upgrades": 0
   },
   {
-    "category": "A",
+    "category": "C",
     "events": 1,
-    "points": 33,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Barry Rose",
+    "flag": "gb",
+    "zwid": 2712565,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 73,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -206,7 +304,7 @@
     "name": "Nate Bomans [BRT]",
     "flag": "ca",
     "zwid": 2732526,
-    "podiums": "bronze",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
@@ -221,6 +319,20 @@
     "flag": "ca",
     "zwid": 2826411,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "Team Italy",
+    "tc": "dd4b39",
+    "tbc": "ffffff",
+    "tbd": "00a65a",
+    "name": "Davide Di Carlo",
+    "flag": "it",
+    "zwid": 2865205,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
