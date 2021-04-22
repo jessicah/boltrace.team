@@ -1,0 +1,1 @@
+JEKYLL_ENV=test bundle exec jekyll serve --host 192.168.0.100 --incremental
