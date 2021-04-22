@@ -1,0 +1,102 @@
+[
+  {
+    "category": "E",
+    "events": 7,
+    "points": 210,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 90,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 2298,
+    "tname": "Rowe \u0026 King",
+    "tc": "ffffff",
+    "tbc": "2b5bb8",
+    "tbd": "2fba4e"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 11,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 45,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 50,
+    "tid": 3661,
+    "tname": "CWCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 19,
+    "tid": 4056,
+    "tname": "PDQ",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffff00"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 20,
+    "tid": 5204,
+    "tname": "Aerocycles ",
+    "tc": "424242",
+    "tbc": "d11b1b",
+    "tbd": "787878"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 22,
+    "tid": 7282,
+    "tname": "Bynea CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 14,
+    "tid": 10128,
+    "tname": "Tretas BT",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  }
+]
