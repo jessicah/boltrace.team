@@ -31,13 +31,23 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 20,
+    "events": 2,
+    "points": 37,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
     "tbc": "ff1800",
     "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
   },
   {
     "category": "A",
@@ -60,13 +70,33 @@
     "tbd": "ee6331"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 50,
+    "points": 25,
+    "tid": 244,
+    "tname": "ABRT",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 83,
     "tid": 629,
     "tname": "Team AHDR",
     "tc": "fc6955",
     "tbc": "55d4fc",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 1426,
+    "tname": "Team CLS",
+    "tc": "3d9970",
+    "tbc": "ffffff",
     "tbd": "ffffff"
   },
   {
@@ -110,6 +140,16 @@
     "tbd": "df6a0d"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 2743,
+    "tname": "TOR 2000 | Kalas",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 28,
@@ -132,11 +172,61 @@
   {
     "category": "B",
     "events": 1,
+    "points": 20,
+    "tid": 3001,
+    "tname": "ACE",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "302b2b"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 12,
+    "tid": 3919,
+    "tname": "CONED",
+    "tc": "ffffff",
+    "tbc": "343844",
+    "tbd": "343844"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 5573,
+    "tname": "SICC",
+    "tc": "000000",
+    "tbc": "ff0000",
+    "tbd": "000000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 5642,
+    "tname": "Spartaan",
+    "tc": "ffffff",
+    "tbc": "84b1cc",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 13,
     "tid": 7192,
     "tname": "GOBIK",
     "tc": "ffffff",
     "tbc": "2b0505",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 7691,
+    "tname": "Tri Ireland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
     "tbd": "ffffff"
   },
   {
@@ -170,9 +260,19 @@
     "tbd": "000000"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 11818,
+    "tname": "RHINO",
+    "tc": "d9a3a3",
+    "tbc": "872424",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
-    "events": 2,
-    "points": 53,
+    "events": 3,
+    "points": 63,
     "tid": 12303,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
@@ -188,6 +288,26 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 12942,
+    "tname": "GenZ",
+    "tc": "808000",
+    "tbc": "000000",
+    "tbd": "808000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 13264,
+    "tname": "BAKPDL",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -217,6 +337,16 @@
     "tname": "FKTS",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 14301,
+    "tname": "KRZT",
+    "tc": "ffffff",
+    "tbc": "000000",
     "tbd": "ffffff"
   }
 ]
