@@ -1,6 +1,16 @@
 [
   {
     "category": "J",
+    "events": 2,
+    "points": 100,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "I",
     "events": 1,
     "points": 50,
     "tid": 4,
@@ -11,8 +21,18 @@
   },
   {
     "category": "G",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 150,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "F",
+    "events": 1,
+    "points": 33,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +41,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 83,
+    "events": 3,
+    "points": 133,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -60,6 +80,26 @@
     "tbd": "ff0000"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 41,
+    "tname": "RuhrRiders",
+    "tc": "ff8700",
+    "tbc": "000000",
+    "tbd": "5cb0fc"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 90,
+    "tname": "Vikings",
+    "tc": "c2c2c2",
+    "tbc": "0073b7",
+    "tbd": "ee6331"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 50,
@@ -90,6 +130,26 @@
     "tbd": "3f4c54"
   },
   {
+    "category": "F",
+    "events": 1,
+    "points": 40,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tid": 2571,
+    "tname": "Equipe JZQc",
+    "tc": "ffffff",
+    "tbc": "003399",
+    "tbd": "ffffff"
+  },
+  {
     "category": "E",
     "events": 1,
     "points": 40,
@@ -101,8 +161,8 @@
   },
   {
     "category": "H",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 90,
     "tid": 3212,
     "tname": "VCOM",
     "tc": "ff0000",
@@ -161,6 +221,26 @@
   },
   {
     "category": "G",
+    "events": 3,
+    "points": 120,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 68,
+    "tid": 8252,
+    "tname": "TRH (Team Rheinhessen)",
+    "tc": "ffffff",
+    "tbc": "a83232",
+    "tbd": "000000"
+  },
+  {
+    "category": "D",
     "events": 2,
     "points": 80,
     "tid": 8252,
@@ -170,29 +250,9 @@
     "tbd": "000000"
   },
   {
-    "category": "E",
-    "events": 1,
-    "points": 28,
-    "tid": 8252,
-    "tname": "TRH (Team Rheinhessen)",
-    "tc": "ffffff",
-    "tbc": "a83232",
-    "tbd": "000000"
-  },
-  {
-    "category": "D",
-    "events": 1,
-    "points": 40,
-    "tid": 8252,
-    "tname": "TRH (Team Rheinhessen)",
-    "tc": "ffffff",
-    "tbc": "a83232",
-    "tbd": "000000"
-  },
-  {
     "category": "B",
-    "events": 3,
-    "points": 96,
+    "events": 5,
+    "points": 186,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -211,8 +271,8 @@
   },
   {
     "category": "F",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 150,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -238,5 +298,15 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 15291,
+    "tname": "LesWattsBrothers - JZQc",
+    "tc": "4169e1",
+    "tbc": "ffa500",
+    "tbd": "4169e1"
   }
 ]
