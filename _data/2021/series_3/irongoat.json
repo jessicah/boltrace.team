@@ -14,6 +14,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "Teamdeanis",
+    "tc": "ffffff",
+    "tbc": "a30000",
+    "tbd": "422e2e",
+    "name": "david miles5162 (Team Deanis)",
+    "flag": "de",
+    "zwid": 46899,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -28,6 +42,34 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Erik Knobl",
+    "flag": "us",
+    "zwid": 184188,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Will Whitmore",
+    "flag": "us",
+    "zwid": 203854,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 28,
@@ -39,6 +81,20 @@
     "flag": "no",
     "zwid": 344713,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "Procrastinators",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ffffff",
+    "name": "Ben Lewis",
+    "flag": "us",
+    "zwid": 404375,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -71,13 +127,13 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 22,
+    "events": 2,
+    "points": 47,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Glebster Carr (BRT Omega)",
+    "name": "Glebster Carr (BRT Velosharks)",
     "flag": "gb",
     "zwid": 572357,
     "podiums": "",
@@ -141,16 +197,30 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 96,
+    "events": 4,
+    "points": 124,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Angela MacRae (BRT)",
+    "name": "Angela MacRae [BRT]",
     "flag": "au",
     "zwid": 1332978,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Brent Olson",
+    "flag": "zw",
+    "zwid": 1393939,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -253,13 +323,13 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 108,
+    "events": 4,
+    "points": 130,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100",
-    "name": "Diane Bomans (BRT)",
+    "name": "Diane Bomans [BRT]",
     "flag": "ca",
     "zwid": 2481505,
     "podiums": "gold bronze",
@@ -295,8 +365,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 73,
+    "events": 3,
+    "points": 101,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -392,6 +462,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ross Broomfield (WaldenTRI 3)",
+    "flag": "gb",
+    "zwid": 3445169,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -416,6 +500,20 @@
     "name": "Aaran Brown8352",
     "flag": "gb",
     "zwid": 3713424,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Dan Halliday",
+    "flag": "gb",
+    "zwid": 3923589,
     "podiums": "gold",
     "upgrades": 0
   }

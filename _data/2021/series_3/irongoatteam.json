@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 8,
-    "points": 306,
+    "events": 11,
+    "points": 381,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 73,
+    "events": 3,
+    "points": 101,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -127,6 +127,26 @@
     "tname": "SGAB",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 12250,
+    "tname": "Teamdeanis",
+    "tc": "ffffff",
+    "tbc": "a30000",
+    "tbd": "422e2e"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 14484,
+    "tname": "Procrastinators",
+    "tc": "ffffff",
+    "tbc": "000000",
     "tbd": "ffffff"
   }
 ]
