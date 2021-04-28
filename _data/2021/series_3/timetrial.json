@@ -29,8 +29,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 73,
+    "events": 3,
+    "points": 106,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -38,7 +38,7 @@
     "name": "John Cameron  (BRT )",
     "flag": "gb",
     "zwid": 109551,
-    "podiums": "silver bronze",
+    "podiums": "silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -127,8 +127,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 25,
+    "events": 2,
+    "points": 53,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -280,6 +280,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Craig Boothe3953",
+    "flag": "gb",
+    "zwid": 538828,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -346,6 +360,20 @@
     "name": "Juanan Gomez MCC",
     "flag": "es",
     "zwid": 689607,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Guido Brunelli",
+    "flag": "br",
+    "zwid": 710047,
     "podiums": "gold",
     "upgrades": 0
   },
@@ -435,8 +463,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 80,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -444,7 +472,7 @@
     "name": "Darren Stanley",
     "flag": "gb-eng",
     "zwid": 930886,
-    "podiums": "silver",
+    "podiums": "silver silver",
     "upgrades": 0
   },
   {
@@ -478,6 +506,20 @@
   {
     "category": "D",
     "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Seys Luc",
+    "flag": "be",
+    "zwid": 1007703,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
     "points": 25,
     "tname": "",
     "tc": "",
@@ -487,6 +529,34 @@
     "flag": "ca",
     "zwid": 1359436,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": ".  Mad Max.. ",
+    "flag": "it",
+    "zwid": 1395920,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Data Vader",
+    "flag": "de",
+    "zwid": 1576625,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -602,6 +672,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "A Pickering ",
+    "flag": "gb",
+    "zwid": 2567713,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 20,
@@ -617,8 +701,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 78,
+    "events": 3,
+    "points": 128,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
@@ -626,7 +710,21 @@
     "name": "Marco Roetert Steenbruggen",
     "flag": "nl",
     "zwid": 2878630,
-    "podiums": "gold",
+    "podiums": "gold gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Richardson",
+    "flag": "gb",
+    "zwid": 2962367,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -673,8 +771,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 62,
+    "events": 3,
+    "points": 102,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -682,7 +780,7 @@
     "name": "Emiliano Bonetta",
     "flag": "de",
     "zwid": 3074163,
-    "podiums": "silver",
+    "podiums": "silver silver",
     "upgrades": 0
   },
   {
