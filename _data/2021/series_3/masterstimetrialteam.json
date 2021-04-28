@@ -1,8 +1,8 @@
 [
   {
     "category": "E",
-    "events": 7,
-    "points": 210,
+    "events": 8,
+    "points": 232,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "E",
-    "events": 2,
-    "points": 90,
+    "events": 3,
+    "points": 140,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",

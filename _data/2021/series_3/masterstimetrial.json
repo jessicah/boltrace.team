@@ -29,8 +29,8 @@
   },
   {
     "category": "E",
-    "events": 2,
-    "points": 32,
+    "events": 3,
+    "points": 54,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -99,8 +99,8 @@
   },
   {
     "category": "E",
-    "events": 1,
-    "points": 8,
+    "events": 2,
+    "points": 26,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -198,6 +198,20 @@
   {
     "category": "E",
     "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Craig Boothe3953",
+    "flag": "gb",
+    "zwid": 538828,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
     "points": 19,
     "tname": "PDQ",
     "tc": "ffffff",
@@ -253,8 +267,8 @@
   },
   {
     "category": "E",
-    "events": 1,
-    "points": 22,
+    "events": 2,
+    "points": 50,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -296,6 +310,20 @@
   {
     "category": "E",
     "events": 1,
+    "points": 19,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Seys Luc",
+    "flag": "be",
+    "zwid": 1007703,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
     "points": 6,
     "tname": "",
     "tc": "",
@@ -304,6 +332,34 @@
     "name": "Maurice Allard ",
     "flag": "ca",
     "zwid": 1359436,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": ".  Mad Max.. ",
+    "flag": "it",
+    "zwid": 1395920,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Data Vader",
+    "flag": "de",
+    "zwid": 1576625,
     "podiums": "",
     "upgrades": 0
   },
@@ -393,8 +449,8 @@
   },
   {
     "category": "E",
-    "events": 2,
-    "points": 90,
+    "events": 3,
+    "points": 140,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
@@ -402,7 +458,21 @@
     "name": "Marco Roetert Steenbruggen",
     "flag": "nl",
     "zwid": 2878630,
-    "podiums": "gold silver",
+    "podiums": "gold gold silver",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Richardson",
+    "flag": "gb",
+    "zwid": 2962367,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -449,8 +519,8 @@
   },
   {
     "category": "E",
-    "events": 2,
-    "points": 58,
+    "events": 3,
+    "points": 98,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -458,7 +528,7 @@
     "name": "Emiliano Bonetta",
     "flag": "de",
     "zwid": 3074163,
-    "podiums": "bronze",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
