@@ -15,6 +15,11 @@ date: @DateTime.UtcNow.ToString(@"dd/MM/yyyy")
 <p>Covers races from <strong>@StartDate</strong> &mdash; <strong>@EndDate</strong>.</p>
 <p>Last updated: {{ page.date | date: "%A, %B %e" }}</p>
 
+<p>
+	Masters Handicapped results, based on VTTA times for this event are also
+	available <a href='/results/current/masters-time-trial-league'>for Masters Riders</a>.
+</p>
+
 {% include standings.html riders=site.data.@(Model.Year).series_@(Model.Number).timetrial teams=site.data.@(Model.Year).series_@(Model.Number).timetrialteam %}
 
 {% include datetime.html %}
