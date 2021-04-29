@@ -1,17 +1,7 @@
 [
   {
     "category": "D",
-    "events": 12,
-    "points": 446,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "C",
-    "events": 12,
+    "events": 13,
     "points": 496,
     "tid": 4,
     "tname": "BRT",
@@ -20,9 +10,19 @@
     "tbd": "ff8100"
   },
   {
+    "category": "C",
+    "events": 15,
+    "points": 626,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "B",
-    "events": 10,
-    "points": 350,
+    "events": 13,
+    "points": 445,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,13 +31,23 @@
   },
   {
     "category": "A",
-    "events": 9,
-    "points": 347,
+    "events": 10,
+    "points": 397,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 7,
+    "tname": "TeamODZ",
+    "tc": "ff851b",
+    "tbc": "111111",
+    "tbd": "3c8dbc"
   },
   {
     "category": "A",
@@ -81,6 +91,16 @@
   },
   {
     "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 36,
+    "tname": "KISS RT",
+    "tc": "f56600",
+    "tbc": "012350",
+    "tbd": "84b7ca"
+  },
+  {
+    "category": "C",
     "events": 4,
     "points": 200,
     "tid": 60,
@@ -91,8 +111,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 133,
+    "events": 4,
+    "points": 166,
     "tid": 60,
     "tname": "TBR Racing",
     "tc": "ffffff",
@@ -121,8 +141,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 67,
+    "events": 4,
+    "points": 95,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -141,8 +161,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 90,
+    "events": 3,
+    "points": 140,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -181,8 +201,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 108,
+    "events": 6,
+    "points": 133,
     "tid": 1677,
     "tname": "Team Fearless",
     "tc": "001f3f",
@@ -230,6 +250,16 @@
     "tbd": "fc00e3"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 28,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 80,
@@ -241,8 +271,8 @@
   },
   {
     "category": "B",
-    "events": 8,
-    "points": 210,
+    "events": 10,
+    "points": 263,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -281,8 +311,8 @@
   },
   {
     "category": "D",
-    "events": 11,
-    "points": 283,
+    "events": 13,
+    "points": 356,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -291,8 +321,8 @@
   },
   {
     "category": "C",
-    "events": 11,
-    "points": 294,
+    "events": 14,
+    "points": 392,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -301,8 +331,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 120,
+    "events": 5,
+    "points": 170,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -401,8 +431,8 @@
   },
   {
     "category": "B",
-    "events": 8,
-    "points": 205,
+    "events": 9,
+    "points": 255,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
@@ -441,8 +471,8 @@
   },
   {
     "category": "D",
-    "events": 12,
-    "points": 501,
+    "events": 15,
+    "points": 616,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -451,8 +481,8 @@
   },
   {
     "category": "C",
-    "events": 12,
-    "points": 363,
+    "events": 15,
+    "points": 452,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -471,8 +501,8 @@
   },
   {
     "category": "D",
-    "events": 4,
-    "points": 180,
+    "events": 5,
+    "points": 230,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -481,8 +511,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 200,
+    "events": 5,
+    "points": 250,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -491,8 +521,8 @@
   },
   {
     "category": "B",
-    "events": 12,
-    "points": 461,
+    "events": 15,
+    "points": 591,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
