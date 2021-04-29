@@ -1,5 +1,15 @@
 [
   {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 68,
@@ -21,8 +31,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 45,
+    "events": 3,
+    "points": 85,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +41,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 37,
+    "events": 3,
+    "points": 62,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -40,9 +50,19 @@
     "tbd": "ff0000"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 22,
+    "points": 33,
+    "tid": 35,
+    "tname": "BZR cycling team",
+    "tc": "f3f300",
+    "tbc": "111111",
+    "tbd": "dd4b39"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 55,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -60,9 +80,19 @@
     "tbd": "84b7ca"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
     "points": 28,
+    "tid": 60,
+    "tname": "TBR Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 48,
     "tid": 90,
     "tname": "Vikings",
     "tc": "c2c2c2",
@@ -81,8 +111,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 83,
+    "events": 4,
+    "points": 173,
     "tid": 629,
     "tname": "Team AHDR",
     "tc": "fc6955",
@@ -130,9 +160,29 @@
     "tbd": "ffffff"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 18,
+    "tid": 2231,
+    "tname": "V I E T V E L O",
+    "tc": "ff0000",
+    "tbc": "ffe600",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tid": 2298,
+    "tname": "Rowe \u0026 King",
+    "tc": "ffffff",
+    "tbc": "2b5bb8",
+    "tbd": "2fba4e"
+  },
+  {
     "category": "B",
-    "events": 2,
-    "points": 23,
+    "events": 3,
+    "points": 51,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -161,8 +211,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 10,
+    "events": 2,
+    "points": 28,
     "tid": 2841,
     "tname": "Protech-velo ",
     "tc": "f7e7e7",
@@ -190,6 +240,16 @@
     "tbd": "343844"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 4799,
+    "tname": "WigmoreCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 40,
@@ -208,6 +268,16 @@
     "tc": "ffffff",
     "tbc": "84b1cc",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 6752,
+    "tname": "BP",
+    "tc": "ffd700",
+    "tbc": "000000",
+    "tbd": "ffd700"
   },
   {
     "category": "B",
@@ -238,6 +308,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ff0000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 8968,
+    "tname": "Trek Trakya",
+    "tc": "ffffff",
+    "tbc": "ff0202",
+    "tbd": "030101"
   },
   {
     "category": "B",
