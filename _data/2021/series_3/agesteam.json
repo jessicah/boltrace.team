@@ -1,6 +1,16 @@
 [
   {
     "category": "J",
+    "events": 4,
+    "points": 190,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "I",
     "events": 2,
     "points": 100,
     "tid": 4,
@@ -10,19 +20,9 @@
     "tbd": "ff8100"
   },
   {
-    "category": "I",
-    "events": 1,
-    "points": 50,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
     "category": "G",
-    "events": 3,
-    "points": 150,
+    "events": 4,
+    "points": 183,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +31,8 @@
   },
   {
     "category": "F",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 73,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -61,8 +61,8 @@
   },
   {
     "category": "E",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 66,
     "tid": 7,
     "tname": "TeamODZ",
     "tc": "ff851b",
@@ -100,6 +100,16 @@
     "tbd": "ee6331"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 90,
+    "tname": "Vikings",
+    "tc": "c2c2c2",
+    "tbc": "0073b7",
+    "tbd": "ee6331"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 50,
@@ -130,9 +140,19 @@
     "tbd": "3f4c54"
   },
   {
-    "category": "F",
+    "category": "C",
     "events": 1,
-    "points": 40,
+    "points": 33,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "F",
+    "events": 2,
+    "points": 90,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -150,6 +170,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 2582,
+    "tname": "Velocio",
+    "tc": "ffffff",
+    "tbc": "63eff4",
+    "tbd": "f6b6b6"
+  },
+  {
     "category": "E",
     "events": 1,
     "points": 40,
@@ -158,6 +188,26 @@
     "tc": "29ec34",
     "tbc": "563c0f",
     "tbd": "df6a0d"
+  },
+  {
+    "category": "G",
+    "events": 1,
+    "points": 50,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 2746,
+    "tname": "TRAPPIST",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "ffffff"
   },
   {
     "category": "H",
@@ -180,6 +230,26 @@
     "tbd": "2b0a0a"
   },
   {
+    "category": "E",
+    "events": 1,
+    "points": 25,
+    "tid": 3601,
+    "tname": "IRIS-Bob Cyclo",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 16,
+    "tid": 4630,
+    "tname": "TugaZ",
+    "tc": "ffffff",
+    "tbc": "ff1f00",
+    "tbd": "33735b"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 50,
@@ -188,6 +258,16 @@
     "tc": "fccb5a",
     "tbc": "2d009e",
     "tbd": "f521f5"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 50,
+    "tid": 5408,
+    "tname": "BHC",
+    "tc": "ffffff",
+    "tbc": "646464",
+    "tbd": "000000"
   },
   {
     "category": "D",
@@ -210,6 +290,16 @@
     "tbd": "000000"
   },
   {
+    "category": "H",
+    "events": 1,
+    "points": 50,
+    "tid": 7739,
+    "tname": "\u0026#129412; Socks4Watts \u0026#129412;",
+    "tc": "ffffff",
+    "tbc": "32c8ff",
+    "tbd": "ff3b6d"
+  },
+  {
     "category": "E",
     "events": 2,
     "points": 90,
@@ -221,8 +311,8 @@
   },
   {
     "category": "G",
-    "events": 3,
-    "points": 120,
+    "events": 4,
+    "points": 148,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -231,8 +321,8 @@
   },
   {
     "category": "E",
-    "events": 2,
-    "points": 68,
+    "events": 3,
+    "points": 88,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -251,13 +341,23 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 186,
+    "events": 6,
+    "points": 211,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
     "tbc": "a83232",
     "tbd": "000000"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 11439,
+    "tname": "OutputCycling.Com",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "F",
@@ -273,6 +373,26 @@
     "category": "F",
     "events": 3,
     "points": 150,
+    "tid": 11939,
+    "tname": "DZR",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tid": 11939,
+    "tname": "DZR",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -308,5 +428,25 @@
     "tc": "4169e1",
     "tbc": "ffa500",
     "tbd": "4169e1"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 15,
+    "tid": 15480,
+    "tname": "bgpCycling",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 19,
+    "tid": 15718,
+    "tname": "Alpha eRacing ",
+    "tc": "000000",
+    "tbc": "daa520",
+    "tbd": "000000"
   }
 ]
