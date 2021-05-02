@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 11,
-    "points": 381,
+    "events": 14,
+    "points": 492,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 3,
-    "points": 101,
+    "events": 4,
+    "points": 126,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -40,6 +40,16 @@
     "tbd": "f3f300"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 168,
+    "tname": "Team Type 1",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 33,
@@ -48,6 +58,16 @@
     "tc": "dd4b39",
     "tbc": "ffffff",
     "tbd": "00a65a"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 1330,
+    "tname": "teamWKG",
+    "tc": "fa5e06",
+    "tbc": "3f4c54",
+    "tbd": "3f4c54"
   },
   {
     "category": "A",
@@ -68,6 +88,26 @@
     "tc": "383c3d",
     "tbc": "fc6719",
     "tbd": "383c3d"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
   },
   {
     "category": "A",

@@ -3,6 +3,20 @@
     "category": "A",
     "events": 1,
     "points": 50,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103",
+    "name": "B B",
+    "flag": "ca",
+    "zwid": 12846,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tname": "SGAB",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -11,6 +25,20 @@
     "flag": "de",
     "zwid": 19498,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Andy Holmes",
+    "flag": "gb-sct",
+    "zwid": 36640,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -25,6 +53,20 @@
     "flag": "de",
     "zwid": 46899,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tname": "teamWKG",
+    "tc": "fa5e06",
+    "tbc": "3f4c54",
+    "tbd": "3f4c54",
+    "name": "Brian Rhoden WKG ",
+    "flag": "gb",
+    "zwid": 53663,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -127,6 +169,20 @@
   },
   {
     "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Kunz9550",
+    "flag": "us",
+    "zwid": 456707,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
     "events": 2,
     "points": 47,
     "tname": "BRT",
@@ -197,8 +253,36 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 124,
+    "events": 1,
+    "points": 28,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Shane McQuillan [BRT]",
+    "flag": "nz",
+    "zwid": 1050046,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Joe Urbanski",
+    "flag": "us",
+    "zwid": 1099918,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 5,
+    "points": 157,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -206,7 +290,7 @@
     "name": "Angela MacRae [BRT]",
     "flag": "au",
     "zwid": 1332978,
-    "podiums": "silver",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
@@ -266,6 +350,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Gregory Foulds GCCC",
+    "flag": "au",
+    "zwid": 1712403,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -309,8 +407,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 90,
+    "events": 3,
+    "points": 140,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -318,13 +416,13 @@
     "name": "Lee Griffiths (BRT Omega)",
     "flag": "gb-wls",
     "zwid": 2139157,
-    "podiums": "gold silver",
+    "podiums": "gold gold silver",
     "upgrades": 0
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 130,
+    "events": 5,
+    "points": 150,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -365,8 +463,8 @@
   },
   {
     "category": "A",
-    "events": 3,
-    "points": 101,
+    "events": 4,
+    "points": 126,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -389,6 +487,20 @@
     "flag": "ca",
     "zwid": 2826411,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "Team Type 1",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Andr\u0026eacute;s Gil",
+    "flag": "ar",
+    "zwid": 2841898,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -436,6 +548,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 40,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103",
+    "name": "Philipp Pene (KC-B6)",
+    "flag": "de",
+    "zwid": 3018120,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 33,
     "tname": "",
     "tc": "",
@@ -459,6 +585,20 @@
     "flag": "nl",
     "zwid": 3103247,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "I Am Inevitable",
+    "flag": "us",
+    "zwid": 3115863,
+    "podiums": "",
     "upgrades": 0
   },
   {
