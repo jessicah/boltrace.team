@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 3,
-    "points": 106,
+    "events": 4,
+    "points": 146,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +31,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 58,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -63,6 +63,36 @@
     "category": "A",
     "events": 1,
     "points": 50,
+    "tid": 398,
+    "tname": "Ilkley CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 19,
+    "tid": 1942,
+    "tname": "ZRG",
+    "tc": "1bc1f1",
+    "tbc": "5b5b5b",
+    "tbd": "1bc1f1"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tid": 2153,
     "tname": "ZOSS VOG",
     "tc": "ffffff",
@@ -71,8 +101,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 128,
+    "events": 4,
+    "points": 178,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -208,6 +238,36 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 15041,
+    "tname": "BAEK",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 15041,
+    "tname": "BAEK",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 15253,
+    "tname": "TriTech ZTR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
