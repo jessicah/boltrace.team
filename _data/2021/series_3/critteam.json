@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 68,
+    "events": 4,
+    "points": 141,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 19,
+    "events": 2,
+    "points": 39,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +31,8 @@
   },
   {
     "category": "A",
-    "events": 3,
-    "points": 85,
+    "events": 4,
+    "points": 107,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -41,8 +41,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 62,
+    "events": 5,
+    "points": 120,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -162,6 +162,16 @@
   {
     "category": "A",
     "events": 1,
+    "points": 25,
+    "tid": 2003,
+    "tname": "LEQP Provence",
+    "tc": "ffffff",
+    "tbc": "756381",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 18,
     "tid": 2231,
     "tname": "V I E T V E L O",
@@ -230,6 +240,16 @@
     "tbd": "302b2b"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 20,
+    "tid": 3549,
+    "tname": "Team GIANT",
+    "tc": "000000",
+    "tbc": "f70000",
+    "tbd": "000000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 12,
@@ -242,9 +262,39 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tid": 4222,
+    "tname": "FFZ",
+    "tc": "ffffff",
+    "tbc": "1010de",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 19,
     "tid": 4799,
     "tname": "WigmoreCC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 19,
+    "tid": 5032,
+    "tname": "VCRT",
+    "tc": "fccb5a",
+    "tbc": "2d009e",
+    "tbd": "f521f5"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 5518,
+    "tname": "Ful-On Tri",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -268,6 +318,26 @@
     "tc": "ffffff",
     "tbc": "84b1cc",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 6577,
+    "tname": "Aranjuez",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 13,
+    "tid": 6752,
+    "tname": "BP",
+    "tc": "ffd700",
+    "tbc": "000000",
+    "tbd": "ffd700"
   },
   {
     "category": "A",
@@ -351,13 +421,23 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 63,
+    "events": 5,
+    "points": 94,
     "tid": 12303,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
     "tbc": "fa2fb2",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 12,
+    "tid": 12320,
+    "tname": "Zwift Crushin Daddies",
+    "tc": "39ff14",
+    "tbc": "ff69b4",
+    "tbd": "39ff14"
   },
   {
     "category": "B",
@@ -380,9 +460,29 @@
     "tbd": "808000"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 40,
+    "points": 28,
+    "tid": 13005,
+    "tname": "R3R Dev",
+    "tc": "ffffff",
+    "tbc": "3bb4e6",
+    "tbd": "e30613"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 13264,
+    "tname": "BAKPDL",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 80,
     "tid": 13264,
     "tname": "BAKPDL",
     "tc": "000000",
