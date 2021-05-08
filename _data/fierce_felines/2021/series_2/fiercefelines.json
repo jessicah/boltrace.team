@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 5,
-    "points": 194,
+    "events": 6,
+    "points": 244,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -10,7 +10,7 @@
     "name": "Keiko Flores [BRT]",
     "flag": "jp",
     "zwid": 7422,
-    "podiums": "gold gold bronze bronze",
+    "podiums": "gold gold gold bronze bronze",
     "upgrades": 0
   },
   {
@@ -71,8 +71,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 25,
+    "events": 2,
+    "points": 47,
     "tname": "KISS RT",
     "tc": "f56600",
     "tbc": "012350",
@@ -101,6 +101,20 @@
     "category": "C",
     "events": 1,
     "points": 50,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "2e2c2c",
+    "tbd": "e33131",
+    "name": "Claire Jackson (ART)",
+    "flag": "gb-eng",
+    "zwid": 86639,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 70,
     "tname": "TeamODZ",
     "tc": "ff851b",
     "tbc": "111111",
@@ -170,12 +184,26 @@
   {
     "category": "B",
     "events": 1,
-    "points": 28,
+    "points": 19,
+    "tname": "VESELKA",
+    "tc": "ffffff",
+    "tbc": "19bd72",
+    "tbd": "ffffff",
+    "name": "Sarah Sauvayre(Veselka)",
+    "flag": "us",
+    "zwid": 213156,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 46,
     "tname": "Vikings",
     "tc": "c2c2c2",
     "tbc": "0073b7",
     "tbd": "ee6331",
-    "name": "Siv Engmo [V] (Valkyrie)",
+    "name": "Siv Engmo [V] (Idun)",
     "flag": "no",
     "zwid": 217993,
     "podiums": "",
@@ -193,6 +221,20 @@
     "flag": "nz",
     "zwid": 225114,
     "podiums": "gold silver silver bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tname": "CrushPod",
+    "tc": "000000",
+    "tbc": "faff1e",
+    "tbd": "878484",
+    "name": "R obin S.",
+    "flag": "vi",
+    "zwid": 239061,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -239,8 +281,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 166,
+    "events": 7,
+    "points": 184,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -248,13 +290,13 @@
     "name": "Anna L (CRYO-GEN Roadrunners)",
     "flag": "nz",
     "zwid": 349048,
-    "podiums": "gold",
+    "podiums": "gold silver",
     "upgrades": 0
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 70,
+    "events": 4,
+    "points": 92,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -267,8 +309,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 219,
+    "events": 7,
+    "points": 224,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -276,7 +318,7 @@
     "name": "Giovanna Fantucchio (BRT)",
     "flag": "gb",
     "zwid": 399625,
-    "podiums": "gold silver silver bronze",
+    "podiums": "gold silver silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -323,8 +365,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 241,
+    "events": 7,
+    "points": 263,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -332,13 +374,13 @@
     "name": "Joanne Ernst (CrushPod)",
     "flag": "us",
     "zwid": 453203,
-    "podiums": "gold gold silver silver bronze",
+    "podiums": "gold gold gold silver silver bronze",
     "upgrades": 0
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 140,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -346,7 +388,7 @@
     "name": "Linny O\u0026#039;Rourke (ART Pieface)",
     "flag": "gb",
     "zwid": 478016,
-    "podiums": "gold gold",
+    "podiums": "gold gold silver",
     "upgrades": 0
   },
   {
@@ -379,8 +421,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 105,
+    "events": 6,
+    "points": 130,
     "tname": "Team Fearless",
     "tc": "001f3f",
     "tbc": "00dacc",
@@ -393,8 +435,8 @@
   },
   {
     "category": "B",
-    "events": 3,
-    "points": 94,
+    "events": 4,
+    "points": 122,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -435,8 +477,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 38,
+    "events": 3,
+    "points": 58,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -445,6 +487,20 @@
     "flag": "gb",
     "zwid": 605452,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "TURBO",
+    "tc": "fc671a",
+    "tbc": "000000",
+    "tbd": "000000",
+    "name": "Charlotte Watts ",
+    "flag": "gb",
+    "zwid": 617677,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -771,8 +827,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 195,
+    "events": 7,
+    "points": 216,
     "tname": "AEO",
     "tc": "ffffff",
     "tbc": "000080",
@@ -780,7 +836,21 @@
     "name": "Lucy Marshall (Aeo)",
     "flag": "gb-wls",
     "zwid": 1003343,
-    "podiums": "gold silver bronze",
+    "podiums": "gold silver silver bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 25,
+    "tname": "Zoot-GL",
+    "tc": "ffff00",
+    "tbc": "171787",
+    "tbd": "00ffff",
+    "name": "N Kronick (Team Zoot GL)5948",
+    "flag": "us",
+    "zwid": 1010537,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -840,6 +910,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "CrushPod",
+    "tc": "000000",
+    "tbc": "faff1e",
+    "tbd": "878484",
+    "name": "Lara Newell (CrushPod2)",
+    "flag": "zw",
+    "zwid": 1080079,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 2,
     "points": 53,
@@ -869,8 +953,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 187,
+    "events": 7,
+    "points": 195,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -878,7 +962,7 @@
     "name": "Grace Hutter (CRYO-GEN) ",
     "flag": "ch",
     "zwid": 1145940,
-    "podiums": "silver bronze bronze",
+    "podiums": "silver bronze bronze bronze",
     "upgrades": 0
   },
   {
@@ -1009,8 +1093,8 @@
   },
   {
     "category": "D",
-    "events": 5,
-    "points": 121,
+    "events": 6,
+    "points": 141,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -1037,8 +1121,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 55,
+    "events": 3,
+    "points": 83,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1051,8 +1135,8 @@
   },
   {
     "category": "D",
-    "events": 6,
-    "points": 156,
+    "events": 7,
+    "points": 182,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -1060,7 +1144,7 @@
     "name": "Jackie Birch (ART Zwifterions)",
     "flag": "gb",
     "zwid": 1380785,
-    "podiums": "silver silver",
+    "podiums": "silver silver silver",
     "upgrades": 0
   },
   {
@@ -1121,13 +1205,13 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 135,
+    "events": 6,
+    "points": 160,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
     "tbd": "ff69b4",
-    "name": "Tiffany Kolbe (Rave-C-Euro)",
+    "name": "Tiffany Kolbe [RAVE]",
     "flag": "us",
     "zwid": 1435017,
     "podiums": "silver",
@@ -1178,6 +1262,20 @@
   {
     "category": "C",
     "events": 1,
+    "points": 33,
+    "tname": "Wattie Ink. Racing",
+    "tc": "f5f511",
+    "tbc": "030303",
+    "tbd": "e9ed0d",
+    "name": "Susan Moote (Wattie Ink.)",
+    "flag": "ca",
+    "zwid": 1489996,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 19,
     "tname": "WTRL",
     "tc": "d4af37",
@@ -1191,8 +1289,8 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 220,
+    "events": 6,
+    "points": 270,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -1200,13 +1298,13 @@
     "name": "Susan Verdegaal [RAVE]",
     "flag": "nl",
     "zwid": 1539498,
-    "podiums": "gold gold silver silver silver",
+    "podiums": "gold gold gold silver silver silver",
     "upgrades": 0
   },
   {
     "category": "D",
-    "events": 3,
-    "points": 86,
+    "events": 4,
+    "points": 126,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -1214,7 +1312,7 @@
     "name": "Louisa France (ART Fusion)",
     "flag": "gb",
     "zwid": 1570755,
-    "podiums": "bronze",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
@@ -1233,8 +1331,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 122,
+    "events": 5,
+    "points": 147,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1247,7 +1345,7 @@
   },
   {
     "category": "C",
-    "events": 6,
+    "events": 7,
     "points": 300,
     "tname": "CrushPod",
     "tc": "000000",
@@ -1256,13 +1354,13 @@
     "name": "Sara Sto Helit (CrushPod)",
     "flag": "se",
     "zwid": 1615499,
-    "podiums": "gold gold gold gold gold gold",
+    "podiums": "gold gold gold gold gold gold silver",
     "upgrades": 0
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 164,
+    "events": 7,
+    "points": 179,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1270,13 +1368,13 @@
     "name": "Jo Graham (CrushPod)",
     "flag": "gb",
     "zwid": 1615725,
-    "podiums": "silver",
+    "podiums": "silver bronze",
     "upgrades": 0
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 170,
+    "events": 6,
+    "points": 195,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -1316,6 +1414,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Erica Adelberg",
+    "flag": "us",
+    "zwid": 1674115,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 25,
@@ -1345,8 +1457,8 @@
   },
   {
     "category": "A",
-    "events": 5,
-    "points": 149,
+    "events": 6,
+    "points": 189,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1354,13 +1466,13 @@
     "name": "Amy McQueen (CrushPod)",
     "flag": "gb-sct",
     "zwid": 1758933,
-    "podiums": "gold silver silver bronze",
+    "podiums": "gold silver silver silver bronze",
     "upgrades": 1
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 80,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1368,7 +1480,7 @@
     "name": "Kate Lascelles (CrushPod)",
     "flag": "gb",
     "zwid": 1795843,
-    "podiums": "silver",
+    "podiums": "silver silver",
     "upgrades": 0
   },
   {
@@ -1401,6 +1513,20 @@
   },
   {
     "category": "C",
+    "events": 1,
+    "points": 17,
+    "tname": "ZwiftScotland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "000000",
+    "name": "Elaine Greenhalgh (ZScot)",
+    "flag": "gb",
+    "zwid": 1852732,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
     "events": 2,
     "points": 43,
     "tname": "",
@@ -1415,30 +1541,30 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 100,
+    "events": 3,
+    "points": 140,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
     "tbd": "878484",
-    "name": "O   Livia (AHDRL Belladonnas)",
+    "name": "O Livia (CrushPod)",
     "flag": "gb",
     "zwid": 1899141,
-    "podiums": "gold gold",
+    "podiums": "gold gold silver",
     "upgrades": 0
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 90,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100",
-    "name": "Hollie Burgin (BRT Venus)",
+    "events": 3,
+    "points": 130,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d",
+    "name": "Hollie Burgin",
     "flag": "gb",
     "zwid": 1921340,
-    "podiums": "gold silver",
+    "podiums": "gold silver silver",
     "upgrades": 0
   },
   {
@@ -1471,8 +1597,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 184,
+    "events": 6,
+    "points": 212,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -1512,9 +1638,23 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "N olwenn Coyote",
+    "flag": "fr",
+    "zwid": 2020409,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
-    "events": 6,
-    "points": 196,
+    "events": 7,
+    "points": 207,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -1522,7 +1662,21 @@
     "name": "Julie Clark (ART Ions)",
     "flag": "gb",
     "zwid": 2025471,
-    "podiums": "silver silver bronze bronze",
+    "podiums": "silver silver bronze bronze bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 28,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Michelle Orme [BRT]",
+    "flag": "gb",
+    "zwid": 2062887,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1597,8 +1751,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 140,
+    "events": 4,
+    "points": 190,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -1606,7 +1760,7 @@
     "name": "Madeleine Hatfield (CrushPod2)",
     "flag": "gb",
     "zwid": 2229590,
-    "podiums": "gold gold silver",
+    "podiums": "gold gold gold silver",
     "upgrades": 0
   },
   {
@@ -1736,6 +1890,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "2e2c2c",
+    "tbd": "e33131",
+    "name": "Debbie G(ART)",
+    "flag": "gb",
+    "zwid": 2575137,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 25,
@@ -1850,6 +2018,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Natalie Holden",
+    "flag": "gb",
+    "zwid": 2713233,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 19,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
@@ -1891,7 +2073,7 @@
   },
   {
     "category": "B",
-    "events": 6,
+    "events": 7,
     "points": 273,
     "tname": "CrushPod",
     "tc": "000000",
@@ -1900,7 +2082,7 @@
     "name": "Karoline Stra\u0026szlig;er (CrushPod)",
     "flag": "de",
     "zwid": 2753568,
-    "podiums": "gold gold gold gold silver bronze",
+    "podiums": "gold gold gold gold silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -1947,8 +2129,8 @@
   },
   {
     "category": "C",
-    "events": 6,
-    "points": 118,
+    "events": 7,
+    "points": 125,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -2017,8 +2199,8 @@
   },
   {
     "category": "D",
-    "events": 6,
-    "points": 280,
+    "events": 7,
+    "points": 290,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -2026,7 +2208,7 @@
     "name": "Julia Volkmann (CrushPod)",
     "flag": "de",
     "zwid": 2938598,
-    "podiums": "gold gold gold gold silver silver",
+    "podiums": "gold gold gold gold gold silver silver",
     "upgrades": 0
   },
   {
@@ -2059,8 +2241,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 106,
+    "events": 5,
+    "points": 131,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
@@ -2087,8 +2269,8 @@
   },
   {
     "category": "D",
-    "events": 5,
-    "points": 201,
+    "events": 6,
+    "points": 251,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -2096,7 +2278,7 @@
     "name": "Sara La Civita [RAVE]",
     "flag": "de",
     "zwid": 3062615,
-    "podiums": "gold gold silver bronze",
+    "podiums": "gold gold gold silver bronze",
     "upgrades": 0
   },
   {
@@ -2172,6 +2354,34 @@
   {
     "category": "D",
     "events": 1,
+    "points": 33,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "2e2c2c",
+    "tbd": "e33131",
+    "name": "Karen Watson (ART)",
+    "flag": "gb",
+    "zwid": 3208081,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Sarah Dobson",
+    "flag": "gb",
+    "zwid": 3227862,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
     "points": 40,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -2226,9 +2436,9 @@
     "upgrades": 0
   },
   {
-    "category": "D",
-    "events": 3,
-    "points": 120,
+    "category": "C",
+    "events": 4,
+    "points": 79,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -2237,7 +2447,7 @@
     "flag": "gb",
     "zwid": 3444537,
     "podiums": "silver silver silver",
-    "upgrades": 0
+    "upgrades": 1
   },
   {
     "category": "D",
@@ -2325,8 +2535,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 146,
+    "events": 6,
+    "points": 168,
     "tname": "ART",
     "tc": "ffffff",
     "tbc": "2e2c2c",
@@ -2339,8 +2549,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 117,
+    "events": 6,
+    "points": 145,
     "tname": "Team RAVE",
     "tc": "000000",
     "tbc": "ccff00",
@@ -2465,16 +2675,16 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tname": "CrushPod",
     "tc": "000000",
     "tbc": "faff1e",
     "tbd": "878484",
-    "name": "Caroline Krau\u0026szlig; (CrushPod2)",
+    "name": "Caroline Krau\u0026szlig; (CrushPod)",
     "flag": "de",
     "zwid": 3854958,
-    "podiums": "gold",
+    "podiums": "gold gold",
     "upgrades": 0
   },
   {
@@ -2492,6 +2702,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Alicia Arnst",
+    "flag": "us",
+    "zwid": 3895551,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 3,
     "points": 73,
@@ -2504,5 +2728,19 @@
     "zwid": 3895978,
     "podiums": "silver",
     "upgrades": 1
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Kirsty Heber-Smith1975",
+    "flag": "gb",
+    "zwid": 4025192,
+    "podiums": "",
+    "upgrades": 0
   }
 ]
