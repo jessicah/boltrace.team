@@ -28,6 +28,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mark  Astley.  Motion Orbea 9090",
+    "flag": "au",
+    "zwid": 31273,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 40,
@@ -198,6 +212,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Nick Clarke [BRT]",
+    "flag": "gb",
+    "zwid": 644165,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 40,
     "tname": "",
     "tc": "",
@@ -281,8 +309,8 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 157,
+    "events": 6,
+    "points": 197,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -290,7 +318,7 @@
     "name": "Angela MacRae [BRT]",
     "flag": "au",
     "zwid": 1332978,
-    "podiums": "silver bronze",
+    "podiums": "silver silver bronze",
     "upgrades": 0
   },
   {
@@ -381,6 +409,20 @@
     "category": "A",
     "events": 1,
     "points": 28,
+    "tname": "Storeskiva ZR",
+    "tc": "1c1818",
+    "tbc": "2d4f69",
+    "tbd": "2e0808",
+    "name": "Sverre Amrani - The threshold guy (VCRT) ",
+    "flag": "no",
+    "zwid": 1844598,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
     "tname": "FTP racing",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -389,6 +431,20 @@
     "flag": "gb",
     "zwid": 1897303,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d",
+    "name": "Timothy McLeod (DIRT-Riot)",
+    "flag": "us",
+    "zwid": 1921243,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -421,8 +477,36 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 150,
+    "events": 1,
+    "points": 25,
+    "tname": "RCSR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Riley Claire | RCS Racing",
+    "flag": "ca",
+    "zwid": 2417032,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "Musette ",
+    "tc": "ffffff",
+    "tbc": "12cfcf",
+    "tbd": "000000",
+    "name": "Brad Issel (MusetteHoneyBadger)",
+    "flag": "ca",
+    "zwid": 2433966,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 6,
+    "points": 178,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -431,6 +515,20 @@
     "flag": "ca",
     "zwid": 2481505,
     "podiums": "gold bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Kieran Scott",
+    "flag": "au",
+    "zwid": 2644779,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -463,8 +561,8 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 126,
+    "events": 5,
+    "points": 151,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -627,6 +725,20 @@
     "flag": "gb",
     "zwid": 3602330,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Derek Wall",
+    "flag": "us",
+    "zwid": 3633014,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {

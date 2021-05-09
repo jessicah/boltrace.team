@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 14,
-    "points": 492,
+    "events": 16,
+    "points": 560,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 126,
+    "events": 6,
+    "points": 201,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -90,6 +90,16 @@
     "tbd": "383c3d"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 40,
@@ -143,6 +153,16 @@
     "category": "A",
     "events": 1,
     "points": 28,
+    "tid": 7069,
+    "tname": "Storeskiva ZR",
+    "tc": "1c1818",
+    "tbc": "2d4f69",
+    "tbd": "2e0808"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
     "tid": 8353,
     "tname": "FTP racing",
     "tc": "ffffff",
@@ -170,6 +190,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tid": 10347,
+    "tname": "Musette ",
+    "tc": "ffffff",
+    "tbc": "12cfcf",
+    "tbd": "000000"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -178,6 +208,16 @@
     "tc": "ffffff",
     "tbc": "a30000",
     "tbd": "422e2e"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 12342,
+    "tname": "RCSR",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
