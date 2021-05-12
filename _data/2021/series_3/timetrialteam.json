@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 4,
-    "points": 146,
+    "events": 5,
+    "points": 196,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -60,6 +60,16 @@
     "tbd": "ff0000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 168,
+    "tname": "Team Type 1",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -101,8 +111,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 178,
+    "events": 5,
+    "points": 218,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -128,6 +138,16 @@
     "tc": "29ec34",
     "tbc": "563c0f",
     "tbd": "df6a0d"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 50,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -200,6 +220,16 @@
     "tbd": "ff0000"
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 8989,
+    "tname": "MUSSARA.CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 50,
@@ -208,6 +238,16 @@
     "tc": "0f0d0d",
     "tbc": "2989bf",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 9976,
+    "tname": "Valhalla",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff4500"
   },
   {
     "category": "B",

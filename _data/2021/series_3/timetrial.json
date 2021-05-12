@@ -29,8 +29,8 @@
   },
   {
     "category": "D",
-    "events": 4,
-    "points": 146,
+    "events": 5,
+    "points": 196,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -38,7 +38,7 @@
     "name": "John Cameron  (BRT )",
     "flag": "gb",
     "zwid": 109551,
-    "podiums": "silver silver bronze bronze",
+    "podiums": "gold silver silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -392,6 +392,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Chris Scherb",
+    "flag": "de",
+    "zwid": 637592,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 14,
@@ -492,6 +506,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 22,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Leandro Carvalho 5470",
+    "flag": "br",
+    "zwid": 833283,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 16,
     "tname": "",
     "tc": "",
@@ -518,6 +546,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Fredrik Norkvist",
+    "flag": "se",
+    "zwid": 875564,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 25,
@@ -529,6 +571,20 @@
     "flag": "ca",
     "zwid": 894658,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Wolfgang G\u0026uuml;nther",
+    "flag": "de",
+    "zwid": 909199,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -547,8 +603,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 80,
+    "events": 3,
+    "points": 130,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -556,7 +612,7 @@
     "name": "Darren Stanley",
     "flag": "gb-eng",
     "zwid": 930886,
-    "podiums": "silver silver",
+    "podiums": "gold silver silver",
     "upgrades": 0
   },
   {
@@ -602,6 +658,34 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "Team Type 1",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Mark Cowap (TT1 CGMs)",
+    "flag": "gb",
+    "zwid": 1147415,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "I\u0026ntilde;igo Izeta ",
+    "flag": "tt",
+    "zwid": 1264718,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 25,
@@ -641,6 +725,20 @@
     "flag": "ca",
     "zwid": 1359436,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "Valhalla",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ff4500",
+    "name": "Manuel V [TV] (Gram)",
+    "flag": "de",
+    "zwid": 1393485,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -728,6 +826,34 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Howard Dale",
+    "flag": "gb",
+    "zwid": 1608820,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "MUSSARA.CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Alex Wendt (MUSSARA.CC)",
+    "flag": "es",
+    "zwid": 1696483,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 90,
@@ -798,6 +924,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "TONO   CICLESPORT ALBORAIA",
+    "flag": "es",
+    "zwid": 2395105,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 28,
@@ -841,8 +981,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 178,
+    "events": 5,
+    "points": 218,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
@@ -850,7 +990,7 @@
     "name": "Marco Roetert Steenbruggen",
     "flag": "nl",
     "zwid": 2878630,
-    "podiums": "gold gold gold",
+    "podiums": "gold gold gold silver",
     "upgrades": 0
   },
   {
@@ -925,8 +1065,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 142,
+    "events": 5,
+    "points": 167,
     "tname": "",
     "tc": "",
     "tbc": "",
