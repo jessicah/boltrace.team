@@ -1,13 +1,23 @@
 [
   {
     "category": "E",
-    "events": 9,
-    "points": 244,
+    "events": 10,
+    "points": 260,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
     "tbd": "ff8100"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 50,
+    "tid": 168,
+    "tname": "Team Type 1",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "E",
@@ -41,8 +51,8 @@
   },
   {
     "category": "E",
-    "events": 4,
-    "points": 162,
+    "events": 5,
+    "points": 187,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -68,6 +78,16 @@
     "tc": "29ec34",
     "tbc": "563c0f",
     "tbd": "df6a0d"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 22,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "E",
@@ -118,6 +138,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ff0000"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 8989,
+    "tname": "MUSSARA.CC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "E",
