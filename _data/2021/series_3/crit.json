@@ -196,6 +196,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Reinder Evertz ",
+    "flag": "nl",
+    "zwid": 96545,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -295,8 +309,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 19,
+    "events": 2,
+    "points": 44,
     "tname": "TOR 2000 | Kalas",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -519,8 +533,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 23,
+    "events": 3,
+    "points": 38,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -533,8 +547,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 50,
+    "events": 3,
+    "points": 100,
     "tname": "Rowe \u0026 King",
     "tc": "ffffff",
     "tbc": "2b5bb8",
@@ -542,7 +556,7 @@
     "name": "Luke Dix (R\u0026K Lions)",
     "flag": "gb-wls",
     "zwid": 214249,
-    "podiums": "",
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -660,6 +674,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 40,
+    "tname": "Greyt Coffee",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Martin Michael",
+    "flag": "gi",
+    "zwid": 315605,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 15,
     "tname": "",
     "tc": "",
@@ -756,6 +784,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ben Davies",
+    "flag": "gb",
+    "zwid": 404160,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -767,6 +809,20 @@
     "flag": "gb",
     "zwid": 407237,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 19,
+    "tname": "England CC",
+    "tc": "ffffff",
+    "tbc": "d24848",
+    "tbd": "3b3b6b",
+    "name": "Pastor-Kawesi Holland",
+    "flag": "gb",
+    "zwid": 410799,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -912,6 +968,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 33,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Joe Agnew",
+    "flag": "gb-sct",
+    "zwid": 585059,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 25,
     "tname": "ABRT",
     "tc": "ffffff",
@@ -949,6 +1019,20 @@
     "flag": "ca",
     "zwid": 616484,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "CCC",
+    "tc": "eb1919",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Jonny Steele (CCC B1znSdls)",
+    "flag": "gb",
+    "zwid": 622861,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1078,6 +1162,20 @@
     "upgrades": 0
   },
   {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tname": "99Bikes",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000",
+    "name": "Rilyn Mosbey (99 Bikes)",
+    "flag": "au",
+    "zwid": 776835,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 90,
@@ -1102,6 +1200,20 @@
     "name": "I J Med 3094",
     "flag": "gb",
     "zwid": 786407,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 13,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jon Winchester",
+    "flag": "us",
+    "zwid": 789448,
     "podiums": "",
     "upgrades": 0
   },
@@ -1428,6 +1540,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ben Orford",
+    "flag": "au",
+    "zwid": 1405447,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 18,
@@ -1484,6 +1610,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "SNOW",
+    "tc": "ffffff",
+    "tbc": "76bcfa",
+    "tbd": "000000",
+    "name": "Innes Jamieson (SNOW)",
+    "flag": "gb-sct",
+    "zwid": 1539388,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 40,
@@ -1495,6 +1635,20 @@
     "flag": "gb",
     "zwid": 1551334,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "Biciobiker",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Javier Garcia",
+    "flag": "es",
+    "zwid": 1551419,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1582,6 +1736,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Pierre Leblanc4908",
+    "flag": "fr",
+    "zwid": 1690727,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 33,
@@ -1635,6 +1803,20 @@
     "flag": "gb",
     "zwid": 1878776,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000",
+    "name": "Ru Maroto [PETA-Z]",
+    "flag": "es",
+    "zwid": 1896572,
+    "podiums": "silver",
     "upgrades": 0
   },
   {
@@ -1694,6 +1876,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 15,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Darcy Yee 8172 (HPP)",
+    "flag": "ca",
+    "zwid": 2231027,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 16,
@@ -1722,6 +1918,34 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tname": "WMZ",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Jason Green ",
+    "flag": "au",
+    "zwid": 2373928,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 12,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Richard Ruffle",
+    "flag": "gb",
+    "zwid": 2399902,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 20,
@@ -1737,8 +1961,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 90,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -1746,7 +1970,21 @@
     "name": "Richard Jones (BRT)",
     "flag": "kn",
     "zwid": 2409422,
-    "podiums": "silver",
+    "podiums": "gold silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 16,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Yoccy Arachan 5204",
+    "flag": "jp",
+    "zwid": 2442156,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1774,6 +2012,20 @@
     "name": "paul francis9972",
     "flag": "ie",
     "zwid": 2573077,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "Volharding",
+    "tc": "e00808",
+    "tbc": "0073b7",
+    "tbd": "eb2d2d",
+    "name": "Manar Rayes",
+    "flag": "nl",
+    "zwid": 2611729,
     "podiums": "",
     "upgrades": 0
   },
@@ -1820,9 +2072,23 @@
     "upgrades": 0
   },
   {
-    "category": "C",
+    "category": "B",
     "events": 1,
-    "points": 22,
+    "points": 20,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100",
+    "name": "Carl Murray",
+    "flag": "nz",
+    "zwid": 2760636,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 42,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1891,8 +2157,8 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 121,
+    "events": 6,
+    "points": 143,
     "tname": "Team Poland",
     "tc": "ffffff",
     "tbc": "ff1800",
@@ -1901,6 +2167,34 @@
     "flag": "pl",
     "zwid": 2877804,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "James  Lynch5091",
+    "flag": "ie",
+    "zwid": 2918490,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Etienne Knols",
+    "flag": "nl",
+    "zwid": 2936099,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -1932,6 +2226,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 14,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Zbyszek Rowi\u0026#324;ski 2386",
+    "flag": "pl",
+    "zwid": 3022398,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 50,
@@ -1943,6 +2251,20 @@
     "flag": "zw",
     "zwid": 3023982,
     "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Dave Harcourt",
+    "flag": "gb",
+    "zwid": 3053052,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -2074,6 +2396,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jonathan Abel",
+    "flag": "gb",
+    "zwid": 3436887,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 19,
     "tname": "BAKPDL",
     "tc": "000000",
@@ -2152,6 +2488,48 @@
     "name": "Paal Reksten (HTK)",
     "flag": "no",
     "zwid": 3855101,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mikey Buenaventura",
+    "flag": "us",
+    "zwid": 3855481,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tname": "SNOW",
+    "tc": "ffffff",
+    "tbc": "76bcfa",
+    "tbd": "000000",
+    "name": "Philip Hinch (Snow Sonic)",
+    "flag": "gb",
+    "zwid": 3895784,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 16,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Mark van Doesburg-2873",
+    "flag": "nl",
+    "zwid": 3911506,
     "podiums": "",
     "upgrades": 0
   },

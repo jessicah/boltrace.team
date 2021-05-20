@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 4,
-    "points": 141,
+    "events": 5,
+    "points": 191,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 86,
+    "events": 5,
+    "points": 106,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -51,8 +51,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 139,
+    "events": 7,
+    "points": 161,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -191,8 +191,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 50,
+    "events": 3,
+    "points": 100,
     "tid": 2298,
     "tname": "Rowe \u0026 King",
     "tc": "ffffff",
@@ -210,9 +210,19 @@
     "tbd": "df6a0d"
   },
   {
-    "category": "B",
+    "category": "A",
     "events": 1,
-    "points": 19,
+    "points": 33,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 44,
     "tid": 2743,
     "tname": "TOR 2000 | Kalas",
     "tc": "ffffff",
@@ -402,12 +412,52 @@
   {
     "category": "B",
     "events": 1,
+    "points": 28,
+    "tid": 7177,
+    "tname": "CCC",
+    "tc": "eb1919",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 13,
     "tid": 7192,
     "tname": "GOBIK",
     "tc": "ffffff",
     "tbc": "2b0505",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tid": 7347,
+    "tname": "WMZ",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 25,
+    "tid": 7357,
+    "tname": "99Bikes",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 19,
+    "tid": 7423,
+    "tname": "England CC",
+    "tc": "ffffff",
+    "tbc": "d24848",
+    "tbd": "3b3b6b"
   },
   {
     "category": "A",
@@ -462,6 +512,26 @@
   {
     "category": "B",
     "events": 1,
+    "points": 19,
+    "tid": 9957,
+    "tname": "Biciobiker",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tid": 10217,
+    "tname": "Volharding",
+    "tc": "e00808",
+    "tbc": "0073b7",
+    "tbd": "eb2d2d"
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 9,
     "tid": 10372,
     "tname": "Tri NZ",
@@ -472,12 +542,52 @@
   {
     "category": "C",
     "events": 1,
+    "points": 40,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
+  },
+  {
+    "category": "C",
+    "events": 1,
     "points": 33,
     "tid": 11818,
     "tname": "RHINO",
     "tc": "d9a3a3",
     "tbc": "872424",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 11955,
+    "tname": "Greyt Coffee",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 12300,
+    "tname": "SNOW",
+    "tc": "ffffff",
+    "tbc": "76bcfa",
+    "tbd": "000000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 12300,
+    "tname": "SNOW",
+    "tc": "ffffff",
+    "tbc": "76bcfa",
+    "tbd": "000000"
   },
   {
     "category": "B",
