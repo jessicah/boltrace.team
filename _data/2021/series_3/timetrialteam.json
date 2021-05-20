@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 5,
-    "points": 196,
+    "events": 7,
+    "points": 286,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -111,8 +111,18 @@
   },
   {
     "category": "B",
-    "events": 5,
-    "points": 218,
+    "events": 6,
+    "points": 258,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -151,6 +161,16 @@
   },
   {
     "category": "B",
+    "events": 1,
+    "points": 18,
+    "tid": 2835,
+    "tname": "OLYM",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
     "events": 4,
     "points": 148,
     "tid": 2991,
@@ -158,6 +178,16 @@
     "tc": "210606",
     "tbc": "f2e80d",
     "tbd": "000103"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 3514,
+    "tname": "RMACC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "B",
@@ -178,6 +208,16 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "ffff00"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 4585,
+    "tname": "TeamFRL",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "318ce7"
   },
   {
     "category": "C",
@@ -260,11 +300,51 @@
     "tbd": "ffffff"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 10795,
+    "tname": "M.D.",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 10818,
+    "tname": "SCTA",
+    "tc": "fff252",
+    "tbc": "0073b7",
+    "tbd": "fff252"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 11818,
+    "tname": "RHINO",
+    "tc": "d9a3a3",
+    "tbc": "872424",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
     "tid": 12154,
     "tname": "NOBs JC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 12514,
+    "tname": "DCS",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
@@ -318,5 +398,15 @@
     "tc": "000000",
     "tbc": "00ff48",
     "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tid": 15357,
+    "tname": "RolSto",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   }
 ]
