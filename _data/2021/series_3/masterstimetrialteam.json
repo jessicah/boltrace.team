@@ -1,8 +1,8 @@
 [
   {
     "category": "E",
-    "events": 10,
-    "points": 260,
+    "events": 12,
+    "points": 295,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -51,8 +51,8 @@
   },
   {
     "category": "E",
-    "events": 5,
-    "points": 187,
+    "events": 7,
+    "points": 265,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -91,6 +91,16 @@
   },
   {
     "category": "E",
+    "events": 1,
+    "points": 18,
+    "tid": 2835,
+    "tname": "OLYM",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "E",
     "events": 2,
     "points": 45,
     "tid": 2991,
@@ -98,6 +108,16 @@
     "tc": "210606",
     "tbc": "f2e80d",
     "tbd": "000103"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tid": 3514,
+    "tname": "RMACC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "E",
@@ -118,6 +138,16 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "ffff00"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 40,
+    "tid": 4585,
+    "tname": "TeamFRL",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "318ce7"
   },
   {
     "category": "E",
@@ -157,6 +187,16 @@
     "tname": "Tretas BT",
     "tc": "ffffff",
     "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 17,
+    "tid": 11818,
+    "tname": "RHINO",
+    "tc": "d9a3a3",
+    "tbc": "872424",
     "tbd": "ffffff"
   },
   {
