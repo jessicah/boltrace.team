@@ -1,8 +1,8 @@
 [
   {
     "category": "J",
-    "events": 4,
-    "points": 190,
+    "events": 5,
+    "points": 240,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "G",
-    "events": 6,
-    "points": 236,
+    "events": 8,
+    "points": 309,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -40,9 +40,19 @@
     "tbd": "ff8100"
   },
   {
+    "category": "E",
+    "events": 12,
+    "points": 295,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
     "category": "D",
-    "events": 21,
-    "points": 862,
+    "events": 24,
+    "points": 1034,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -61,8 +71,8 @@
   },
   {
     "category": "B",
-    "events": 20,
-    "points": 769,
+    "events": 22,
+    "points": 836,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -71,8 +81,8 @@
   },
   {
     "category": "A",
-    "events": 18,
-    "points": 668,
+    "events": 21,
+    "points": 793,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -93,6 +103,16 @@
     "category": "C",
     "events": 2,
     "points": 70,
+    "tid": 7,
+    "tname": "TeamODZ",
+    "tc": "ff851b",
+    "tbc": "111111",
+    "tbd": "3c8dbc"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 18,
     "tid": 7,
     "tname": "TeamODZ",
     "tc": "ff851b",
@@ -151,8 +171,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 52,
+    "events": 3,
+    "points": 92,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -331,8 +351,8 @@
   },
   {
     "category": "C",
-    "events": 8,
-    "points": 183,
+    "events": 9,
+    "points": 203,
     "tid": 1677,
     "tname": "Team Fearless",
     "tc": "001f3f",
@@ -420,6 +440,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "E",
+    "events": 1,
+    "points": 22,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 28,
@@ -441,8 +471,8 @@
   },
   {
     "category": "B",
-    "events": 14,
-    "points": 426,
+    "events": 16,
+    "points": 504,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -451,13 +481,23 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 17,
+    "events": 2,
+    "points": 42,
     "tid": 2934,
     "tname": "ZwiftScotland",
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "000000"
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 45,
+    "tid": 2991,
+    "tname": "KIRCHMAIR e-Cycling",
+    "tc": "210606",
+    "tbc": "f2e80d",
+    "tbd": "000103"
   },
   {
     "category": "B",
@@ -490,6 +530,16 @@
     "tbd": "000000"
   },
   {
+    "category": "F",
+    "events": 1,
+    "points": 50,
+    "tid": 4201,
+    "tname": "WTRL",
+    "tc": "d4af37",
+    "tbc": "000000",
+    "tbd": "d4af37"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 19,
@@ -511,8 +561,8 @@
   },
   {
     "category": "D",
-    "events": 19,
-    "points": 599,
+    "events": 21,
+    "points": 638,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -521,8 +571,8 @@
   },
   {
     "category": "C",
-    "events": 20,
-    "points": 592,
+    "events": 23,
+    "points": 693,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -620,6 +670,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 18,
+    "tid": 10120,
+    "tname": "CMA",
+    "tc": "e09191",
+    "tbc": "5beded",
+    "tbd": "f0a0a0"
+  },
+  {
     "category": "C",
     "events": 2,
     "points": 58,
@@ -638,6 +698,16 @@
     "tc": "f5f511",
     "tbc": "030303",
     "tbd": "e9ed0d"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 11789,
+    "tname": "S R T",
+    "tc": "f7f700",
+    "tbc": "1c30e8",
+    "tbd": "faff00"
   },
   {
     "category": "D",
@@ -711,8 +781,8 @@
   },
   {
     "category": "D",
-    "events": 20,
-    "points": 809,
+    "events": 22,
+    "points": 899,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -731,8 +801,8 @@
   },
   {
     "category": "B",
-    "events": 13,
-    "points": 433,
+    "events": 14,
+    "points": 458,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -761,8 +831,8 @@
   },
   {
     "category": "C",
-    "events": 11,
-    "points": 530,
+    "events": 12,
+    "points": 580,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -771,8 +841,8 @@
   },
   {
     "category": "B",
-    "events": 21,
-    "points": 849,
+    "events": 24,
+    "points": 942,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
