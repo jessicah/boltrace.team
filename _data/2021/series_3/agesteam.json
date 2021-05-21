@@ -1,8 +1,8 @@
 [
   {
     "category": "J",
-    "events": 5,
-    "points": 240,
+    "events": 7,
+    "points": 330,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "G",
-    "events": 8,
-    "points": 309,
+    "events": 9,
+    "points": 349,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -41,8 +41,8 @@
   },
   {
     "category": "D",
-    "events": 5,
-    "points": 223,
+    "events": 6,
+    "points": 256,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -151,8 +151,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 90,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -231,8 +231,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 83,
     "tid": 1986,
     "tname": "DBR",
     "tc": "ffffff",
@@ -261,8 +261,8 @@
   },
   {
     "category": "F",
-    "events": 4,
-    "points": 158,
+    "events": 5,
+    "points": 183,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -380,6 +380,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 3724,
+    "tname": "SoCo",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "E",
     "events": 1,
     "points": 20,
@@ -398,6 +408,16 @@
     "tc": "d4af37",
     "tbc": "000000",
     "tbd": "d4af37"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 4294,
+    "tname": "Klub V\u0026#275;",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "ffffff"
   },
   {
     "category": "E",
@@ -430,6 +450,16 @@
     "tbd": "008ec8"
   },
   {
+    "category": "F",
+    "events": 1,
+    "points": 33,
+    "tid": 4578,
+    "tname": "Royal Navy Cycling",
+    "tc": "ffffff",
+    "tbc": "00163b",
+    "tbd": "00163b"
+  },
+  {
     "category": "E",
     "events": 1,
     "points": 16,
@@ -438,6 +468,16 @@
     "tc": "ffffff",
     "tbc": "ff1f00",
     "tbd": "33735b"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tid": 4742,
+    "tname": "EVOLUTION ",
+    "tc": "ff09ff",
+    "tbc": "2e1c1c",
+    "tbd": "ff09ff"
   },
   {
     "category": "G",
@@ -461,8 +501,8 @@
   },
   {
     "category": "E",
-    "events": 3,
-    "points": 150,
+    "events": 4,
+    "points": 190,
     "tid": 5408,
     "tname": "BHC",
     "tc": "ffffff",
@@ -541,8 +581,8 @@
   },
   {
     "category": "G",
-    "events": 6,
-    "points": 231,
+    "events": 7,
+    "points": 264,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -551,8 +591,8 @@
   },
   {
     "category": "E",
-    "events": 5,
-    "points": 128,
+    "events": 6,
+    "points": 153,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -571,8 +611,8 @@
   },
   {
     "category": "B",
-    "events": 11,
-    "points": 367,
+    "events": 14,
+    "points": 447,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -580,9 +620,29 @@
     "tbd": "000000"
   },
   {
-    "category": "F",
+    "category": "E",
     "events": 1,
-    "points": 33,
+    "points": 28,
+    "tid": 8305,
+    "tname": "RSB",
+    "tc": "ffffff",
+    "tbc": "0895eb",
+    "tbd": "f51d1d"
+  },
+  {
+    "category": "G",
+    "events": 1,
+    "points": 50,
+    "tid": 8772,
+    "tname": "KRV",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "F",
+    "events": 2,
+    "points": 61,
     "tid": 10683,
     "tname": "PETA-Z",
     "tc": "ff0000",
@@ -621,8 +681,8 @@
   },
   {
     "category": "F",
-    "events": 4,
-    "points": 200,
+    "events": 5,
+    "points": 250,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
@@ -648,6 +708,16 @@
     "tc": "ffffff",
     "tbc": "ff0000",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 11991,
+    "tname": "CANYON COALITION",
+    "tc": "ff00ff",
+    "tbc": "0000ff",
+    "tbd": "ff0000"
   },
   {
     "category": "F",
