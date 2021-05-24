@@ -100,6 +100,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 25,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Andy Lee (Farmer)",
+    "flag": "gb",
+    "zwid": 140254,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 40,
     "tname": "",
     "tc": "",
@@ -123,6 +137,34 @@
     "flag": "us",
     "zwid": 203854,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
+    "tname": "STAR Cycling",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Jurgen Verbocht (STAR CT)",
+    "flag": "nl",
+    "zwid": 259164,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Ian Fothergill ",
+    "flag": "gb",
+    "zwid": 299072,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -266,6 +308,48 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "MTCT",
+    "tc": "040312",
+    "tbc": "9cb2e8",
+    "tbd": "d4e60d",
+    "name": "Peter Fuerst",
+    "flag": "at",
+    "zwid": 825991,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Michel Binet ",
+    "flag": "ca",
+    "zwid": 868177,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Kevin Hanotiaux [URD3V]",
+    "flag": "be",
+    "zwid": 917063,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 33,
@@ -309,8 +393,22 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 197,
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Alec Thomas",
+    "flag": "gb",
+    "zwid": 1135714,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 7,
+    "points": 202,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -318,7 +416,7 @@
     "name": "Angela MacRae [BRT]",
     "flag": "au",
     "zwid": 1332978,
-    "podiums": "silver silver bronze",
+    "podiums": "silver silver bronze bronze",
     "upgrades": 0
   },
   {
@@ -385,6 +483,20 @@
     "tc": "",
     "tbc": "",
     "tbd": "",
+    "name": "Brian  Coulson",
+    "flag": "us",
+    "zwid": 1703887,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
     "name": "Gregory Foulds GCCC",
     "flag": "au",
     "zwid": 1712403,
@@ -408,6 +520,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 40,
+    "tname": "BANANAS?! ",
+    "tc": "fff13d",
+    "tbc": "707070",
+    "tbd": "fff13d",
+    "name": "Jan Trenson (CT The Bananas?!)",
+    "flag": "be",
+    "zwid": 1844437,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 28,
     "tname": "Storeskiva ZR",
     "tc": "1c1818",
@@ -417,6 +543,20 @@
     "flag": "no",
     "zwid": 1844598,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Julien Autret",
+    "flag": "fr",
+    "zwid": 1859180,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -463,6 +603,20 @@
   },
   {
     "category": "B",
+    "events": 1,
+    "points": 22,
+    "tname": "BAKPDL",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000",
+    "name": "Phillip Mulder",
+    "flag": "nl",
+    "zwid": 2087468,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
     "events": 3,
     "points": 140,
     "tname": "BRT",
@@ -473,6 +627,34 @@
     "flag": "gb-wls",
     "zwid": 2139157,
     "podiums": "gold gold silver",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c",
+    "name": "Tim Coppens\u0026#127793; [Team Vegan]",
+    "flag": "be",
+    "zwid": 2139446,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500",
+    "name": "Roelof Zwaan",
+    "flag": "nl",
+    "zwid": 2331361,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -505,8 +687,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 178,
+    "events": 7,
+    "points": 186,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -588,6 +770,20 @@
     "upgrades": 0
   },
   {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c",
+    "name": "Ellen Van Eeckhout [Team Vegan]",
+    "flag": "be",
+    "zwid": 2836546,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 33,
@@ -627,6 +823,20 @@
     "flag": "gb",
     "zwid": 2866781,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tname": "OTR Racing",
+    "tc": "ff5353",
+    "tbc": "000000",
+    "tbd": "ff0000",
+    "name": "Terry Wallner (OTR)",
+    "flag": "ca",
+    "zwid": 2877027,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -711,6 +921,34 @@
     "flag": "gb",
     "zwid": 3445169,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Marek Bomba8226",
+    "flag": "pl",
+    "zwid": 3552288,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Josete L\u0026oacute;pez",
+    "flag": "es",
+    "zwid": 3591966,
+    "podiums": "",
     "upgrades": 0
   },
   {

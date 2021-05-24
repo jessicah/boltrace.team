@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 16,
-    "points": 560,
+    "events": 18,
+    "points": 621,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -38,6 +38,16 @@
     "tc": "f3f300",
     "tbc": "0073b7",
     "tbd": "f3f300"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 120,
+    "tname": "MTCT",
+    "tc": "040312",
+    "tbc": "9cb2e8",
+    "tbd": "d4e60d"
   },
   {
     "category": "A",
@@ -78,6 +88,36 @@
     "tc": "3d9970",
     "tbc": "ffffff",
     "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 90,
+    "tid": 1845,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 40,
+    "tid": 2093,
+    "tname": "BANANAS?! ",
+    "tc": "fff13d",
+    "tbc": "707070",
+    "tbd": "fff13d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
   },
   {
     "category": "A",
@@ -193,6 +233,16 @@
     "category": "A",
     "events": 1,
     "points": 33,
+    "tid": 10262,
+    "tname": "STAR Cycling",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 33,
     "tid": 10347,
     "tname": "Musette ",
     "tc": "ffffff",
@@ -218,6 +268,26 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 12764,
+    "tname": "OTR Racing",
+    "tc": "ff5353",
+    "tbc": "000000",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 22,
+    "tid": 13264,
+    "tname": "BAKPDL",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
   },
   {
     "category": "B",
