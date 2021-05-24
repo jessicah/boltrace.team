@@ -2,7 +2,7 @@
   {
     "category": "D",
     "events": 21,
-    "points": 749,
+    "points": 769,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 19,
-    "points": 752,
+    "events": 20,
+    "points": 780,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 16,
-    "points": 551,
+    "events": 18,
+    "points": 624,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -91,8 +91,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 47,
+    "events": 3,
+    "points": 72,
     "tid": 36,
     "tname": "KISS RT",
     "tc": "f56600",
@@ -161,8 +161,8 @@
   },
   {
     "category": "A",
-    "events": 4,
-    "points": 180,
+    "events": 5,
+    "points": 230,
     "tid": 161,
     "tname": "ZSUN",
     "tc": "ffffff",
@@ -271,8 +271,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 80,
+    "events": 3,
+    "points": 113,
     "tid": 2740,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -310,6 +310,16 @@
     "tbd": "000103"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 3644,
+    "tname": "HTC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -341,8 +351,8 @@
   },
   {
     "category": "D",
-    "events": 21,
-    "points": 638,
+    "events": 22,
+    "points": 707,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -352,7 +362,7 @@
   {
     "category": "C",
     "events": 23,
-    "points": 693,
+    "points": 715,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -361,8 +371,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 195,
+    "events": 7,
+    "points": 223,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -451,8 +461,8 @@
   },
   {
     "category": "C",
-    "events": 2,
-    "points": 58,
+    "events": 3,
+    "points": 108,
     "tid": 10684,
     "tname": "Wattie Ink. Racing",
     "tc": "f5f511",
@@ -481,8 +491,8 @@
   },
   {
     "category": "D",
-    "events": 4,
-    "points": 133,
+    "events": 5,
+    "points": 161,
     "tid": 11839,
     "tname": "AEO",
     "tc": "ffffff",
@@ -551,8 +561,8 @@
   },
   {
     "category": "D",
-    "events": 22,
-    "points": 899,
+    "events": 23,
+    "points": 949,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -561,8 +571,8 @@
   },
   {
     "category": "C",
-    "events": 21,
-    "points": 636,
+    "events": 24,
+    "points": 708,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -591,8 +601,8 @@
   },
   {
     "category": "D",
-    "events": 7,
-    "points": 330,
+    "events": 8,
+    "points": 370,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -601,8 +611,8 @@
   },
   {
     "category": "C",
-    "events": 12,
-    "points": 580,
+    "events": 13,
+    "points": 620,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -612,7 +622,7 @@
   {
     "category": "B",
     "events": 24,
-    "points": 942,
+    "points": 989,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
