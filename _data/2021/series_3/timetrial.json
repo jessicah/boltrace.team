@@ -1,8 +1,8 @@
 [
   {
     "category": "B",
-    "events": 1,
-    "points": 28,
+    "events": 2,
+    "points": 53,
     "tname": "TeamFRL",
     "tc": "ffffff",
     "tbc": "ff0000",
@@ -10,6 +10,20 @@
     "name": "Boris Baeritys (Fryslan Boppers)",
     "flag": "nl",
     "zwid": 39355,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tname": "Tri Ireland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Simon Smith ",
+    "flag": "gb",
+    "zwid": 58381,
     "podiums": "",
     "upgrades": 0
   },
@@ -28,6 +42,20 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Graham Wall",
+    "flag": "gb",
+    "zwid": 85394,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
     "category": "B",
     "events": 1,
     "points": 18,
@@ -43,7 +71,7 @@
   },
   {
     "category": "D",
-    "events": 6,
+    "events": 7,
     "points": 246,
     "tname": "BRT",
     "tc": "ffffff",
@@ -52,7 +80,7 @@
     "name": "John Cameron  (BRT )",
     "flag": "gb",
     "zwid": 109551,
-    "podiums": "gold gold silver silver bronze bronze",
+    "podiums": "gold gold silver silver bronze bronze bronze",
     "upgrades": 0
   },
   {
@@ -141,8 +169,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 33,
+    "events": 2,
+    "points": 50,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -479,6 +507,20 @@
     "category": "A",
     "events": 1,
     "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "A Disk",
+    "flag": "nl",
+    "zwid": 662994,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
     "tname": "BAERO",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -590,6 +632,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 33,
+    "tname": "RockCC",
+    "tc": "ffffff",
+    "tbc": "1717dd",
+    "tbd": "eb1515",
+    "name": "Andrew Whitehead",
+    "flag": "gb",
+    "zwid": 817032,
+    "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 22,
     "tname": "Team CRYO-GEN",
     "tc": "ffffff",
@@ -641,6 +697,20 @@
     "flag": "se",
     "zwid": 875564,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jose Biondi",
+    "flag": "fr",
+    "zwid": 877856,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -744,6 +814,20 @@
   {
     "category": "B",
     "events": 1,
+    "points": 19,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d",
+    "name": "Billy  Z (DIRTy BS)",
+    "flag": "us",
+    "zwid": 1017130,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
     "points": 25,
     "tname": "",
     "tc": "",
@@ -757,8 +841,8 @@
   },
   {
     "category": "D",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 68,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -882,6 +966,20 @@
     "upgrades": 0
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 18,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Patrick O\u0027Dwyer",
+    "flag": "ie",
+    "zwid": 1401708,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -991,6 +1089,20 @@
     "flag": "es",
     "zwid": 1696483,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000",
+    "name": "Manuel Cantos",
+    "flag": "es",
+    "zwid": 1834115,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -1148,9 +1260,23 @@
     "upgrades": 0
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "C hamonixSean5821",
+    "flag": "fr",
+    "zwid": 2798756,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
     "category": "B",
-    "events": 6,
-    "points": 258,
+    "events": 7,
+    "points": 270,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
@@ -1158,7 +1284,21 @@
     "name": "Marco Roetert Steenbruggen",
     "flag": "nl",
     "zwid": 2878630,
-    "podiums": "gold gold gold silver silver",
+    "podiums": "gold gold gold silver silver silver",
+    "upgrades": 0
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c",
+    "name": "Ben   Bertrand  [Team Vegan]",
+    "flag": "fr",
+    "zwid": 2924420,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -1247,8 +1387,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 187,
+    "events": 7,
+    "points": 189,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -1341,6 +1481,20 @@
     "flag": "dk",
     "zwid": 3354183,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Gibbs#OTCF",
+    "flag": "gb",
+    "zwid": 3432951,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -1467,6 +1621,34 @@
     "flag": "gb",
     "zwid": 3866076,
     "podiums": "bronze",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Chewter6028",
+    "flag": "gb",
+    "zwid": 3920053,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Devlin Stow",
+    "flag": "za",
+    "zwid": 3929601,
+    "podiums": "silver",
     "upgrades": 0
   }
 ]

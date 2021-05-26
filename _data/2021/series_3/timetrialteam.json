@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 7,
-    "points": 286,
+    "events": 9,
+    "points": 347,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -80,6 +80,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 1845,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 19,
@@ -111,8 +121,8 @@
   },
   {
     "category": "B",
-    "events": 6,
-    "points": 258,
+    "events": 7,
+    "points": 298,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -143,6 +153,16 @@
     "category": "C",
     "events": 1,
     "points": 40,
+    "tid": 2707,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 19,
     "tid": 2707,
     "tname": "DIRT",
     "tc": "29ec34",
@@ -211,8 +231,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 28,
+    "events": 2,
+    "points": 53,
     "tid": 4585,
     "tname": "TeamFRL",
     "tc": "ffffff",
@@ -260,6 +280,16 @@
     "tbd": "ff0000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 7691,
+    "tname": "Tri Ireland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 40,
@@ -280,6 +310,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 9895,
+    "tname": "RockCC",
+    "tc": "ffffff",
+    "tbc": "1717dd",
+    "tbd": "eb1515"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -298,6 +338,16 @@
     "tc": "ffffff",
     "tbc": "0073b7",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tid": 10683,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000"
   },
   {
     "category": "C",
