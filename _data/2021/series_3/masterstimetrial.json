@@ -1,8 +1,8 @@
 [
   {
     "category": "E",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 68,
     "tname": "TeamFRL",
     "tc": "ffffff",
     "tbc": "ff0000",
@@ -11,6 +11,20 @@
     "flag": "nl",
     "zwid": 39355,
     "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 20,
+    "tname": "Tri Ireland",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff",
+    "name": "Simon Smith ",
+    "flag": "gb",
+    "zwid": 58381,
+    "podiums": "",
     "upgrades": 0
   },
   {
@@ -30,6 +44,20 @@
   {
     "category": "E",
     "events": 1,
+    "points": 11,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Graham Wall",
+    "flag": "gb",
+    "zwid": 85394,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
     "points": 17,
     "tname": "KIRCHMAIR e-Cycling",
     "tc": "210606",
@@ -43,7 +71,7 @@
   },
   {
     "category": "E",
-    "events": 6,
+    "events": 7,
     "points": 101,
     "tname": "BRT",
     "tc": "ffffff",
@@ -127,8 +155,8 @@
   },
   {
     "category": "E",
-    "events": 1,
-    "points": 25,
+    "events": 2,
+    "points": 41,
     "tname": "",
     "tc": "",
     "tbc": "",
@@ -310,6 +338,20 @@
   {
     "category": "E",
     "events": 1,
+    "points": 40,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "A Disk",
+    "flag": "nl",
+    "zwid": 662994,
+    "podiums": "silver",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
     "points": 19,
     "tname": "PDQ",
     "tc": "ffffff",
@@ -333,6 +375,20 @@
     "flag": "de",
     "zwid": 815463,
     "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 50,
+    "tname": "RockCC",
+    "tc": "ffffff",
+    "tbc": "1717dd",
+    "tbd": "eb1515",
+    "name": "Andrew Whitehead",
+    "flag": "gb",
+    "zwid": 817032,
+    "podiums": "gold",
     "upgrades": 0
   },
   {
@@ -374,6 +430,20 @@
     "name": "Fredrik Norkvist",
     "flag": "se",
     "zwid": 875564,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 13,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Jose Biondi",
+    "flag": "fr",
+    "zwid": 877856,
     "podiums": "",
     "upgrades": 0
   },
@@ -478,7 +548,21 @@
   {
     "category": "E",
     "events": 1,
-    "points": 16,
+    "points": 19,
+    "tname": "DIRT",
+    "tc": "29ec34",
+    "tbc": "563c0f",
+    "tbd": "df6a0d",
+    "name": "Billy  Z (DIRTy BS)",
+    "flag": "us",
+    "zwid": 1017130,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 2,
+    "points": 25,
     "tname": "BRT",
     "tc": "ffffff",
     "tbc": "050505",
@@ -570,6 +654,20 @@
     "name": ".  Mad Max.. ",
     "flag": "it",
     "zwid": 1395920,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 17,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Patrick O\u0027Dwyer",
+    "flag": "ie",
+    "zwid": 1401708,
     "podiums": "",
     "upgrades": 0
   },
@@ -689,6 +787,20 @@
     "category": "E",
     "events": 1,
     "points": 22,
+    "tname": "PETA-Z",
+    "tc": "ff0000",
+    "tbc": "ffff00",
+    "tbd": "000000",
+    "name": "Manuel Cantos",
+    "flag": "es",
+    "zwid": 1834115,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 22,
     "tname": "Bynea CC",
     "tc": "ffffff",
     "tbc": "0073b7",
@@ -771,8 +883,22 @@
   },
   {
     "category": "E",
-    "events": 6,
-    "points": 215,
+    "events": 1,
+    "points": 14,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "C hamonixSean5821",
+    "flag": "fr",
+    "zwid": 2798756,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 7,
+    "points": 218,
     "tname": "TeamNL",
     "tc": "ffffff",
     "tbc": "ffa500",
@@ -781,6 +907,20 @@
     "flag": "nl",
     "zwid": 2878630,
     "podiums": "gold gold silver",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tname": " VEGAN ",
+    "tc": "ffffff",
+    "tbc": "00a65a",
+    "tbd": "0adb2c",
+    "name": "Ben   Bertrand  [Team Vegan]",
+    "flag": "fr",
+    "zwid": 2924420,
+    "podiums": "bronze",
     "upgrades": 0
   },
   {
@@ -841,7 +981,7 @@
   },
   {
     "category": "E",
-    "events": 6,
+    "events": 7,
     "points": 160,
     "tname": "",
     "tc": "",
@@ -878,6 +1018,20 @@
     "name": "Kasper Buur [BAEK]",
     "flag": "dk",
     "zwid": 3354183,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 15,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Gibbs#OTCF",
+    "flag": "gb",
+    "zwid": 3432951,
     "podiums": "",
     "upgrades": 0
   },
@@ -948,6 +1102,20 @@
     "name": "Mark Templeton8548",
     "flag": "gb",
     "zwid": 3663261,
+    "podiums": "",
+    "upgrades": 0
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 10,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "David Chewter6028",
+    "flag": "gb",
+    "zwid": 3920053,
     "podiums": "",
     "upgrades": 0
   }
