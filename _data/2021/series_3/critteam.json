@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 5,
-    "points": 191,
+    "events": 6,
+    "points": 241,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -71,8 +71,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 55,
+    "events": 3,
+    "points": 95,
     "tid": 35,
     "tname": "BZR cycling team",
     "tc": "f3f300",
@@ -101,8 +101,8 @@
   },
   {
     "category": "B",
-    "events": 2,
-    "points": 48,
+    "events": 3,
+    "points": 98,
     "tid": 90,
     "tname": "Vikings",
     "tc": "c2c2c2",
@@ -121,8 +121,8 @@
   },
   {
     "category": "B",
-    "events": 4,
-    "points": 173,
+    "events": 5,
+    "points": 206,
     "tid": 629,
     "tname": "Team AHDR",
     "tc": "fc6955",
@@ -160,7 +160,27 @@
     "tbd": "000000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 25,
+    "tid": 1965,
+    "tname": "BIKES-FR",
+    "tc": "000000",
+    "tbc": "f2ad00",
+    "tbd": "000000"
+  },
+  {
     "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 1986,
+    "tname": "DBR",
+    "tc": "ffffff",
+    "tbc": "eb7b2a",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
     "events": 1,
     "points": 22,
     "tid": 1986,
@@ -190,9 +210,19 @@
     "tbd": "ff0000"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 20,
+    "tid": 2281,
+    "tname": "TeamNL",
+    "tc": "ffffff",
+    "tbc": "ffa500",
+    "tbd": "ffa500"
+  },
+  {
     "category": "A",
-    "events": 3,
-    "points": 100,
+    "events": 4,
+    "points": 150,
     "tid": 2298,
     "tname": "Rowe \u0026 King",
     "tc": "ffffff",
@@ -300,6 +330,16 @@
     "tbd": "f7850e"
   },
   {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 4178,
+    "tname": " [ ATP ] ",
+    "tc": "e0ffff",
+    "tbc": "008b8b",
+    "tbd": "00008b"
+  },
+  {
     "category": "A",
     "events": 1,
     "points": 50,
@@ -328,6 +368,16 @@
     "tc": "ffffff",
     "tbc": "d53c8d",
     "tbd": "008ec8"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 28,
+    "tid": 4713,
+    "tname": "eCKD",
+    "tc": "ffffff",
+    "tbc": "ff0000",
+    "tbd": "000000"
   },
   {
     "category": "A",
@@ -708,6 +758,16 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 14448,
+    "tname": "EPO",
+    "tc": "ffffff",
+    "tbc": "000000",
+    "tbd": "ff6b00"
   },
   {
     "category": "C",
