@@ -21,8 +21,8 @@
   },
   {
     "category": "G",
-    "events": 9,
-    "points": 349,
+    "events": 10,
+    "points": 399,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -83,6 +83,16 @@
     "category": "F",
     "events": 1,
     "points": 40,
+    "tid": 10,
+    "tname": "TFC",
+    "tc": "111111",
+    "tbc": "f3f300",
+    "tbd": "111111"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 68,
     "tid": 10,
     "tname": "TFC",
     "tc": "111111",
@@ -180,6 +190,16 @@
     "tbd": "3f4c54"
   },
   {
+    "category": "E",
+    "events": 1,
+    "points": 33,
+    "tid": 1426,
+    "tname": "Team CLS",
+    "tc": "3d9970",
+    "tbc": "ffffff",
+    "tbd": "ffffff"
+  },
+  {
     "category": "C",
     "events": 1,
     "points": 28,
@@ -218,6 +238,16 @@
     "tc": "1bc1f1",
     "tbc": "5b5b5b",
     "tbd": "1bc1f1"
+  },
+  {
+    "category": "E",
+    "events": 1,
+    "points": 22,
+    "tid": 1965,
+    "tname": "BIKES-FR",
+    "tc": "000000",
+    "tbc": "f2ad00",
+    "tbd": "000000"
   },
   {
     "category": "E",
@@ -270,6 +300,16 @@
     "tbd": "ffa500"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 33,
+    "tid": 2298,
+    "tname": "Rowe \u0026 King",
+    "tc": "ffffff",
+    "tbc": "2b5bb8",
+    "tbd": "2fba4e"
+  },
+  {
     "category": "E",
     "events": 1,
     "points": 33,
@@ -318,6 +358,16 @@
     "tc": "000000",
     "tbc": "ffffff",
     "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 2804,
+    "tname": "",
+    "tc": "008c7b",
+    "tbc": "000000",
+    "tbd": "b50000"
   },
   {
     "category": "E",
@@ -480,6 +530,16 @@
     "tbd": "ff09ff"
   },
   {
+    "category": "F",
+    "events": 1,
+    "points": 28,
+    "tid": 4835,
+    "tname": "CC Luton",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
     "category": "G",
     "events": 1,
     "points": 40,
@@ -501,8 +561,8 @@
   },
   {
     "category": "E",
-    "events": 4,
-    "points": 190,
+    "events": 5,
+    "points": 230,
     "tid": 5408,
     "tname": "BHC",
     "tc": "ffffff",
@@ -581,8 +641,8 @@
   },
   {
     "category": "G",
-    "events": 7,
-    "points": 264,
+    "events": 8,
+    "points": 304,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -591,8 +651,8 @@
   },
   {
     "category": "E",
-    "events": 6,
-    "points": 153,
+    "events": 7,
+    "points": 178,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -611,8 +671,8 @@
   },
   {
     "category": "B",
-    "events": 14,
-    "points": 447,
+    "events": 15,
+    "points": 472,
     "tid": 8252,
     "tname": "TRH (Team Rheinhessen)",
     "tc": "ffffff",
@@ -628,6 +688,16 @@
     "tc": "ffffff",
     "tbc": "0895eb",
     "tbd": "f51d1d"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 8439,
+    "tname": "WIAWIS",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "G",
@@ -681,8 +751,8 @@
   },
   {
     "category": "F",
-    "events": 5,
-    "points": 250,
+    "events": 6,
+    "points": 300,
     "tid": 11939,
     "tname": "DZR",
     "tc": "ffffff",
