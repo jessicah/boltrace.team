@@ -11,8 +11,8 @@
   },
   {
     "category": "B",
-    "events": 18,
-    "points": 621,
+    "events": 19,
+    "points": 619,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -68,6 +68,16 @@
     "tc": "dd4b39",
     "tbc": "ffffff",
     "tbd": "00a65a"
+  },
+  {
+    "category": "B",
+    "events": 2,
+    "points": 100,
+    "tid": 975,
+    "tname": "Innovation",
+    "tc": "000000",
+    "tbc": "52ff33",
+    "tbd": "000000"
   },
   {
     "category": "B",
