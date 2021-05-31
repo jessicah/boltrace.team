@@ -1,18 +1,8 @@
 [
   {
     "category": "D",
-    "events": 9,
-    "points": 347,
-    "tid": 4,
-    "tname": "BRT",
-    "tc": "ffffff",
-    "tbc": "050505",
-    "tbd": "ff8100"
-  },
-  {
-    "category": "C",
-    "events": 2,
-    "points": 90,
+    "events": 8,
+    "points": 307,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -22,7 +12,7 @@
   {
     "category": "B",
     "events": 5,
-    "points": 101,
+    "points": 106,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +21,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 58,
+    "events": 1,
+    "points": 33,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -70,14 +60,14 @@
     "tbd": "ffffff"
   },
   {
-    "category": "A",
+    "category": "B",
     "events": 1,
-    "points": 50,
-    "tid": 398,
-    "tname": "Ilkley CC",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
+    "points": 15,
+    "tid": 975,
+    "tname": "Innovation",
+    "tc": "000000",
+    "tbc": "52ff33",
+    "tbd": "000000"
   },
   {
     "category": "B",
@@ -88,26 +78,6 @@
     "tc": "ffffff",
     "tbc": "00a65a",
     "tbd": "0adb2c"
-  },
-  {
-    "category": "C",
-    "events": 1,
-    "points": 19,
-    "tid": 1942,
-    "tname": "ZRG",
-    "tc": "1bc1f1",
-    "tbc": "5b5b5b",
-    "tbd": "1bc1f1"
-  },
-  {
-    "category": "C",
-    "events": 1,
-    "points": 20,
-    "tid": 1986,
-    "tname": "DBR",
-    "tc": "ffffff",
-    "tbc": "eb7b2a",
-    "tbd": "ffffff"
   },
   {
     "category": "A",
@@ -121,8 +91,8 @@
   },
   {
     "category": "B",
-    "events": 7,
-    "points": 298,
+    "events": 6,
+    "points": 248,
     "tid": 2281,
     "tname": "TeamNL",
     "tc": "ffffff",
@@ -148,6 +118,16 @@
     "tc": "ffffff",
     "tbc": "2b5bb8",
     "tbd": "2fba4e"
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 90,
+    "tid": 2639,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d"
   },
   {
     "category": "C",
@@ -321,8 +301,8 @@
   },
   {
     "category": "A",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 9976,
     "tname": "Valhalla",
     "tc": "ffffff",
@@ -408,36 +388,6 @@
     "tc": "ffffff",
     "tbc": "000000",
     "tbd": "000000"
-  },
-  {
-    "category": "C",
-    "events": 1,
-    "points": 40,
-    "tid": 15041,
-    "tname": "BAEK",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
-  },
-  {
-    "category": "B",
-    "events": 1,
-    "points": 28,
-    "tid": 15041,
-    "tname": "BAEK",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
-  },
-  {
-    "category": "B",
-    "events": 1,
-    "points": 33,
-    "tid": 15253,
-    "tname": "TriTech ZTR",
-    "tc": "ffffff",
-    "tbc": "0073b7",
-    "tbd": "ffffff"
   },
   {
     "category": "B",
