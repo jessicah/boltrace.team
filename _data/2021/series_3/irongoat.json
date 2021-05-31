@@ -142,6 +142,20 @@
   {
     "category": "A",
     "events": 1,
+    "points": 50,
+    "tname": "",
+    "tc": "",
+    "tbc": "",
+    "tbd": "",
+    "name": "Sean Harrison(c)",
+    "flag": "us",
+    "zwid": 214656,
+    "podiums": "gold",
+    "upgrades": 0
+  },
+  {
+    "category": "A",
+    "events": 1,
     "points": 33,
     "tname": "STAR Cycling",
     "tc": "ffffff",
