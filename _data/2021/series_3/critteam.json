@@ -22,7 +22,7 @@
   {
     "category": "B",
     "events": 5,
-    "points": 106,
+    "points": 105,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -42,7 +42,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 18,
+    "points": 17,
     "tid": 7,
     "tname": "TeamODZ",
     "tc": "ff851b",
@@ -52,7 +52,7 @@
   {
     "category": "B",
     "events": 7,
-    "points": 161,
+    "points": 160,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
@@ -582,7 +582,7 @@
   {
     "category": "B",
     "events": 1,
-    "points": 9,
+    "points": 8,
     "tid": 10372,
     "tname": "Tri NZ",
     "tc": "0f0101",
@@ -642,7 +642,7 @@
   {
     "category": "B",
     "events": 7,
-    "points": 131,
+    "points": 130,
     "tid": 12303,
     "tname": "BCC Dynamite",
     "tc": "ffffff",
