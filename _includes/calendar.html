@@ -1,0 +1,19 @@
+<table>
+	<thead>
+		<tr>
+			<th>Course</th><th>Laps</th><th>Race 1</th><th>Race 2</th><th>Race 3</th>
+		</tr>
+	</thead>
+<tbody>
+	{% for item in include.data %}
+	<tr class='{% cycle "first": "even", "odd" %}'>
+		<td rowspan='2'>{{ item.course }}</td>
+		<td rowspan='2'>{{ item.laps }}</td>
+		<td colspan='3' style='text-align:center'>{{ item.date }}</td>
+	</tr>
+	<tr class='{% cycle "second": "even", "odd" %}'>
+		<td>{{ item.race1 }} UTC</td><td>{{ item.race2 }} UTC</td><td>{{ item.race3 }} UTC</td>
+	</tr>
+	{% endfor %}
+</tbody>
+</table>
