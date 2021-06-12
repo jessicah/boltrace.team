@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "category": "D",
+    "events": 3,
+    "points": 101,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 3,
+    "points": 83,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "A",
+    "events": 2,
+    "points": 90,
+    "tid": 4,
+    "tname": "BRT",
+    "tc": "ffffff",
+    "tbc": "050505",
+    "tbd": "ff8100"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 20,
+    "tid": 25,
+    "tname": "Team Poland",
+    "tc": "ffffff",
+    "tbc": "ff1800",
+    "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 161,
+    "tname": "ZSUN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 25,
+    "tid": 527,
+    "tname": "Egencia",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 629,
+    "tname": "Team AHDR",
+    "tc": "fc6955",
+    "tbc": "55d4fc",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 2639,
+    "tname": "HERD",
+    "tc": "383c3d",
+    "tbc": "fc6719",
+    "tbd": "383c3d"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 2672,
+    "tname": "REVO",
+    "tc": "fc00e3",
+    "tbc": "000000",
+    "tbd": "fc00e3"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 33,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 28,
+    "tid": 4095,
+    "tname": "All",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 33,
+    "tid": 4201,
+    "tname": "WTRL",
+    "tc": "d4af37",
+    "tbc": "000000",
+    "tbd": "d4af37"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 4201,
+    "tname": "WTRL",
+    "tc": "d4af37",
+    "tbc": "000000",
+    "tbd": "d4af37"
+  },
+  {
+    "category": "D",
+    "events": 2,
+    "points": 68,
+    "tid": 5604,
+    "tname": "ART",
+    "tc": "ffffff",
+    "tbc": "2e2c2c",
+    "tbd": "e33131"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 22,
+    "tid": 7218,
+    "tname": "Tunebikeworks.com",
+    "tc": "000000",
+    "tbc": "ffffff",
+    "tbd": "000000"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 25,
+    "tid": 7301,
+    "tname": "LiveByCycling",
+    "tc": "ffffff",
+    "tbc": "e10667",
+    "tbd": "ffffff"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tid": 11839,
+    "tname": "AEO",
+    "tc": "ffffff",
+    "tbc": "000080",
+    "tbd": "d548ee"
+  },
+  {
+    "category": "D",
+    "events": 3,
+    "points": 150,
+    "tid": 12916,
+    "tname": "Team RAVE",
+    "tc": "000000",
+    "tbc": "ccff00",
+    "tbd": "ff69b4"
+  },
+  {
+    "category": "C",
+    "events": 3,
+    "points": 111,
+    "tid": 12916,
+    "tname": "Team RAVE",
+    "tc": "000000",
+    "tbc": "ccff00",
+    "tbd": "ff69b4"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 50,
+    "tid": 15231,
+    "tname": "CrushPod",
+    "tc": "000000",
+    "tbc": "faff1e",
+    "tbd": "878484"
+  },
+  {
+    "category": "B",
+    "events": 1,
+    "points": 50,
+    "tid": 15231,
+    "tname": "CrushPod",
+    "tc": "000000",
+    "tbc": "faff1e",
+    "tbd": "878484"
+  },
+  {
+    "category": "C",
+    "events": 1,
+    "points": 40,
+    "tid": 15493,
+    "tname": "HKC",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
+  }
+]
