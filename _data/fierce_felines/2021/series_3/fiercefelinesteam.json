@@ -1,8 +1,8 @@
 [
   {
     "category": "D",
-    "events": 3,
-    "points": 101,
+    "events": 6,
+    "points": 190,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -11,8 +11,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 83,
+    "events": 6,
+    "points": 176,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -21,8 +21,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 50,
+    "events": 3,
+    "points": 123,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -31,8 +31,8 @@
   },
   {
     "category": "A",
-    "events": 2,
-    "points": 90,
+    "events": 4,
+    "points": 163,
     "tid": 4,
     "tname": "BRT",
     "tc": "ffffff",
@@ -42,12 +42,32 @@
   {
     "category": "C",
     "events": 1,
-    "points": 20,
+    "points": 40,
+    "tid": 7,
+    "tname": "TeamODZ",
+    "tc": "ff851b",
+    "tbc": "111111",
+    "tbd": "3c8dbc"
+  },
+  {
+    "category": "C",
+    "events": 2,
+    "points": 48,
     "tid": 25,
     "tname": "Team Poland",
     "tc": "ffffff",
     "tbc": "ff1800",
     "tbd": "ff0000"
+  },
+  {
+    "category": "A",
+    "events": 1,
+    "points": 50,
+    "tid": 60,
+    "tname": "TBR Racing",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "A",
@@ -91,13 +111,23 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 40,
+    "events": 2,
+    "points": 90,
     "tid": 2672,
     "tname": "REVO",
     "tc": "fc00e3",
     "tbc": "000000",
     "tbd": "fc00e3"
+  },
+  {
+    "category": "D",
+    "events": 1,
+    "points": 40,
+    "tid": 2740,
+    "tname": "Team CRYO-GEN",
+    "tc": "ffffff",
+    "tbc": "0073b7",
+    "tbd": "ffffff"
   },
   {
     "category": "C",
@@ -141,8 +171,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 4201,
     "tname": "WTRL",
     "tc": "d4af37",
@@ -151,8 +181,8 @@
   },
   {
     "category": "D",
-    "events": 2,
-    "points": 68,
+    "events": 3,
+    "points": 108,
     "tid": 5604,
     "tname": "ART",
     "tc": "ffffff",
@@ -180,6 +210,16 @@
     "tbd": "ffffff"
   },
   {
+    "category": "B",
+    "events": 1,
+    "points": 40,
+    "tid": 7739,
+    "tname": "\u0026#129412; Socks4Watts \u0026#129412;",
+    "tc": "ffffff",
+    "tbc": "32c8ff",
+    "tbd": "ff3b6d"
+  },
+  {
     "category": "D",
     "events": 1,
     "points": 40,
@@ -191,8 +231,8 @@
   },
   {
     "category": "D",
-    "events": 3,
-    "points": 150,
+    "events": 6,
+    "points": 300,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -201,8 +241,8 @@
   },
   {
     "category": "C",
-    "events": 3,
-    "points": 111,
+    "events": 6,
+    "points": 227,
     "tid": 12916,
     "tname": "Team RAVE",
     "tc": "000000",
@@ -211,8 +251,8 @@
   },
   {
     "category": "C",
-    "events": 1,
-    "points": 50,
+    "events": 4,
+    "points": 173,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
@@ -221,8 +261,8 @@
   },
   {
     "category": "B",
-    "events": 1,
-    "points": 50,
+    "events": 2,
+    "points": 100,
     "tid": 15231,
     "tname": "CrushPod",
     "tc": "000000",
